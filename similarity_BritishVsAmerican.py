@@ -83,8 +83,8 @@ for f in inputFiles:
         empty += 1
         continue 
 
-      print(inWords)
-      print("output: ",outWords)
+      # print(inWords)
+      # print("output: ",outWords)
 
       w, c = compare(inWords, outWords)
       if c > 0:
