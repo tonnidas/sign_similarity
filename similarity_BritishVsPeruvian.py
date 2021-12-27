@@ -16,6 +16,7 @@ def get_words_srt(fileName):
   
   return w
 
+# To get words' list from .vtt file
 def get_words_vtt(fileName):
   w = []
   lines = []
