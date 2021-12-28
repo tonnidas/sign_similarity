@@ -13,9 +13,9 @@ with the "Temporal segmentation of sign language videos" [model](https://github.
 
 ## Data & Models/algorithms
 
-```
-The main datasets and all their pre-processing models are in the folder named "dataset".
-```
+
+The main datasets, processed datasets and all their pre-processing models are in the folder named `dataset`. Inside the dataset folder, for Peruvian sign language there are two datasets: `datasets/ira_alegira` & `datasets/proteinas_porcentajes` and for American sign language, there is one dataset: `datasets/how2sign`.
+
 
 ### Data
 
