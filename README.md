@@ -14,11 +14,14 @@ with the "Temporal segmentation of sign language videos" [model](https://github.
 ## Data & Models/algorithms
 
 ```
-Data: 
-
+The main datasets and all their pre-processing models are in the folder named "dataset".
 ```
 
+### Data
+
+
 ### Models
+There are models for pre-processing the dataset. The raw peruvian and American sign languages are the input dataset. It is in the folder named `how2sign`
 
 ## Results
 - **British sign language and Peruvian sign language**: We processed two datasets namely ira_alegria and proteinas_porcentajes. We identified in how many files/lines, there is at-least one match. The input files are the srt files we processed from ira_alegria and proteinas_porcentajes datasets and the output files are the vtt files that we collected by running corresponding video files of these srt files in the "Temporal segmentation of sign language videos" [model](https://github.com/tonnidas/sign-segmentation). These input srt files and output vtt files has a number of words for signs in that line/sentence/video file. Than we identified for how many input files, there is at-least one word match in the output file. For ira_alegria and proteinas_porcentajes, we found approximately **30%** and **16%**.
