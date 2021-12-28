@@ -18,10 +18,22 @@ The main datasets, processed datasets and all their pre-processing models are in
 
 
 ### Data
+- `ira_alegria:` 
+    1. `processed ira_alegria`: It has `srt`, `videos`, `vtt` folders holding the input segmented signs, input videos, output segmented signs accordingly. 
+    2. `raw ira_alegria`: It has `srt`, `videos` folders holding the signs with temporal boundaries, input videos accordingly.
+    3. `process_ira.py:` This is the model we implemented to process the raw  dataset.
 
+- `proteinas_porcentajes:` 
+    1. `processed proteinas_porcentajes`: It has `srt`, `videos`, `vtt` folders holding the input segmented signs, input videos, output segmented signs accordingly. 
+    2. `raw proteinas_porcentajes`: It has `srt`, `videos` folders holding the signs with temporal boundaries, input videos accordingly.
+    3. `process_proteinas.py:` This is the model we implemented to process the raw  dataset.
+- `how2sign:` 
+    1. `processed how2sign`: It has `srt`, `videos`, `vtt` folders holding the input segmented signs, input videos, output segmented signs accordingly. 
+    2. `raw how2sign`: It has `srt`, `videos` folders holding the signs with temporal boundaries, input videos accordingly.
+    3. `process_how2sign.py:` This is the model we implemented to process the raw  dataset.
 
 ### Models
-There are models for pre-processing the dataset. The raw peruvian and American sign languages are the input dataset. It is in the folder named `how2sign`
+The models for pre-processing the datasets are attached in the `datasets folder`. 
 
 ## Results
 - **British sign language and Peruvian sign language**: We processed two datasets namely ira_alegria and proteinas_porcentajes. We identified in how many files/lines, there is at-least one match. The input files are the srt files we processed from ira_alegria and proteinas_porcentajes datasets and the output files are the vtt files that we collected by running corresponding video files of these srt files in the "Temporal segmentation of sign language videos" [model](https://github.com/tonnidas/sign-segmentation). These input srt files and output vtt files has a number of words for signs in that line/sentence/video file. Than we identified for how many input files, there is at-least one word match in the output file. For ira_alegria and proteinas_porcentajes, we found approximately **30%** and **16%**.
