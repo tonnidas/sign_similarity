@@ -7,7 +7,7 @@ This repository checks for similarity between
 with the "Temporal segmentation of sign language videos" [model](https://github.com/tonnidas/sign-segmentation) that is pre-trained in British sign language (BSL).
 
 ## Contents
-![picture](contant.png)
+![picture](contents.png)
 
 ## Setups
 All set up instructions for "Temporal segmentation of sign language videos" can be found [here](https://github.com/tonnidas/sign-segmentation). The other pre-processing models are python files. 
