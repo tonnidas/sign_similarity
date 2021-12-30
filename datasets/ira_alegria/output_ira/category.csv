@@ -1,0 +1,300 @@
+	word	category	matched
+0	hello	NN	0
+1	beautiful	NN	0
+2	morning	NN	0
+3	me	PRP	0
+4	P-A-T-R-I-C-I-A	NN	0
+5	welcome	NN	0
+6	qualification	NN	0
+7	learn	NN	1
+8	within	IN	0
+9	home	NN	0
+10	idea	NN	0
+11	ministry	NN	0
+12	education	NN	0
+13	continue	NN	1
+14	to find out	TO	0
+15	world	NN	0
+16	to sense	TO	0
+17	good	JJ	1
+18	safe	JJ	0
+19	here	RB	0
+20	place	NN	0
+21	safe	JJ	0
+22	primary	NN	0
+23	fifth	NN	0
+24	sixth	NNS	0
+25	you guys	PRP	0
+26	to come	TO	0
+27	dad	NN	0
+28	mother	NN	0
+29	to come	TO	0
+30	grandfather	NN	0
+31	to come	TO	0
+32	brothers	NNS	0
+33	who	WP	0
+34	any	DT	0
+35	learn	NN	1
+36	together	RB	0
+37	Yes	UH	0
+38	to sense	TO	0
+39	good	JJ	0
+40	week	NN	0
+41	before	IN	0
+42	explain	NN	0
+43	emotion	NN	0
+44	excuse me	IN	0
+45	emotion	NN	0
+46	show	NN	0
+47	plus	CC	0
+48	puberty	NN	0
+49	weather	NN	0
+50	change	NN	0
+51	body	NN	1
+52	P-U-B-E-R-T-A-D	NN	0
+53	to sense	TO	0
+54	emotion	NN	1
+55	within	IN	0
+56	when	WRB	0
+57	ten	NNS	0
+58	until	IN	0
+59	candy	NN	0
+60	age	NN	0
+61	about	IN	0
+62	remind	NN	0
+63	your	PRP$	0
+64	now	RB	0
+65	us	PRP	0
+66	to accept	TO	0
+67	body	NN	1
+68	to select	TO	0
+69	search for	NN	0
+70	that	IN	0
+71	emotion	NN	0
+72	put	NN	1
+73	Name	NN	0
+74	now	RB	0
+75	to ask	TO	0
+76	Yes	UH	0
+77	can	MD	0
+78	handle	NN	1
+79	Yes	UH	0
+80	to sense	TO	0
+81	emotion	NN	1
+82	NN N	NNP	0
+83	Yes	UH	0
+84	can	MD	1
+85	excuse me	IN	0
+86	handle	NN	0
+87	NN N	NNP	0
+88	when	WRB	0
+89	to sense	TO	0
+90	excuse me	IN	0
+91	weather	NN	0
+92	hard	JJ	0
+93	emotion	NN	1
+94	around	IN	0
+95	good	JJ	1
+96	your	PRP$	0
+97	to think	TO	0
+98	play	NN	1
+99	anger	NN	0
+100	brother	NN	0
+101	there	RB	0
+102	anger	NN	0
+103	there	RB	0
+104	first	RB	0
+105	friend	NN	0
+106	NN N	NNP	0
+107	anger	NN	0
+108	no	DT	1
+109	comply	NN	0
+110	rule	NN	0
+111	no	DT	1
+112	agreement	NN	0
+113	me	PRP	0
+114	before	IN	0
+115	play	NN	1
+116	brother	NN	0
+117	there	RB	0
+118	to win	TO	0
+119	me	PRP	0
+120	mourn	NN	0
+121	me	PRP	0
+122	shout out	NN	0
+123	me	PRP	0
+124	anger	NN	0
+125	me	PRP	0
+126	why	WRB	1
+127	miss	NN	1
+128	me	PRP	0
+129	let	VB	0
+130	play	NN	1
+131	let	VB	0
+132	be quiet	VB	0
+133	NN N	NNP	0
+134	day	NN	0
+135	me	PRP	0
+136	growing up	VBG	0
+137	understand	NN	0
+138	tell	NN	0
+139	mother	NN	0
+140	me	PRP	0
+141	understand	NN	0
+142	miss	NN	0
+143	emotion	NN	1
+144	control	NN	1
+145	emotion	NN	1
+146	reason	NN	0
+147	need	NN	0
+148	that	IN	0
+149	Meter	NN	0
+150	brother	NN	0
+151	there	RB	0
+152	me	PRP	0
+153	patience	NN	0
+154	mother	NN	0
+155	Yes	UH	0
+156	NN N	NNP	0
+157	Yes	UH	0
+158	patience	NN	0
+159	Yes	UH	0
+160	move along	NN	0
+161	relationship	NN	1
+162	link	NN	1
+163	relationship	NN	1
+164	me	PRP	0
+165	impatient	NN	0
+166	less	RBR	0
+167	better	RBR	1
+168	Union	NNP	0
+169	brother	NN	0
+170	now	RB	0
+171	friend	NN	0
+172	your	PRP$	0
+173	NN N	NNP	0
+174	good	JJ	1
+175	learn	NN	0
+176	control	NN	0
+177	anger	NN	0
+178	control	NN	0
+179	NN N	NNP	0
+180	week	NN	0
+181	us	PRP	0
+182	same.	JJ	0
+183	us	PRP	0
+184	to have	TO	0
+185	to accept	TO	0
+186	me	PRP	0
+187	to sense	TO	0
+188	emotion	NN	1
+189	to think	TO	0
+190	that	IN	0
+191	do	VB	0
+192	control	NN	1
+193	me	PRP	0
+194	Yes	UH	0
+195	learn	NN	1
+196	NN N	NNP	0
+197	NN N	NNP	0
+198	normal	JJ	0
+199	positive	JJ	0
+200	Yes	UH	0
+201	too	RB	0
+202	ir	NN	0
+203	environment	NN	0
+204	family	NN	0
+205	your	PRP$	0
+206	remind	NN	0
+207	your	PRP$	0
+208	objective	NN	0
+209	NN N	NNP	0
+210	NN N	NNP	0
+211	draw	NN	0
+212	history	NN	0
+213	own	JJ	0
+214	to use	TO	0
+215	that	IN	0
+216	following	VBG	1
+217	learn	NN	0
+218	today	NN	0
+219	start	NN	0
+220	objective	NN	0
+221	today	NN	0
+222	to select	TO	0
+223	excuse me	IN	0
+224	NN N	NNP	0
+225	sort out	NN	0
+226	NN N	NNP	0
+227	trouble	NN	0
+228	Yes	UH	0
+229	environment	NN	0
+230	good	JJ	1
+231	there	RB	0
+232	who	WP	0
+233	Thank you	NN	0
+234	P-A-T-I	NN	0
+235	me	PRP	0
+236	A-N-D-R-E-A	JJ	0
+237	me	PRP	0
+238	Contenta.	NNP	0
+239	you guys	PRP	0
+240	Yes	UH	0
+241	good	JJ	1
+242	Yes	UH	1
+243	now	RB	0
+244	good	JJ	1
+245	coexistence	NN	0
+246	now	RB	0
+247	remind	NN	0
+248	before	IN	0
+249	emotion	NN	0
+250	emotion	NN	1
+251	Yes	UH	0
+252	teacher	NN	0
+253	Yes	UH	0
+254	joy	NN	0
+255	grandfather	NN	0
+256	home	NN	1
+257	to want	TO	0
+258	grandfather	NN	0
+259	intelligent	NN	1
+260	one	CD	1
+261	day	NN	0
+262	grandfather	NN	0
+263	dad	NN	0
+264	mother	NN	1
+265	tell	NN	0
+266	grandfather	NN	0
+267	bedroom	NN	0
+268	to sleep	TO	0
+269	M-A-R-C-O	NN	0
+270	bedroom	NN	0
+271	A-L-E-X	JJ	0
+272	different	JJ	0
+273	emotion	NN	0
+274	each	DT	0
+275	watch	NN	0
+276	M-A-R-C-O	NN	0
+277	happy	JJ	0
+278	watch	NN	0
+279	A-L-E-X	JJ	0
+280	anger	NN	0
+281	Yes	UH	0
+282	good	JJ	0
+283	identify	VB	0
+284	From	IN	0
+285	emotion	NN	1
+286	learn	NN	0
+287	before	IN	1
+288	joy	NN	0
+289	go to	VB	0
+290	emotion	NN	0
+291	remember	VB	0
+292	your	PRP$	0
+293	joy	NN	0
+294	go to	VB	0
+295	sadness	NN	0
+296	afraid	NN	0
+297	disgust	NN	0
+298	surprise	NN	1

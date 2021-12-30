@@ -1,0 +1,966 @@
+	word	category	matched
+0	good	JJ	1
+1	day	NN	0
+2	kids	NNS	0
+3	fifth	NN	0
+4	grade	NN	0
+5	sixth	NNS	0
+6	grade	NN	0
+7	primary	NN	0
+8	Meter	NN	0
+9	Name	NN	0
+10	P-A-T-R-I-C-I-A	NN	0
+11	excuse me	IN	0
+12	to be	TO	0
+13	today	NN	0
+14	excuse me	IN	0
+15	me	PRP	0
+16	to sense	TO	0
+17	happy	JJ	0
+18	good	JJ	1
+19	Pass / Invite.	NNP	0
+20	learn	NN	0
+21	home	NN	0
+22	that	IN	0
+23	idea	NN	0
+24	that	IN	0
+25	ministry	NN	0
+26	educate	NN	0
+27	you guys	PRP	0
+28	continue	NN	0
+29	learn	NN	0
+30	picture	NN	0
+31	home	NN	0
+32	Ah	NN	0
+33	Ready	JJ	1
+34	start	NN	0
+35	get together	VB	0
+36	learn	NN	0
+37	Ah	NN	0
+38	perfect	NN	0
+39	warn	NN	0
+40	first	RB	0
+41	brother	NN	0
+42	brother	NN	0
+43	dad	NN	0
+44	mother	NN	0
+45	everybody	NN	0
+46	your	PRP$	0
+47	family	NN	0
+48	to call	TO	0
+49	together	RB	0
+50	Union	NNP	0
+51	watch	NN	0
+52	now	RB	0
+53	no	DT	0
+54	forget	NN	0
+55	your	PRP$	0
+56	to come	TO	0
+57	notebook	NN	0
+58	to write	TO	0
+59	NN N	NNP	0
+60	everything	NN	0
+61	questions	NNS	0
+62	to write	TO	0
+63	to think	TO	0
+64	to write	TO	0
+65	It is	PRP	0
+66	week	NN	0
+67	me	PRP	0
+68	to think	TO	0
+69	try	NN	0
+70	but	CC	0
+71	your	PRP$	0
+72	eat	NN	0
+73	different	JJ	0
+74	your	PRP$	0
+75	within	IN	0
+76	happy	JJ	0
+77	family	NN	0
+78	well	RB	1
+79	Ah	NN	0
+80	know	VB	0
+81	your	PRP$	0
+82	do	VB	0
+83	before	IN	0
+84	know	VB	0
+85	different	JJ	0
+86	way	NN	0
+87	eat	NN	0
+88	save	VB	0
+89	continue	NN	0
+90	before	IN	0
+91	to use	TO	0
+92	Inca	NN	0
+93	before	IN	0
+94	save	VB	0
+95	Conserve / Preserve	NNP	0
+96	Water	NN	0
+97	take	VB	0
+98	save	VB	0
+99	meat	NN	0
+100	C H A	NNP	0
+101	that	IN	0
+102	tell	NN	0
+103	NN N	NNP	0
+104	Group	NNP	0
+105	Group	NNP	0
+106	save	VB	0
+107	continue	NN	0
+108	Please	VB	0
+109	change	NN	0
+110	temperature	NN	0
+111	that	IN	0
+112	meat	NN	0
+113	shall	MD	0
+114	interesting	VBG	0
+115	too	RB	0
+116	Ah	NN	0
+117	know	VB	0
+118	to sprout	TO	0
+119	sow	NN	0
+120	plant	NN	0
+121	growing up	VBG	0
+122	that	IN	0
+123	to think	TO	0
+124	eat	NN	0
+125	too	RB	0
+126	Ah	NN	0
+127	your	PRP$	0
+128	today	NN	0
+129	watch	NN	0
+130	TV	NN	0
+131	there	RB	1
+132	what?	WP	0
+133	beans	NNS	0
+134	plant	NN	0
+135	Seed / pollen	NNP	0
+136	to plant.	TO	0
+137	to sprout	TO	0
+138	Sprout plant.	NN	0
+139	that	IN	0
+140	great	JJ	1
+141	change	NN	0
+142	new	JJ	1
+143	plant	NN	0
+144	that	IN	0
+145	eat	NN	0
+146	your	PRP$	0
+147	eat	NN	0
+148	good	JJ	1
+149	eat	NN	0
+150	to sense	TO	0
+151	inside	IN	0
+152	good	JJ	1
+153	strong	JJ	0
+154	strong	JJ	0
+155	your	PRP$	0
+156	any	DT	0
+157	home	NN	0
+158	floor	NN	0
+159	do	VB	1
+160	plant	NN	0
+161	your	PRP$	0
+162	do	VB	1
+163	can	MD	0
+164	help	NN	0
+165	eat	NN	0
+166	family	NN	0
+167	no	DT	0
+168	worry	NN	0
+169	your	PRP$	0
+170	remind	NN	0
+171	process	NN	0
+172	excuse me	IN	0
+173	do	VB	0
+174	plant	NN	0
+175	first	RB	0
+176	beans	NNS	0
+177	your	PRP$	0
+178	Water	NN	0
+179	meter	NN	0
+180	cover	NN	0
+181	cover	NN	0
+182	to tie	TO	0
+183	too	RB	0
+184	uncover	NN	0
+185	Water	NN	0
+186	throw	NN	0
+187	Water	NN	0
+188	flow	NN	0
+189	later	RB	0
+190	here	RB	0
+191	Water	NN	0
+192	leave a bottle	VB	0
+193	frequently	RB	0
+194	approximately	RB	0
+195	four	CD	0
+196	O	NN	0
+197	five	CD	0
+198	day	NN	0
+199	to open	TO	0
+200	flip	NN	0
+201	put	NN	0
+202	put	NN	0
+203	Water	NN	0
+204	spray	NN	0
+205	to tie	TO	0
+206	put	NN	0
+207	next	JJ	0
+208	next two	JJ	0
+209	next three	JJ	0
+210	next four	JJ	0
+211	next five	JJ	0
+212	days	NNS	0
+213	that	IN	0
+214	to think	TO	0
+215	that	IN	0
+216	plant	NN	0
+217	beans	NNS	0
+218	plant	NN	0
+219	meat	NN	0
+220	that	IN	0
+221	preserved	VBN	0
+222	dried	VBN	0
+223	dried	VBN	0
+224	he	PRP	0
+225	tell	NN	0
+226	Please	VB	0
+227	to be	TO	0
+228	healthy	JJ	0
+229	Yes?	UH	0
+230	your	PRP$	0
+231	excuse me	IN	0
+232	eat	NN	0
+233	Health	NNP	0
+234	healthy?	JJ	0
+235	your	PRP$	0
+236	to think	TO	0
+237	questions	NNS	0
+238	that	IN	0
+239	eat	NN	0
+240	Health	NNP	0
+241	strong	JJ	0
+242	within	IN	0
+243	strong	JJ	0
+244	your	PRP$	0
+245	community	NN	0
+246	know	VB	0
+247	stuff	NN	0
+248	your	PRP$	0
+249	eat	NN	0
+250	no	DT	0
+251	times	NNS	0
+252	which	WDT	0
+253	he	PRP	0
+254	tell	NN	0
+255	try	NN	0
+256	easy	JJ	1
+257	to have	TO	0
+258	show	NN	0
+259	several	JJ	0
+260	me	PRP	0
+261	he	PRP	0
+262	draw	NN	0
+263	he	PRP	0
+264	your	PRP$	0
+265	watch	NN	0
+266	meal	NN	0
+267	your	PRP$	0
+268	tell	NN	0
+269	eat	NN	0
+270	good	JJ	1
+271	good	JJ	1
+272	Health	NNP	0
+273	O	NN	0
+274	times	NNS	0
+275	that	IN	0
+276	me	PRP	0
+277	tell	NN	0
+278	your	PRP$	0
+279	Yes	UH	0
+280	watch	NN	0
+281	he	PRP	0
+282	Yes	UH	0
+283	Yes	UH	0
+284	Yes	UH	0
+285	Yes	UH	0
+286	he	PRP	0
+287	eat	NN	0
+288	times	NNS	0
+289	good	JJ	0
+290	no	DT	0
+291	he	PRP	0
+292	Yes	UH	0
+293	Yes	UH	0
+294	eat	NN	0
+295	good	JJ	0
+296	he	PRP	0
+297	he	PRP	0
+298	no	DT	0
+299	eat	NN	0
+300	times	NNS	0
+301	times	NNS	0
+302	times	NNS	0
+303	he	PRP	0
+304	eat	NN	0
+305	that	IN	0
+306	attention	NN	0
+307	Yes	UH	0
+308	Yes	UH	0
+309	Yes	UH	0
+310	eat	NN	0
+311	strong	JJ	0
+312	he	PRP	0
+313	eat	NN	0
+314	eat	NN	0
+315	strong	JJ	0
+316	Yes	UH	0
+317	your	PRP$	0
+318	try	NN	0
+319	easy	JJ	0
+320	easy	JJ	0
+321	everything	NN	0
+322	tell	NN	0
+323	your	PRP$	0
+324	eat	NN	0
+325	NN N	NNP	0
+326	Quinoa.	NNP	0
+327	meat	NN	0
+328	everything	NN	0
+329	vitamins	NNS	0
+330	good	JJ	1
+331	here	RB	0
+332	soda	NN	0
+333	potato chips	NN	0
+334	no	DT	1
+335	times	NNS	0
+336	eat	NN	0
+337	times	NNS	0
+338	good	JJ	0
+339	your	PRP$	0
+340	to think	TO	0
+341	your	PRP$	0
+342	easy	JJ	0
+343	to be	TO	0
+344	food	NN	0
+345	that	IN	0
+346	Health	NNP	0
+347	when	WRB	0
+348	that	IN	0
+349	natural / normally / how it used to be	JJ	0
+350	tell	NN	0
+351	Ah	NN	0
+352	process	NN	0
+353	that	IN	0
+354	Group	NNP	0
+355	cheese	NN	0
+356	eat	NN	1
+357	continue	NN	0
+358	that	IN	0
+359	eat	NN	1
+360	Yes	UH	0
+361	inside / ingest	IN	0
+362	strong	JJ	0
+363	strong	JJ	0
+364	strong	JJ	0
+365	then	RB	0
+366	tell	NN	0
+367	vitamins	NNS	0
+368	M I N E R A L E S	NNP	0
+369	fat	NN	0
+370	within	IN	0
+371	Protein	NN	0
+372	within	IN	0
+373	strong	JJ	0
+374	food	NN	0
+375	good	JJ	1
+376	to give you	TO	0
+377	but	CC	0
+378	your	PRP$	0
+379	to think	TO	0
+380	excuse me	IN	0
+381	that	IN	0
+382	good	JJ	1
+383	eat	NN	0
+384	good	JJ	1
+385	benefit	NN	0
+386	that	IN	0
+387	no	DT	1
+388	excuse me	IN	0
+389	know	VB	0
+390	which	WDT	0
+391	your	PRP$	0
+392	excuse me	IN	0
+393	inside / Add ??	IN	0
+394	protein	NN	0
+395	include	NN	0
+396	then	RB	0
+397	fat	NN	0
+398	vitamin	NN	0
+399	M I N E R A L E S	NNP	0
+400	Water	NN	0
+401	include	NN	0
+402	good	JJ	1
+403	daily	JJ	0
+404	how many	WRB	0
+405	Maximum / approximate	NNP	0
+406	how many	WRB	0
+407	to think	TO	0
+408	your	PRP$	0
+409	eat	NN	0
+410	eat	NN	0
+411	he	PRP	0
+412	benefit	NN	0
+413	eat	NN	0
+414	increase	NN	0
+415	eat	NN	0
+416	how many	WRB	0
+417	good	JJ	1
+418	that	IN	0
+419	your	PRP$	0
+420	Yes	UH	0
+421	how many	WRB	0
+422	portion	NN	0
+423	eat	NN	0
+424	meat	NN	0
+425	Dad	NN	0
+426	portion	NN	0
+427	eat	NN	0
+428	excuse me	IN	0
+429	swing	VBG	0
+430	eat	NN	0
+431	example	NN	0
+432	Meter	NN	0
+433	like	IN	0
+434	tell	NN	0
+435	beans	NNS	0
+436	plant	NN	0
+437	salad	NN	0
+438	eat	NN	0
+439	me	PRP	0
+440	like	IN	0
+441	but	CC	0
+442	but	CC	0
+443	how many	WRB	0
+444	eat	NN	0
+445	how many	WRB	0
+446	body	NN	1
+447	amount	NN	0
+448	how many	WRB	0
+449	your	PRP$	0
+450	to think	TO	0
+451	your	PRP$	0
+452	eat	NN	0
+453	like	IN	1
+454	different	JJ	0
+455	your	PRP$	0
+456	how many	WRB	0
+457	within	IN	0
+458	to sense	TO	0
+459	strong	JJ	0
+460	how many	WRB	0
+461	to think	TO	0
+462	no	DT	0
+463	now	RB	0
+464	me	PRP	0
+465	think / know?	VB	0
+466	learn?	NN	0
+467	It is	PRP	0
+468	how many	WRB	0
+469	value	NN	0
+470	eat	NN	0
+471	different	JJ	0
+472	tell	NN	0
+473	levels	NNS	0
+474	need	NN	1
+475	eat	NN	0
+476	body	NN	0
+477	eat	NN	0
+478	later	RB	0
+479	daily	JJ	0
+480	then	RB	0
+481	your	PRP$	0
+482	report	NN	0
+483	how many	WRB	0
+484	eat	NN	0
+485	value	NN	0
+486	within	IN	0
+487	strong	JJ	0
+488	your	PRP$	0
+489	eat	NN	0
+490	qu ??	NN	0
+491	percentage	NN	0
+492	forever	RB	0
+493	Nn	NN	0
+494	watch	NN	0
+495	percentage	NN	0
+496	but	CC	0
+497	who	WP	0
+498	teach me	VB	0
+499	who	WP	0
+500	he	PRP	0
+501	teacher	NN	0
+502	Welcome	VB	0
+503	C E S Y	NNP	0
+504	she	PRP	0
+505	teach me	VB	0
+506	excuse me	IN	0
+507	percentage	NN	0
+508	hello	NN	0
+509	hello	NN	0
+510	kids	NNS	1
+511	everything	NN	0
+512	Peru	NN	0
+513	hello	NN	0
+514	P A T R I C I A	VB	0
+515	PA T R I C I A	NNP	0
+516	happy	JJ	0
+517	together	RB	0
+518	to share	TO	0
+519	together	RB	0
+520	you guys	PRP	0
+521	today	NN	0
+522	good	JJ	1
+523	good	JJ	1
+524	he	PRP	0
+525	tell me	VB	0
+526	P A T R I C I A	VB	0
+527	she	PRP	0
+528	tell	NN	0
+529	eat	NN	0
+530	to have	TO	0
+531	protein	NN	0
+532	within	IN	0
+533	C A R B O H I D R A T O S	VB	0
+534	fat	NN	0
+535	vitamins	NNS	0
+536	M I N E R A L E S	NNP	0
+537	Water	NN	0
+538	Inside / Include?	IN	0
+539	meal	NN	0
+540	today	NN	0
+541	theme	NN	0
+542	talk	NN	0
+543	P R O T E I N A S	NNP	0
+544	that	IN	0
+545	important	JJ	0
+546	ingest	NN	0
+547	to sense	TO	0
+548	strengthen	NN	0
+549	that	IN	0
+550	P R O T E I N A	NNP	0
+551	protein	NN	0
+552	too	RB	0
+553	fat	NN	0
+554	C A R B O H I D R A T O S	VB	0
+555	that	IN	0
+556	little	JJ	0
+557	fat	NN	0
+558	Group	NNP	1
+559	them	PRP	0
+560	eat	NN	0
+561	good	JJ	0
+562	count 1	NN	0
+563	each	DT	0
+564	three	CD	0
+565	Yes	UH	0
+566	within	IN	0
+567	me	PRP	0
+568	different	JJ	0
+569	to sense	TO	0
+570	strong	JJ	0
+571	Protein	NN	0
+572	that	IN	0
+573	help me	VB	0
+574	growing up	VBG	0
+575	growing up	VBG	0
+576	ok	NN	0
+577	good	JJ	1
+578	me	PRP	0
+579	within	IN	0
+580	strength	NN	0
+581	strengthen	NN	0
+582	muscle	NN	0
+583	strong	JJ	0
+584	muscle	NN	0
+585	muscle	NN	0
+586	strong	JJ	0
+587	strong	JJ	0
+588	move	NN	1
+589	eat	NN	0
+590	to sense	TO	0
+591	plus	CC	0
+592	boost	NN	0
+593	awake	NN	0
+594	too	RB	0
+595	within	IN	0
+596	body	NN	1
+597	too	RB	0
+598	body	NN	1
+599	to think	TO	0
+600	pain	NN	0
+601	to sense	TO	0
+602	within	IN	0
+603	to sense	TO	0
+604	body	NN	1
+605	everything	NN	0
+606	information	NN	0
+607	that	IN	0
+608	need	NN	1
+609	interesting	VBG	0
+610	but	CC	0
+611	your	PRP$	0
+612	to think	TO	0
+613	to call	TO	0
+614	P A T R I C I A	VB	0
+615	she	PRP	0
+616	to come	TO	0
+617	together	RB	0
+618	your	PRP$	0
+619	how many	WRB	0
+620	together	RB	0
+621	watch	NN	0
+622	to think	TO	0
+623	that	IN	0
+624	eat	NN	0
+625	good	JJ	1
+626	within	IN	0
+627	strong	JJ	0
+628	important	JJ	0
+629	me	PRP	0
+630	here	RB	0
+631	hello	NN	0
+632	Yes	UH	0
+633	Yes	UH	0
+634	your	PRP$	0
+635	important	JJ	0
+636	participate	VB	0
+637	that	IN	0
+638	your	PRP$	0
+639	to think	TO	0
+640	to think	TO	0
+641	that	IN	0
+642	that	IN	0
+643	eat	NN	0
+644	can	MD	0
+645	your	PRP$	0
+646	within	IN	0
+647	Protein	NN	0
+648	which	WDT	0
+649	a	DT	0
+650	From	IN	0
+651	animals	NNS	0
+652	cow	NN	0
+653	eat	NN	0
+654	Yes	UH	0
+655	Protein	NN	0
+656	Yes	UH	0
+657	reason	NN	0
+658	Yes	UH	0
+659	but	CC	0
+660	alone	RB	0
+661	cow	NN	0
+662	alone	RB	0
+663	within	IN	0
+664	protein	NN	0
+665	one	CD	0
+666	no	DT	0
+667	different	JJ	0
+668	From	IN	0
+669	PriiMero	NN	0
+670	animal	NN	0
+671	second	JJ	0
+672	vegetables	NNS	0
+673	one	CD	0
+674	animals	NNS	0
+675	Protein	NN	0
+676	inside	IN	0
+677	where	WRB	0
+678	egg	NN	0
+679	milk	NN	0
+680	different	JJ	0
+681	From	IN	0
+682	meat	NN	0
+683	fish	NN	0
+684	pork	NN	0
+685	chicken	NN	0
+686	meat	NN	0
+687	cow	NN	0
+688	different	JJ	0
+689	now	RB	0
+690	your	PRP$	0
+691	within	IN	0
+692	food	NN	0
+693	Protein	NN	0
+694	that	IN	0
+695	C H A RQ Wi	NNP	0
+696	that	IN	0
+697	meat	NN	0
+698	dried	VBN	0
+699	cow	NN	0
+700	different	JJ	0
+701	animals	NNS	0
+702	how many	WRB	0
+703	protein	NN	0
+704	eat	NN	0
+705	how many	WRB	0
+706	approximate	NN	0
+707	how many	WRB	0
+708	eat	NN	0
+709	Diarifying	VBG	0
+710	your	PRP$	0
+711	eat	NN	0
+712	need	NN	1
+713	each	DT	0
+714	person	NN	0
+715	It depends	PRP	0
+716	he	PRP	0
+717	age	NN	0
+718	that	IN	0
+719	man	NN	1
+720	woman	NN	0
+721	O	NN	0
+722	adult	NN	0
+723	your	PRP$	0
+724	do	VB	0
+725	training	NN	0
+726	that	IN	0
+727	training	NN	0
+728	them	PRP	0
+729	different	JJ	0
+730	that	IN	0
+731	to ask	TO	0
+732	how many	WRB	0
+733	need	NN	1
+734	those	DT	0
+735	kids	NNS	1
+736	fifth	NN	0
+737	grade	NN	0
+738	sixth	NNS	0
+739	grade	NN	0
+740	now	RB	0
+741	your	PRP$	0
+742	look at me.	NN	0
+743	how many	WRB	0
+744	eat	NN	0
+745	how many	WRB	0
+746	approximately	RB	0
+747	them	PRP	0
+748	eat	NN	0
+749	each	DT	0
+750	kids	NNS	1
+751	different	JJ	0
+752	good	JJ	1
+753	about	IN	0
+754	to think	TO	0
+755	them	PRP	0
+756	tell	NN	0
+757	kids	NNS	1
+758	school	NN	0
+759	fifth	NN	0
+760	sixth	NNS	0
+761	primary	NN	0
+762	to think	TO	0
+763	your	PRP$	0
+764	about	IN	0
+765	value	NN	0
+766	eat	NN	0
+767	about	IN	0
+768	them	PRP	0
+769	man	NN	1
+770	woman	NN	0
+771	kid	NN	1
+772	kid	NN	1
+773	to think	TO	0
+774	them	PRP	0
+775	fifth	NN	0
+776	grade	NN	0
+777	sixth	NNS	0
+778	grade	NN	0
+779	primary	NN	0
+780	kid	NN	1
+781	kid	NN	1
+782	to think	TO	0
+783	your	PRP$	0
+784	eat	NN	0
+785	about	IN	0
+786	fifty	NN	0
+787	grams	NNS	0
+788	eat	NN	0
+789	Protein	NN	0
+790	daily	JJ	0
+791	eat	NN	0
+792	five	CD	0
+793	zero	NN	0
+794	G-R	NN	0
+795	protein	NN	0
+796	contain	NN	0
+797	no	DT	0
+798	equal	JJ	1
+799	everything	NN	0
+800	protein	NN	0
+801	no	DT	0
+802	part	NN	0
+803	C-A-R-B-O-H-I-D-R-A-T-O-S	NN	0
+804	fat	NN	0
+805	vitamin	NN	0
+806	mineral	NN	0
+807	M-I-N-E-R-A-L-E-S	NN	0
+808	Water	NN	0
+809	today	NN	0
+810	focus	NN	0
+811	break apart	VB	0
+812	contain	NN	0
+813	protein	NN	0
+814	within	IN	0
+815	meat	NN	0
+816	chicken	NN	0
+817	that	IN	0
+818	seven	CD	0
+819	zero	NN	1
+820	percentage	NN	0
+821	Water	NN	0
+822	ten	NNS	0
+823	percentage	NN	0
+824	fat	NN	0
+825	From	IN	0
+826	zero	NN	1
+827	percentage	NN	0
+828	protein	NN	0
+829	zero	NN	1
+830	percentage	NN	0
+831	C-A-R-B-O-H-I-D-R-A-T-O-S	NN	0
+832	to share	TO	0
+833	focus	NN	0
+834	protein	NN	0
+835	meat	NN	0
+836	chicken	NN	0
+837	From	IN	0
+838	zero	NN	1
+839	percentage	NN	0
+840	protein	NN	0
+841	good	JJ	0
+842	how many	WRB	0
+843	approximate	NN	0
+844	chicken	NN	0
+845	Protein	NN	0
+846	percentage	NN	0
+847	summer	NN	0
+848	one	CD	0
+849	Prices	NNS	0
+850	percentage	NN	0
+851	remind	NN	0
+852	how many	WRB	0
+853	eat	NN	0
+854	daily	JJ	0
+855	fifth	NN	0
+856	sixth	NNS	0
+857	kid	NN	1
+858	kid	NN	1
+859	five	CD	0
+860	zero	NN	0
+861	G-R	NN	0
+862	protein	NN	0
+863	how many	WRB	0
+864	weigh	NN	0
+865	eat	NN	0
+866	how many	WRB	0
+867	uman	NN	0
+868	hard	JJ	0
+869	quiet	JJ	0
+870	me	PRP	0
+871	how many	WRB	0
+872	weigh	NN	0
+873	chicken	NN	0
+874	weigh	NN	0
+875	From	IN	0
+876	Prices	NNS	0
+877	G-R	NN	0
+878	how many	WRB	0
+879	percentage	NN	0
+880	eat	NN	0
+881	your	PRP$	0
+882	chicken	NN	0
+883	how many	WRB	0
+884	percentage	NN	0
+885	From	IN	0
+886	Prices	NNS	0
+887	percentage	NN	0
+888	protein	NN	0
+889	your	PRP$	0
+890	solution	NN	0
+891	court	NN	0
+892	return	NN	0
+893	return	NN	1
+894	weather	NN	0
+895	your	PRP$	0
+896	tell	NN	0
+897	to share	TO	0
+898	your	PRP$	0
+899	to think	TO	0
+900	now	RB	0
+901	??	.	0
+902	to write	TO	0
+903	Grid	NN	0
+904	to write	TO	0
+905	colors	NNS	0
+906	too	RB	0
+907	rule	NN	0
+908	now	RB	0
+909	Go back / Reply	NNP	0
+910	your	PRP$	0
+911	adult	NN	0
+912	ask for	NN	0
+913	to come	TO	0
+914	to write	TO	0
+915	help you	NN	0
+916	annotate	NN	0
+917	notebook	NN	0
+918	Grid	NN	0
+919	pencil	NN	0
+920	colors	NNS	0
+921	rule	NN	0
+922	ask for	NN	0
+923	he	PRP	0
+924	teacher	NN	0
+925	to come	TO	0
+926	expect	VB	0
+927	Ready	JJ	0
+928	kid	NN	1
+929	bring	NN	0
+930	to think	TO	0
+931	excuse me	IN	0
+932	sort out	NN	0
+933	how many	WRB	0
+934	G-R	NN	0
+935	protein	NN	0
+936	how many	WRB	0
+937	weigh	NN	0
+938	hard	JJ	0
+939	?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????	.	0
+940	together	RB	0
+941	grid.	NN	0
+942	share	NN	0
+943	one	CD	0
+944	Prices	NNS	0
+945	one	CD	0
+946	Prices	NNS	0
+947	percentage	NN	0
+948	one	CD	0
+949	Prices	NNS	0
+950	percentage	NN	0
+951	everything	NN	0
+952	one	CD	0
+953	Prices	NNS	0
+954	percentage	NN	0
+955	me	PRP	0
+956	I ask	PRP	0
+957	how many	WRB	0
+958	percentage	NN	0
+959	how many	WRB	0
+960	one	CD	0
+961	percentage	NN	0
+962	Right	RB	0
+963	one	CD	0
+964	percentage	NN	0

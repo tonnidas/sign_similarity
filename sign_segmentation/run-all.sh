@@ -18,3 +18,9 @@ do
   echo "$entry"
   python demo/demo.py --video_path "$entry" --save_path ../datasets/how2sign/processed_how2sign/vtt --generate_vtt
 done
+
+for entry in ../datasets/how2sign2/processed_how2sign2/videos/*.mp4
+do
+  echo "$entry"
+  python demo/demo.py --video_path "$entry" --save_path ../datasets/how2sign2/processed_how2sign2/vtt --generate_vtt
+done
