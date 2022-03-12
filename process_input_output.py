@@ -119,7 +119,7 @@ for i in os.listdir('datasets/proteinas_porcentajes/processed_proteinas_porcenta
     outWords_pro = get_words_vtt(f'datasets/proteinas_porcentajes/processed_proteinas_porcentajes/vtt/{j}')
     writeToDataframe(i.removesuffix('.srt') + '.mp4', inWords_pro, outWords_pro)
 
-categories.to_csv('datasets/listOfSigns_inp-out_PSL.csv', sep=',', index=False) 
+categories.to_csv('processed_input_output/listOfSigns_inp-out_PSL.csv', sep=',', index=False) 
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ASL---------------------------------------------------------------------------------------------------------------------------------------------
@@ -146,7 +146,7 @@ for i in os.listdir('datasets/how2sign2/processed_how2sign2/srt'):
     outWords_h2 = get_words_vtt(f'datasets/how2sign2/processed_how2sign2/vtt/{j}')
     writeToDataframe(i.removesuffix('.srt') + '.mp4', inWords_h2, outWords_h2)
 
-categories.to_csv('datasets/listOfSigns_inp-out_ASL.csv', sep=',', index=False) 
+categories.to_csv('processed_input_output/listOfSigns_inp-out_ASL.csv', sep=',', index=False) 
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ISL---------------------------------------------------------------------------------------------------------------------------------------------
@@ -166,7 +166,7 @@ for i in os.listdir('datasets/ISL/processed_ISL/vtt'):
     outWords_isl = get_words_vtt(f'datasets/ISL/processed_ISL/vtt/{i}')
     writeToDataframe(i.removesuffix('_result.vtt') + '.mp4', inWords_isl, outWords_isl)
 
-categories.to_csv('datasets/listOfSigns_inp-out_ISL.csv', sep=',', index=False) 
+categories.to_csv('processed_input_output/listOfSigns_inp-out_ISL.csv', sep=',', index=False) 
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 
 # AUTSL-------------------------------------------------------------------------------------------------------------------------------------------
@@ -185,5 +185,5 @@ for i in os.listdir('datasets/AUTSL/processed_AUTSL/vtt'):
     outWords_autsl = get_words_vtt(f'datasets/AUTSL/processed_AUTSL/vtt/{i}')
     writeToDataframe(i.removesuffix('_result.vtt') + '.mp4', inWords_autsl, outWords_autsl)
 
-categories.to_csv('datasets/listOfSigns_inp-out_AUTSL.csv', sep=',', index=False) 
+categories.to_csv('processed_input_output/listOfSigns_inp-out_AUTSL.csv', sep=',', index=False) 
 # ------------------------------------------------------------------------------------------------------------------------------------------------
