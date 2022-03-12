@@ -67,17 +67,17 @@ def compare(inputWords, outputWords):
 
 # compare technique1 (nlt - lemmatizing - root of the word)
 
-# compare two lists of words  
-def compare(inputWords, outputWords):
-  count = 0
+# # compare two lists of words  
+# def compare(inputWords, outputWords):
+#   count = 0
 
-  for i in inputWords:
-    for j in outputWords:
-      if(i.lower() == j.lower()):
-        count = count + 1
-        break
+#   for i in inputWords:
+#     for j in outputWords:
+#       if(i.lower() == j.lower()):
+#         count = count + 1
+#         break
 
-  return len(inputWords), count
+#   return len(inputWords), count
 
 # compare technique2 (synonym)
 def compareSynonyms(inputWords, outputWords):

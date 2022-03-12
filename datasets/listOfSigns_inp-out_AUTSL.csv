@@ -1,0 +1,1391 @@
+videoFile,#groundTruthWords,groundTruthWords,predictedWords,Noun,Adverb,Adjective,Verb,Pointers,others
+signer0_sample145_color.mp4,1,['light'],"['AREA' 'BIG' 'BRITAIN' 'CLOTHES' 'FOREIGN' 'FUTURE' 'GO' 'MOVE'
+ 'PREGNANT']",['light'],[],[],[],[],[]
+signer0_sample378_color.mp4,1,['oven'],['ANGRY' 'CLOTHES' 'EVALUATE' 'EXPLAIN' 'OFFER' 'PLAY' 'SCALES'],[],['oven'],[],[],[],[]
+signer0_sample346_color.mp4,1,['umbrella'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'FOREIGN' 'FUTURE' 'LOW'
+ 'SPREAD' 'TALL']",['umbrella'],[],[],[],[],[]
+signer0_sample1044_color.mp4,1,['sister'],"['BAD' 'BEDROOM' 'BOY' 'BRITAIN' 'CHILD' 'DEAF' 'EASY' 'FOREIGN' 'GO'
+ 'HEAR' 'LOOK' 'LOW' 'MAYBE' 'NOTHING' 'OLD' 'PEOPLE' 'PERFECT' 'REMEMBER'
+ 'SAY' 'SCHOOL' 'SETTLE']",['sister'],[],[],[],[],[]
+signer0_sample1279_color.mp4,1,['elephant'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BEACH' 'BELFAST' 'BIG' 'BRITAIN' 'CHAIR'
+ 'SPREAD' 'UNIT']",['elephant'],[],[],[],[],[]
+signer0_sample1247_color.mp4,1,['bed'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BIG' 'CARAVAN' 'EXPAND' 'FLOCK' 'GESTURE'
+ 'GROUP' 'MANY' 'QUIET' 'SPREAD' 'STADIUM' 'UNIT']",['bed'],[],[],[],[],[]
+signer0_sample1143_color.mp4,1,['we'],"['ARRANGE' 'AUDIENCE' 'BIG' 'CLOTHES' 'EXPAND' 'FLOCK' 'FREE' 'LONELY'
+ 'LUGGAGE' 'RAIN' 'RELAX' 'ROOM' 'SNOOKER' 'SPREAD' 'SWIM']",[],[],[],[],['we'],[]
+signer0_sample299_color.mp4,1,['meal'],"['AREA' 'BRITAIN' 'CHILD' 'DECREASE' 'ENOUGH' 'ETHNIC' 'LOW' 'PAST'
+ 'PLENTY' 'RELAX' 'SINCE' 'TOUCH']",['meal'],[],[],[],[],[]
+signer0_sample1340_color.mp4,1,['inform'],"['ARRANGE' 'AUDIENCE' 'BEDROOM' 'BIG' 'BRITAIN' 'EXPAND' 'FLOCK' 'FOREIGN'
+ 'HOTEL' 'INFORM' 'LONELY' 'LOW' 'LUGGAGE' 'MOVE' 'RAIN' 'SHEET' 'SPREAD'
+ 'SUN' 'TALL' 'UNIT']",['inform'],[],[],[],[],[]
+signer0_sample241_color.mp4,1,['request'],['AREA' 'BORING' 'ENOUGH' 'LOW' 'PLENTY' 'TOUCH' 'WATER' 'WOW'],['request'],[],[],[],[],[]
+signer0_sample323_color.mp4,1,['labor'],"['AREA' 'ARRANGE' 'BIG' 'BRITAIN' 'GESTURE' 'LOW' 'MAYBE' 'RAIN' 'TALL'
+ 'TIRED']",['labor'],[],[],[],[],[]
+signer0_sample120_color.mp4,1,['pillow'],"['AREA' 'BALL' 'BEDROOM' 'BRITAIN' 'CARAVAN' 'CHILD' 'COMMUNICATE'
+ 'CONFUSE' 'DEAF' 'HEAR' 'HOUSE' 'LOW' 'MAYBE' 'PUSH' 'RELAX' 'SLEEP'
+ 'SPREAD' 'TENT' 'THEORY']",['pillow'],[],[],[],[],[]
+signer0_sample1222_color.mp4,1,['hour'],"['AREA' 'ARRANGE' 'BLUE' 'DOCTOR' 'FATHER' 'FRIDAY' 'IRELAND' 'LOW'
+ 'MARRY' 'POLICE' 'PROBLEM' 'SPREAD' 'THEATRE' 'TIME']",['hour'],[],[],[],[],[]
+signer0_sample1021_color.mp4,1,['I'],"['BAD' 'CHILD' 'DISAPPOINT' 'FEEL' 'GO' 'HOME' 'LOOK' 'LOW' 'MORNING'
+ 'SAY' 'SHOULDER' 'TOUCH']",[],[],[],[],['I'],[]
+signer0_sample1325_color.mp4,1,['god_preserve'],['BEHAVIOUR' 'DOOR' 'FRIEND' 'FRIGHTENED' 'FULL' 'POOR' 'SPOUSE' 'WORK'],['god_preserve'],[],[],[],[],[]
+signer0_sample1118_color.mp4,1,['petrol'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BELFAST' 'BIG' 'BRITAIN' 'CLOTHES' 'EXPAND'
+ 'LOW' 'PREGNANT' 'RAIN' 'RELAX' 'SPREAD' 'SURPRISE' 'UNIT']",['petrol'],[],[],[],[],[]
+signer0_sample1126_color.mp4,1,['egg'],"['ARRANGE' 'AUDIENCE' 'BEACH' 'BIG' 'BODY' 'CLOTHES' 'EXPAND' 'FREE'
+ 'HEALTHY' 'LONELY' 'RELAX' 'SPREAD' 'TENT' 'UPWARD']",['egg'],[],[],[],[],[]
+signer0_sample35_color.mp4,1,['past'],['CALLISTHENICS' 'ETHNIC' 'HOT' 'PAST' 'PLENTY' 'SCHOOL' 'SINCE' 'TOUCH'],['past'],[],[],[],[],[]
+signer0_sample224_color.mp4,1,['smell'],"['AREA' 'BRITAIN' 'FARM' 'FBUOY' 'FOREIGN' 'GRAB' 'LOOK' 'LOW' 'MOVE'
+ 'SIZE']",['smell'],[],[],[],[],[]
+signer0_sample1107_color.mp4,1,['tree'],"['AREA' 'ASK' 'BAD' 'BIG' 'BRITAIN' 'CHILD' 'DARTS' 'EIGHT' 'FAMOUS'
+ 'FIVE' 'FOREIGN' 'HEAR' 'LIVE' 'LOW' 'MOVE' 'NOTHING' 'PERFECT' 'SETTLE'
+ 'SPREAD' 'TEA' 'TEN' 'THREE']",['tree'],[],[],[],[],[]
+signer0_sample1139_color.mp4,1,['difficult'],"['ACT' 'BAD' 'BODY' 'BORN' 'CLOTHES' 'COW' 'FINISH' 'HEALTHY' 'HORRIBLE'
+ 'LEG' 'LOW' 'PARTY' 'PERFECT' 'STUBBORN' 'WAIT' 'WOW']",[],[],['difficult'],[],[],[]
+signer0_sample1304_color.mp4,1,['always'],"['ACT' 'ARRANGE' 'BAD' 'BRITAIN' 'FAMOUS' 'FINISH' 'FLOCK' 'HORRIBLE'
+ 'HOTEL' 'LOW' 'NOTHING' 'PANIC' 'PARTY' 'PERFECT' 'SETTLE' 'SHEET'
+ 'SPREAD']",[],['always'],[],[],[],[]
+signer0_sample400_color.mp4,1,['comb'],"['BIRTHDAY' 'BLACK' 'BRAINY' 'EMIT' 'FARM' 'FOREIGN' 'KNOW' 'LIVE'
+ 'REMEMBER']",['comb'],[],[],[],[],[]
+signer0_sample14_color.mp4,1,['be_pleased'],"['ARRANGE' 'AUDIENCE' 'BIG' 'BODY' 'CLOTHES' 'EVALUATE' 'EXPAND' 'FREE'
+ 'RAIN' 'RELAX' 'RICH' 'SURPRISE' 'TIRED']",[],[],[],['be_pleased'],[],[]
+signer0_sample205_color.mp4,1,['star'],"['AREA' 'ARRANGE' 'BRITAIN' 'EXPAND' 'GESTURE' 'LOW' 'SLEEP' 'SPREAD'
+ 'TOP']",['star'],[],[],[],[],[]
+signer0_sample101_color.mp4,1,['alone'],"['AEROPLANE' 'AREA' 'BAD' 'BIG' 'BRITAIN' 'DEAF' 'FBUOY' 'HEAR' 'KNOW'
+ 'LOOK' 'NAME' 'PERSON' 'REMEMBER' 'THINK' 'WANT']",[],['alone'],[],[],[],[]
+signer0_sample302_color.mp4,1,['sugar'],['BOY' 'DEAF' 'EASY' 'HEAR' 'LONDON' 'LOOK' 'PEOPLE' 'THINK' 'YESTERDAY'],['sugar'],[],[],[],[],[]
+signer0_sample1000_color.mp4,1,['request'],['AREA' 'CLOTHES' 'ENOUGH' 'GO' 'READY' 'WANT' 'WATER' 'WOW'],['request'],[],[],[],[],[]
+signer0_sample1203_color.mp4,1,['heavy'],"['ARRANGE' 'BRITAIN' 'CLOTHES' 'COW' 'EVALUATE' 'HOLIDAY' 'LONELY' 'LOW'
+ 'RICH' 'SCALES' 'SPREAD' 'SURPRISE' 'TEN']",[],[],['heavy'],[],[],[]
+signer0_sample286_color.mp4,1,['stain'],"['AREA' 'BREATHE' 'DOCTOR' 'EMOTION' 'IRELAND' 'LIKE' 'LOOK' 'PARK'
+ 'PRESIDENT' 'READY' 'SURPRISE' 'WANT' 'WATER']",['stain'],[],[],[],[],[]
+signer0_sample1162_color.mp4,1,['pillow'],"['ACCOMMODATION' 'ARRANGE' 'BALL' 'BEDROOM' 'BRITAIN' 'CARAVAN' 'EXPAND'
+ 'GESTURE' 'GROUP' 'LOW' 'PUSH' 'SLEEP' 'SPREAD' 'TENT' 'TIRED']",['pillow'],[],[],[],[],[]
+signer0_sample260_color.mp4,1,['teapot'],"['ADULT' 'BACK' 'BASE' 'BROWN' 'CHRISTMAS' 'FOREIGN' 'GAME' 'INATTENTION'
+ 'MAKE' 'PAST' 'PROBLEM' 'TIME' 'TOUCH' 'TRAIN']",['teapot'],[],[],[],[],[]
+signer0_sample1184_color.mp4,1,['glove'],"['AREA' 'ARRANGE' 'CLOSED' 'COMPUTER' 'COVER' 'PAYMENT' 'SETTLE' 'SPREAD'
+ 'UNIT']",['glove'],[],[],[],[],[]
+signer0_sample1280_color.mp4,1,['if_only'],"['BACK' 'BAD' 'BIRTHDAY' 'BLACK' 'ETHNIC' 'FRANCE' 'HEAR' 'KNOW'
+ 'REMEMBER' 'TYPICAL']",[],['if_only'],[],[],[],[]
+signer0_sample367_color.mp4,1,['married'],"['AMERICA' 'ARRANGE' 'BIG' 'BODY' 'BOX' 'CLOTHES' 'EXPAND' 'GROUP' 'RELAX'
+ 'SPREAD' 'TENT' 'UNIT']",[],[],['married'],[],[],[]
+signer0_sample359_color.mp4,1,['friend'],['AMERICA' 'ARRANGE' 'BELFAST' 'EXPAND' 'GROUP' 'LOW' 'MEANING' 'SPREAD'],['friend'],[],[],[],[],[]
+signer0_sample1083_color.mp4,1,['bed'],"['ACCOMMODATION' 'ARRANGE' 'BALL' 'BELFAST' 'BIG' 'BRITAIN' 'CARAVAN'
+ 'COMMUNICATE' 'EXPAND' 'FENCE' 'FLOCK' 'GROUP' 'HOUSE' 'QUIET' 'SLEEP'
+ 'SPREAD' 'TENT' 'UNIT']",['bed'],[],[],[],[],[]
+signer0_sample164_color.mp4,1,['wallet'],"['ARRANGE' 'BEACH' 'BIG' 'BODY' 'CLOTHES' 'EXPAND' 'PREGNANT' 'RELAX'
+ 'UNIT']",['wallet'],[],[],[],[],[]
+signer0_sample381_color.mp4,1,['pastrami'],"['AREA' 'ARRANGE' 'BELFAST' 'CHAIR' 'CHILD' 'ESCAPE' 'LOW' 'PANIC'
+ 'PRACTISE' 'SETTLE' 'SPREAD' 'SURROUNDINGS' 'UNIVERSAL']",['pastrami'],[],[],[],[],[]
+signer0_sample1266_color.mp4,1,['unwise'],"['BAD' 'BRITAIN' 'FBUOY' 'HEAR' 'KNOW' 'LOW' 'MIND' 'MOVE' 'NAME'
+ 'NOTHING' 'RANKING' 'REMEMBER' 'THINK' 'THROW' 'UNDERSTAND' 'WANT']",['unwise'],[],[],[],[],[]
+signer0_sample1258_color.mp4,1,['lake'],"['ARRANGE' 'AUDIENCE' 'BIG' 'BLACK' 'BOY' 'EXPAND' 'FLOCK' 'KNOW' 'LIVE'
+ 'LOVELY' 'MAN' 'NICE' 'RAIN' 'RELAX' 'SISTER' 'SPREAD' 'UNIT']",['lake'],[],[],[],[],[]
+signer0_sample182_color.mp4,1,['mince'],"['AREA' 'BELFAST' 'BRITAIN' 'CHAIR' 'DECREASE' 'ENOUGH' 'LOW' 'RELAX'
+ 'SETTLE' 'TALL']",['mince'],[],[],[],[],[]
+signer0_sample1065_color.mp4,1,['smell'],['AREA' 'BAD' 'BRITAIN' 'CHILD' 'LOOK' 'LOW' 'MAYBE' 'SPEECH'],['smell'],[],[],[],[],[]
+signer0_sample1014_color.mp4,1,['star'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BIG' 'CARAVAN' 'EXPAND' 'GROUP' 'HOUSE'
+ 'LOW' 'MEANING' 'SPREAD' 'TENT']",['star'],[],[],[],[],[]
+signer0_sample1229_color.mp4,1,['lightweight'],"['ANYTHING' 'BODY' 'CLOTHES' 'EVALUATE' 'HEAVY' 'PLAY' 'SCALES' 'SETTLE'
+ 'TIRED']",['lightweight'],[],[],[],[],[]
+signer0_sample1217_color.mp4,1,['yesterday'],"['AREA' 'BRITAIN' 'CHILD' 'DEAF' 'ETHNIC' 'HEAR' 'HEARING' 'LONDON' 'LOW'
+ 'PAST' 'SETTLE' 'THINK' 'TOUCH' 'YESTERDAY']",['yesterday'],[],[],[],[],[]
+signer0_sample115_color.mp4,1,['existing'],"['AREA' 'BELFAST' 'BRITAIN' 'CHILD' 'DECREASE' 'ENOUGH' 'FAMILY' 'LOW'
+ 'READY' 'RELAX']",[],[],[],['existing'],[],[]
+signer0_sample328_color.mp4,1,['book'],"['BALL' 'EVALUATE' 'EVERYTHING' 'FENCE' 'GROUP' 'HOUSE' 'INTERVAL' 'NEW'
+ 'NIGHT' 'RESPECT' 'SCALES' 'SHOW' 'SMALL' 'STADIUM' 'THANK']",['book'],[],[],[],[],[]
+signer0_sample316_color.mp4,1,['topple'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'FAMILY' 'GO' 'LOW' 'PANIC'
+ 'PAST' 'RELAX' 'SETTLE' 'SPREAD']",['topple'],[],[],[],[],[]
+signer0_sample211_color.mp4,1,['no'],['BACK' 'COME'],[],[],[],[],['no'],[]
+signer0_sample1113_color.mp4,1,['teacher'],"['AREA' 'BAD' 'BRITAIN' 'CHILD' 'COMMUNIST' 'FOREIGN' 'HEAR' 'LOW' 'MAYBE'
+ 'NOTHING' 'REMEMBER' 'SETTLE' 'SPEECH' 'SPREAD' 'TOUCH' 'TYPICAL']",['teacher'],[],[],[],[],[]
+signer0_sample1310_color.mp4,1,['kin'],"['ALLOW' 'BODY' 'BUILD' 'CLOTHES' 'DANCE' 'FALL' 'FREE' 'HURT' 'LONDON'
+ 'MIX' 'READY' 'RELAX' 'TIRED']",['kin'],[],[],[],[],[]
+signer0_sample1272_color.mp4,1,['date'],"['AREA' 'ARRIVE' 'BRITAIN' 'CHILD' 'FINISH' 'LEG' 'LOW' 'MOTHER'
+ 'PRACTISE' 'SATURDAY' 'SELL' 'SETTLE' 'TIDY' 'WRITE' 'YOUNG']",['date'],[],[],[],[],[]
+signer0_sample395_color.mp4,1,['sibling'],"['ALRIGHT' 'CALLISTHENICS' 'FANTASTIC' 'FINISH' 'ILL' 'LAST' 'PARTY' 'SIX'
+ 'WORSE']",[],[],[],['sibling'],[],[]
+signer0_sample1071_color.mp4,1,['wednesday'],"['BAD' 'BOSS' 'BRITAIN' 'CHILD' 'DEAF' 'GIRL' 'HEAR' 'HEARING' 'KNOW'
+ 'LEG' 'LOOK' 'LOW' 'PEOPLE' 'REMEMBER' 'SPREAD' 'THINK']",['wednesday'],[],[],[],[],[]
+signer0_sample196_color.mp4,1,['cotton'],"['BEHAVIOUR' 'BODY' 'BORN' 'BUILD' 'CLOTHES' 'DEPTH' 'DOOR' 'EVALUATE'
+ 'EXPAND' 'HEAVY' 'LOW' 'MANAGE' 'PERIODIC' 'WAR']",['cotton'],[],[],[],[],[]
+signer0_sample373_color.mp4,1,['potato'],"['BOY' 'DEAF' 'EASY' 'ENOUGH' 'HEAR' 'HEARING' 'LOOK' 'MAN' 'MAYBE'
+ 'PEOPLE' 'SAY' 'THINK']",['potato'],[],[],[],[],[]
+signer0_sample1294_color.mp4,1,['police'],"['ARMY' 'BREATHE' 'CLOTHES' 'DOOR' 'EMOTION' 'ENOUGH' 'EXCITED' 'FREE'
+ 'FRIGHTENED' 'LIKE' 'LIVE' 'LOW' 'READY' 'RELAX' 'SLEEP' 'TENT' 'TIRED'
+ 'WAR' 'WATER']",['police'],[],[],[],[],[]
+signer0_sample170_color.mp4,1,['absent'],"['AREA' 'BORING' 'BRITAIN' 'DECREASE' 'ENOUGH' 'GO' 'LOW' 'MAYBE' 'SCHOOL'
+ 'SETTLE' 'TALL' 'TOUCH' 'WALL']",['absent'],[],[],[],[],[]
+signer0_sample1097_color.mp4,1,['sauce'],"['AREA' 'BAD' 'BRITAIN' 'CHILD' 'DECREASE' 'ENOUGH' 'LOOK' 'LOW' 'MAYBE'
+ 'MORNING' 'READY' 'SHOULDER' 'TOUCH' 'WAIT' 'WATER' 'YOUNG']",['sauce'],[],[],[],[],[]
+signer0_sample274_color.mp4,1,['memorize'],['AREA' 'BRITAIN' 'CHILD' 'FARM' 'FOREIGN' 'LOW' 'MAYBE' 'SIZE'],['memorize'],[],[],[],[],[]
+signer0_sample1190_color.mp4,1,['apologize'],"['BALL' 'COMMUNICATE' 'GROUP' 'HOUSE' 'PRAY' 'PUSH' 'READY' 'RELAX'
+ 'SLEEP' 'TENT' 'TIRED']",[],[],[],['apologize'],[],[]
+signer0_sample1148_color.mp4,1,['doctor'],['AREA' 'BRITAIN' 'CHAIR' 'FLOCK' 'LOW' 'RELAX'],['doctor'],[],[],[],[],[]
+signer0_sample292_color.mp4,1,['escape'],['AREA' 'CHILD' 'FAMILY' 'GO' 'LIVE' 'LOW' 'MORNING' 'PARK' 'SINCE'],['escape'],[],[],[],[],[]
+signer0_sample1176_color.mp4,1,['sweet'],"['BREATHE' 'BRITAIN' 'DEAF' 'HEAR' 'LIVE' 'LOOK' 'READY' 'RELAX'
+ 'SURPRISE' 'THINK' 'TIRED' 'WANT' 'WONDERFUL']",['sweet'],[],[],[],[],[]
+signer0_sample255_color.mp4,1,['yes'],"['ACT' 'BAD' 'BRITAIN' 'CHILD' 'CLOSED' 'FLOCK' 'GO' 'HEAR' 'HOME' 'LEG'
+ 'LOW' 'NOTHING' 'PARTY' 'PERFECT' 'SPREAD' 'TOUCH']",['yes'],[],[],[],[],[]
+signer0_sample1157_color.mp4,1,['tongs'],['AREA' 'BAD' 'FEEL' 'GO' 'GOOD' 'LIVE' 'LOOK' 'NOTHING'],['tongs'],[],[],[],[],[]
+signer0_sample1169_color.mp4,1,['crossroads'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'DECREASE' 'FARM' 'FLOCK'
+ 'FOREIGN' 'MAYBE' 'MOVE' 'PARK' 'SHOUT' 'SPREAD']",['crossroads'],[],[],[],[],[]
+signer0_sample1050_color.mp4,1,['wood'],"['AREA' 'BRITAIN' 'CHILD' 'DECORATE' 'FOREIGN' 'GO' 'HOME' 'LOW' 'NOTHING'
+ 'SHOULDNT' 'SLOW' 'STRAIGHTAWAY' 'TALL' 'WORK']",['wood'],[],[],[],[],[]
+signer0_sample1253_color.mp4,1,['voice'],"['ACCOMMODATION' 'ALWAYS' 'BRITAIN' 'CHILD' 'KNOW' 'LOOK' 'NICE' 'NUMBER'
+ 'PERSON' 'PREFER' 'REMEMBER' 'SISTER' 'THINK']",['voice'],[],[],[],[],[]
+signer0_sample189_color.mp4,1,['fork'],"['AMERICA' 'AREA' 'ARRANGE' 'BORN' 'CLOTHES' 'GO' 'LONELY' 'LOVE' 'LOW'
+ 'MEANING' 'POOR' 'PREGNANT' 'READY' 'RELAX' 'SPREAD' 'SURPRISE' 'WANT'
+ 'WAR' 'WEDNESDAY']",['fork'],[],[],[],[],[]
+signer0_sample151_color.mp4,1,['bed'],"['ACT' 'AGES' 'ARRANGE' 'BIG' 'CARAVAN' 'EXPAND' 'FAMOUS' 'FLOCK'
+ 'GESTURE' 'GROUP' 'NOTHING' 'PARTY' 'PERFECT' 'QUIET' 'REDUCE' 'SHEET'
+ 'SPREAD' 'WEATHER']",['bed'],[],[],[],[],[]
+signer0_sample352_color.mp4,1,['fork'],"['AREA' 'CHILD' 'FAMILY' 'LOW' 'MOTHER' 'PLAN' 'READY' 'RELAX' 'STILL'
+ 'TELEVISION' 'WALK']",['fork'],[],[],[],[],[]
+signer0_sample1088_color.mp4,1,['mirror'],"['AREA' 'ARRANGE' 'BRITAIN' 'CHILD' 'DEAF' 'ETHNIC' 'HEAR' 'LOW' 'MAYBE'
+ 'MUM' 'PAST' 'REMEMBER' 'SCHOOL' 'SETTLE' 'SLEEP' 'SPREAD']",['mirror'],[],[],[],[],[]
+signer0_sample230_color.mp4,1,['rent'],"['BABY' 'BEHAVIOUR' 'BOAT' 'BODY' 'BORN' 'CLOTHES' 'DEPTH' 'DOOR' 'GOOD'
+ 'LEAVE' 'MANAGE' 'POOR' 'SINCE' 'WOW']",['rent'],[],[],[],[],[]
+signer0_sample21_color.mp4,1,['married'],"['BODY' 'BORN' 'CLOTHES' 'EXCITED' 'EXPAND' 'FREE' 'HEALTHY' 'LOSE' 'LOW'
+ 'RELAX' 'SPREAD' 'TIRED' 'UPWARD']",[],[],['married'],[],[],[]
+signer0_sample1331_color.mp4,1,['baby'],"['AUDIENCE' 'BIG' 'BODY' 'CALLISTHENICS' 'CLOTHES' 'EVALUATE' 'LOW' 'PAST'
+ 'RELAX' 'RICH' 'SINCE' 'STADIUM' 'TENT' 'UPWARD']",['baby'],[],[],[],[],[]
+signer0_sample1132_color.mp4,1,['promise'],"['DRINK' 'FBUOY' 'IRELAND' 'KNOW' 'LIKE' 'LIVE' 'MAN' 'NICE' 'NUMBER'
+ 'PEOPLE' 'READY' 'SHOUT' 'SISTER' 'SURPRISE' 'WANT']",['promise'],[],[],[],[],[]
+signer0_sample1236_color.mp4,1,['bridge'],"['ARRANGE' 'BEDROOM' 'BRITAIN' 'CHECK' 'CHILD' 'CLOTHES' 'COMMUNICATE'
+ 'DEAF' 'HEAR' 'HOLIDAY' 'HOLLAND' 'HOUSE' 'LOW' 'RELAX' 'SLEEP' 'TEACH'
+ 'TENT' 'TIRED']",['bridge'],[],[],[],[],[]
+signer0_sample1208_color.mp4,1,['sweet'],"['BORN' 'BRITAIN' 'CHILD' 'CLOTHES' 'DEAF' 'EASY' 'GIRL' 'HEAR' 'HEARING'
+ 'LOOK' 'LOW' 'READY' 'SAY' 'SISTER' 'SURPRISE' 'THINK' 'TIRED' 'WANT'
+ 'WONDERFUL']",['sweet'],[],[],[],[],[]
+signer0_sample1035_color.mp4,1,['glass'],"['AGE' 'CHILD' 'EIGHT' 'FIFTEEN' 'FIVE' 'FIVE^ZERO' 'FOUR' 'LEG' 'LOW'
+ 'NINE' 'RISE' 'TEN' 'THREE']",['glass'],[],[],[],[],[]
+signer0_sample337_color.mp4,1,['tax'],"['AREA' 'BELFAST' 'CHAIR' 'CHILD' 'ESCAPE' 'PARK' 'PRESIDENT' 'SETTLE'
+ 'SPREAD' 'SURROUNDINGS' 'TERRIFIED' 'WALK']",['tax'],[],[],[],[],[]
+signer0_sample309_color.mp4,1,['dog'],"['AREA' 'BALL' 'BIG' 'BORN' 'DAMAGE' 'GO' 'MANY' 'MEANING' 'NOTHING'
+ 'RISE' 'SPREAD']",['dog'],[],[],[],[],[]
+signer0_sample134_color.mp4,1,['telephone'],"['AREA' 'BRITAIN' 'CHILD' 'DECREASE' 'ENOUGH' 'ETHNIC' 'GO' 'LOW' 'MAYBE'
+ 'READY']",['telephone'],[],[],[],[],[]
+signer0_sample1257_color.mp4,1,['wednesday'],['BAD' 'DEAF' 'HEAR' 'HEARING' 'KNOW' 'LOOK' 'REMEMBER' 'SISTER' 'THINK'],['wednesday'],[],[],[],[],[]
+signer0_sample1269_color.mp4,1,['how'],['BECKON' 'PAST' 'SINCE' 'WOW'],[],[],[],[],[],[]
+signer0_sample1054_color.mp4,1,['tomorrow'],"['AREA' 'BAD' 'BIRTHDAY' 'CHILD' 'ENOUGH' 'HORRIBLE' 'KNOW' 'LOW' 'MAYBE'
+ 'MORNING' 'PERHAPS' 'RIGHT' 'SCOTLAND' 'TOUCH' 'TYPICAL']",['tomorrow'],[],[],[],[],[]
+signer0_sample356_color.mp4,1,['fork'],['AMERICA' 'AREA' 'BIG' 'BRITAIN' 'EXPAND' 'GROUP' 'RELAX'],['fork'],[],[],[],[],[]
+signer0_sample368_color.mp4,1,['band-aid'],"['ALLOW' 'ARRANGE' 'ATTACK' 'AUDIENCE' 'BEACH' 'BIG' 'CHILD' 'CRY'
+ 'EXCITED' 'EXPAND' 'LONELY' 'MEAL' 'PRIEST' 'RELAX' 'ROOM' 'SNOOKER'
+ 'SPREAD']",['band-aid'],[],[],[],[],[]
+signer0_sample155_color.mp4,1,['bed'],"['ACT' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CARAVAN' 'COMMUNICATE' 'EXPAND'
+ 'FLOCK' 'LOSE' 'LOW' 'PANIC' 'PARTY' 'PERFECT' 'QUIET' 'SLEEP' 'SPEECH'
+ 'SPREAD' 'TEACH' 'TENT' 'UPWARD']",['bed'],[],[],[],[],[]
+signer0_sample251_color.mp4,1,['difficult'],"['ACT' 'ARRANGE' 'AVOID' 'BAD' 'BRITAIN' 'CHAIR' 'CLOTHES' 'FINISH'
+ 'FLOCK' 'HORRIBLE' 'LOSE' 'LOW' 'PARTY' 'PERFECT' 'SHEET' 'STUBBORN'
+ 'TEACH' 'TIRED' 'WAIT']",[],[],['difficult'],[],[],[]
+signer0_sample1350_color.mp4,1,['thanks'],"['ANYTHING' 'AREA' 'ATTENTION' 'BIG' 'CHILD' 'DIFFERENT' 'ENGLAND'
+ 'EVALUATE' 'FAMILY' 'LOOK' 'MANY' 'PLUS' 'READY' 'SPREAD' 'TOP' 'TRY'
+ 'WITHOUT' 'YOUNG']",['thanks'],[],[],[],[],[]
+signer0_sample289_color.mp4,1,['potato'],['BOY' 'DEAF' 'EASY' 'HEARING' 'PEOPLE' 'THINK' 'YESTERDAY'],['potato'],[],[],[],[],[]
+signer0_sample1153_color.mp4,1,['telephone'],['AREA' 'CHILD' 'DECREASE' 'ENOUGH' 'LOW' 'TOUCH'],['telephone'],[],[],[],[],[]
+signer0_sample1031_color.mp4,1,['sad'],['BRITAIN' 'DEAF' 'KNOW' 'LIVE' 'LOOK' 'LOW' 'REMEMBER' 'SLEEP'],['sad'],[],[],[],[],[]
+signer0_sample1232_color.mp4,1,['always'],"['ACT' 'ARRANGE' 'BAD' 'CLOTHES' 'EXPAND' 'FAMOUS' 'FLOCK' 'HOLIDAY'
+ 'HOLLAND' 'HORRIBLE' 'LOW' 'NOTHING' 'PANIC' 'PARTY' 'PERFECT' 'QUIET'
+ 'SETTLE' 'SHEET' 'SPREAD' 'TITLE' 'WEATHER']",[],['always'],[],[],[],[]
+signer0_sample130_color.mp4,1,['hungry'],['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'PANIC' 'SETTLE' 'SPREAD'],['hungry'],[],[],[],[],[]
+signer0_sample333_color.mp4,1,['free'],"['ARRANGE' 'ATTENTION' 'AUDIENCE' 'BEACH' 'BIG' 'EXPAND' 'GROUP' 'RAIN'
+ 'REDUCE' 'RELAX' 'SETTLE' 'SHEET' 'SPREAD']",[],[],['free'],[],[],[]
+signer0_sample234_color.mp4,1,['rent'],['AMERICA' 'BOAT' 'DOOR' 'POOR' 'PREGNANT' 'UNIT' 'WAR' 'WEDNESDAY'],['rent'],[],[],[],[],[]
+signer0_sample25_color.mp4,1,['hurry'],"['ARRANGE' 'CHAIR' 'CHILD' 'CLOTHES' 'EXPAND' 'HOUSE' 'LOW' 'READY'
+ 'RELAX' 'SATURDAY' 'SPOUSE' 'TALK' 'TIRED' 'TOP' 'WEEK']",['hurry'],[],[],[],[],[]
+signer0_sample1136_color.mp4,1,['photograph'],"['ACCOMMODATION' 'ARRANGE' 'AUDIENCE' 'BRITAIN' 'CLOTHES' 'EXPAND' 'GRAB'
+ 'HOTEL' 'LOW' 'SLEEP' 'SPREAD']",['photograph'],[],[],[],[],[]
+signer0_sample1108_color.mp4,1,['past'],"['BECKON' 'CHILD' 'ENOUGH' 'ETHNIC' 'HOT' 'LOW' 'PAST' 'PLENTY' 'SCHOOL'
+ 'SINCE' 'TOUCH']",['past'],[],[],[],[],[]
+signer0_sample1335_color.mp4,1,['free'],"['ARRANGE' 'ATTENTION' 'BIG' 'EXPAND' 'GROUP' 'RAIN' 'REDUCE' 'RELAX'
+ 'SETTLE' 'SHEET' 'SPREAD' 'TENT' 'TIRED']",[],[],['free'],[],[],[]
+signer0_sample215_color.mp4,1,['full'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'DECREASE' 'FAMILY' 'LOW'
+ 'READY' 'RELAX' 'TALL']",[],[],['full'],[],[],[]
+signer0_sample1314_color.mp4,1,['accident'],"['BEACH' 'CHAIR' 'CLOTHES' 'EQUAL' 'FLOCK' 'FREE' 'LONELY' 'RELAX' 'SWIM'
+ 'UPWARD' 'WITHDRAW']",['accident'],[],[],[],[],[]
+signer0_sample1129_color.mp4,1,['never'],"['AREA' 'BIG' 'BRITAIN' 'EXPAND' 'GESTURE' 'GROUP' 'MAYBE' 'MOVE' 'PLAY'
+ 'READY' 'SETTLE' 'SIGN' 'WITHOUT']",[],['never'],[],[],[],[]
+signer0_sample1117_color.mp4,1,['money'],"['BLACK' 'BORING' 'DRINK' 'ENOUGH' 'GOOD' 'KNOW' 'LIVE' 'LOVELY' 'NICE'
+ 'NUMBER' 'PERHAPS' 'PLENTY' 'USE' 'WATER' 'WOW']",['money'],[],[],[],[],[]
+signer0_sample1213_color.mp4,1,['father'],"['ALWAYS' 'BOY' 'DESSERT' 'DRINK' 'KNOW' 'LIVE' 'LOOK' 'LOVELY' 'MAN'
+ 'NICE' 'PREFER']",['father'],[],[],[],[],[]
+signer0_sample1010_color.mp4,1,['shirt'],"['ARRANGE' 'BOY' 'BRITAIN' 'CHILD' 'CLOTHES' 'DEAF' 'DISAPPOINT' 'EXCITED'
+ 'FREE' 'LONELY' 'LOW' 'MEAL' 'PEOPLE' 'READY' 'RELAX' 'SLEEP' 'SPREAD'
+ 'TEACH' 'TENT' 'TIRED']",['shirt'],[],[],[],[],[]
+signer0_sample312_color.mp4,1,['tea'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BELFAST' 'BRITAIN' 'LOW' 'MAYBE' 'RAIN'
+ 'READY' 'RELAX' 'TALL' 'TIRED']",['tea'],[],[],[],[],[]
+signer0_sample111_color.mp4,1,['work'],"['BORN' 'BREAK' 'CHAIR' 'CLOTHES' 'FAVOUR' 'LOW' 'RUN' 'STRONG' 'TEACH'
+ 'WAIT']",['work'],[],[],[],[],[]
+signer0_sample1194_color.mp4,1,['ceiling'],"['AUDIENCE' 'BALL' 'BIG' 'BODY' 'CLOTHES' 'DISAPPEAR' 'EVERYTHING'
+ 'EXPAND' 'FAMOUS' 'FINISH' 'FLOCK' 'GESTURE' 'HOLLAND' 'HOTEL' 'LONELY'
+ 'LOSE' 'PERFECT' 'RAIN' 'SHEET' 'SPREAD' 'UPWARD' 'WAKE']",['ceiling'],[],[],[],[],[]
+signer0_sample270_color.mp4,1,['sunday'],"['AMERICA' 'AREA' 'BEHAVIOUR' 'BIG' 'BODY' 'CLOTHES' 'MERGE' 'PREGNANT'
+ 'SIGN' 'SLOW' 'WANT' 'WEDNESDAY' 'WEEK']",['sunday'],[],[],[],[],[]
+signer0_sample1172_color.mp4,1,['show'],"['ACCOMMODATION' 'AREA' 'BALL' 'BRITAIN' 'FINISH' 'FLOCK' 'GESTURE' 'LOW'
+ 'MINUTE' 'MONDAY' 'MONTH' 'MOTHER' 'PLAN' 'RAIN' 'READY' 'SATURDAY'
+ 'SLEEP' 'TIRED' 'WALL' 'WANT']",['show'],[],[],[],[],[]
+signer0_sample296_color.mp4,1,['carpet'],"['ARRANGE' 'BELFAST' 'BODY' 'CLOTHES' 'EXPAND' 'FREE' 'PANIC' 'RAIN'
+ 'READY' 'RELAX' 'SETTLE' 'SPREAD' 'TIRED']",['carpet'],[],[],[],[],[]
+signer0_sample1075_color.mp4,1,['married'],"['ARRANGE' 'BIG' 'BODY' 'BOX' 'CLOTHES' 'DISAPPEAR' 'EXPAND' 'GROUP'
+ 'LOSE' 'RELAX' 'SPREAD' 'UNIT']",[],[],['married'],[],[],[]
+signer0_sample192_color.mp4,1,['football'],"['AREA' 'ARRIVE' 'BABY' 'BEACH' 'BIG' 'BOAT' 'CHILD' 'ESCAPE' 'FLOCK'
+ 'HELP' 'INVOLVE' 'LAPTOP' 'PAY' 'POOR' 'REGULAR' 'SATURDAY' 'SEPARATE'
+ 'SINCE' 'SPREAD' 'STILL']",['football'],[],[],[],[],[]
+signer0_sample1248_color.mp4,1,['promise'],"['AREA' 'BAD' 'CHILD' 'DRINK' 'HOME' 'KNOW' 'LIVE' 'LOOK' 'LOW' 'MAN'
+ 'REMEMBER' 'SISTER']",['promise'],[],[],[],[],[]
+signer0_sample1276_color.mp4,1,['pencil'],['GIRL' 'HEARING' 'LATER' 'PEOPLE' 'RANKING' 'SCHOOL'],['pencil'],[],[],[],[],[]
+signer0_sample391_color.mp4,1,['lake'],"['ARRANGE' 'AUDIENCE' 'BAD' 'BEACH' 'BIG' 'BIRTHDAY' 'BOY' 'EXPAND'
+ 'FLOCK' 'KNOW' 'LIVE' 'LONELY' 'MAN' 'NICE' 'REDUCE' 'ROOM' 'SPREAD'
+ 'THINK']",['lake'],[],[],[],[],[]
+signer0_sample174_color.mp4,1,['light'],"['AREA' 'BIG' 'BRITAIN' 'CLOTHES' 'GO' 'LONELY' 'LOW' 'PREGNANT' 'RAIN'
+ 'TALL']",['light'],[],[],[],[],[]
+signer0_sample1093_color.mp4,1,['male'],"['BEDROOM' 'BRITAIN' 'DEAF' 'DRINK' 'FARM' 'FBUOY' 'HEAR' 'KNOW' 'LIVE'
+ 'LOOK' 'PERSON' 'REMEMBER' 'SLEEP' 'SUN' 'TEA' 'THEORY' 'THINK' 'WANT'
+ 'WATER']",['male'],[],[],[],[],[]
+signer0_sample349_color.mp4,1,['change'],"['AREA' 'BRITAIN' 'CHAIR' 'CHANGE' 'CHILD' 'FLOCK' 'GAME' 'GRANDMOTHER'
+ 'INATTENTION' 'LOW' 'MAKE' 'MOTHER' 'PRACTISE' 'RELAX' 'SCHOOL' 'SPOUSE'
+ 'START' 'STRESS' 'STUCK' 'TIDY' 'TOUCH']",['change'],[],[],[],[],[]
+signer0_sample377_color.mp4,1,['okay'],"['ARRANGE' 'BELFAST' 'BRITAIN' 'CHAIR' 'CHILD' 'LOW' 'PANIC' 'RELAX'
+ 'SETTLE' 'SPREAD']",['okay'],[],[],[],[],[]
+signer0_sample3_color.mp4,1,['tax'],"['AREA' 'BELFAST' 'CHAIR' 'CHILD' 'COMPUTER' 'FAMILY' 'LOOK' 'SPREAD'
+ 'WALK']",['tax'],[],[],[],[],[]
+signer0_sample1290_color.mp4,1,['animal'],"['AUDIENCE' 'BEACH' 'BIG' 'BODY' 'CLOTHES' 'EXPAND' 'FLOCK' 'OPEN' 'RAIN'
+ 'RELAX' 'STADIUM' 'TENT' 'UPWARD']",['animal'],[],[],[],[],[]
+signer0_sample306_color.mp4,1,['petrol'],['AREA' 'CHILD' 'ENGLAND' 'LOOK' 'LOW' 'SLOW' 'TIME' 'WEEK'],['petrol'],[],[],[],[],[]
+signer0_sample338_color.mp4,1,['meal'],"['AREA' 'BACK' 'BECKON' 'DECREASE' 'ENOUGH' 'ETHNIC' 'FAMILY' 'LONDON'
+ 'MORNING' 'NIGHT' 'PARK' 'PAST' 'SINCE' 'TOUCH' 'WATER' 'WOW']",['meal'],[],[],[],[],[]
+signer0_sample105_color.mp4,1,['tired'],"['AREA' 'BELFAST' 'CHAIR' 'CHILD' 'CLOTHES' 'ESCAPE' 'FULL' 'INFLUENCE'
+ 'LOW' 'MERGE' 'MIX' 'SURROUNDINGS' 'TALL']",[],[],[],['tired'],[],[]
+signer0_sample1207_color.mp4,1,['fork'],"['AMERICA' 'AREA' 'BRITAIN' 'LAPTOP' 'LOOK' 'MANCHESTER' 'MOTHER' 'PLAN'
+ 'POOR' 'READY' 'STILL' 'TELEVISION' 'TIDY' 'WALK' 'WEDNESDAY' 'YOUNG']",['fork'],[],[],[],[],[]
+signer0_sample1239_color.mp4,1,['wedding'],['BEHAVIOUR' 'DEPTH' 'EXPLAIN' 'FORWARD' 'HELP' 'NEW' 'SINCE' 'THANK'],['wedding'],[],[],[],[],[]
+signer0_sample1004_color.mp4,1,['identity'],['BAD' 'BRITAIN' 'FINISH' 'HEAR' 'LOW' 'MAYBE' 'PUSH' 'SLEEP'],['identity'],[],[],[],[],[]
+signer0_sample1300_color.mp4,1,['push'],"['ARRANGE' 'BIG' 'GESTURE' 'GROUP' 'NOTHING' 'PERFECT' 'PUSH' 'QUIET'
+ 'REDUCE' 'SETTLE' 'SHEET' 'SMALL' 'SPREAD' 'WEATHER']",['push'],[],[],[],[],[]
+signer0_sample1103_color.mp4,1,['petrol'],"['AREA' 'BLUE' 'CHILD' 'DEAF' 'ENGLAND' 'ESCAPE' 'LOOK' 'LOW' 'SLOW'
+ 'THINK' 'WEEK']",['petrol'],[],[],[],[],[]
+signer0_sample10_color.mp4,1,['same'],"['AREA' 'ARRANGE' 'BIG' 'BRITAIN' 'LONELY' 'LOW' 'MANY' 'MAYBE' 'READY'
+ 'RELAX' 'SETTLE' 'SPREAD' 'SURPRISE' 'TIRED']",[],[],['same'],[],[],[]
+signer0_sample201_color.mp4,1,['apologize'],"['ARRANGE' 'BALL' 'BRITAIN' 'DAMAGE' 'EXPAND' 'FINISH' 'FIRE' 'GESTURE'
+ 'GROUP' 'HOUSE' 'LOW' 'MEANING' 'PRAY' 'PUSH' 'SETTLE' 'SIGN' 'SPREAD'
+ 'TIDY' 'TIRED']",[],[],[],['apologize'],[],[]
+signer0_sample1087_color.mp4,1,['medicine'],['BIRTHDAY' 'BOY' 'KNOW' 'LIVE' 'MAN' 'NICE' 'NUMBER' 'PREFER' 'SISTER'],['medicine'],[],[],[],[],[]
+signer0_sample160_color.mp4,1,['female'],"['BEDROOM' 'BRITAIN' 'DEAF' 'FARM' 'HEAR' 'LOOK' 'READY' 'SLEEP'
+ 'WONDERFUL']",['female'],[],[],[],[],[]
+signer0_sample1284_color.mp4,1,['memorize'],"['AREA' 'BIG' 'BRITAIN' 'FARM' 'FOREIGN' 'FUTURE' 'GESTURE' 'GRAB' 'HEAR'
+ 'KNOW' 'LOW' 'MAYBE' 'MOVE' 'REMEMBER' 'TALL']",['memorize'],[],[],[],[],[]
+signer0_sample363_color.mp4,1,['you'],"['ARRANGE' 'ATTENTION' 'BEACH' 'BIG' 'BOX' 'EXPAND' 'FLOCK' 'PICTURE'
+ 'RAIN' 'REDUCE' 'ROOM' 'SHEET' 'SPREAD']",[],[],[],[],['you'],[]
+signer0_sample186_color.mp4,1,['holiday'],['BIG' 'CLOTHES' 'EXPAND' 'RAIN' 'RELAX' 'RETIRE' 'SHEET' 'TIRED'],['holiday'],[],[],[],[],[]
+signer0_sample1061_color.mp4,1,['cry'],"['BEDROOM' 'BRITAIN' 'DEAF' 'EASY' 'HEAR' 'LOOK' 'LOW' 'NAME' 'OLD'
+ 'READY' 'RELAX' 'SLEEP' 'THINK' 'TIRED' 'WONDERFUL']",['cry'],[],[],[],[],[]
+signer0_sample385_color.mp4,1,['orange'],"['BALL' 'BEHAVIOUR' 'BOAT' 'BORN' 'BRITAIN' 'BUILD' 'CLOTHES' 'DISAPPEAR'
+ 'DOOR' 'FRIGHTENED' 'LIKE' 'LOVE' 'MANAGE' 'POOR' 'PREGNANT' 'SPOUSE'
+ 'UNIT' 'WORK']",['orange'],[],[],[],[],[]
+signer0_sample1262_color.mp4,1,['how'],['BAD' 'CHILD' 'FEEL' 'GO' 'LIVE' 'LOOK' 'LOW' 'PAST' 'RIGHT' 'WOW'],[],[],[],[],[],[]
+signer0_sample1166_color.mp4,1,['I'],"['AREA' 'BIG' 'BRITAIN' 'CLOTHES' 'LIVE' 'PREGNANT' 'READY' 'RELAX'
+ 'SURPRISE' 'TIRED' 'WANT' 'WOW']",[],[],[],[],['I'],[]
+signer0_sample282_color.mp4,1,['if_only'],"['AEROPLANE' 'BACK' 'BEDROOM' 'BIG' 'BIRTHDAY' 'BLACK' 'BRITAIN' 'DARTS'
+ 'FBUOY' 'FORGET' 'HEAR' 'KNOW' 'LOW' 'REMEMBER' 'TIRED' 'WANT']",[],['if_only'],[],[],[],[]
+signer0_sample1158_color.mp4,1,['ill'],"['AREA' 'CHILD' 'DEAF' 'GO' 'HEAR' 'HEARING' 'KNOW' 'LOOK' 'LOW' 'PAST'
+ 'REMEMBER' 'TALL' 'THINK' 'TOUCH']",['ill'],[],[],[],[],[]
+signer0_sample1180_color.mp4,1,['bring'],['BACK' 'BECKON' 'LONDON' 'MORNING' 'PAST' 'PLENTY' 'SINCE' 'TOUCH'],['bring'],[],[],[],[],[]
+signer0_sample264_color.mp4,1,['soap'],"['AMERICA' 'BABY' 'BALL' 'BOAT' 'DISCUSS' 'LAPTOP' 'MEANING' 'MONDAY'
+ 'UNIT' 'WEDNESDAY']",['soap'],[],[],[],[],[]
+signer0_sample1344_color.mp4,1,['trousers'],['ARRANGE' 'LONELY' 'LOW' 'LUGGAGE' 'SPREAD'],['trousers'],[],[],[],[],[]
+signer0_sample1179_color.mp4,1,['mirror'],"['AEROPLANE' 'ARRIVE' 'BACK' 'BRITAIN' 'DARTS' 'FOREIGN' 'FORGET' 'GO'
+ 'HEAR' 'HOLIDAY' 'HOME' 'MIND' 'MUM' 'MUST' 'NIGHT' 'REMEMBER' 'SCHOOL']",['mirror'],[],[],[],[],[]
+signer0_sample1147_color.mp4,1,['fork'],"['AMERICA' 'AREA' 'ARRANGE' 'BIG' 'BRITAIN' 'CLOTHES' 'EXPAND' 'LINK'
+ 'LONELY' 'MEANING' 'PRACTISE' 'READY' 'RELAX' 'SPREAD' 'WAR' 'WEDNESDAY']",['fork'],[],[],[],[],[]
+signer0_sample245_color.mp4,1,['mother'],"['AREA' 'BREATHE' 'CHILD' 'EMOTION' 'ENDURE' 'ENOUGH' 'GO' 'LIKE' 'LOW'
+ 'READY' 'RELAX' 'TOUCH' 'WATER']",['mother'],[],[],[],[],[]
+signer0_sample1098_color.mp4,1,['you'],"['BAD' 'BIG' 'BRITAIN' 'GOOD' 'KNOW' 'LOW' 'MAN' 'NICE' 'NUMBER' 'OPERATE'
+ 'PERHAPS' 'PREFER' 'SURPRISE']",[],[],[],[],['you'],[]
+signer0_sample342_color.mp4,1,['labor'],"['AREA' 'BRITAIN' 'CLOTHES' 'LOW' 'RAIN' 'READY' 'RELAX' 'SURPRISE' 'TALL'
+ 'TIRED' 'WANT']",['labor'],[],[],[],[],[]
+signer0_sample141_color.mp4,1,['yesterday'],"['AREA' 'BACK' 'BRITAIN' 'CHILD' 'DEAF' 'ETHNIC' 'HEAR' 'HOME' 'LONDON'
+ 'LOW' 'PAST' 'SINCE' 'TALL' 'TOUCH']",['yesterday'],[],[],[],[],[]
+signer0_sample199_color.mp4,1,['bed'],"['ACT' 'AGES' 'ARRANGE' 'BELFAST' 'CARAVAN' 'CHILD' 'COMMUNICATE' 'EXPAND'
+ 'FLOCK' 'LOW' 'MOVE' 'NOTHING' 'PANIC' 'PARTY' 'PERFECT' 'QUIET' 'SETTLE'
+ 'SPEECH' 'SPREAD' 'TEACH']",['bed'],[],[],[],[],[]
+signer0_sample1243_color.mp4,1,['road'],['AREA' 'GO' 'LOOK' 'WALK' 'YOUNG'],['road'],[],[],[],[],[]
+signer0_sample1040_color.mp4,1,['slow'],['AREA' 'CHAIR' 'ESCAPE' 'LOW' 'MERGE' 'PRACTISE' 'RELAX' 'SPOUSE'],[],[],[],['slow'],[],[]
+signer0_sample1122_color.mp4,1,['sad'],"['AREA' 'BIG' 'BRITAIN' 'CLOTHES' 'DRINK' 'FARM' 'GO' 'PREGNANT' 'READY'
+ 'RELAX' 'SUN' 'SURPRISE' 'TIRED' 'WANT' 'WATER']",['sad'],[],[],[],[],[]
+signer0_sample1321_color.mp4,1,['room'],"['AMERICA' 'ARRANGE' 'AUDIENCE' 'BIG' 'BODY' 'BRITAIN' 'CLOTHES' 'EXPAND'
+ 'GROUP' 'PREGNANT' 'RELAX' 'UNIT']",['room'],[],[],[],[],[]
+signer0_sample31_color.mp4,1,['tax'],"['BORN' 'BUY' 'DISCUSS' 'EVALUATE' 'EXPLAIN' 'GIVE' 'LEG' 'LONELY' 'LOW'
+ 'NEW' 'REGULAR' 'RISE' 'SATURDAY' 'START']",['tax'],[],[],[],[],[]
+signer0_sample220_color.mp4,1,['gift'],"['AGE' 'BAD' 'BORING' 'CHILD' 'ETHNIC' 'FBUOY' 'FORGET' 'LOOK' 'LOW' 'MUM'
+ 'OLD' 'REMEMBER' 'RIGHT' 'SCHOOL' 'SEEM']",['gift'],[],[],[],[],[]
+signer0_sample124_color.mp4,1,['coal'],"['BASE' 'BEDROOM' 'BEHAVIOUR' 'BORING' 'BORN' 'BRITAIN' 'CHILD' 'DECREASE'
+ 'DRINK' 'ENOUGH' 'FORGET' 'GO' 'GOOD' 'HEAR' 'INFORM' 'LEAVE' 'LOVE'
+ 'LOW' 'NIGHT' 'PLENTY' 'POOR' 'PROBLEM' 'REMEMBER' 'SCHOOL' 'SLEEP'
+ 'TALL' 'WATER' 'WORK']",['coal'],[],[],[],[],[]
+signer0_sample319_color.mp4,1,['government'],"['BEDROOM' 'BRITAIN' 'CONFUSE' 'DEAF' 'HEAR' 'LOOK' 'NAME' 'OLD' 'SLEEP'
+ 'THINK' 'TWO' 'WONDER']",['government'],[],[],[],[],[]
+signer0_sample327_color.mp4,1,['money'],"['BIRTHDAY' 'BLACK' 'BORN' 'CHILD' 'GOOD' 'KNOW' 'LIVE' 'LOW' 'LUCK'
+ 'NUMBER' 'PERHAPS' 'PERSON' 'PREGNANT' 'SIX' 'THINK' 'WORSE' 'WOW']",['money'],[],[],[],[],[]
+signer0_sample1025_color.mp4,1,['alone'],"['BAD' 'DEAF' 'ETHNIC' 'FARM' 'FRANCE' 'HEAR' 'HEARING' 'KNOW' 'LIVE'
+ 'LONDON' 'LOOK' 'MAYBE' 'REMEMBER' 'THINK']",[],['alone'],[],[],[],[]
+signer0_sample1218_color.mp4,1,['near'],['AREA' 'BELFAST' 'BRITAIN' 'FAMILY' 'LOOK' 'LOW'],[],[],[],[],[],['near']
+signer0_sample1226_color.mp4,1,['bad'],"['AREA' 'BAD' 'BEAT' 'BRITAIN' 'CHILD' 'COMMUNIST' 'EXPECT' 'LOW' 'RELAX'
+ 'REMEMBER' 'RIGHT' 'SCOTLAND' 'SURPRISE' 'TIRED' 'TYPICAL' 'YES']",[],[],['bad'],[],[],[]
+signer0_sample261_color.mp4,1,['garden'],"['AREA' 'ARRANGE' 'BALL' 'BIG' 'BODY' 'BORN' 'BRITAIN' 'CARAVAN' 'CLOTHES'
+ 'EXCITED' 'EXPAND' 'FLOCK' 'FREE' 'GROUP' 'HOUSE' 'LONELY' 'PANIC' 'RAIN'
+ 'RELAX' 'SHEET' 'SPREAD' 'STADIUM' 'TENT' 'TIRED']",['garden'],[],[],[],[],[]
+signer0_sample1185_color.mp4,1,['orange'],['BEHAVIOUR' 'DOOR' 'FRIEND' 'LOVE' 'POOR' 'WORK'],['orange'],[],[],[],[],[]
+signer0_sample287_color.mp4,1,['evil'],"['ARRANGE' 'AUDIENCE' 'BIG' 'EXPAND' 'FLOCK' 'HOTEL' 'LONELY' 'LOW'
+ 'PICTURE' 'RAIN' 'SHEET' 'SPREAD' 'TITLE']",['evil'],[],[],[],[],[]
+signer0_sample1163_color.mp4,1,['same'],"['AREA' 'BIG' 'BRITAIN' 'CHILD' 'LONELY' 'LOOK' 'READY' 'RELAX' 'SETTLE'
+ 'SPREAD' 'SURPRISE' 'TIRED']",[],[],['same'],[],[],[]
+signer0_sample380_color.mp4,1,['baby'],"['ADULT' 'CALLISTHENICS' 'CONCENTRATE' 'DAY' 'EVALUATE' 'EXPLAIN'
+ 'HOLIDAY' 'NIGHT' 'RICH' 'SCALES' 'STADIUM']",['baby'],[],[],[],[],[]
+signer0_sample1267_color.mp4,1,['government'],['DEAF' 'EASY' 'HEAR' 'HEARING' 'LONDON' 'LOOK' 'THINK' 'YESTERDAY'],['government'],[],[],[],[],[]
+signer0_sample183_color.mp4,1,['bad'],"['AREA' 'ASK' 'BAD' 'BRITAIN' 'CHOOSE' 'HORRIBLE' 'MAYBE' 'NOTHING'
+ 'PARTY' 'PERFECT' 'PERHAPS' 'START' 'SURPRISE' 'TIRED' 'TYPICAL']",[],[],['bad'],[],[],[]
+signer0_sample1259_color.mp4,1,['single'],"['AREA' 'BEDROOM' 'BRITAIN' 'CHILD' 'HEAR' 'HOME' 'LOW' 'REMEMBER' 'TALL'
+ 'TOUCH']",[],[],['single'],[],[],[]
+signer0_sample1064_color.mp4,1,['ataturk'],"['ACCOMMODATION' 'BEDROOM' 'BRITAIN' 'DEAF' 'HEAR' 'LONDON' 'LOOK' 'NAME'
+ 'READY' 'RELAX' 'SIGN' 'SLEEP' 'SURPRISE' 'THINK' 'TIRED']",['ataturk'],[],[],[],[],[]
+signer0_sample1281_color.mp4,1,['mother'],"['AREA' 'BREATHE' 'DECREASE' 'EMOTION' 'ENDURE' 'ENOUGH' 'GO' 'LIKE' 'LOW'
+ 'READY' 'RELAX' 'TOUCH' 'WATER']",['mother'],[],[],[],[],[]
+signer0_sample366_color.mp4,1,['soap'],"['BRITAIN' 'CHAIR' 'COVER' 'DIRTY' 'EMPTY' 'MEANING' 'PRACTISE' 'PUSH'
+ 'SETTLE' 'TIDY']",['soap'],[],[],[],[],[]
+signer0_sample1082_color.mp4,1,['napkin'],"['AGE' 'ALCOHOLIC' 'AREA' 'BIG' 'BORING' 'BRITAIN' 'DEAF' 'DRINK' 'FARM'
+ 'LOOK' 'LOW' 'PEOPLE' 'TEMPT' 'USE' 'WATER']",['napkin'],[],[],[],[],[]
+signer0_sample358_color.mp4,1,['enemy'],"['AREA' 'BELFAST' 'BRITAIN' 'CHILD' 'DEAF' 'FAMILY' 'LOW' 'PANIC' 'PEOPLE'
+ 'SPREAD' 'TALL']",['enemy'],[],[],[],[],[]
+signer0_sample165_color.mp4,1,['picnic'],"['ARRANGE' 'BODY' 'BRITAIN' 'CLOTHES' 'EXPAND' 'PANIC' 'RELAX' 'SETTLE'
+ 'TIRED']",['picnic'],[],[],[],[],[]
+signer0_sample204_color.mp4,1,['hungry'],['ARRANGE' 'BIG' 'EXPAND' 'GROUP' 'SETTLE' 'TIRED'],['hungry'],[],[],[],[],[]
+signer0_sample401_color.mp4,1,['topple'],"['AREA' 'ARRANGE' 'BACK' 'BELFAST' 'BRITAIN' 'CHAIR' 'CHILD' 'FAMILY' 'GO'
+ 'HOME' 'LOW' 'MOVE' 'PANIC' 'PARK' 'SCHOOL' 'SETTLE' 'SPREAD']",['topple'],[],[],[],[],[]
+signer0_sample15_color.mp4,1,['soap'],"['AMERICA' 'BABY' 'BOAT' 'DISCUSS' 'DOOR' 'LAPTOP' 'MANCHESTER' 'MEANING'
+ 'MONDAY' 'POOR']",['soap'],[],[],[],[],[]
+signer0_sample1106_color.mp4,1,['far'],"['ARRANGE' 'BALL' 'BODY' 'BRITAIN' 'CLOTHES' 'DROP' 'EVERYTHING' 'EXPAND'
+ 'FINISH' 'FLOCK' 'LOW' 'MOVE' 'SHEET' 'SPREAD']",[],['far'],[],[],[],[]
+signer0_sample1138_color.mp4,1,['look'],"['ACCOMMODATION' 'BEDROOM' 'BRITAIN' 'DEAF' 'HEAR' 'LOOK' 'MIND' 'NAME'
+ 'OLD' 'SLEEP' 'THEORY' 'THINK']",['look'],[],[],[],[],[]
+signer0_sample1305_color.mp4,1,['no'],['BACK' 'COME' 'HEARING' 'LATER' 'LOOK' 'PEOPLE' 'SCHOOL'],[],[],[],[],['no'],[]
+signer0_sample1001_color.mp4,1,['promise'],"['BAD' 'BEAT' 'CHILD' 'KNOW' 'LITTLE' 'LIVE' 'LOOK' 'LOW' 'MAN' 'NUMBER'
+ 'OPERATE' 'RIGHT' 'SCOTLAND' 'SISTER']",['promise'],[],[],[],[],[]
+signer0_sample1202_color.mp4,1,['see'],"['AGE' 'ANESTHETISE' 'BEDROOM' 'BLIND' 'COUNCIL' 'NAME' 'OLD' 'SLEEP'
+ 'THEORY']",[],[],[],['see'],[],[]
+signer0_sample100_color.mp4,1,['family'],"['BIRMINGHAM' 'FOREIGN' 'INATTENTION' 'LINK' 'MANCHESTER' 'MOTHER' 'MOVE'
+ 'NOTHING' 'PAYMENT' 'SELL' 'SHOUT' 'THURSDAY' 'TIDY' 'TYPICAL']",['family'],[],[],[],[],[]
+signer0_sample303_color.mp4,1,['laugh'],"['AREA' 'ARMY' 'BOY' 'CHILD' 'DEAF' 'FAMILY' 'GO' 'HEAR' 'LOOK' 'LOW'
+ 'MAYBE' 'PEOPLE' 'READY' 'REMEMBER' 'RUSSIA' 'SCHOOL' 'SLEEP' 'SPEECH'
+ 'THINK' 'WONDERFUL']",['laugh'],[],[],[],[],[]
+signer0_sample1223_color.mp4,1,['hungry'],['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'LOW' 'PANIC' 'SETTLE'],['hungry'],[],[],[],[],[]
+signer0_sample1020_color.mp4,1,['police'],"['ARMY' 'ARRANGE' 'BIG' 'CLOTHES' 'DECREASE' 'ENOUGH' 'EXPAND' 'FLOCK'
+ 'FREE' 'FRIGHTENED' 'HEARING' 'LIKE' 'LIVE' 'LONELY' 'LOOK' 'LOW' 'RAIN'
+ 'READY' 'RELAX' 'SHOULDER' 'SLEEP' 'SPECTACLES' 'TENT' 'TIRED' 'WAKE'
+ 'WATER']",['police'],[],[],[],[],[]
+signer0_sample322_color.mp4,1,['enemy'],"['AEROPLANE' 'AREA' 'BACK' 'BAD' 'BIRTHDAY' 'BRITAIN' 'CHILD' 'COMMUNIST'
+ 'GOOD' 'KNOW' 'LOOK' 'LOW' 'PAST' 'RIGHT' 'SHOP' 'TALL' 'TOUCH' 'TYPICAL']",['enemy'],[],[],[],[],[]
+signer0_sample121_color.mp4,1,['not_interested'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'FAMILY' 'LOW' 'MAYBE'
+ 'PARK' 'READY' 'SETTLE' 'WALL']",[],[],[],['not_interested'],[],[]
+signer0_sample225_color.mp4,1,['orange'],"['AREA' 'BEHAVIOUR' 'BOAT' 'BUILD' 'DEPTH' 'DOOR' 'LAST' 'LIKE' 'LOVE'
+ 'MANAGE' 'PREGNANT' 'PUB' 'START' 'TEMPT' 'UNIT' 'WORK']",['orange'],[],[],[],[],[]
+signer0_sample34_color.mp4,1,['female'],"['BRITAIN' 'CHILD' 'CLOTHES' 'DEAF' 'DRINK' 'LOVELY' 'LOW' 'OLD' 'PEOPLE'
+ 'READY' 'SLEEP' 'TIRED' 'WANT' 'WATER' 'WONDERFUL']",['female'],[],[],[],[],[]
+signer0_sample1324_color.mp4,1,['single'],"['AREA' 'BEDROOM' 'BRITAIN' 'CHILD' 'KNOW' 'LEARN' 'LOW' 'READY'
+ 'REMEMBER' 'SLEEP' 'THEORY' 'THINK' 'TIRED' 'WANT']",[],[],['single'],[],[],[]
+signer0_sample1119_color.mp4,1,['hi'],['AREA' 'BRITAIN' 'CHILD' 'DECREASE' 'ETHNIC' 'LOW' 'MAYBE' 'TALL'],['hi'],[],[],[],[],[]
+signer0_sample1127_color.mp4,1,['carpet'],"['ARRANGE' 'BELFAST' 'BODY' 'CLOTHES' 'EXPAND' 'FREE' 'LOSE' 'PANIC'
+ 'RAIN' 'READY' 'RELAX' 'SETTLE' 'SPREAD' 'TIRED']",['carpet'],[],[],[],[],[]
+signer0_sample1045_color.mp4,1,['eat'],"['BIRTHDAY' 'BLACK' 'CHRISTMAS' 'EAT' 'ENOUGH' 'FRANCE' 'LIVE' 'LOVELY'
+ 'MAN' 'NUMBER' 'PLENTY' 'TEA' 'USE']",['eat'],[],[],[],[],[]
+signer0_sample1278_color.mp4,1,['escape'],"['AREA' 'ARRANGE' 'BIG' 'BREATHE' 'EXPAND' 'GROUP' 'IRELAND' 'LIKE'
+ 'MORNING' 'PARK' 'SURPRISE' 'WITHOUT']",['escape'],[],[],[],[],[]
+signer0_sample1246_color.mp4,1,['look'],['DEAF' 'DECIDE' 'HEAR' 'HEARING' 'LONDON' 'NAME' 'THINK' 'YESTERDAY'],['look'],[],[],[],[],[]
+signer0_sample144_color.mp4,1,['pharmacy'],"['ACCOMMODATION' 'ARRANGE' 'BIG' 'DRINK' 'EXPAND' 'HOLIDAY' 'HOUSE' 'KNOW'
+ 'LONELY' 'LOOK' 'RAIN' 'REDUCE' 'REMEMBER' 'RETIRE' 'SHOUT' 'SISTER'
+ 'SLEEP' 'SPECTACLES' 'SPREAD' 'TEA' 'TIRED' 'WAKE']",['pharmacy'],[],[],[],[],[]
+signer0_sample379_color.mp4,1,['salary'],"['AREA' 'BELFAST' 'CHAIR' 'CHILD' 'ESCAPE' 'LOW' 'MERGE' 'PRACTISE'
+ 'UNIVERSAL']",['salary'],[],[],[],[],[]
+signer0_sample347_color.mp4,1,['tired'],"['AREA' 'CHAIR' 'ESCAPE' 'EXCLUDE' 'FOREIGN' 'FULL' 'GO' 'LEAVE' 'MERGE'
+ 'MIX' 'TALL']",[],[],[],['tired'],[],[]
+signer0_sample240_color.mp4,1,['show'],"['AEROPLANE' 'BAD' 'DECREASE' 'ENOUGH' 'FAMOUS' 'FINISH' 'HEAR' 'KNOW'
+ 'LOW' 'MAYBE' 'NOTHING' 'PERFECT' 'READY' 'RELAX' 'REMEMBER' 'SHOULDER'
+ 'SLEEP']",['show'],[],[],[],[],[]
+signer0_sample298_color.mp4,1,['stairs'],"['AREA' 'BIG' 'BRITAIN' 'EXPAND' 'LOOK' 'PEOPLE' 'READY' 'SIZE' 'SURPRISE'
+ 'WATER']",['stairs'],[],[],[],[],[]
+signer0_sample1142_color.mp4,1,['brother'],"['AREA' 'BACK' 'BAD' 'BIRTHDAY' 'BOY' 'CHILD' 'DEAF' 'DESSERT' 'ENOUGH'
+ 'FEEL' 'GO' 'GOOD' 'HEAR' 'KNOW' 'LEG' 'LIVE' 'LOW' 'MAN' 'NICE' 'PLENTY'
+ 'REMEMBER' 'RIGHT' 'SAY' 'TOUCH']",['brother'],[],[],[],[],[]
+signer0_sample1341_color.mp4,1,['congratulations'],"['ANESTHETISE' 'AREA' 'BRITAIN' 'DEAF' 'EVALUATE' 'FACE' 'HEAR' 'KNOW'
+ 'LOOK' 'NAME' 'OLD' 'PANIC' 'SETTLE' 'SLEEP' 'SURPRISE' 'THINK' 'TIRED'
+ 'WANT']",['congratulations'],[],[],[],[],[]
+signer0_sample1330_color.mp4,1,['we'],['ARRANGE' 'BIG' 'CLOTHES' 'EXPAND' 'RAIN' 'RELAX' 'SHEET' 'TIRED'],[],[],[],[],['we'],[]
+signer0_sample1133_color.mp4,1,['wednesday'],"['BEDROOM' 'BRITAIN' 'DEAF' 'HEAR' 'KNOW' 'MIND' 'REMEMBER' 'SLEEP'
+ 'THINK']",['wednesday'],[],[],[],[],[]
+signer0_sample20_color.mp4,1,['see'],"['BEDROOM' 'BLIND' 'BRITAIN' 'CHILD' 'COUNCIL' 'DEAF' 'GIRL' 'HEAR' 'LOOK'
+ 'LOW' 'PEOPLE' 'SCHOOL' 'SLEEP']",[],[],[],['see'],[],[]
+signer0_sample231_color.mp4,1,['enjoy_your_meal'],"['AMERICA' 'AREA' 'ARRANGE' 'BREATHE' 'BRITAIN' 'EMOTION' 'ENDURE'
+ 'ENOUGH' 'EVALUATE' 'GROUP' 'LIKE' 'LOVE' 'LOW' 'READY' 'SETTLE'
+ 'SURPRISE' 'TIRED' 'UPSET' 'WANT' 'WATER' 'WITHOUT' 'WOW']",['enjoy_your_meal'],[],[],[],[],[]
+signer0_sample336_color.mp4,1,['love'],"['AREA' 'BECKON' 'BRITAIN' 'CHILD' 'ENOUGH' 'LAUGH' 'LOW' 'MAYBE' 'PARK'
+ 'PLENTY' 'PREGNANT' 'SCHOOL' 'SINCE' 'SURPRISE' 'TIRED' 'TOILET' 'WATER']",['love'],[],[],[],[],[]
+signer0_sample308_color.mp4,1,['where'],"['ALLOW' 'CLOTHES' 'EXPAND' 'FLOCK' 'FREE' 'LONELY' 'RAIN' 'RELAX'
+ 'RETIRE' 'SLEEP' 'SPECTACLES' 'TIRED' 'WAKE']",[],[],[],[],[],[]
+signer0_sample135_color.mp4,1,['photograph'],"['ACCOMMODATION' 'ARRANGE' 'AUDIENCE' 'BRITAIN' 'CLOTHES' 'EXPAND' 'FLOCK'
+ 'GRAB' 'HOTEL' 'LOW' 'SPREAD']",['photograph'],[],[],[],[],[]
+signer0_sample1237_color.mp4,1,['border'],['AREA' 'ARRANGE' 'BEACH' 'BELFAST' 'CLOSED' 'SPREAD' 'UNIT'],['border'],[],[],[],[],[]
+signer0_sample1209_color.mp4,1,['yes'],"['ACT' 'ASK' 'BAD' 'BALL' 'BRITAIN' 'CHILD' 'LEG' 'LOW' 'NOTHING' 'PARTY'
+ 'PERFECT' 'SPREAD' 'TOUCH']",['yes'],[],[],[],[],[]
+signer0_sample1034_color.mp4,1,['sister'],"['AREA' 'BAD' 'BEDROOM' 'BOY' 'BRITAIN' 'CHILD' 'DEAF' 'EASY' 'FOREIGN'
+ 'HEAR' 'HOME' 'LEG' 'LOOK' 'LOVELY' 'LOW' 'ORAL' 'SAY' 'SCHOOL' 'SLEEP']",['sister'],[],[],[],[],[]
+signer0_sample1156_color.mp4,1,['sunday'],"['AMERICA' 'AREA' 'ARRANGE' 'BIG' 'BODY' 'BRITAIN' 'CLOTHES' 'EXPAND'
+ 'GROUP' 'LOW' 'MERGE' 'READY' 'RELAX' 'SURPRISE' 'TIRED']",['sunday'],[],[],[],[],[]
+signer0_sample1168_color.mp4,1,['same'],['AREA' 'BAD' 'CHILD' 'HOME' 'LOOK' 'LOW' 'NEXT' 'OPERATE' 'RIGHT' 'TOUCH'],[],[],['same'],[],[],[]
+signer0_sample254_color.mp4,1,['war'],['BODY' 'CLOTHES' 'EXPAND' 'GROUP' 'READY' 'RELAX' 'TIRED' 'WAR'],['war'],[],[],[],[],[]
+signer0_sample150_color.mp4,1,['tea'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BELFAST' 'BRITAIN' 'CHILD' 'FAMILY' 'LOW'
+ 'MAYBE' 'READY' 'SPREAD' 'SURROUNDINGS']",['tea'],[],[],[],[],[]
+signer0_sample1089_color.mp4,1,['wise'],"['AEROPLANE' 'AREA' 'BRITAIN' 'FINISH' 'FOREIGN' 'FORGET' 'FUTURE'
+ 'GESTURE' 'HOME' 'INFORM' 'MAYBE' 'MOVE' 'RAIN' 'REMEMBER' 'TALL']",['wise'],[],[],[],[],[]
+signer0_sample353_color.mp4,1,['identity'],['BALL' 'BRITAIN' 'FINISH' 'PUSH' 'TIRED'],['identity'],[],[],[],[],[]
+signer0_sample1051_color.mp4,1,['voice'],['GIRL' 'HEARING' 'KNOW' 'LOOK' 'REMEMBER' 'SISTER' 'THINK'],['voice'],[],[],[],[],[]
+signer0_sample188_color.mp4,1,['lap'],"['BEHAVIOUR' 'BUILD' 'CRASH' 'DECREASE' 'DEPTH' 'DOOR' 'ENOUGH' 'MANAGE'
+ 'PERIODIC' 'SHOULDER']",['lap'],[],[],[],[],[]
+signer0_sample1252_color.mp4,1,['key'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'ESCAPE' 'MOTHER' 'PANIC' 'PLAN'
+ 'PRACTISE' 'SETTLE' 'SPREAD' 'TELEVISION' 'TIDY' 'WALK' 'WRITE' 'YOUNG']",['key'],[],[],[],[],[]
+signer0_sample372_color.mp4,1,['mirror'],['DRINK' 'FOREIGN' 'GO' 'HEAR' 'HOME' 'INFORM' 'NIGHT' 'SLEEP'],['mirror'],[],[],[],[],[]
+signer0_sample1295_color.mp4,1,['wood'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHAIR' 'CHILD' 'DECORATE' 'FOREIGN'
+ 'GO' 'HOME' 'LOW' 'NOTHING' 'SCHOOL' 'WALL']",['wood'],[],[],[],[],[]
+signer0_sample171_color.mp4,1,['mother'],"['AREA' 'ARRANGE' 'BIG' 'BREATHE' 'CLOTHES' 'EMOTION' 'EXPAND' 'GROUP'
+ 'LIKE' 'READY' 'SIGN' 'SURPRISE' 'TIRED' 'WANT' 'WATER' 'WOW']",['mother'],[],[],[],[],[]
+signer0_sample1096_color.mp4,1,['fork'],"['AREA' 'GO' 'LOOK' 'MOTHER' 'PAY' 'PLAN' 'PRACTISE' 'STAND' 'STILL'
+ 'TELEVISION' 'THURSDAY' 'TIDY' 'WALK' 'YOUNG']",['fork'],[],[],[],[],[]
+signer0_sample1273_color.mp4,1,['yesterday'],"['BACK' 'BRITAIN' 'DEAF' 'HEARING' 'HOME' 'LONDON' 'LOW' 'PAST' 'RANKING'
+ 'SINCE' 'TALL' 'THINK' 'TOUCH' 'WANT' 'WOW' 'YESTERDAY']",['yesterday'],[],[],[],[],[]
+signer0_sample394_color.mp4,1,['hammer'],"['ARRANGE' 'BIG' 'BUILD' 'BUY' 'DROP' 'EXPAND' 'GRAB' 'LONELY' 'LOW'
+ 'MOVE' 'OPERATE' 'SPREAD' 'START' 'TEACH' 'WORSE']",['hammer'],[],[],[],[],[]
+signer0_sample1070_color.mp4,1,['they'],['BACK' 'LOOK'],[],[],[],[],['they'],[]
+signer0_sample197_color.mp4,1,['pharmacy'],"['ACCOMMODATION' 'ALLOW' 'ARRANGE' 'BAD' 'BIG' 'CHECK' 'CLOTHES' 'DEAF'
+ 'EXPAND' 'FREE' 'HEARING' 'KNOW' 'LONELY' 'LOOK' 'LOW' 'RAIN' 'RELAX'
+ 'RETIRE' 'SISTER' 'SLEEP' 'SPECTACLES' 'THINK' 'TIRED' 'WAKE']",['pharmacy'],[],[],[],[],[]
+signer0_sample293_color.mp4,1,['you'],['AUDIENCE' 'FLOCK' 'PICTURE' 'ROOM' 'SPREAD'],[],[],[],[],['you'],[]
+signer0_sample1149_color.mp4,1,['scales'],"['ANGRY' 'DAY' 'DISCUSS' 'ENCOURAGE' 'EXPLAIN' 'GIVE' 'LEAVE' 'OFFER'
+ 'PLAY' 'SCALES' 'SIGN']",['scales'],[],[],[],[],[]
+signer0_sample1177_color.mp4,1,['goodbye'],['FILM' 'MUST' 'NOTHING' 'SYMPATHY' 'WITHOUT'],['goodbye'],[],[],[],[],[]
+signer0_sample275_color.mp4,1,['topple'],"['AREA' 'ARMY' 'ARRANGE' 'BACK' 'BELFAST' 'BRITAIN' 'CHILD' 'CLOSED'
+ 'DECREASE' 'FAMILY' 'FOREIGN' 'FUTURE' 'GO' 'HOME' 'LOW' 'PARK' 'SCHOOL'
+ 'SPREAD']",['topple'],[],[],[],[],[]
+signer0_sample1191_color.mp4,1,['baby'],"['ADULT' 'ARRANGE' 'BODY' 'CHILD' 'CLOTHES' 'DEPTH' 'FLOCK' 'GO' 'LOW'
+ 'RELAX' 'RICH' 'UPWARD' 'WOW']",['baby'],[],[],[],[],[]
+signer0_sample114_color.mp4,1,['stairs'],['AREA' 'FARM' 'FRANCE' 'LOOK' 'PEOPLE' 'REMEMBER' 'SIZE' 'SPEECH'],['stairs'],[],[],[],[],[]
+signer0_sample329_color.mp4,1,['say'],"['BORING' 'BOY' 'CRUEL' 'ENOUGH' 'GOOD' 'MAN' 'MAYBE' 'MORNING' 'NUMBER'
+ 'PEOPLE' 'PERHAPS' 'PLENTY' 'SCHOOL' 'TOUCH']",[],[],[],['say'],[],[]
+signer0_sample317_color.mp4,1,['who'],"['BAD' 'COMMUNIST' 'DRINK' 'FARM' 'KNOW' 'LITTLE' 'LIVE' 'REMEMBER'
+ 'SHOUT' 'SISTER' 'SLEEP' 'TEA' 'TYPICAL' 'WATER']",[],[],[],[],[],[]
+signer0_sample1015_color.mp4,1,['hospital'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BIG' 'BRITAIN' 'CHAIR' 'CHILD' 'ESCAPE'
+ 'FLOCK' 'HOLLAND' 'INFLUENCE' 'LONELY' 'LOW' 'MERGE' 'PARTY' 'PRACTISE'
+ 'RAIN' 'REDUCE' 'SETTLE' 'SPOUSE' 'SPREAD' 'SWIM' 'TITLE' 'UPWARD']",['hospital'],[],[],[],[],[]
+signer0_sample1228_color.mp4,1,['doctor'],"['AMERICA' 'AREA' 'LINK' 'LOVE' 'MEANING' 'MIX' 'POOR' 'RELATIONSHIP'
+ 'WEDNESDAY']",['doctor'],[],[],[],[],[]
+signer0_sample1216_color.mp4,1,['hat'],"['AEROPLANE' 'AREA' 'ARRIVE' 'BAD' 'DARTS' 'FARM' 'FOREIGN' 'FUTURE'
+ 'HOME' 'INFORM' 'KNOW' 'MAYBE' 'MOVE' 'REMEMBER' 'TOUCH']",['hat'],[],[],[],[],[]
+signer0_sample1112_color.mp4,1,['dog'],"['AREA' 'AUSTRALIA' 'BRITAIN' 'CLOSED' 'COMPUTER' 'FARM' 'FINISH'
+ 'FOREIGN' 'FUTURE' 'GO' 'GRAB' 'SHOUT']",['dog'],[],[],[],[],[]
+signer0_sample1311_color.mp4,1,['bill'],"['AREA' 'BORN' 'BRITAIN' 'CHAIR' 'CHILD' 'CLOTHES' 'COMPUTER' 'DECREASE'
+ 'FAMILY' 'GIVE' 'LOW' 'PAY' 'SCHOOL' 'SPREAD' 'STRONG' 'SWIM' 'WALK'
+ 'YOUNG']",['bill'],[],[],[],[],[]
+signer0_sample210_color.mp4,1,['fault'],"['AREA' 'BAD' 'CHILD' 'FBUOY' 'KNOW' 'LOOK' 'PEOPLE' 'PERSON' 'REMEMBER'
+ 'THINK']",['fault'],[],[],[],[],[]
+signer0_sample1173_color.mp4,1,['star'],"['ACCOMMODATION' 'AREA' 'ARRANGE' 'BEDROOM' 'BRITAIN' 'CARAVAN' 'EXPAND'
+ 'GROUP' 'HOUSE' 'LOW' 'SIZE' 'SLEEP' 'SPREAD' 'TENT' 'THEORY' 'TOP']",['star'],[],[],[],[],[]
+signer0_sample297_color.mp4,1,['date'],"['BORN' 'BUY' 'EXPERIENCE' 'LAST' 'LEG' 'LOW' 'MOTHER' 'NEVER' 'NEW'
+ 'RISE' 'SATURDAY' 'START' 'WORSE']",['date'],[],[],[],[],[]
+signer0_sample1195_color.mp4,1,['tomorrow'],"['AREA' 'BAD' 'BIRTHDAY' 'CHILD' 'ENOUGH' 'EXPECT' 'GOOD' 'KNOW' 'LEG'
+ 'LOW' 'MAN' 'MAYBE' 'MORNING' 'NICE' 'PERHAPS' 'RIGHT' 'SCOTLAND' 'TOUCH'
+ 'TYPICAL']",['tomorrow'],[],[],[],[],[]
+signer0_sample271_color.mp4,1,['stairs'],['CHOOSE' 'LOOK' 'SPEECH'],['stairs'],[],[],[],[],[]
+signer0_sample175_color.mp4,1,['alone'],"['BAD' 'BIG' 'BRITAIN' 'DEAF' 'HEAR' 'HEARING' 'KNOW' 'LITTLE' 'LIVE'
+ 'LOOK' 'NAME' 'REMEMBER' 'THINK' 'WANT']",[],['alone'],[],[],[],[]
+signer0_sample348_color.mp4,1,['tuesday'],"['ARRANGE' 'BODY' 'BORN' 'BRITAIN' 'CLOTHES' 'EXCITED' 'EXPAND' 'LOSE'
+ 'LOW' 'READY' 'RELAX' 'SPREAD' 'SURPRISE' 'TEACH' 'TIRED']",['tuesday'],[],[],[],[],[]
+signer0_sample1092_color.mp4,1,['bad'],"['BAD' 'CHILD' 'HORRIBLE' 'LEG' 'LOW' 'RIGHT' 'SCOTLAND' 'TYPICAL' 'WAIT'
+ 'YES']",[],[],['bad'],[],[],[]
+signer0_sample2_color.mp4,1,['radiator'],"['ACT' 'AREA' 'ARRANGE' 'AUDIENCE' 'BIG' 'BRITAIN' 'EXPAND' 'FINISH'
+ 'FLOCK' 'LOW' 'NOTHING' 'PERFECT' 'PUSH' 'QUIET' 'RAIN' 'SETTLE' 'SHEET'
+ 'SPREAD']",['radiator'],[],[],[],[],[]
+signer0_sample376_color.mp4,1,['gift'],"['AGE' 'AREA' 'BAD' 'BORING' 'BRITAIN' 'CHILD' 'DEAF' 'ETHNIC' 'FARM'
+ 'FIVE' 'FORGET' 'FOUR' 'LOW' 'MAYBE' 'MUM' 'SCHOOL' 'SEEM' 'THREE' 'USE']",['gift'],[],[],[],[],[]
+signer0_sample1291_color.mp4,1,['drink'],['BAD' 'BIRTHDAY' 'BLACK' 'FRANCE' 'HEAR' 'KNOW' 'LIVE' 'REMEMBER'],['drink'],[],[],[],[],[]
+signer0_sample1074_color.mp4,1,['why'],"['ASK' 'BEHAVIOUR' 'BREATHE' 'EMOTION' 'FOREIGN' 'LIKE' 'LINK' 'LOVE'
+ 'MARRY' 'POOR' 'SPOUSE' 'TOUCH' 'UPSET' 'WORK']",[],[],[],[],[],[]
+signer0_sample1249_color.mp4,1,['allright'],"['AGE' 'BORING' 'FIND' 'FORGET' 'GOOD' 'HOLIDAY' 'HOT' 'LOVELY' 'NIGHT'
+ 'SEEM' 'STRONG' 'TEMPT' 'WORSE']",['allright'],[],[],[],[],[]
+signer0_sample193_color.mp4,1,['wise'],"['AEROPLANE' 'AREA' 'BRITAIN' 'FINISH' 'FOREIGN' 'FUTURE' 'GESTURE' 'HOME'
+ 'INFORM' 'MAYBE' 'MOVE' 'RAIN' 'REMEMBER' 'TALL' 'TIRED']",['wise'],[],[],[],[],[]
+signer0_sample1277_color.mp4,1,['free'],"['ATTENTION' 'BODY' 'CLOTHES' 'EXPAND' 'FREE' 'LOOK' 'RAIN' 'READY'
+ 'REDUCE' 'RELAX' 'SCHOOL' 'SLEEP' 'TIRED' 'TITLE']",[],[],['free'],[],[],[]
+signer0_sample390_color.mp4,1,['friend'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHAIR' 'LOW' 'PANIC' 'RELAX'
+ 'SETTLE' 'SPREAD']",['friend'],[],[],[],[],[]
+signer0_sample1315_color.mp4,1,['always'],"['ACT' 'ARRANGE' 'CLOTHES' 'EXPAND' 'FAMOUS' 'FLOCK' 'HOLIDAY' 'HOLLAND'
+ 'HORRIBLE' 'LOW' 'NOTHING' 'PANIC' 'PARTY' 'PERFECT' 'QUIET' 'SETTLE'
+ 'SHEET' 'SPREAD' 'UPWARD' 'WEATHER']",[],['always'],[],[],[],[]
+signer0_sample1128_color.mp4,1,['turkey'],"['AREA' 'BRITAIN' 'CHILD' 'GERMANY' 'KNOW' 'LOOK' 'LOW' 'PERSON'
+ 'REMEMBER' 'THINK']",['turkey'],[],[],[],[],[]
+signer0_sample1116_color.mp4,1,['wedding'],"['BANDAGE' 'BEHAVIOUR' 'DAY' 'EXPLAIN' 'FIRST' 'HALF' 'HOT' 'MANAGE'
+ 'NEVER' 'NEW' 'NIGHT' 'PERIODIC' 'SINCE' 'THANK' 'TRUE' 'WORK']",['wedding'],[],[],[],[],[]
+signer0_sample214_color.mp4,1,['glass'],"['CHILD' 'EIGHT' 'FARM' 'FIFTEEN' 'FIVE' 'FOUR' 'LOW' 'NINE' 'RISE'
+ 'SEVEN' 'TEN' 'THREE']",['glass'],[],[],[],[],[]
+signer0_sample313_color.mp4,1,['ataturk'],"['ACCOMMODATION' 'BEDROOM' 'BRITAIN' 'DEAF' 'LOW' 'READY' 'RELAX' 'SLEEP'
+ 'TIRED']",['ataturk'],[],[],[],[],[]
+signer0_sample110_color.mp4,1,['cotton'],"['AUDIENCE' 'BRITAIN' 'CHAIR' 'EQUAL' 'FLOCK' 'LOW' 'RELAX' 'TEACH' 'TENT'
+ 'UPWARD']",['cotton'],[],[],[],[],[]
+signer0_sample1212_color.mp4,1,['forest'],"['ANYTHING' 'BALL' 'BODY' 'BRITAIN' 'DECORATE' 'EVERYTHING' 'FOREIGN'
+ 'FUTURE' 'GESTURE' 'GO' 'LOW' 'MANY' 'NEW' 'NIGHT' 'PLAY' 'RISE' 'SIGN'
+ 'STADIUM' 'STRAIGHTAWAY']",['forest'],[],[],[],[],[]
+signer0_sample1011_color.mp4,1,['smell'],['AREA' 'BRITAIN' 'SIZE'],['smell'],[],[],[],[],[]
+signer0_sample131_color.mp4,1,['picnic'],"['ARRANGE' 'AUDIENCE' 'BELFAST' 'CLOTHES' 'LONELY' 'LOW' 'PANIC' 'RAIN'
+ 'RELAX' 'SPREAD' 'TIRED']",['picnic'],[],[],[],[],[]
+signer0_sample332_color.mp4,1,['fault'],['DRINK' 'FARM' 'KNOW' 'LOOK' 'PEOPLE' 'REMEMBER' 'SLEEP' 'WATER'],['fault'],[],[],[],[],[]
+signer0_sample1030_color.mp4,1,['mirror'],"['AREA' 'BRITAIN' 'DEAF' 'FOREIGN' 'GO' 'HEAR' 'LOW' 'MAYBE' 'MUST'
+ 'SLEEP' 'TIRED']",['mirror'],[],[],[],[],[]
+signer0_sample1233_color.mp4,1,['soup'],['BORING' 'CONCENTRATE' 'HOT' 'NIGHT' 'SCHOOL' 'THANK' 'WOW'],['soup'],[],[],[],[],[]
+signer0_sample1137_color.mp4,1,['ugly'],"['AREA' 'BEDROOM' 'BIG' 'BODY' 'BREATHE' 'BRITAIN' 'CLOTHES' 'DECREASE'
+ 'HEAR' 'HOME' 'LOW' 'PREGNANT' 'READY' 'RELAX' 'SLEEP' 'SURPRISE' 'TIRED'
+ 'TOUCH' 'WANT' 'WOW']",[],['ugly'],[],[],[],[]
+signer0_sample1109_color.mp4,1,['angel'],"['AMERICA' 'BEHAVIOUR' 'BODY' 'BORING' 'BORN' 'BREATHE' 'CLOTHES'
+ 'DISCUSS' 'DOOR' 'FARM' 'LAPTOP' 'LIKE' 'LOVE' 'MANY' 'PEOPLE' 'POOR'
+ 'PREGNANT' 'SCHOOL' 'SURPRISE' 'UPSET' 'WOW']",['angel'],[],[],[],[],[]
+signer0_sample1334_color.mp4,1,['thursday'],"['BOY' 'DEAF' 'KNOW' 'LAUGH' 'LIVE' 'LOOK' 'LOW' 'NICE' 'SAY' 'SISTER'
+ 'THINK']",['thursday'],[],[],[],[],[]
+signer0_sample24_color.mp4,1,['flour'],"['AMERICA' 'AREA' 'ARRANGE' 'BIG' 'BODY' 'BOY' 'CLOTHES' 'DECREASE'
+ 'DIRTY' 'DISAPPEAR' 'DISCUSS' 'ENOUGH' 'EXPAND' 'GO' 'GROUP' 'HAPPY'
+ 'KNOW' 'LINK' 'LIVE' 'LOVE' 'LOW' 'MEANING' 'NICE' 'PARK' 'PREGNANT'
+ 'SIGN' 'SPREAD' 'SURPRISE' 'TALL']",['flour'],[],[],[],[],[]
+signer0_sample235_color.mp4,1,['wall'],"['BALL' 'CLOSED' 'FINISH' 'FLOCK' 'GESTURE' 'MUST' 'NOTHING' 'PERFECT'
+ 'PUSH' 'REDUCE' 'SHEET' 'SMALL']",['wall'],[],[],[],[],[]
+signer0_sample357_color.mp4,1,['labor'],['AREA' 'BIG' 'BRITAIN' 'LOW' 'RAIN' 'READY' 'TIRED'],['labor'],[],[],[],[],[]
+signer0_sample369_color.mp4,1,['football'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BIG' 'EXPAND' 'GESTURE' 'GROUP' 'SETTLE'
+ 'SPREAD' 'SURROUNDINGS']",['football'],[],[],[],[],[]
+signer0_sample154_color.mp4,1,['sweet'],['BOY' 'DEAF' 'EASY' 'PEOPLE' 'RED' 'SAY' 'THINK'],['sweet'],[],[],[],[],[]
+signer0_sample1256_color.mp4,1,['no'],['GIRL' 'HEARING' 'LATER' 'PEOPLE'],[],[],[],[],['no'],[]
+signer0_sample1268_color.mp4,1,['hour'],"['DOCTOR' 'IRELAND' 'MARRY' 'PARK' 'POLICE' 'PRESIDENT' 'PROBLEM' 'SLOW'
+ 'STAFF' 'TERRIFIED' 'THEATRE' 'TIME']",['hour'],[],[],[],[],[]
+signer0_sample1055_color.mp4,1,['tap'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'DISAPPOINT' 'FAMILY' 'LIVE' 'LOOK'
+ 'PANIC' 'PARK' 'PRESIDENT' 'READY' 'SURPRISE']",['tap'],[],[],[],[],[]
+signer0_sample1152_color.mp4,1,['window'],"['ACCOMMODATION' 'AREA' 'ARRIVE' 'BIG' 'CARAVAN' 'DIFFERENT' 'EXPAND'
+ 'FOREIGN' 'FORGET' 'GO' 'HEAR' 'HOME' 'HOUSE' 'LEAVE' 'MAYBE' 'NIGHT'
+ 'PICTURE' 'QUIET' 'REDUCE' 'ROOM' 'SCHOOL' 'SLEEP' 'SPECTACLES' 'SPREAD'
+ 'STAY' 'TICKET' 'TITLE' 'VIEW' 'WALL']",['window'],[],[],[],[],[]
+signer0_sample288_color.mp4,1,['bridge'],"['ACCOMMODATION' 'ARRANGE' 'BIG' 'BODY' 'BRITAIN' 'CLOTHES' 'EXPAND'
+ 'GROUP' 'HOLIDAY' 'HOLLAND' 'HOUSE' 'LOW' 'SLEEP' 'SPECTACLES' 'SPREAD'
+ 'TENT' 'TIRED' 'VIEW']",['bridge'],[],[],[],[],[]
+signer0_sample250_color.mp4,1,['work'],"['ANGRY' 'BODY' 'BORN' 'CLOTHES' 'EVALUATE' 'HEAVY' 'ILL' 'RICH' 'STRONG'
+ 'WITHDRAW' 'WOW']",['work'],[],[],[],[],[]
+signer0_sample221_color.mp4,1,['cook'],"['BIRTHDAY' 'BLACK' 'BORN' 'CLOTHES' 'EAT' 'EXPLAIN' 'FRANCE' 'HURT'
+ 'KNOW' 'LEAVE' 'LIVE' 'LOVELY' 'NUMBER' 'OFFER' 'PLAY' 'RISE' 'SCALES']",['cook'],[],[],[],[],[]
+signer0_sample30_color.mp4,1,['family'],['DISCUSS' 'LINK' 'NOTHING' 'PAYMENT' 'SIGN'],['family'],[],[],[],[],[]
+signer0_sample1123_color.mp4,1,['do'],['AREA' 'BELFAST' 'BRITAIN' 'CHAIR' 'CHILD' 'LOW' 'PRACTISE' 'RELAX'],[],[],[],['do'],[],[]
+signer0_sample1320_color.mp4,1,['comb'],['AREA' 'FOREIGN' 'FUTURE' 'LOW' 'MAYBE' 'PAST' 'SIZE' 'TOUCH'],['comb'],[],[],[],[],[]
+signer0_sample1024_color.mp4,1,['minute'],"['AREA' 'ARRANGE' 'CHILD' 'DISAPPEAR' 'FUTURE' 'GROUP' 'LEG' 'LINK' 'LOVE'
+ 'LOW' 'MARRY' 'MONDAY' 'NOTHING' 'OLYMPIC' 'PAYMENT' 'RELATIONSHIP'
+ 'SPOUSE' 'SPREAD' 'THEATRE' 'WORK']",['minute'],[],[],[],[],[]
+signer0_sample1219_color.mp4,1,['sister'],"['BEDROOM' 'BORING' 'BOY' 'BRITAIN' 'CHRISTMAS' 'DEAF' 'DRINK' 'ENOUGH'
+ 'GO' 'HEAR' 'HOME' 'LOOK' 'LOVELY' 'MAN' 'MAYBE' 'MUST' 'NIGHT' 'OLD'
+ 'ORAL' 'PEOPLE' 'REDUCE' 'SLEEP' 'TIRED' 'USE' 'WONDERFUL']",['sister'],[],[],[],[],[]
+signer0_sample1227_color.mp4,1,['work'],"['ACT' 'ANGRY' 'BODY' 'CALLISTHENICS' 'CLOTHES' 'DAY' 'FINISH' 'FLOCK'
+ 'FORWARD' 'ILL' 'LEAVE' 'PERFECT' 'RETIRE' 'RICH' 'SHEET' 'STRONG'
+ 'STUBBORN' 'WOW']",['work'],[],[],[],[],[]
+signer0_sample125_color.mp4,1,['school'],"['AGE' 'BORING' 'BRITAIN' 'COUNCIL' 'EIGHT' 'FARM' 'FIFTEEN' 'FIVE^ZERO'
+ 'FOUR' 'MAYBE' 'SEEM' 'SLEEP']",['school'],[],[],[],[],[]
+signer0_sample318_color.mp4,1,['male'],"['ACCOMMODATION' 'AREA' 'BEDROOM' 'BRITAIN' 'CONFUSE' 'DEAF' 'FARM' 'HEAR'
+ 'HOTEL' 'KNOW' 'LIVE' 'LOOK' 'PERSON' 'REMEMBER' 'RISE' 'SIZE' 'SLEEP'
+ 'THEORY' 'THINK' 'TOP' 'WANT' 'WATER']",['male'],[],[],[],[],[]
+signer0_sample326_color.mp4,1,['congratulations'],"['AREA' 'BRITAIN' 'DEAF' 'EVALUATE' 'HEAR' 'LOOK' 'OLD' 'SURPRISE' 'THINK'
+ 'WANT']",['congratulations'],[],[],[],[],[]
+signer0_sample244_color.mp4,1,['god_preserve'],['BEHAVIOUR' 'FRIEND' 'FRIGHTENED' 'FULL' 'LIKE' 'SPOUSE' 'WORK'],['god_preserve'],[],[],[],[],[]
+signer0_sample1345_color.mp4,1,['full'],"['AREA' 'AUDIENCE' 'BELFAST' 'BRITAIN' 'FAMILY' 'LOW' 'RAIN' 'READY'
+ 'RELAX' 'TIRED']",[],[],['full'],[],[],[]
+signer0_sample1178_color.mp4,1,['work'],"['ANGRY' 'BIG' 'CALLISTHENICS' 'CLOTHES' 'EVERYTHING' 'FINISH' 'FLOCK'
+ 'HEALTHY' 'ILL' 'PARTY' 'RICH' 'SHEET' 'STADIUM' 'STRONG' 'STUBBORN'
+ 'TEACH' 'UNIT' 'UPWARD' 'WORSE']",['work'],[],[],[],[],[]
+signer0_sample1146_color.mp4,1,['halal'],['AMERICA' 'ARRANGE' 'CHAIR' 'POOR' 'UNIT'],['halal'],[],[],[],[],[]
+signer0_sample1242_color.mp4,1,['band-aid'],"['ARRANGE' 'AUDIENCE' 'BIG' 'CLOTHES' 'EXPAND' 'LONELY' 'RAIN' 'RELAX'
+ 'SHEET' 'SPREAD' 'TIRED']",['band-aid'],[],[],[],[],[]
+signer0_sample198_color.mp4,1,['screwdriver'],"['ARRANGE' 'BODY' 'CLOTHES' 'EMPTY' 'EXPAND' 'GROUP' 'LOW' 'MOTHER' 'PLAN'
+ 'PREGNANT' 'SATURDAY' 'SPREAD' 'TELEVISION' 'THURSDAY' 'TIRED' 'YOUNG']",['screwdriver'],[],[],[],[],[]
+signer0_sample1041_color.mp4,1,['sunday'],"['CLOTHES' 'DEAF' 'ENOUGH' 'FAMILY' 'FREE' 'LOW' 'RAIN' 'READY' 'RELAX'
+ 'SHOULDER' 'TIRED']",['sunday'],[],[],[],[],[]
+signer0_sample343_color.mp4,1,['animal'],"['ADULT' 'AUDIENCE' 'BIG' 'BODY' 'CLOTHES' 'FLOCK' 'FREE' 'HOLIDAY'
+ 'HOLLAND' 'LOW' 'NIGHT' 'PARTY' 'RAIN' 'RELAX' 'UPWARD']",['animal'],[],[],[],[],[]
+signer0_sample1099_color.mp4,1,['hour'],"['BAD' 'BLUE' 'BOY' 'CHILD' 'DEAF' 'DOCTOR' 'FATHER' 'IRELAND' 'LOOK'
+ 'LOW' 'PEOPLE' 'POLICE' 'PROBLEM' 'SAY' 'SIT' 'SPOUSE' 'THEATRE' 'TIME']",['hour'],[],[],[],[],[]
+signer0_sample140_color.mp4,1,['stain'],"['AREA' 'BREATHE' 'IRELAND' 'LIKE' 'LOOK' 'PARK' 'PRESIDENT' 'READY'
+ 'SCHOOL' 'SURPRISE' 'WANT' 'WATER']",['stain'],[],[],[],[],[]
+signer0_sample187_color.mp4,1,['pillow'],"['ARRANGE' 'BALL' 'BEDROOM' 'BRITAIN' 'CARAVAN' 'CHAIR' 'CHILD'
+ 'COMMUNICATE' 'DEAF' 'DECREASE' 'FINISH' 'FLOCK' 'HEAR' 'HOUSE' 'LOW'
+ 'PUSH' 'RELAX' 'SLEEP' 'SPREAD' 'TENT' 'THEORY' 'TOP' 'WALL']",['pillow'],[],[],[],[],[]
+signer0_sample1060_color.mp4,1,['medicine'],"['BAD' 'BIRTHDAY' 'DRINK' 'FBUOY' 'FRANCE' 'KNOW' 'LIVE' 'LOW' 'PERSON'
+ 'REMEMBER' 'SISTER' 'TEA' 'THINK']",['medicine'],[],[],[],[],[]
+signer0_sample384_color.mp4,1,['sweet'],"['BRITAIN' 'DEAF' 'READY' 'RELAX' 'SLEEP' 'SURPRISE' 'TIRED' 'WANT'
+ 'WONDERFUL']",['sweet'],[],[],[],[],[]
+signer0_sample1263_color.mp4,1,['okay'],"['ARRANGE' 'AUDIENCE' 'BELFAST' 'BRITAIN' 'CHAIR' 'EXPAND' 'GROUP' 'LOW'
+ 'PANIC' 'RELAX' 'SETTLE' 'SPREAD' 'TENT' 'UPWARD']",['okay'],[],[],[],[],[]
+signer0_sample1086_color.mp4,1,['brother'],"['ALWAYS' 'AREA' 'BIG' 'BOY' 'DEAF' 'ENOUGH' 'EXPAND' 'FLOCK' 'KNOW' 'LOW'
+ 'MAN' 'MOVE' 'NICE' 'NUMBER' 'PAST' 'PLENTY' 'PREFER' 'RAIN' 'SIGN'
+ 'TIRED' 'WOW']",['brother'],[],[],[],[],[]
+signer0_sample161_color.mp4,1,['female'],"['ANESTHETISE' 'BEDROOM' 'BRITAIN' 'DRINK' 'FARM' 'HEAR' 'LOOK' 'MAYBE'
+ 'OLD' 'READY' 'SLEEP' 'TIRED' 'WATER' 'WONDERFUL']",['female'],[],[],[],[],[]
+signer0_sample1285_color.mp4,1,['cry'],"['BOY' 'CHILD' 'DEAF' 'EASY' 'HEAR' 'LONDON' 'LOOK' 'LOW' 'THINK'
+ 'YESTERDAY']",['cry'],[],[],[],[],[]
+signer0_sample362_color.mp4,1,['milk'],"['ALCOHOLIC' 'BECKON' 'BREATHE' 'FBUOY' 'LIKE' 'LOVE' 'PAST' 'SURPRISE'
+ 'UPSET' 'WANT' 'WATER' 'WOW']",['milk'],[],[],[],[],[]
+signer0_sample1181_color.mp4,1,['get_well'],"['ANYTHING' 'ARRANGE' 'BASE' 'BIG' 'CLOTHES' 'EVALUATE' 'EXPAND' 'HEAVY'
+ 'INATTENTION' 'MARRY' 'NEVER' 'PLAY' 'PROBLEM' 'RAIN' 'REDUCE' 'SCALES'
+ 'SETTLE' 'SHEET' 'START' 'TIRED' 'WORK']",['get_well'],[],[],[],[],[]
+signer0_sample265_color.mp4,1,['mince'],"['AREA' 'BELFAST' 'BRITAIN' 'CHAIR' 'DECREASE' 'GO' 'LOW' 'READY' 'RELAX'
+ 'SPREAD' 'TALL' 'WALL']",['mince'],[],[],[],[],[]
+signer0_sample1167_color.mp4,1,['soap'],"['AMERICA' 'BABY' 'DISCUSS' 'LAPTOP' 'LINK' 'MEANING' 'MONDAY' 'PAYMENT'
+ 'POOR']",['soap'],[],[],[],[],[]
+signer0_sample1159_color.mp4,1,['if_only'],"['BAD' 'BIRTHDAY' 'BLACK' 'ETHNIC' 'FRANCE' 'HEAR' 'KNOW' 'LIVE'
+ 'REMEMBER']",[],['if_only'],[],[],[],[]
+signer0_sample283_color.mp4,1,['cotton'],"['ARRANGE' 'BRITAIN' 'BUILD' 'CHAIR' 'CLOTHES' 'EQUAL' 'FLOCK' 'LOW'
+ 'RELAX' 'SPREAD' 'TEACH' 'TENT' 'UPWARD']",['cotton'],[],[],[],[],[]
+signer0_sample1206_color.mp4,1,['police'],"['ACCOMMODATION' 'ARMY' 'BREATHE' 'CLOTHES' 'DEAF' 'ENOUGH' 'EXCITED'
+ 'FREE' 'FRIGHTENED' 'LIKE' 'LIVE' 'LOW' 'RAIN' 'READY' 'RELAX' 'SLEEP'
+ 'SPECTACLES' 'TENT' 'TIRED' 'WAKE']",['police'],[],[],[],[],[]
+signer0_sample1238_color.mp4,1,['bill'],"['AREA' 'BALL' 'DECREASE' 'FAMILY' 'GIVE' 'LOW' 'MIX' 'PARK' 'READY'
+ 'SCHOOL' 'SINCE' 'STADIUM' 'TENT' 'WALK' 'YOUNG']",['bill'],[],[],[],[],[]
+signer0_sample1005_color.mp4,1,['escape'],"['ADD' 'ARRANGE' 'ATTENTION' 'BIG' 'BREATHE' 'EXPAND' 'LIKE' 'MORNING'
+ 'SHEET' 'SURPRISE' 'TOUCH']",['escape'],[],[],[],[],[]
+signer0_sample307_color.mp4,1,['lightweight'],"['BODY' 'CLOTHES' 'EVALUATE' 'EXPAND' 'PANIC' 'SETTLE' 'SPREAD' 'TIRED'
+ 'WOW']",['lightweight'],[],[],[],[],[]
+signer0_sample339_color.mp4,1,['soup'],"['AGE' 'BORING' 'ENOUGH' 'FARM' 'HOT' 'LIVE' 'PLEASE' 'PLENTY' 'SCHOOL'
+ 'THANK' 'USE' 'WATER' 'WOW']",['soup'],[],[],[],[],[]
+signer0_sample104_color.mp4,1,['pharmacy'],"['ARRANGE' 'BAD' 'BODY' 'BRITAIN' 'CLOTHES' 'DEAF' 'EXPAND' 'GIRL' 'KNOW'
+ 'LOOK' 'LOW' 'PANIC' 'READY' 'RELAX' 'SISTER' 'SLEEP' 'TENT' 'THINK'
+ 'TIRED' 'WONDERFUL']",['pharmacy'],[],[],[],[],[]
+signer0_sample200_color.mp4,1,['existing'],"['AREA' 'BELFAST' 'BRITAIN' 'CHILD' 'FAMILY' 'LOW' 'READY' 'RELAX'
+ 'SETTLE']",[],[],[],['existing'],[],[]
+signer0_sample11_color.mp4,1,['thursday'],['AREA' 'BRITAIN' 'CHILD' 'KNOW' 'LOW' 'PERSON' 'REMEMBER' 'THINK'],['thursday'],[],[],[],[],[]
+signer0_sample1301_color.mp4,1,['laugh'],"['AREA' 'ARMY' 'BRITAIN' 'DEAF' 'DECREASE' 'FAMILY' 'LOW' 'MAYBE' 'READY'
+ 'RELAX' 'SIZE' 'SLEEP' 'TIRED' 'TOP' 'WONDERFUL']",['laugh'],[],[],[],[],[]
+signer0_sample1102_color.mp4,1,['minute'],"['AMERICA' 'AREA' 'FUTURE' 'GROUP' 'LINK' 'MARRY' 'MEANING' 'NINE'
+ 'PAYMENT' 'TREE' 'WORK']",['minute'],[],[],[],[],[]
+signer0_sample335_color.mp4,1,['goodbye'],['MAYBE' 'MUST' 'NOTHING' 'SYMPATHY' 'WITHOUT'],['goodbye'],[],[],[],[],[]
+signer0_sample108_color.mp4,1,['window'],"['ACCOMMODATION' 'AREA' 'ARRANGE' 'BIG' 'BRITAIN' 'DIE' 'DIFFERENT'
+ 'DRINK' 'EXPAND' 'FOREIGN' 'FUTURE' 'GESTURE' 'GO' 'HEAR' 'HOME' 'HOUSE'
+ 'INFORM' 'LONELY' 'LOOK' 'MOVE' 'NIGHT' 'PICTURE' 'RAIN' 'REDUCE'
+ 'REMEMBER' 'RETIRE' 'ROOM' 'SCHOOL' 'SPREAD' 'STAY' 'TIRED' 'TITLE'
+ 'TOUCH']",['window'],[],[],[],[],[]
+signer0_sample136_color.mp4,1,['same'],"['BEST' 'BETTER' 'FAVOUR' 'KNOW' 'NEXT' 'OPERATE' 'RIGHT' 'SCOTLAND'
+ 'TYPICAL' 'YES']",[],[],['same'],[],[],[]
+signer0_sample1234_color.mp4,1,['love'],"['ANYTHING' 'AREA' 'BREATHE' 'BUSINESS' 'EVALUATE' 'LIKE' 'LOVE' 'PARK'
+ 'SETTLE' 'SURPRISE' 'WATER' 'WITHOUT']",['love'],[],[],[],[],[]
+signer0_sample1009_color.mp4,1,['hospital'],"['AMERICA' 'AREA' 'ARRANGE' 'BIG' 'BODY' 'CHAIR' 'CLOTHES' 'EXPAND'
+ 'FLOCK' 'GESTURE' 'LINK' 'PRACTISE' 'RAIN' 'REDUCE' 'RELATIONSHIP'
+ 'SPOUSE' 'TIRED']",['hospital'],[],[],[],[],[]
+signer0_sample1037_color.mp4,1,['memorize'],"['AREA' 'BEDROOM' 'BRITAIN' 'CHILD' 'FOREIGN' 'FUTURE' 'GESTURE' 'GO'
+ 'HEAR' 'LOW' 'MAYBE' 'MOVE' 'REMEMBER' 'SETTLE' 'TALL' 'TIRED']",['memorize'],[],[],[],[],[]
+signer0_sample1333_color.mp4,1,['push'],"['ARRANGE' 'BIG' 'EXPAND' 'GESTURE' 'GROUP' 'NOTHING' 'PERFECT' 'PUSH'
+ 'REDUCE' 'SETTLE' 'SHEET' 'SPREAD']",['push'],[],[],[],[],[]
+signer0_sample1130_color.mp4,1,['grandfather'],['AREA' 'BIG' 'BRITAIN' 'LOW' 'RAIN' 'READY' 'RELAX' 'TIRED'],['grandfather'],[],[],[],[],[]
+signer0_sample232_color.mp4,1,['congratulations'],"['ACCOMMODATION' 'DEAF' 'EASY' 'HEAR' 'LOOK' 'NAME' 'OLD' 'PEOPLE' 'THINK'
+ 'WANT' 'WOW']",['congratulations'],[],[],[],[],[]
+signer0_sample23_color.mp4,1,['say'],"['BAD' 'BORING' 'DRINK' 'ENOUGH' 'FARM' 'KNOW' 'LAUGH' 'MAN' 'MORNING'
+ 'PEOPLE' 'PERHAPS' 'PLENTY' 'REMEMBER' 'SCHOOL' 'TOUCH']",[],[],[],['say'],[],[]
+signer0_sample1289_color.mp4,1,['trousers'],['ARRANGE' 'LONELY' 'LOW' 'LUGGAGE' 'SPREAD'],['trousers'],[],[],[],[],[]
+signer0_sample153_color.mp4,1,['tuesday'],['BRITAIN' 'CHAIR' 'FAMILY' 'LOW' 'PRACTISE' 'READY' 'RELAX' 'SPOUSE'],['tuesday'],[],[],[],[],[]
+signer0_sample350_color.mp4,1,['see'],"['ANESTHETISE' 'BEDROOM' 'BLIND' 'COUNCIL' 'DEAF' 'HEAR' 'LOOK' 'NAME'
+ 'OLD' 'SLEEP']",[],[],[],['see'],[],[]
+signer0_sample388_color.mp4,1,['tap'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'FAMILY' 'HEARING' 'LIVE' 'LOOK'
+ 'PANIC' 'PARK' 'PRESIDENT' 'READY' 'RELAX' 'SPREAD' 'SURPRISE' 'THINK']",['tap'],[],[],[],[],[]
+signer0_sample1052_color.mp4,1,['laugh'],"['BOY' 'DEAF' 'FAMILY' 'LOOK' 'PEOPLE' 'READY' 'RUSSIA' 'SAY' 'SCHOOL'
+ 'SPEECH' 'YESTERDAY']",['laugh'],[],[],[],[],[]
+signer0_sample1251_color.mp4,1,['hammer'],"['AREA' 'ARRANGE' 'BRITAIN' 'CHAIR' 'CHILD' 'DROP' 'FINISH' 'FULL' 'GRAB'
+ 'LEG' 'LOW' 'MOVE' 'OPERATE' 'SPREAD' 'START' 'TEACH' 'WANT']",['hammer'],[],[],[],[],[]
+signer0_sample1155_color.mp4,1,['single'],"['AREA' 'BAD' 'CHILD' 'DEAF' 'DECREASE' 'ETHNIC' 'HEAR' 'HOME' 'LONDON'
+ 'LOW' 'PAST' 'TALL' 'THINK' 'TOUCH']",[],[],['single'],[],[],[]
+signer0_sample269_color.mp4,1,['evil'],"['ARRANGE' 'BAD' 'BIG' 'BRITAIN' 'CLOTHES' 'EXPAND' 'FAMOUS' 'FLOCK'
+ 'GESTURE' 'HOTEL' 'RAIN' 'SHEET' 'THROW' 'TIRED' 'TITLE']",['evil'],[],[],[],[],[]
+signer0_sample257_color.mp4,1,['friday'],['AREA' 'BRITAIN' 'CHILD' 'DEAF' 'DECREASE' 'ENOUGH' 'LOW' 'READY' 'SLEEP'],['friday'],[],[],[],[],[]
+signer0_sample290_color.mp4,1,['feast'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BELFAST' 'BIG' 'BRITAIN' 'CHILD' 'EXPAND'
+ 'LOW' 'SPREAD']",['feast'],[],[],[],[],[]
+signer0_sample1349_color.mp4,1,['push'],"['BRITAIN' 'CHILD' 'FINISH' 'LOW' 'PERFECT' 'PUSH' 'SETTLE' 'SHEET'
+ 'SPREAD']",['push'],[],[],[],[],[]
+signer0_sample1174_color.mp4,1,['dog'],"['AREA' 'ARRIVE' 'BALL' 'BIRMINGHAM' 'BRITAIN' 'CHILD' 'CONFUSE'
+ 'DISAPPEAR' 'FOREIGN' 'GO' 'GRAB' 'HARD' 'HOME' 'LOOK' 'LOSE' 'LOW'
+ 'NOTHING' 'QUIET' 'SLEEP' 'SPREAD']",['dog'],[],[],[],[],[]
+signer0_sample276_color.mp4,1,['hurry'],"['ARRANGE' 'BEHAVIOUR' 'BIG' 'BORN' 'BRITAIN' 'CHILD' 'DEAF' 'DECORATE'
+ 'GO' 'HALF' 'HOLIDAY' 'LOVE' 'LOW' 'NEVER' 'POOR' 'SLEEP' 'SPREAD' 'WORK']",['hurry'],[],[],[],[],[]
+signer0_sample1192_color.mp4,1,['photograph'],"['ARRANGE' 'AUDIENCE' 'BAD' 'BELFAST' 'BRITAIN' 'CAMERA' 'CHAIR' 'CHILD'
+ 'FINISH' 'FLOCK' 'HOTEL' 'LITTLE' 'LOOK' 'LOW' 'RAIN' 'SHEET'
+ 'SPECTACLES' 'SPREAD' 'VIEW' 'WAKE']",['photograph'],[],[],[],[],[]
+signer0_sample248_color.mp4,1,['radiator'],"['ACT' 'AREA' 'ARRANGE' 'AUDIENCE' 'BEACH' 'BELFAST' 'BRITAIN' 'FINISH'
+ 'FLOCK' 'HORRIBLE' 'NOTHING' 'PANIC' 'PARTY' 'PERFECT' 'QUIET' 'SETTLE'
+ 'SHEET' 'SPREAD']",['radiator'],[],[],[],[],[]
+signer0_sample1296_color.mp4,1,['sibling'],"['ALRIGHT' 'BORN' 'BRITAIN' 'CHAIR' 'CHECK' 'CLOTHES' 'COW' 'FAVOUR'
+ 'FINISH' 'ILL' 'LOSE' 'LOW' 'OPERATE' 'PARTY' 'STRONG' 'STUBBORN' 'WORSE']",[],[],[],['sibling'],[],[]
+signer0_sample371_color.mp4,1,['lap'],"['BOAT' 'BUILD' 'CHRISTMAS' 'CRASH' 'DECREASE' 'DEPTH' 'DOOR' 'ENOUGH'
+ 'HELP' 'HOUSE' 'NEW' 'PLENTY' 'THANK']",['lap'],[],[],[],[],[]
+signer0_sample1095_color.mp4,1,['far'],"['AREA' 'ARRANGE' 'BIG' 'BRING' 'EXPAND' 'FINISH' 'FLOCK' 'LONELY'
+ 'LUGGAGE' 'MOVE' 'RAIN' 'SHEET' 'TAKE']",[],['far'],[],[],[],[]
+signer0_sample172_color.mp4,1,['honey'],"['AREA' 'BORN' 'BRITAIN' 'CHILD' 'CLOSED' 'EMPTY' 'ESCAPE' 'LOW' 'MONTH'
+ 'PLAN' 'SPREAD' 'TOILET' 'YEAR' 'YOUNG']",['honey'],[],[],[],[],[]
+signer0_sample397_color.mp4,1,['crossroads'],"['AREA' 'ARRANGE' 'BIG' 'BODY' 'BRITAIN' 'CLOTHES' 'FLOCK' 'FOREIGN'
+ 'FUTURE' 'GESTURE' 'GO' 'MIX' 'MOVE' 'SIGN' 'SPREAD']",['crossroads'],[],[],[],[],[]
+signer0_sample1270_color.mp4,1,['yesterday'],"['BACK' 'BAD' 'CHILD' 'ETHNIC' 'HEAR' 'KNOW' 'LONDON' 'LOW' 'PAST' 'SINCE'
+ 'THINK' 'TOUCH']",['yesterday'],[],[],[],[],[]
+signer0_sample194_color.mp4,1,['free'],"['ARRANGE' 'CLOTHES' 'EXPAND' 'FLOCK' 'FREE' 'LONELY' 'LUGGAGE' 'RAIN'
+ 'READY' 'REDUCE' 'RELAX' 'SHEET' 'SPREAD' 'TIRED']",[],[],['free'],[],[],[]
+signer0_sample1073_color.mp4,1,['pastrami'],['AMERICA' 'AREA' 'CHAIR' 'ESCAPE' 'LINK' 'PRACTISE' 'WEDNESDAY'],['pastrami'],[],[],[],[],[]
+signer0_sample1111_color.mp4,1,['olympiad'],"['ARRANGE' 'AUDIENCE' 'BALL' 'BEDROOM' 'BRITAIN' 'CARAVAN' 'COMMUNICATE'
+ 'GROUP' 'HOUSE' 'LOW' 'PUSH' 'RELAX' 'SLEEP' 'SPREAD' 'TENT' 'TOP']",['olympiad'],[],[],[],[],[]
+signer0_sample1312_color.mp4,1,['you'],"['BAD' 'BOY' 'EXPECT' 'GOOD' 'HEARING' 'KNOW' 'LOOK' 'MAN' 'NICE' 'NUMBER'
+ 'PERHAPS' 'PREFER' 'THINK']",[],[],[],[],['you'],[]
+signer0_sample213_color.mp4,1,['get_well'],"['ANGRY' 'BASE' 'BEHAVIOUR' 'CLOTHES' 'DAY' 'EVALUATE' 'EXPAND' 'FRIEND'
+ 'NEVER' 'OFFER' 'POOR' 'PROBLEM' 'RAIN' 'SCALES' 'SETTLE' 'SHEET' 'TIRED'
+ 'WORK']",['get_well'],[],[],[],[],[]
+signer0_sample117_color.mp4,1,['forbidden'],"['BANDAGE' 'BASE' 'BEHAVIOUR' 'BODY' 'BUILD' 'CLOTHES' 'ENOUGH'
+ 'EXPERIENCE' 'FULL' 'MANAGE' 'NEVER' 'START']",['forbidden'],[],[],[],[],[]
+signer0_sample129_color.mp4,1,['past'],"['AREA' 'BECKON' 'CALLISTHENICS' 'CHILD' 'ETHNIC' 'HOT' 'LOW' 'NIGHT'
+ 'PAST' 'PLENTY' 'SCHOOL' 'SINCE' 'TOUCH']",['past'],[],[],[],[],[]
+signer0_sample314_color.mp4,1,['pencil'],['BAD' 'DEAF' 'FBUOY' 'GIRL' 'HEARING' 'HORRIBLE' 'LOOK' 'PEOPLE' 'SCHOOL'],['pencil'],[],[],[],[],[]
+signer0_sample1016_color.mp4,1,['road'],['AREA' 'LOOK' 'WALK' 'YOUNG'],['road'],[],[],[],[],[]
+signer0_sample1028_color.mp4,1,['father'],"['BORN' 'BOY' 'CHILD' 'CLOTHES' 'DESSERT' 'DRINK' 'ENDURE' 'EXPENSIVE'
+ 'KNOW' 'LIVE' 'LOVELY' 'MAN' 'NICE' 'NUMBER' 'PREFER' 'PREGNANT' 'SISTER'
+ 'WANT' 'WOW']",['father'],[],[],[],[],[]
+signer0_sample1215_color.mp4,1,['fasting'],"['AREA' 'BORING' 'BREATHE' 'BRITAIN' 'DECREASE' 'DRINK' 'FARM' 'FUTURE'
+ 'GO' 'PAST' 'TALL' 'WATER']",[],[],[],['fasting'],[],[]
+signer0_sample1264_color.mp4,1,['they'],"['BACK' 'BIG' 'COME' 'DEAF' 'EXPAND' 'FLOCK' 'LOOK' 'PEOPLE' 'RAIN'
+ 'REDUCE' 'SHEET']",[],[],[],[],['they'],[]
+signer0_sample383_color.mp4,1,['lap'],"['BANDAGE' 'BEHAVIOUR' 'BODY' 'BORN' 'CLOTHES' 'DOOR' 'HEAVY' 'MANAGE'
+ 'NEVER' 'PERIODIC' 'PREGNANT' 'SURPRISE' 'WORK' 'WOW']",['lap'],[],[],[],[],[]
+signer0_sample1059_color.mp4,1,['photograph'],"['ACCOMMODATION' 'ARRANGE' 'AUDIENCE' 'BRITAIN' 'CAMERA' 'CHECK' 'FLOCK'
+ 'HOTEL' 'LONELY' 'LOOK' 'LOW' 'PICTURE' 'RAIN' 'SLEEP' 'SPECTACLES'
+ 'SPREAD' 'STAY' 'VIEW' 'WAKE']",['photograph'],[],[],[],[],[]
+signer0_sample1067_color.mp4,1,['grandfather'],"['AREA' 'BORING' 'BRITAIN' 'CHILD' 'DECREASE' 'ENOUGH' 'FARM' 'LOW'
+ 'MAYBE' 'READY' 'RELAX' 'SLEEP' 'USE' 'WATER' 'WONDERFUL']",['grandfather'],[],[],[],[],[]
+signer0_sample180_color.mp4,1,['cotton'],"['BRITAIN' 'BUILD' 'CHAIR' 'DECREASE' 'EQUAL' 'FLOCK' 'HOUSE' 'LOW'
+ 'RELAX' 'TEACH' 'TENT' 'UPWARD']",['cotton'],[],[],[],[],[]
+signer0_sample365_color.mp4,1,['time'],['AMERICA' 'AREA' 'IRELAND' 'LOOK' 'PARK' 'STAFF' 'WALK'],['time'],[],[],[],[],[]
+signer0_sample1282_color.mp4,1,['light'],"['AREA' 'BRITAIN' 'CHILD' 'FOREIGN' 'FUTURE' 'GO' 'LEG' 'LONELY' 'LOOK'
+ 'LOW' 'TALL']",['light'],[],[],[],[],[]
+signer0_sample158_color.mp4,1,['how'],['AREA' 'CHILD' 'GO' 'PAST'],[],[],[],[],[],[]
+signer0_sample166_color.mp4,1,['picnic'],"['ARRANGE' 'BIG' 'BODY' 'BRITAIN' 'CLOTHES' 'EXPAND' 'LONELY' 'PANIC'
+ 'RELAX' 'SETTLE' 'SIGN' 'TIRED']",['picnic'],[],[],[],[],[]
+signer0_sample1081_color.mp4,1,['hammer'],"['BAD' 'BEAT' 'CHANGE' 'CHILD' 'DROP' 'FIND' 'FLOCK' 'FOREIGN' 'FORGET'
+ 'GO' 'HOME' 'KNOW' 'LONELY' 'LOW' 'MOVE' 'OPERATE' 'SCOTLAND' 'START'
+ 'TIME' 'WAIT']",['hammer'],[],[],[],[],[]
+signer0_sample262_color.mp4,1,['bring'],"['BACK' 'BECKON' 'ENOUGH' 'GO' 'LONDON' 'MORNING' 'PAST' 'SINCE' 'TOUCH'
+ 'WOMAN']",['bring'],[],[],[],[],[]
+signer0_sample1186_color.mp4,1,['wall'],"['BALL' 'BIG' 'EXPAND' 'FINISH' 'FLOCK' 'GESTURE' 'MUST' 'PERFECT' 'PUSH'
+ 'RAIN' 'REDUCE' 'SHEET' 'SMALL' 'TIRED' 'WITHOUT']",['wall'],[],[],[],[],[]
+signer0_sample284_color.mp4,1,['elephant'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'LOW' 'PANIC' 'SETTLE'
+ 'SPREAD' 'TALL']",['elephant'],[],[],[],[],[]
+signer0_sample1160_color.mp4,1,['father'],"['ALWAYS' 'AREA' 'BOY' 'CHILD' 'DEAF' 'DESSERT' 'ENOUGH' 'KNOW' 'LOVELY'
+ 'LOW' 'MAN' 'NICE' 'NUMBER' 'PLENTY']",['father'],[],[],[],[],[]
+signer0_sample1002_color.mp4,1,['not_interested'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'DECREASE' 'FAMILY' 'LOW'
+ 'MAYBE' 'PANIC' 'PARK' 'READY' 'SETTLE' 'SPREAD' 'WALL']",[],[],[],['not_interested'],[],[]
+signer0_sample1201_color.mp4,1,['guest'],"['BACK' 'BIRTHDAY' 'BLACK' 'ENOUGH' 'ETHNIC' 'OPERATE' 'PAST' 'PLENTY'
+ 'TOUCH']",['guest'],[],[],[],[],[]
+signer0_sample103_color.mp4,1,['difficult'],"['ACT' 'BAD' 'BRITAIN' 'CHAIR' 'FINISH' 'FLOCK' 'HORRIBLE' 'HOTEL' 'LOW'
+ 'PARTY' 'RAIN' 'RETIRE' 'RUN' 'SHEET' 'STUBBORN' 'TEACH' 'WAIT']",[],[],['difficult'],[],[],[]
+signer0_sample300_color.mp4,1,['animal'],"['ACCOMMODATION' 'ADULT' 'BALL' 'FLOCK' 'HOLLAND' 'HOUSE' 'LOW' 'NIGHT'
+ 'PARTY' 'RAIN' 'SPREAD' 'STADIUM' 'TENT' 'UPWARD']",['animal'],[],[],[],[],[]
+signer0_sample16_color.mp4,1,['tree'],"['AREA' 'ARRANGE' 'ASK' 'BRITAIN' 'CHILD' 'EIGHT' 'EIGHTEEN' 'FARM' 'FIVE'
+ 'FIVE^ZERO' 'FOREIGN' 'FOUR' 'GO' 'HEAR' 'LOW' 'MAYBE' 'NOTHING' 'SETTLE'
+ 'SPREAD' 'TEA' 'THREE' 'TOUCH']",['tree'],[],[],[],[],[]
+signer0_sample402_color.mp4,1,['flag'],"['ALCOHOLIC' 'BECKON' 'BORING' 'FOREIGN' 'FUTURE' 'GO' 'HOT' 'NIGHT'
+ 'PAST' 'PLENTY' 'SCHOOL' 'SINCE' 'USE' 'WORK' 'WOW']",['flag'],[],[],[],[],[]
+signer0_sample28_color.mp4,1,['free'],"['ARRANGE' 'CLOTHES' 'FREE' 'HOTEL' 'LONELY' 'LOW' 'RAIN' 'READY' 'REDUCE'
+ 'RELAX' 'RETIRE' 'SHEET' 'SLEEP' 'SPREAD' 'STAY' 'TENT' 'TIRED']",[],[],['free'],[],[],[]
+signer0_sample239_color.mp4,1,['minute'],"['AREA' 'BASE' 'FOREIGN' 'FRIEND' 'FULL' 'FUTURE' 'GO' 'MARRY' 'PROBLEM'
+ 'SPOUSE' 'THEATRE' 'WORK']",['minute'],[],[],[],[],[]
+signer0_sample207_color.mp4,1,['kin'],['BANDAGE' 'BODY' 'BUILD' 'CLOTHES' 'DANCE' 'HURT' 'SIGN' 'TIRED'],['kin'],[],[],[],[],[]
+signer0_sample1105_color.mp4,1,['salary'],"['AMERICA' 'ARRANGE' 'BODY' 'CLOTHES' 'EXPAND' 'FRIEND' 'HEAVY' 'MARRY'
+ 'MOTHER' 'NAUGHTY' 'PRACTISE' 'PREGNANT' 'PROBLEM' 'SPOUSE' 'THEATRE'
+ 'WEDNESDAY']",['salary'],[],[],[],[],[]
+signer0_sample1338_color.mp4,1,['forbidden'],"['BANDAGE' 'BEHAVIOUR' 'BUILD' 'EXPERIENCE' 'EXPLAIN' 'FULL' 'LAST'
+ 'NEVER' 'NEW' 'PARTNER' 'START' 'TEACH' 'WORK']",['forbidden'],[],[],[],[],[]
+signer0_sample1306_color.mp4,1,['date'],"['BORN' 'BUY' 'FINISH' 'HAPPY' 'LAST' 'LEG' 'LOW' 'MOTHER' 'NEW' 'RISE'
+ 'SAFE' 'SATURDAY' 'START']",['date'],[],[],[],[],[]
+signer0_sample37_color.mp4,1,['cologne'],"['AREA' 'ARRANGE' 'BAD' 'BEDROOM' 'BLACK' 'BRITAIN' 'CHECK' 'DECREASE'
+ 'FAMILY' 'FINISH' 'HEAR' 'HOUSE' 'LOW' 'MAYBE' 'MIND' 'RAIN' 'READY'
+ 'SETTLE' 'SLEEP' 'SPREAD' 'TIRED' 'TOUCH']",['cologne'],[],[],[],[],[]
+signer0_sample226_color.mp4,1,['memorize'],"['AREA' 'BAD' 'BRITAIN' 'CHILD' 'FARM' 'FOREIGN' 'FUTURE' 'GO' 'HOME'
+ 'INFORM' 'LIVE' 'LOW' 'MAYBE' 'MOVE' 'REMEMBER' 'SIZE' 'SPEECH' 'TOUCH']",['memorize'],[],[],[],[],[]
+signer0_sample218_color.mp4,1,['star'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BIG' 'BRITAIN' 'CARAVAN' 'EXPAND' 'GROUP'
+ 'HOUSE' 'LOW' 'SPREAD' 'TENT']",['star'],[],[],[],[],[]
+signer0_sample1327_color.mp4,1,['change'],"['AREA' 'BEST' 'BETTER' 'CHAIR' 'CHANGE' 'CHILD' 'ESCAPE' 'EXACT' 'HARD'
+ 'INATTENTION' 'INFLUENCE' 'LOW' 'NEXT' 'PARTNER' 'PRACTISE' 'RIGHT']",['change'],[],[],[],[],[]
+signer0_sample1319_color.mp4,1,['comb'],"['AREA' 'BAD' 'BRITAIN' 'FINISH' 'FLOCK' 'FOREIGN' 'FUTURE' 'GESTURE' 'GO'
+ 'HOTEL' 'KNOW' 'LOW' 'MOVE' 'RAIN' 'TALL' 'TIRED' 'TYPICAL']",['comb'],[],[],[],[],[]
+signer0_sample1124_color.mp4,1,['light'],['AREA' 'BIG' 'BRITAIN' 'CHILD' 'CLOTHES' 'GO' 'LONELY' 'PREGNANT'],['light'],[],[],[],[],[]
+signer0_sample1220_color.mp4,1,['wall'],"['FINISH' 'FLOCK' 'GESTURE' 'NOTHING' 'PERFECT' 'PUSH' 'RAIN' 'REDUCE'
+ 'SETTLE' 'SHEET']",['wall'],[],[],[],[],[]
+signer0_sample1023_color.mp4,1,['time'],['AREA' 'BELFAST' 'CHAIR' 'ESCAPE' 'MERGE' 'SURROUNDINGS' 'SWIM'],['time'],[],[],[],[],[]
+signer0_sample321_color.mp4,1,['glove'],"['AREA' 'BALL' 'BOOK' 'DISCUSS' 'EMPTY' 'ESCAPE' 'EVALUATE' 'FUTURE'
+ 'MEANING' 'SURROUNDINGS' 'TRUE']",['glove'],[],[],[],[],[]
+signer0_sample122_color.mp4,1,['escape'],['AREA' 'BREATHE' 'IRELAND' 'LIKE' 'LOVE' 'PARK' 'SURPRISE'],['escape'],[],[],[],[],[]
+signer0_sample1199_color.mp4,1,['umbrella'],"['AREA' 'CHILD' 'DECORATE' 'ESCAPE' 'EXCLUDE' 'FOREIGN' 'FUTURE' 'GO'
+ 'LOW' 'MIX' 'PAST' 'TALL' 'WANT']",['umbrella'],[],[],[],[],[]
+signer0_sample243_color.mp4,1,['star'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CLOSED' 'EXPAND' 'GESTURE' 'SETTLE'
+ 'SPREAD']",['star'],[],[],[],[],[]
+signer0_sample1141_color.mp4,1,['wise'],"['AREA' 'ARRIVE' 'BRITAIN' 'CHILD' 'FINISH' 'FOREIGN' 'FUTURE' 'GESTURE'
+ 'HOME' 'INFORM' 'LOW' 'MAYBE' 'MOVE' 'RAIN' 'REMEMBER' 'RISE' 'SLEEP'
+ 'TALL' 'TIRED']",['wise'],[],[],[],[],[]
+signer0_sample1342_color.mp4,1,['psychology'],"['AREA' 'BRITAIN' 'CHILD' 'DEAF' 'DECREASE' 'ETHNIC' 'HEAR' 'KNOW' 'LOOK'
+ 'LOW' 'MAYBE' 'REMEMBER' 'SIZE' 'THINK']",['psychology'],[],[],[],[],[]
+signer0_sample1046_color.mp4,1,['right'],"['AREA' 'BOY' 'BRITAIN' 'CHILD' 'DEAF' 'HEARING' 'LOOK' 'LOW' 'PEOPLE'
+ 'SAY' 'SETTLE' 'SURPRISE' 'THINK' 'TIRED']",['right'],[],[],[],[],[]
+signer0_sample1078_color.mp4,1,['wait'],"['AGE' 'BORN' 'BRITAIN' 'CHILD' 'CLOTHES' 'DOG' 'EIGHT' 'FARM' 'FIFTEEN'
+ 'FIVE' 'FOUR' 'LOW' 'MAYBE' 'NINE' 'SEEM' 'THREE' 'WANT' 'WOW']",['wait'],[],[],[],[],[]
+signer0_sample1245_color.mp4,1,['book'],"['BALL' 'BODY' 'CLOTHES' 'DAY' 'EVALUATE' 'HEAVY' 'MANY' 'NEW' 'NIGHT'
+ 'RESPECT' 'SCALES' 'SHOW' 'STADIUM' 'THANK' 'WOW']",['book'],[],[],[],[],[]
+signer0_sample147_color.mp4,1,['wall'],"['BALL' 'BIG' 'BOOK' 'CLOSED' 'EVALUATE' 'FLOCK' 'GESTURE' 'MUST' 'PUSH'
+ 'RAIN' 'REDUCE' 'SHEET' 'SMALL' 'STADIUM' 'WITHOUT']",['wall'],[],[],[],[],[]
+signer0_sample179_color.mp4,1,['sunday'],"['AREA' 'ARRANGE' 'BIG' 'BODY' 'BRITAIN' 'CLOTHES' 'EXPAND' 'GROUP'
+ 'READY' 'RELAX' 'SURPRISE' 'TIRED']",['sunday'],[],[],[],[],[]
+signer0_sample344_color.mp4,1,['say'],"['AREA' 'BORING' 'BOY' 'ENOUGH' 'FEEL' 'GOOD' 'LAUGH' 'LIVE' 'MAN' 'MAYBE'
+ 'MORNING' 'NICE' 'PEOPLE' 'PERHAPS' 'PLENTY' 'READY' 'SCHOOL' 'TOUCH'
+ 'USE']",[],[],[],['say'],[],[]
+signer0_sample1027_color.mp4,1,['holiday'],"['BIG' 'BORN' 'CLOTHES' 'EXCITED' 'EXPAND' 'HEALTHY' 'LONELY' 'RELAX'
+ 'RETIRE' 'RICH' 'TIRED' 'WITHDRAW']",['holiday'],[],[],[],[],[]
+signer0_sample1019_color.mp4,1,['hungry'],"['ARRANGE' 'BIG' 'BODY' 'BRITAIN' 'CLOTHES' 'EXPAND' 'GROUP' 'SETTLE'
+ 'SURPRISE' 'TIRED']",['hungry'],[],[],[],[],[]
+signer0_sample1224_color.mp4,1,['elephant'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'FOREIGN' 'GO' 'LOW'
+ 'SETTLE' 'SPREAD' 'TALL']",['elephant'],[],[],[],[],[]
+signer0_sample126_color.mp4,1,['eat'],"['AGE' 'BEDROOM' 'BLACK' 'BRITAIN' 'DRINK' 'FORGET' 'LEARN' 'LIVE'
+ 'LOVELY' 'SLEEP' 'TEA' 'TEMPT' 'USE' 'WATER']",['eat'],[],[],[],[],[]
+signer0_sample118_color.mp4,1,['room'],"['BEACH' 'BODY' 'CLOTHES' 'DEPTH' 'DOOR' 'FINISH' 'FLOCK' 'LOW' 'MUST'
+ 'RAIN' 'RELAX' 'TIRED' 'WAR']",['room'],[],[],[],[],[]
+signer0_sample325_color.mp4,1,['salary'],"['AMERICA' 'ARRANGE' 'BODY' 'BORN' 'CLOTHES' 'EXPAND' 'HEAVY' 'LINK'
+ 'MONDAY' 'MOTHER' 'PAY' 'PLAN' 'POOR' 'PREGNANT' 'SPOUSE' 'STILL']",['salary'],[],[],[],[],[]
+signer0_sample33_color.mp4,1,['full'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CLOTHES' 'FAMILY' 'LOW' 'READY'
+ 'RELAX' 'TALL' 'TIRED']",[],[],['full'],[],[],[]
+signer0_sample222_color.mp4,1,['police'],"['AMERICA' 'ARRANGE' 'BIG' 'EXPAND' 'GROUP' 'SPREAD' 'TENT' 'UNIT' 'WAR'
+ 'WEDNESDAY']",['police'],[],[],[],[],[]
+signer0_sample1120_color.mp4,1,['psychology'],"['ACCOMMODATION' 'AREA' 'BEDROOM' 'BRITAIN' 'CHILD' 'DEAF' 'DECREASE'
+ 'FUTURE' 'GESTURE' 'HEAR' 'INFORM' 'LOW' 'PERSON' 'REMEMBER' 'SLEEP'
+ 'THEORY' 'THINK' 'TIRED']",['psychology'],[],[],[],[],[]
+signer0_sample1323_color.mp4,1,['petrol'],"['ACCOMMODATION' 'AREA' 'ARRANGE' 'BIG' 'BODY' 'BRITAIN' 'CLOTHES' 'DEAF'
+ 'EXPAND' 'FALL' 'KNOW' 'LONELY' 'LOW' 'PANIC' 'PREGNANT' 'SPREAD'
+ 'SURPRISE' 'TALL' 'THINK' 'TIRED']",['petrol'],[],[],[],[],[]
+signer0_sample1241_color.mp4,1,['halal'],['AREA' 'CHAIR' 'LINK' 'POOR' 'SUN'],['halal'],[],[],[],[],[]
+signer0_sample1042_color.mp4,1,['radiator'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BALL' 'BIG' 'BRITAIN' 'EVERYTHING' 'FINISH'
+ 'FLOCK' 'GESTURE' 'GROUP' 'NOTHING' 'PERFECT' 'QUIET' 'SETTLE' 'SHEET'
+ 'SMALL' 'SPREAD' 'WITHOUT']",['radiator'],[],[],[],[],[]
+signer0_sample398_color.mp4,1,['absent'],"['AREA' 'BORING' 'BRITAIN' 'DECREASE' 'ENOUGH' 'LOW' 'MAYBE' 'SCHOOL'
+ 'WALL' 'WATER']",['absent'],[],[],[],[],[]
+signer0_sample340_color.mp4,1,['flag'],"['ALCOHOLIC' 'AREA' 'ARRANGE' 'BORING' 'BRITAIN' 'CHILD' 'FOREIGN'
+ 'FUTURE' 'GO' 'HOT' 'LOW' 'MAYBE' 'NIGHT' 'PAST' 'PLENTY' 'SCHOOL'
+ 'SETTLE' 'SPREAD' 'USE' 'WOW']",['flag'],[],[],[],[],[]
+signer0_sample143_color.mp4,1,['lightweight'],"['BIG' 'BODY' 'CLOTHES' 'EVALUATE' 'EXPAND' 'HEAVY' 'HOLIDAY' 'MANY'
+ 'SCALES' 'SIGN' 'WOW']",['lightweight'],[],[],[],[],[]
+signer0_sample1299_color.mp4,1,['yes'],"['ACT' 'BIG' 'DEAF' 'HEAR' 'HOUSE' 'LOOK' 'NOTHING' 'PERFECT' 'REDUCE'
+ 'SCHOOL' 'TITLE']",['yes'],[],[],[],[],[]
+signer0_sample247_color.mp4,1,['enjoy_your_meal'],"['AREA' 'ARRANGE' 'BIG' 'BREATHE' 'BRITAIN' 'CHILD' 'DECREASE' 'ENOUGH'
+ 'FAMILY' 'GROUP' 'LOW' 'READY' 'RELAX' 'SURPRISE' 'WATER' 'WOW']",['enjoy_your_meal'],[],[],[],[],[]
+signer0_sample279_color.mp4,1,['house'],"['ARRANGE' 'COMMUNICATE' 'EXPAND' 'GROUP' 'HOUSE' 'LOW' 'READY' 'RELAX'
+ 'SLEEP' 'SPREAD' 'TENT' 'TIRED']",['house'],[],[],[],[],[]
+signer0_sample1346_color.mp4,1,['thanks'],"['ARRANGE' 'BIG' 'CLOTHES' 'EVALUATE' 'GROUP' 'LIVE' 'LOOK' 'PANIC'
+ 'READY' 'RELAX' 'SETTLE' 'SPREAD' 'SURPRISE' 'TIRED']",['thanks'],[],[],[],[],[]
+signer0_sample1145_color.mp4,1,['difficult'],"['ACT' 'ARRANGE' 'BAD' 'BRITAIN' 'CHAIR' 'CHECK' 'CLOTHES' 'FINISH'
+ 'HORRIBLE' 'LOSE' 'LOW' 'RETIRE' 'SHEET' 'SLEEP' 'SPREAD' 'STUBBORN'
+ 'TEACH' 'TIRED' 'WAKE']",[],[],['difficult'],[],[],[]
+signer0_sample258_color.mp4,1,['friend'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHAIR' 'FAMILY' 'LOW' 'RELAX'
+ 'SETTLE' 'SPREAD']",['friend'],[],[],[],[],[]
+signer0_sample1182_color.mp4,1,['smell'],['AREA' 'BRITAIN' 'CHILD' 'DECREASE' 'FAMILY' 'FLOCK' 'LOOK' 'LOW' 'MAYBE'],['smell'],[],[],[],[],[]
+signer0_sample266_color.mp4,1,['glass'],"['AGE' 'BORING' 'EIGHT' 'FIFTEEN' 'FIVE' 'FIVE^ZERO' 'FOUR' 'MAYBE' 'SEEM'
+ 'SIX' 'TEN' 'THREE' 'USE']",['glass'],[],[],[],[],[]
+signer0_sample1164_color.mp4,1,['orange'],"['AMERICA' 'BEHAVIOUR' 'BOAT' 'BRITAIN' 'DEPTH' 'DOOR' 'FINGERSPELL'
+ 'FRIEND' 'MANAGE' 'PARTNER' 'POOR' 'SPOUSE' 'TEACH' 'UNIT' 'WAR']",['orange'],[],[],[],[],[]
+signer0_sample280_color.mp4,1,['elephant'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BELFAST' 'BIG' 'BRITAIN' 'DECORATE' 'EXPAND'
+ 'FUTURE' 'GO' 'LOW' 'MIX' 'PANIC' 'SIGN' 'SPREAD' 'TALL' 'TOP']",['elephant'],[],[],[],[],[]
+signer0_sample1063_color.mp4,1,['love'],"['ANGRY' 'BORING' 'BREATHE' 'CLOTHES' 'ENOUGH' 'FEEL' 'LAUGH' 'LIVE'
+ 'MORNING' 'PARK' 'PLENTY' 'PREGNANT' 'SCHOOL' 'SINCE' 'SURPRISE' 'TIRED'
+ 'TOUCH' 'WATER']",['love'],[],[],[],[],[]
+signer0_sample184_color.mp4,1,['flag'],"['AREA' 'ARRANGE' 'BORING' 'BRITAIN' 'CHILD' 'FOREIGN' 'FUTURE' 'GO' 'HOT'
+ 'LOW' 'NIGHT' 'PAST' 'PLENTY' 'SCHOOL' 'SETTLE' 'SINCE' 'SPREAD' 'TOUCH'
+ 'WOW']",['flag'],[],[],[],[],[]
+signer0_sample1260_color.mp4,1,['grandfather'],['AREA' 'BIG' 'BRITAIN' 'CLOTHES' 'LOW' 'RAIN' 'READY' 'RELAX' 'TIRED'],['grandfather'],[],[],[],[],[]
+signer0_sample387_color.mp4,1,['telephone'],"['AREA' 'BEDROOM' 'BRITAIN' 'DECREASE' 'LOW' 'MAYBE' 'READY' 'SIZE'
+ 'SLEEP' 'TIRED']",['telephone'],[],[],[],[],[]
+signer0_sample162_color.mp4,1,['minute'],"['AREA' 'BRITAIN' 'CHAIR' 'FULL' 'LINK' 'LOW' 'MAYBE' 'PRACTISE' 'READY'
+ 'RELAX' 'SPOUSE' 'TIRED']",['minute'],[],[],[],[],[]
+signer0_sample1085_color.mp4,1,['danger'],['AREA' 'BEHAVIOUR' 'DOOR' 'FULL' 'LOW' 'POOR' 'PREGNANT' 'WORK'],['danger'],[],[],[],[],[]
+signer0_sample361_color.mp4,1,['animal'],"['ACCOMMODATION' 'ADULT' 'BIG' 'CEILING' 'CLOTHES' 'FINISH' 'FLOCK'
+ 'HOLLAND' 'HOTEL' 'HOUSE' 'LOW' 'RAIN' 'SPREAD' 'STADIUM' 'TENT' 'UPWARD'
+ 'WAR']",['animal'],[],[],[],[],[]
+signer0_sample1286_color.mp4,1,['hammer'],"['BAD' 'BETTER' 'BRITAIN' 'BROWN' 'CHAIR' 'CHILD' 'FAVOUR' 'GOALKEEPER'
+ 'GOOD' 'GRAB' 'KNOW' 'LOW' 'LUGGAGE' 'NEXT' 'OPERATE' 'PROBLEM' 'RIGHT'
+ 'RUN' 'SCOTLAND' 'START' 'TIME' 'TRAIN' 'TRAIN3b' 'TYPICAL' 'WAIT' 'WELL']",['hammer'],[],[],[],[],[]
+signer0_sample12_color.mp4,1,['teacher'],"['AEROPLANE' 'AREA' 'ASK' 'BAD' 'BIRTHDAY' 'BRITAIN' 'CHILD' 'COMMUNIST'
+ 'FOREIGN' 'HEAR' 'LOW' 'MAYBE' 'NOTHING' 'REMEMBER' 'SETTLE' 'SPEECH'
+ 'TEA' 'TOUCH' 'TYPICAL']",['teacher'],[],[],[],[],[]
+signer0_sample203_color.mp4,1,['fasting'],"['AREA' 'BORING' 'DRINK' 'ENOUGH' 'FARM' 'GO' 'PAST' 'PLENTY' 'SCHOOL'
+ 'USE' 'WATER' 'WOW']",[],[],[],['fasting'],[],[]
+signer0_sample1302_color.mp4,1,['wedding'],['BEHAVIOUR' 'EXPLAIN' 'FIRST' 'NEW' 'NIGHT' 'SINCE' 'THANK' 'WORK'],['wedding'],[],[],[],[],[]
+signer0_sample1101_color.mp4,1,['scales'],"['ANGRY' 'BANDAGE' 'DAY' 'EXPLAIN' 'GROW' 'HISTORY' 'NEW' 'OFFER' 'PLAY'
+ 'SCALES' 'SIGN']",['scales'],[],[],[],[],[]
+signer0_sample1205_color.mp4,1,['god_preserve'],['AMERICA' 'BEHAVIOUR' 'DOOR' 'EMOTION' 'ENDURE' 'LOVE' 'POOR' 'PREGNANT'],['god_preserve'],[],[],[],[],[]
+signer0_sample1038_color.mp4,1,['you'],"['ARRANGE' 'BEACH' 'BIG' 'BOX' 'EXPAND' 'FLOCK' 'PICTURE' 'RAIN' 'REDUCE'
+ 'ROOM' 'SHEET' 'SPREAD' 'TICKET' 'TITLE']",[],[],[],[],['you'],[]
+signer0_sample1006_color.mp4,1,['cologne'],"['AREA' 'ARRANGE' 'BEDROOM' 'BRITAIN' 'CLOTHES' 'DECREASE' 'EXPAND'
+ 'FINISH' 'HEAR' 'HOUSE' 'LOW' 'MAYBE' 'MIND' 'PUSH' 'RELAX' 'SLEEP'
+ 'SPREAD' 'TENT' 'TIRED']",['cologne'],[],[],[],[],[]
+signer0_sample304_color.mp4,1,['date'],"['BUY' 'EXPERIENCE' 'LATE' 'MONDAY' 'MONTH' 'MOTHER' 'PLAN' 'PUSH'
+ 'SATURDAY' 'START' 'STRAIGHTAWAY']",['date'],[],[],[],[],[]
+signer0_sample139_color.mp4,1,['champion'],['BALL' 'EVERYTHING' 'HOUSE' 'TENT'],['champion'],[],[],[],[],[]
+signer0_sample107_color.mp4,1,['drink'],['ALWAYS' 'BIRTHDAY' 'BLACK' 'FRANCE' 'KNOW' 'LIVE' 'SISTER'],['drink'],[],[],[],[],[]
+signer0_sample1091_color.mp4,1,['mother'],"['AREA' 'BREATHE' 'DECREASE' 'ENOUGH' 'LOW' 'READY' 'RELAX' 'TOUCH'
+ 'WATER']",['mother'],[],[],[],[],[]
+signer0_sample176_color.mp4,1,['egg'],"['ARRANGE' 'AUDIENCE' 'BEACH' 'BIG' 'BUILD' 'CLOTHES' 'DEPTH' 'EXPAND'
+ 'FLOCK' 'LONELY' 'RAIN' 'RELAX' 'SPREAD' 'STADIUM' 'TENT' 'UPWARD' 'WAR']",['egg'],[],[],[],[],[]
+signer0_sample148_color.mp4,1,['crossroads'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'DECREASE' 'FOREIGN' 'LOW'
+ 'MAYBE' 'PARK' 'SHOUT' 'SPREAD' 'TALL']",['crossroads'],[],[],[],[],[]
+signer0_sample1292_color.mp4,1,['breakfast'],"['ANESTHETISE' 'BANDAGE' 'BEHAVIOUR' 'BLACK' 'BORN' 'BRITAIN' 'CHILD'
+ 'DOG' 'EXPLAIN' 'FIND' 'FORGET' 'GO' 'HOTEL' 'KNOW' 'LEARN' 'LIVE'
+ 'LOVELY' 'LOW' 'MUM' 'NEVER' 'NEW' 'NIGHT' 'PERSON' 'TEMPT' 'WANT' 'WORK']",['breakfast'],[],[],[],[],[]
+signer0_sample375_color.mp4,1,['rent'],"['ANGRY' 'ARRANGE' 'BIG' 'BODY' 'CLOTHES' 'EXPAND' 'FEEL' 'LIVE' 'LONELY'
+ 'LOW' 'READY' 'RELAX' 'SINCE' 'SURPRISE' 'TIRED' 'WAR' 'WOW']",['rent'],[],[],[],[],[]
+signer0_sample1_color.mp4,1,['ugly'],"['AREA' 'BRITAIN' 'CHILD' 'DECREASE' 'ENOUGH' 'ETHNIC' 'HEAR' 'KNOW'
+ 'LIVE' 'LOW' 'MORNING' 'PLENTY' 'REMEMBER' 'SHOULDER' 'SLEEP' 'TALL'
+ 'TOUCH']",[],['ugly'],[],[],[],[]
+signer0_sample190_color.mp4,1,['house'],"['ARRANGE' 'BRITAIN' 'CLOTHES' 'COMMUNICATE' 'EXPAND' 'GROUP' 'LOW' 'PUSH'
+ 'READY' 'RELAX' 'SPREAD' 'TENT' 'TIRED']",['house'],[],[],[],[],[]
+signer0_sample1077_color.mp4,1,['guest'],"['ALWAYS' 'BEDROOM' 'BIRTHDAY' 'BLACK' 'BRITAIN' 'CLOTHES' 'DEAF' 'ENOUGH'
+ 'FIND' 'FORGET' 'HEAR' 'KNOW' 'LEARN' 'LIVE' 'LOVELY' 'LOW' 'MIND'
+ 'REMEMBER' 'SLEEP' 'TIRED' 'WANT']",['guest'],[],[],[],[],[]
+signer0_sample1049_color.mp4,1,['potato'],"['AREA' 'BEDROOM' 'BRITAIN' 'CAT' 'CHILD' 'DEAF' 'DRINK' 'ENOUGH' 'HEAR'
+ 'LOOK' 'LOW' 'MAYBE' 'READY' 'SLEEP' 'WANT' 'WATER' 'WONDERFUL']",['potato'],[],[],[],[],[]
+signer0_sample393_color.mp4,1,['see'],"['ANESTHETISE' 'BEDROOM' 'BLIND' 'COUNCIL' 'HEAR' 'LOOK' 'OLD' 'SLEEP'
+ 'THEORY']",[],[],[],['see'],[],[]
+signer0_sample1274_color.mp4,1,['saturday'],"['ACT' 'ARRANGE' 'BRITAIN' 'FINISH' 'FLOCK' 'GESTURE' 'GROUP' 'HOTEL'
+ 'LOW' 'PERFECT' 'RAIN' 'SETTLE' 'SHEET' 'SPREAD' 'TIRED']",['saturday'],[],[],[],[],[]
+signer0_sample1170_color.mp4,1,['key'],"['BABY' 'EMPTY' 'MOTHER' 'PAY' 'PLAN' 'SATURDAY' 'STILL' 'TELEVISION'
+ 'WALK' 'WRITE']",['key'],[],[],[],[],[]
+signer0_sample294_color.mp4,1,['oven'],"['ANYTHING' 'ENCOURAGE' 'EVALUATE' 'EXPLAIN' 'FIVE' 'LEAVE' 'OFFER' 'PLAY'
+ 'RISE' 'SCALES' 'WOW']",[],['oven'],[],[],[],[]
+signer0_sample1196_color.mp4,1,['glove'],"['ACCESS' 'AREA' 'BALL' 'BOOK' 'COMPUTER' 'DISCUSS' 'EMPTY' 'ESCAPE'
+ 'MEANING' 'SEPARATE' 'SPREAD' 'SURROUNDINGS']",['glove'],[],[],[],[],[]
+signer0_sample272_color.mp4,1,['sauce'],"['AREA' 'CHAIR' 'CHILD' 'DECREASE' 'DIG' 'ENOUGH' 'LOW' 'MAYBE' 'PAY'
+ 'SWIM' 'TOUCH' 'WAIT' 'WATER']",['sauce'],[],[],[],[],[]
+signer0_sample310_color.mp4,1,['comb'],['AREA' 'DECREASE' 'FOREIGN' 'GO' 'LOW' 'MAYBE' 'PAST' 'SCHOOL' 'TOUCH'],['comb'],[],[],[],[],[]
+signer0_sample113_color.mp4,1,['mirror'],"['AREA' 'ARRIVE' 'BIG' 'BRITAIN' 'ETHNIC' 'FOREIGN' 'HEAR' 'HOME' 'LOW'
+ 'MAYBE' 'NIGHT' 'PAST' 'REMEMBER' 'SCHOOL' 'SETTLE' 'SPREAD' 'TOUCH']",['mirror'],[],[],[],[],[]
+signer0_sample1211_color.mp4,1,['never'],"['AREA' 'BRITAIN' 'CHILD' 'LEG' 'LOW' 'MAYBE' 'PARK' 'SETTLE' 'SYMPATHY'
+ 'WALL' 'WITHOUT']",[],['never'],[],[],[],[]
+signer0_sample1012_color.mp4,1,['belt'],"['ARRANGE' 'BIG' 'BODY' 'CHAIR' 'CLOTHES' 'EXPAND' 'GESTURE' 'HEAVY'
+ 'PREGNANT' 'RAIN' 'SHEET' 'TIRED']",['belt'],[],[],[],[],[]
+signer0_sample1316_color.mp4,1,['wallet'],"['AMERICA' 'ARRANGE' 'BABY' 'BALL' 'BIG' 'BOAT' 'BODY' 'CLOTHES' 'EXPAND'
+ 'GROUP' 'MEANING' 'PREGNANT' 'RELAX' 'UNIT' 'WEDNESDAY']",['wallet'],[],[],[],[],[]
+signer0_sample1328_color.mp4,1,['stain'],"['AREA' 'ARMY' 'BOY' 'BREATHE' 'ENOUGH' 'ETHNIC' 'FAMILY' 'GO' 'IRELAND'
+ 'LIKE' 'LOOK' 'MAYBE' 'PARK' 'PEOPLE' 'PLACE' 'PLENTY' 'PRESIDENT'
+ 'READY' 'RELAX' 'SCHOOL' 'SLEEP' 'TIRED' 'TOUCH' 'WALK']",['stain'],[],[],[],[],[]
+signer0_sample1115_color.mp4,1,['nope'],['BORING' 'ENOUGH' 'ETHNIC' 'MORNING' 'PLENTY' 'TOUCH' 'WATER' 'WOW'],['nope'],[],[],[],[],[]
+signer0_sample217_color.mp4,1,['where'],"['ACCOMMODATION' 'ALLOW' 'ARRANGE' 'BIG' 'BODY' 'CHECK' 'CLOTHES' 'EXPAND'
+ 'FREE' 'HOTEL' 'LONELY' 'LOW' 'RAIN' 'RELAX' 'RETIRE' 'SLEEP' 'SNOOKER'
+ 'SPECTACLES' 'SPREAD' 'TIRED' 'WAKE']",[],[],[],[],[],[]
+signer0_sample229_color.mp4,1,['mince'],"['AREA' 'BELFAST' 'BRITAIN' 'CHAIR' 'CLOTHES' 'DECREASE' 'ENOUGH' 'GO'
+ 'LOW' 'READY' 'RELAX' 'SETTLE' 'TALL']",['mince'],[],[],[],[],[]
+signer0_sample38_color.mp4,1,['not_interested'],['AMERICA' 'AREA' 'HAPPY' 'LINK' 'LOVE' 'MEANING' 'POOR'],[],[],[],['not_interested'],[],[]
+signer0_sample1134_color.mp4,1,['full'],['AREA' 'BRITAIN' 'FAMILY' 'RAIN' 'READY' 'RELAX' 'TALL'],[],[],['full'],[],[],[]
+signer0_sample1309_color.mp4,1,['monday'],"['AREA' 'BELFAST' 'BRITAIN' 'FAMILY' 'LOW' 'MAYBE' 'RAIN' 'READY' 'RELAX'
+ 'TIRED' 'WATER']",['monday'],[],[],[],[],[]
+signer0_sample1337_color.mp4,1,['you'],"['BEACH' 'BIG' 'BOX' 'EXPAND' 'FLOCK' 'GROUP' 'HOUSE' 'PICTURE' 'RAIN'
+ 'REDUCE' 'ROOM' 'SHEET' 'SPREAD' 'TICKET' 'TITLE']",[],[],[],[],['you'],[]
+signer0_sample208_color.mp4,1,['say'],"['BORING' 'BOY' 'DRINK' 'FARM' 'KNOW' 'LIVE' 'LOOK' 'MAYBE' 'OLD' 'PEOPLE'
+ 'READY' 'REMEMBER' 'SISTER' 'SLEEP' 'THINK' 'WONDERFUL']",[],[],[],['say'],[],[]
+signer0_sample236_color.mp4,1,['tree'],"['AEROPLANE' 'ARRANGE' 'BAD' 'BRITAIN' 'CHILD' 'COUNCIL' 'DARTS' 'FOREIGN'
+ 'FORGET' 'FUTURE' 'GO' 'HEAR' 'INFORM' 'LOW' 'MOVE' 'NOTHING' 'SETTLE'
+ 'SPREAD' 'TEA' 'TOUCH']",['tree'],[],[],[],[],[]
+signer0_sample27_color.mp4,1,['tongs'],['ADD' 'FBUOY' 'GOOD' 'SMALL'],['tongs'],[],[],[],[],[]
+signer0_sample19_color.mp4,1,['far'],"['AVOID' 'BAD' 'BRITAIN' 'CHAIR' 'CHILD' 'FAVOUR' 'FINISH' 'FLOCK'
+ 'GOALKEEPER' 'HORRIBLE' 'LONELY' 'LOSE' 'LOW' 'LUGGAGE' 'PARTNER' 'PARTY'
+ 'TEACH' 'WAIT']",[],['far'],[],[],[],[]
+signer0_sample132_color.mp4,1,['tired'],"['AREA' 'CHAIR' 'CHILD' 'ENOUGH' 'ESCAPE' 'GO' 'LOW' 'MERGE' 'MIX' 'READY'
+ 'SURROUNDINGS' 'TOUCH']",[],[],[],['tired'],[],[]
+signer0_sample331_color.mp4,1,['radiator'],"['ACT' 'AREA' 'ARRANGE' 'AUDIENCE' 'BRITAIN' 'FINISH' 'FLOCK' 'NOTHING'
+ 'PERFECT' 'QUIET' 'SETTLE' 'SHEET' 'SPREAD']",['radiator'],[],[],[],[],[]
+signer0_sample1033_color.mp4,1,['apologize'],"['ARRANGE' 'BALL' 'BRITAIN' 'EXPAND' 'FINISH' 'FIRE' 'GROUP' 'HOUSE'
+ 'LEFT' 'MEANING' 'PRAY' 'PUSH' 'SIGN' 'SPREAD' 'SUNDAY' 'TENT' 'TIRED']",[],[],[],['apologize'],[],[]
+signer0_sample1230_color.mp4,1,['radiator'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BRITAIN' 'FINISH' 'NOTHING' 'PERFECT' 'PUSH'
+ 'QUIET' 'SETTLE' 'SHEET' 'SPREAD']",['radiator'],[],[],[],[],[]
+signer0_sample1151_color.mp4,1,['show'],"['BAD' 'BEDROOM' 'BIRTHDAY' 'CHAIR' 'DEAF' 'DECREASE' 'ENOUGH' 'HEAR'
+ 'HEARING' 'KNOW' 'LIVE' 'LOOK' 'LOW' 'MAYBE' 'READY' 'RELAX' 'REMEMBER'
+ 'SLEEP' 'THINK']",['show'],[],[],[],[],[]
+signer0_sample253_color.mp4,1,['alone'],"['AEROPLANE' 'AREA' 'BAD' 'BRITAIN' 'CHILD' 'DEAF' 'ETHNIC' 'FBUOY' 'HEAR'
+ 'KNOW' 'LITTLE' 'LONDON' 'LOOK' 'LOW' 'MAYBE' 'REMEMBER' 'THINK'
+ 'TYPICAL' 'YESTERDAY']",[],['alone'],[],[],[],[]
+signer0_sample1189_color.mp4,1,['always'],"['ACT' 'ARRANGE' 'BODY' 'CLOTHES' 'EXPAND' 'FAMOUS' 'FLOCK' 'GESTURE'
+ 'LOW' 'PARTY' 'PERFECT' 'RAIN' 'SETTLE' 'SHEET' 'SPREAD' 'TITLE'
+ 'WEATHER']",[],['always'],[],[],[],[]
+signer0_sample354_color.mp4,1,['scissors'],"['AREA' 'BIG' 'BORING' 'BOY' 'BREATHE' 'BRITAIN' 'ENOUGH' 'PEOPLE'
+ 'PLENTY' 'READY' 'RELAX' 'TIRED' 'WATER' 'WONDERFUL']",['scissors'],[],[],[],[],[]
+signer0_sample169_color.mp4,1,['we'],['AUDIENCE' 'BEACH' 'CLOTHES' 'LONELY' 'RAIN' 'RELAX' 'SWIM'],[],[],[],[],['we'],[]
+signer0_sample157_color.mp4,1,['child'],"['AREA' 'ARRANGE' 'BELFAST' 'BIG' 'BRITAIN' 'COMPUTER' 'EXPAND' 'FAMILY'
+ 'FLOCK' 'PANIC' 'SPREAD' 'WITHOUT']",['child'],[],[],[],[],[]
+signer0_sample1255_color.mp4,1,['honey'],"['AREA' 'ESCAPE' 'INVOLVE' 'MOTHER' 'PLAN' 'PRACTISE' 'SATURDAY' 'WRITE'
+ 'YOUNG']",['honey'],[],[],[],[],[]
+signer0_sample1068_color.mp4,1,['money'],['CHILD' 'GOOD' 'KNOW' 'LIVE' 'NICE' 'PERSON' 'RISE' 'SIX' 'THINK' 'WOW'],['money'],[],[],[],[],[]
+signer0_sample1056_color.mp4,1,['grandmother'],"['ADULT' 'AREA' 'BEDROOM' 'BRITAIN' 'CHILD' 'DEAF' 'DECREASE' 'ETHNIC'
+ 'HEAR' 'LOOK' 'LOW' 'MIND' 'SLEEP' 'THEORY' 'THINK' 'TIRED' 'WONDERFUL']",['grandmother'],[],[],[],[],[]
+signer0_sample212_color.mp4,1,['light'],"['AREA' 'BRITAIN' 'CHILD' 'FOREIGN' 'GO' 'HOME' 'LOOK' 'LOW' 'MAYBE'
+ 'PAST' 'TALL' 'TOUCH']",['light'],[],[],[],[],[]
+signer0_sample1110_color.mp4,1,['danger'],['FISH' 'HALF' 'LOVE' 'MARRY' 'POOR' 'UPSET' 'WORK'],['danger'],[],[],[],[],[]
+signer0_sample1313_color.mp4,1,['doctor'],"['AMERICA' 'LINK' 'LOVE' 'MEANING' 'POOR' 'RELATIONSHIP' 'SPOUSE'
+ 'WEDNESDAY']",['doctor'],[],[],[],[],[]
+signer0_sample1017_color.mp4,1,['teacher'],"['AREA' 'BRITAIN' 'CHILD' 'DEAF' 'FLOCK' 'HEAR' 'LOW' 'MAYBE' 'NOTHING'
+ 'PEOPLE' 'PERFECT' 'RAIN' 'SETTLE' 'SLEEP' 'SPEECH' 'SPREAD']",['teacher'],[],[],[],[],[]
+signer0_sample1029_color.mp4,1,['fault'],['BAD' 'GIRL' 'HEARING' 'LOOK' 'LUCK' 'PEOPLE' 'PERSON' 'REMEMBER' 'THINK'],['fault'],[],[],[],[],[]
+signer0_sample1214_color.mp4,1,['trousers'],['ARRANGE' 'LONELY' 'LOW' 'SNOOKER' 'SPREAD'],['trousers'],[],[],[],[],[]
+signer0_sample116_color.mp4,1,['sweet'],['BOY' 'EASY' 'GIRL' 'HEARING' 'PEOPLE' 'SAY' 'THINK' 'YESTERDAY'],['sweet'],[],[],[],[],[]
+signer0_sample128_color.mp4,1,['topple'],"['AREA' 'ARMY' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'DECREASE' 'EXPAND'
+ 'FAMILY' 'FOREIGN' 'GO' 'HOME' 'LOW' 'MOVE' 'PARK' 'SCHOOL' 'SPREAD']",['topple'],[],[],[],[],[]
+signer0_sample315_color.mp4,1,['why'],"['BEHAVIOUR' 'BORN' 'HAPPY' 'LOVE' 'PREGNANT' 'RISE' 'TRUE' 'UPSET' 'WORK'
+ 'WOW']",[],[],[],[],[],[]
+signer0_sample277_color.mp4,1,['slow'],['AREA' 'CHAIR' 'DOOR' 'FULL' 'MERGE' 'POOR' 'PRACTISE' 'SPOUSE'],[],[],[],['slow'],[],[]
+signer0_sample249_color.mp4,1,['ill'],"['BEDROOM' 'DEAF' 'HEAR' 'HEARING' 'KNOW' 'LONDON' 'LOOK' 'NAME'
+ 'REMEMBER' 'THINK']",['ill'],[],[],[],[],[]
+signer0_sample1193_color.mp4,1,['shoe'],"['AMERICA' 'ARRANGE' 'BIG' 'BODY' 'CLOTHES' 'DISCUSS' 'EXPAND' 'GROUP'
+ 'MEANING' 'SIGN' 'SURPRISE' 'TIRED' 'WEDNESDAY']",['shoe'],[],[],[],[],[]
+signer0_sample291_color.mp4,1,['teacher'],"['AEROPLANE' 'AREA' 'ARRIVE' 'BAD' 'BRITAIN' 'COMMUNIST' 'DARTS' 'FAMOUS'
+ 'FOREIGN' 'HEAR' 'HOTEL' 'LOW' 'MAYBE' 'NOTHING' 'PARTY' 'PERFECT' 'RAIN'
+ 'SETTLE' 'SHEET' 'SPEECH' 'SPREAD' 'TOUCH' 'TYPICAL']",['teacher'],[],[],[],[],[]
+signer0_sample1348_color.mp4,1,['telephone'],"['AREA' 'BRITAIN' 'CHILD' 'DECREASE' 'ENOUGH' 'ETHNIC' 'LOW' 'MAYBE'
+ 'TOUCH']",['telephone'],[],[],[],[],[]
+signer0_sample1175_color.mp4,1,['accident'],"['ARRANGE' 'AUDIENCE' 'CHAIR' 'CHILD' 'CLOTHES' 'EQUAL' 'FLOCK' 'LONELY'
+ 'LOW' 'RAIN' 'RELAX' 'SHOULDER' 'SPREAD' 'SWIM' 'WITHDRAW']",['accident'],[],[],[],[],[]
+signer0_sample396_color.mp4,1,['egg'],"['ARRANGE' 'AUDIENCE' 'BEACH' 'BIG' 'EXPAND' 'LONELY' 'RAIN' 'RELAX'
+ 'SPREAD' 'TENT' 'UPWARD' 'WAR']",['egg'],[],[],[],[],[]
+signer0_sample1271_color.mp4,1,['hurry'],"['ARRANGE' 'BEHAVIOUR' 'BIG' 'BORN' 'CLOTHES' 'DISAPPEAR' 'DOOR' 'LOVE'
+ 'LOW' 'POOR' 'SPREAD' 'WEDNESDAY' 'WORK']",['hurry'],[],[],[],[],[]
+signer0_sample195_color.mp4,1,['needle'],"['AREA' 'BOY' 'BRITAIN' 'DEAF' 'DECREASE' 'ENOUGH' 'FAMILY' 'FARM' 'MAYBE'
+ 'PEOPLE' 'REMEMBER' 'SIZE' 'SLEEP' 'SPEECH']",['needle'],[],[],[],[],[]
+signer0_sample1072_color.mp4,1,['danger'],"['AMERICA' 'ARRANGE' 'BANDAGE' 'BASE' 'BEHAVIOUR' 'BIG' 'BODY' 'BORN'
+ 'CLOTHES' 'EMOTION' 'EXCLUDE' 'EXPAND' 'EXPENSIVE' 'EXPERIENCE' 'GO'
+ 'LINK' 'LOVE' 'MARRY' 'NEVER' 'POOR' 'PREGNANT' 'START' 'UPSET'
+ 'WEDNESDAY' 'WORK']",['danger'],[],[],[],[],[]
+signer0_sample1297_color.mp4,1,['crossroads'],"['AREA' 'ARRANGE' 'BIG' 'BODY' 'BRITAIN' 'CLOTHES' 'EXPAND' 'FLOCK'
+ 'FOREIGN' 'GESTURE' 'GO' 'GRAB' 'MIX' 'MOVE' 'SHOUT' 'SIGN' 'SPREAD']",['crossroads'],[],[],[],[],[]
+signer0_sample370_color.mp4,1,['father'],"['ALWAYS' 'BORN' 'BOY' 'CHILD' 'CLOTHES' 'DESSERT' 'ENDURE' 'ENOUGH'
+ 'KNOW' 'LIVE' 'LOVELY' 'LOW' 'MAN' 'NICE' 'PREGNANT' 'WANT' 'WOW']",['father'],[],[],[],[],[]
+signer0_sample1094_color.mp4,1,['hat'],"['AREA' 'BRAINY' 'BRITAIN' 'FOREIGN' 'FORGET' 'FUTURE' 'INFORM' 'KNOW'
+ 'LEARN' 'MOVE' 'REMEMBER' 'SUN' 'TALL']",['hat'],[],[],[],[],[]
+signer0_sample173_color.mp4,1,['far'],"['ARRANGE' 'BEST' 'BETTER' 'BRITAIN' 'CHAIR' 'CHILD' 'COLD' 'EXACT'
+ 'FAVOUR' 'FINISH' 'FLOCK' 'GOALKEEPER' 'HORRIBLE' 'LEG' 'LOSE' 'LOW'
+ 'LUGGAGE' 'MOVE' 'PARTNER' 'PARTY' 'SPREAD' 'TEACH']",[],['far'],[],[],[],[]
+signer0_sample1053_color.mp4,1,['friday'],"['AREA' 'BIG' 'BRITAIN' 'CHILD' 'DEAF' 'DECREASE' 'ENOUGH' 'LOW' 'READY'
+ 'SIZE' 'TALL' 'TIRED' 'WATER']",['friday'],[],[],[],[],[]
+signer0_sample389_color.mp4,1,['picnic'],['ARRANGE' 'CLOTHES' 'FREE' 'LONELY' 'PANIC' 'RAIN' 'RELAX' 'TIRED'],['picnic'],[],[],[],[],[]
+signer0_sample1250_color.mp4,1,['lightweight'],"['ACCOMMODATION' 'BODY' 'BRITAIN' 'CLOTHES' 'EVALUATE' 'HOLIDAY' 'RICH'
+ 'SCALES' 'SETTLE' 'STADIUM' 'TIRED']",['lightweight'],[],[],[],[],[]
+signer0_sample152_color.mp4,1,['retired'],"['AGE' 'ALCOHOLIC' 'BORING' 'CHRISTMAS' 'DRINK' 'ENOUGH' 'HOT' 'PLENTY'
+ 'TEMPT' 'THANK' 'USE' 'WATER' 'WOW']",[],[],[],['retired'],[],[]
+signer0_sample1288_color.mp4,1,['inform'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BACK' 'BAD' 'BEACH' 'BEDROOM' 'BIG'
+ 'BIRTHDAY' 'CHAIR' 'DEAF' 'ETHNIC' 'FLOCK' 'HEAR' 'KNOW' 'LONELY'
+ 'REMEMBER' 'SLEEP' 'SNOOKER' 'SPREAD']",['inform'],[],[],[],[],[]
+signer0_sample351_color.mp4,1,['elephant'],"['AREA' 'BELFAST' 'BRITAIN' 'CHILD' 'DECORATE' 'GO' 'LOW' 'SETTLE'
+ 'SPREAD' 'WALL']",['elephant'],[],[],[],[],[]
+signer0_sample268_color.mp4,1,['football'],"['AREA' 'ARRANGE' 'ARRIVE' 'BIG' 'CHILD' 'EXPAND' 'FLOCK' 'HELP' 'LAPTOP'
+ 'MEANING' 'PLAN' 'POOR' 'SATURDAY' 'SPREAD' 'STILL']",['football'],[],[],[],[],[]
+signer0_sample256_color.mp4,1,['bring'],"['BACK' 'BECKON' 'ETHNIC' 'LONDON' 'MORNING' 'PAST' 'PLENTY' 'SINCE'
+ 'TOUCH']",['bring'],[],[],[],[],[]
+signer0_sample1154_color.mp4,1,['yesterday'],"['CHILD' 'DEAF' 'ETHNIC' 'HEAR' 'LONDON' 'LOW' 'PAST' 'SINCE' 'TALL'
+ 'THINK' 'TOUCH' 'YESTERDAY']",['yesterday'],[],[],[],[],[]
+signer0_sample1235_color.mp4,1,['tired'],"['AMERICA' 'AREA' 'ARRANGE' 'BEHAVIOUR' 'BRITAIN' 'DISCUSS' 'DOOR'
+ 'FINISH' 'LOVE' 'LOW' 'POOR' 'SPREAD']",[],[],[],['tired'],[],[]
+signer0_sample1008_color.mp4,1,['tongs'],['BAD' 'CHILD' 'GO' 'GOOD' 'LEG' 'LOW' 'NOTHING'],['tongs'],[],[],[],[],[]
+signer0_sample1036_color.mp4,1,['room'],"['BEACH' 'BUILD' 'CALLISTHENICS' 'DECREASE' 'DEPTH' 'DOOR' 'FINISH'
+ 'FLOCK' 'FULL' 'MUST' 'RAIN' 'REDUCE' 'RELAX' 'SHEET' 'TIRED']",['room'],[],[],[],[],[]
+signer0_sample334_color.mp4,1,['absent'],"['AREA' 'BORING' 'CLOTHES' 'DECREASE' 'DRINK' 'ENOUGH' 'EVALUATE' 'FARM'
+ 'PLENTY' 'WANT' 'WATER' 'WOW']",['absent'],[],[],[],[],[]
+signer0_sample109_color.mp4,1,['hurry'],"['ACCOMMODATION' 'ARRANGE' 'BEHAVIOUR' 'BIG' 'BRITAIN' 'DEAF' 'FINISH'
+ 'HOLIDAY' 'LONELY' 'LOVE' 'LOW' 'MARRY' 'READY' 'RELAX' 'SHEET' 'SIGN'
+ 'SLEEP' 'SPREAD' 'TIRED' 'WEDNESDAY' 'WEEK' 'WORK']",['hurry'],[],[],[],[],[]
+signer0_sample137_color.mp4,1,['hospital'],"['AMERICA' 'AREA' 'ARRANGE' 'BIG' 'CHAIR' 'EXPAND' 'GESTURE' 'LINK'
+ 'LONELY' 'MUST' 'POOR' 'RAIN' 'REDUCE' 'RELATIONSHIP' 'SETTLE' 'SHEET'
+ 'SLEEP' 'SPOUSE' 'SPREAD' 'TIRED' 'WEDNESDAY']",['hospital'],[],[],[],[],[]
+signer0_sample22_color.mp4,1,['allright'],"['AGE' 'BORING' 'BORN' 'FIND' 'FIVE' 'FORGET' 'FOUR' 'GOOD' 'NIGHT' 'SEEM'
+ 'STRONG' 'THREE' 'WORSE']",['allright'],[],[],[],[],[]
+signer0_sample233_color.mp4,1,['danger'],"['BASE' 'BLACK' 'CHRISTMAS' 'FOREIGN' 'FRIEND' 'KNOW' 'LOVE' 'LOVELY'
+ 'MARRY' 'POOR' 'PROBLEM' 'PUB' 'SLEEP' 'SPOUSE' 'TEA' 'WORK']",['danger'],[],[],[],[],[]
+signer0_sample1332_color.mp4,1,['oven'],"['ANGRY' 'ANYTHING' 'BODY' 'CLOTHES' 'CONCENTRATE' 'DAY' 'EVALUATE'
+ 'EXPLAIN' 'HOLIDAY' 'LEAVE' 'NIGHT' 'OFFER' 'PLAY' 'SCALES' 'WOW']",[],['oven'],[],[],[],[]
+signer0_sample1131_color.mp4,1,['wrong'],"['AREA' 'BOY' 'BRITAIN' 'CHILD' 'ENOUGH' 'GO' 'KNOW' 'LIVE' 'LOVELY' 'LOW'
+ 'MAN' 'MAYBE' 'SISTER']",[],[],['wrong'],[],[],[]
+signer0_sample1140_color.mp4,1,['ataturk'],"['BOY' 'BRITAIN' 'CHILD' 'DEAF' 'ENOUGH' 'GIRL' 'HEAR' 'HEARING' 'KNOW'
+ 'LOOK' 'LOW' 'SLEEP' 'THINK' 'WONDERFUL' 'YESTERDAY']",['ataturk'],[],[],[],[],[]
+signer0_sample1343_color.mp4,1,['screwdriver'],['MONDAY' 'MOTHER' 'PLAN' 'SATURDAY' 'TELEVISION' 'THURSDAY' 'YOUNG'],['screwdriver'],[],[],[],[],[]
+signer0_sample242_color.mp4,1,['laugh'],"['AREA' 'ARMY' 'BRITAIN' 'CHILD' 'DEAF' 'DECREASE' 'LONDON' 'LOOK' 'LOW'
+ 'MAYBE' 'PEOPLE' 'READY' 'RELAX' 'SPEECH' 'TALL' 'TIRED' 'WONDERFUL']",['laugh'],[],[],[],[],[]
+signer0_sample1198_color.mp4,1,['mince'],"['AMERICA' 'AREA' 'CHAIR' 'DECREASE' 'ENOUGH' 'FAMILY' 'FULL' 'GO' 'GROUP'
+ 'LINK' 'PRACTISE' 'SPOUSE' 'UNIT' 'WAR' 'WATER' 'WOW']",['mince'],[],[],[],[],[]
+signer0_sample146_color.mp4,1,['breakfast'],"['AGE' 'BEHAVIOUR' 'BIRTHDAY' 'BLACK' 'CONFUSE' 'DEAF' 'DOOR' 'EAT'
+ 'EIGHT' 'ENDURE' 'FIVE' 'FORGET' 'FOUR' 'FRANCE' 'HOT' 'KNOW' 'LIVE'
+ 'LOVE' 'LOVELY' 'NIGHT' 'PERIODIC' 'TEA' 'THREE']",['breakfast'],[],[],[],[],[]
+signer0_sample178_color.mp4,1,['be_pleased'],"['ARRANGE' 'BIG' 'BODY' 'CLOTHES' 'EVALUATE' 'EXPAND' 'FREE' 'LOW' 'RAIN'
+ 'RELAX' 'SURPRISE' 'TIRED']",[],[],[],['be_pleased'],[],[]
+signer0_sample345_color.mp4,1,['room'],"['AMERICA' 'ARRANGE' 'BEACH' 'BIG' 'BODY' 'EXPAND' 'GESTURE' 'GROUP'
+ 'REDUCE' 'SETTLE' 'TIRED' 'UNIT']",['room'],[],[],[],[],[]
+signer0_sample1047_color.mp4,1,['turkey'],['AREA' 'CEILING' 'CHILD' 'FOREIGN' 'GO' 'KNOW' 'PAST' 'REMEMBER'],['turkey'],[],[],[],[],[]
+signer0_sample1079_color.mp4,1,['photograph'],"['ARRANGE' 'AUDIENCE' 'BELFAST' 'BRITAIN' 'CLOTHES' 'EXPAND' 'FLOCK'
+ 'GRAB' 'HOTEL' 'LOW' 'PANIC' 'RAIN' 'SPECTACLES' 'SPREAD' 'UPWARD']",['photograph'],[],[],[],[],[]
+signer0_sample1244_color.mp4,1,['angel'],"['BANDAGE' 'BEHAVIOUR' 'BREATHE' 'BUILD' 'DOOR' 'FULL' 'LIKE' 'LOVE' 'MIX'
+ 'POOR' 'SCHOOL' 'SURPRISE' 'UPSET' 'WORK']",['angel'],[],[],[],[],[]
+signer0_sample1326_color.mp4,1,['be_pleased'],"['ARRANGE' 'BIG' 'BODY' 'CLOTHES' 'EVALUATE' 'EXPAND' 'FREE' 'LONELY'
+ 'RAIN' 'RELAX' 'SHEET' 'TIRED']",[],[],[],['be_pleased'],[],[]
+signer0_sample1318_color.mp4,1,['crossroads'],"['AREA' 'ARRANGE' 'BAD' 'BELFAST' 'BRITAIN' 'CHILD' 'CHOOSE' 'FOREIGN'
+ 'LOW' 'MOVE' 'NOTHING' 'PANIC' 'PARK' 'SHOUT' 'SPEECH' 'SPREAD' 'WALL']",['crossroads'],[],[],[],[],[]
+signer0_sample1125_color.mp4,1,['enemy'],"['AEROPLANE' 'AREA' 'BACK' 'BAD' 'BIRTHDAY' 'BRITAIN' 'CHILD' 'COMMUNIST'
+ 'LOW' 'MAYBE' 'RIGHT' 'TOUCH' 'TYPICAL']",['enemy'],[],[],[],[],[]
+signer0_sample227_color.mp4,1,['request'],"['AREA' 'BIG' 'BREATHE' 'CLOTHES' 'ENOUGH' 'GO' 'READY' 'SURPRISE' 'WANT'
+ 'WATER' 'WOW']",['request'],[],[],[],[],[]
+signer0_sample219_color.mp4,1,['child'],"['AREA' 'ARRANGE' 'BIG' 'BRITAIN' 'EXPAND' 'GESTURE' 'PANIC' 'SETTLE'
+ 'SHEET' 'SPREAD' 'WITHOUT']",['child'],[],[],[],[],[]
+signer0_sample36_color.mp4,1,['time'],"['AMERICA' 'AREA' 'BLUE' 'IRELAND' 'LINK' 'MIX' 'PARK' 'POOR'
+ 'SURROUNDINGS' 'THEATRE']",['time'],[],[],[],[],[]
+signer0_sample320_color.mp4,1,['orange'],"['BEACH' 'BORN' 'BRITAIN' 'BUILD' 'CHAIR' 'CHECK' 'DECREASE' 'DEPTH'
+ 'DOCTOR' 'DOOR' 'FRIEND' 'FRIGHTENED' 'LIKE' 'LOSE' 'PARTNER' 'SPOUSE'
+ 'TEACH' 'WORK']",['orange'],[],[],[],[],[]
+signer0_sample123_color.mp4,1,['baby'],"['BEHAVIOUR' 'CONCENTRATE' 'DAY' 'DEPTH' 'EVALUATE' 'EXPLAIN' 'GIVE'
+ 'LEAVE' 'NIGHT' 'SCALES' 'SINCE' 'STADIUM']",['baby'],[],[],[],[],[]
+signer0_sample1221_color.mp4,1,['pharmacy'],"['ACCOMMODATION' 'ARRANGE' 'CAMERA' 'CHECK' 'CLOTHES' 'DEAF' 'EXPAND'
+ 'GIRL' 'HEARING' 'KNOW' 'LOOK' 'LOW' 'RAIN' 'RELAX' 'RETIRE' 'SISTER'
+ 'SLEEP' 'SPECTACLES' 'THINK' 'TIRED' 'VIEW' 'WAKE']",['pharmacy'],[],[],[],[],[]
+signer0_sample1022_color.mp4,1,['father'],"['ALWAYS' 'BLACK' 'BOY' 'DESSERT' 'ENOUGH' 'KNOW' 'LOVELY' 'MAN' 'NICE'
+ 'NUMBER' 'PLENTY' 'PREFER']",['father'],[],[],[],[],[]
+signer0_sample102_color.mp4,1,['school'],"['AGE' 'BORING' 'BRITAIN' 'CHILD' 'FARM' 'FIVE' 'FOUR' 'HOT' 'LOW' 'MUM'
+ 'PERSON' 'RISE' 'SCHOOL' 'SEEM' 'WANT' 'WOW']",['school'],[],[],[],[],[]
+signer0_sample301_color.mp4,1,['minute'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHAIR' 'CHILD' 'DRINK' 'FARM'
+ 'FOREIGN' 'FULL' 'FUTURE' 'GO' 'LOW' 'PRACTISE' 'SLEEP' 'SPOUSE' 'SPREAD'
+ 'TOUCH' 'WATER' 'WORK']",['minute'],[],[],[],[],[]
+signer0_sample1003_color.mp4,1,['wednesday'],"['AREA' 'BAD' 'BEDROOM' 'BRITAIN' 'CHILD' 'DEAF' 'FBUOY' 'GERMANY' 'HEAR'
+ 'KNOW' 'LOOK' 'LOW' 'PERSON' 'REMEMBER' 'SETTLE' 'SLEEP' 'THINK']",['wednesday'],[],[],[],[],[]
+signer0_sample1200_color.mp4,1,['key'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BELFAST' 'BRITAIN' 'CHAIR' 'COMPUTER'
+ 'COVER' 'EMPTY' 'ESCAPE' 'EXPECT' 'MOTHER' 'MOVE' 'PANIC' 'PARK' 'PLAN'
+ 'PRACTISE' 'SATURDAY' 'SPREAD' 'TELEVISION' 'THURSDAY' 'TIDY' 'WALK'
+ 'WRITE' 'YOUNG']",['key'],[],[],[],[],[]
+signer0_sample1104_color.mp4,1,['stain'],"['AREA' 'BOY' 'BRITAIN' 'CHILD' 'DECREASE' 'DESSERT' 'ENOUGH' 'FAMILY'
+ 'FINISH' 'IRELAND' 'LOOK' 'LOW' 'PEOPLE' 'PLENTY' 'SCHOOL' 'TOUCH'
+ 'WATER']",['stain'],[],[],[],[],[]
+signer0_sample1339_color.mp4,1,['saturday'],"['ACCOMMODATION' 'ARRANGE' 'BODY' 'BRITAIN' 'CLOTHES' 'EXPAND' 'FINISH'
+ 'FLOCK' 'HOLIDAY' 'LOW' 'PERFECT' 'RAIN' 'SETTLE' 'SLEEP' 'SPREAD'
+ 'TIRED']",['saturday'],[],[],[],[],[]
+signer0_sample1307_color.mp4,1,['house'],"['ARRANGE' 'BELFAST' 'BRITAIN' 'DECREASE' 'ENOUGH' 'EXPAND' 'LOW' 'PANIC'
+ 'PUSH' 'READY' 'RELAX' 'SETTLE' 'SPREAD' 'TENT' 'TIRED']",['house'],[],[],[],[],[]
+signer0_sample238_color.mp4,1,['help'],['AMERICA' 'BEHAVIOUR' 'DOOR' 'LOVE' 'POOR' 'WORK'],['help'],[],[],[],[],[]
+signer0_sample206_color.mp4,1,['ceiling'],"['ARRANGE' 'AUDIENCE' 'BIG' 'CEILING' 'EVALUATE' 'FINISH' 'FLOCK'
+ 'FOREIGN' 'GESTURE' 'HOLIDAY' 'HOLLAND' 'LOW' 'PERFECT' 'RISE' 'SHEET'
+ 'SPREAD' 'UPWARD']",['ceiling'],[],[],[],[],[]
+signer0_sample17_color.mp4,1,['single'],"['BAD' 'BRITAIN' 'CHILD' 'DECREASE' 'HOME' 'LOW' 'MORNING' 'PAST'
+ 'SHOULDER' 'TALL' 'TOUCH']",[],[],['single'],[],[],[]
+signer0_sample29_color.mp4,1,['tree'],"['AREA' 'ARRIVE' 'ASK' 'BAD' 'BRITAIN' 'CHILD' 'DARTS' 'FOREIGN' 'HEAR'
+ 'LOOK' 'LOW' 'MOVE' 'NOTHING' 'PERFECT' 'SETTLE' 'SPREAD' 'TEA' 'TEN'
+ 'THREE']",['tree'],[],[],[],[],[]
+signer0_sample364_color.mp4,1,['guest'],['BIRTHDAY' 'BLACK' 'BOY' 'ENOUGH' 'LIVE' 'NICE' 'NUMBER' 'PLENTY' 'TOUCH'],['guest'],[],[],[],[],[]
+signer0_sample159_color.mp4,1,['door'],"['BALL' 'BRITAIN' 'CHILD' 'FINISH' 'HEAR' 'LEG' 'LOW' 'MAYBE' 'PERFECT'
+ 'PUSH' 'SETTLE' 'SHOULDNT' 'SPREAD' 'TIRED' 'WALL']",['door'],[],[],[],[],[]
+signer0_sample1283_color.mp4,1,['medicine'],['BIRTHDAY' 'COMMUNIST' 'KNOW' 'LIVE' 'REMEMBER' 'SHOUT' 'SISTER'],['medicine'],[],[],[],[],[]
+signer0_sample167_color.mp4,1,['voice'],['GIRL' 'HEARING' 'KNOW' 'LOOK' 'PEOPLE' 'SISTER' 'THINK'],['voice'],[],[],[],[],[]
+signer0_sample1080_color.mp4,1,['where'],"['ACCOMMODATION' 'ALLOW' 'ARRANGE' 'BIG' 'CLOTHES' 'EXPAND' 'FLOCK'
+ 'LONELY' 'RAIN' 'REDUCE' 'RELAX' 'RETIRE' 'SLEEP' 'SNOOKER' 'SPECTACLES'
+ 'SPREAD' 'TIRED' 'WAKE']",[],[],[],[],[],[]
+signer0_sample1265_color.mp4,1,['unwise'],"['BIG' 'BOSS' 'BRITAIN' 'CHEAP' 'DEAF' 'FBUOY' 'GESTURE' 'HEAR' 'LOW'
+ 'ONE' 'RANKING' 'THINK' 'TIRED' 'UNDERSTAND' 'WANT']",['unwise'],[],[],[],[],[]
+signer0_sample1058_color.mp4,1,['milk'],"['BECKON' 'BORN' 'BREATHE' 'CLOTHES' 'ENOUGH' 'EXPENSIVE' 'FBUOY' 'RISE'
+ 'SURPRISE' 'WATER' 'WOW']",['milk'],[],[],[],[],[]
+signer0_sample382_color.mp4,1,['scissors'],"['AREA' 'ARRANGE' 'BIG' 'BREATHE' 'BRITAIN' 'CLOTHES' 'ENOUGH' 'EXPAND'
+ 'FLOCK' 'GROUP' 'LOW' 'READY' 'RELAX' 'WATER']",['scissors'],[],[],[],[],[]
+signer0_sample1066_color.mp4,1,['thanks'],"['AREA' 'ARRANGE' 'BIG' 'BRITAIN' 'CHILD' 'FAMILY' 'LONELY' 'LOW' 'MAYBE'
+ 'PANIC' 'RAIN' 'READY' 'RELAX' 'ROOM' 'SETTLE' 'SLEEP' 'SPREAD']",['thanks'],[],[],[],[],[]
+signer0_sample181_color.mp4,1,['male'],"['FRANCE' 'KNOW' 'LITTLE' 'LIVE' 'LOOK' 'MAN' 'PEOPLE' 'SHOUT' 'SISTER'
+ 'SPEECH']",['male'],[],[],[],[],[]
+signer0_sample285_color.mp4,1,['love'],"['AREA' 'BIG' 'BREATHE' 'EVALUATE' 'LIKE' 'LOVE' 'PARK' 'SETTLE'
+ 'SURPRISE' 'TIRED' 'WATER' 'WITHOUT']",['love'],[],[],[],[],[]
+signer0_sample1161_color.mp4,1,['feast'],['AREA' 'ARRANGE' 'AUDIENCE' 'BIG' 'BRITAIN' 'SPREAD'],['feast'],[],[],[],[],[]
+signer0_sample263_color.mp4,1,['wrong'],"['DRINK' 'FARM' 'FRANCE' 'KNOW' 'LIVE' 'LOOK' 'NICE' 'NUMBER' 'SISTER'
+ 'TEA']",[],[],['wrong'],[],[],[]
+signer0_sample1187_color.mp4,1,['who'],"['AGES' 'ASK' 'BEDROOM' 'BIG' 'BRITAIN' 'DRINK' 'FARM' 'FIVE^ZERO'
+ 'FOREIGN' 'HEAR' 'LEARN' 'NOTHING' 'PERFECT' 'REMEMBER' 'SLEEP' 'SPEECH'
+ 'SURPRISE' 'TEA' 'THEORY' 'WANT' 'WATER' 'WOW']",[],[],[],[],[],[]
+signer0_sample1303_color.mp4,1,['shirt'],"['ANGRY' 'BODY' 'BORN' 'CLOTHES' 'CRY' 'DAY' 'DEAF' 'ENOUGH' 'EXCITED'
+ 'HEAVY' 'HOLIDAY' 'ILL' 'INFORMATION' 'LONDON' 'LOW' 'MEAL' 'MORNING'
+ 'READY' 'RELAX' 'TEACH' 'TIRED' 'WOW']",['shirt'],[],[],[],[],[]
+signer0_sample1100_color.mp4,1,['I'],['BAD' 'DISAPPOINT' 'LOOK' 'MORNING' 'SHOULDER' 'TOUCH'],[],[],[],[],['I'],[]
+signer0_sample202_color.mp4,1,['tax'],"['AMERICA' 'BUILD' 'DISCUSS' 'EXCITED' 'EXPLAIN' 'LINK' 'MANCHESTER'
+ 'PLAN' 'READY' 'RELATIONSHIP' 'SATURDAY' 'SIGN']",['tax'],[],[],[],[],[]
+signer0_sample13_color.mp4,1,['bed'],"['ACT' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CARAVAN' 'CHILD' 'COMMUNICATE'
+ 'FLOCK' 'GROUP' 'LOSE' 'LOW' 'PANIC' 'QUIET' 'SPREAD' 'TEACH' 'TENT']",['bed'],[],[],[],[],[]
+signer0_sample305_color.mp4,1,['orange'],"['AMERICA' 'ASK' 'BAD' 'BEHAVIOUR' 'BODY' 'BRITAIN' 'CHAIR' 'CLOTHES'
+ 'DEPTH' 'DOOR' 'FRIEND' 'FRIGHTENED' 'LIKE' 'LOSE' 'PARTNER' 'PROBLEM'
+ 'SPOUSE' 'TEACH' 'TOUCH' 'UNIT' 'WAR' 'WORK']",['orange'],[],[],[],[],[]
+signer0_sample138_color.mp4,1,['hi'],['AREA' 'BRITAIN' 'CHILD' 'DECREASE' 'ETHNIC' 'LOW' 'MAYBE' 'TALL' 'TIRED'],['hi'],[],[],[],[],[]
+signer0_sample106_color.mp4,1,['pencil'],['BAD' 'BOSS' 'GIRL' 'HEARING' 'PEOPLE' 'RANKING'],['pencil'],[],[],[],[],[]
+signer0_sample1204_color.mp4,1,['animal'],"['AUDIENCE' 'BIG' 'BODY' 'CLOTHES' 'EXPAND' 'FREE' 'OPEN' 'RELAX'
+ 'STADIUM' 'TENT' 'TIRED' 'WAR']",['animal'],[],[],[],[],[]
+signer0_sample1039_color.mp4,1,['mother'],"['AREA' 'ARRANGE' 'BIG' 'BREATHE' 'EXPAND' 'GROUP' 'IRELAND' 'LIKE'
+ 'RELAX' 'SURPRISE' 'TIRED' 'TOUCH' 'TOWN' 'WANT' 'WATER']",['mother'],[],[],[],[],[]
+signer0_sample1007_color.mp4,1,['sunday'],"['AREA' 'CHAIR' 'CHILD' 'CLOTHES' 'FAMILY' 'LONDON' 'LOOK' 'LOW' 'READY'
+ 'RELAX' 'SURPRISE' 'TIRED']",['sunday'],[],[],[],[],[]
+signer0_sample1165_color.mp4,1,['danger'],"['AMERICA' 'ARRANGE' 'BANDAGE' 'BEHAVIOUR' 'BIG' 'BODY' 'BORN' 'BUILD'
+ 'CLOTHES' 'DOOR' 'EMOTION' 'EXPAND' 'GO' 'LOVE' 'MARRY' 'NEVER' 'POOR'
+ 'PREGNANT' 'WEDNESDAY' 'WORK' 'WOW']",['danger'],[],[],[],[],[]
+signer0_sample281_color.mp4,1,['meal'],"['AREA' 'BECKON' 'DECREASE' 'ENOUGH' 'ETHNIC' 'FAMILY' 'LONDON' 'MORNING'
+ 'PARK' 'PAST' 'PLENTY' 'SINCE' 'TOUCH' 'WATER' 'WOW']",['meal'],[],[],[],[],[]
+signer0_sample1183_color.mp4,1,['monday'],"['AREA' 'BELFAST' 'BRITAIN' 'FAMILY' 'LOW' 'MAYBE' 'READY' 'RELAX' 'TIRED'
+ 'WATER']",['monday'],[],[],[],[],[]
+signer0_sample259_color.mp4,1,['identity'],"['BALL' 'BODY' 'BRITAIN' 'CLOTHES' 'EXPAND' 'FINISH' 'GO' 'GROUP' 'HEAVY'
+ 'MOTHER' 'PUSH' 'READY' 'RELAX' 'SATURDAY' 'SIGN' 'SPREAD' 'TIRED']",['identity'],[],[],[],[],[]
+signer0_sample267_color.mp4,1,['light'],"['AREA' 'BRITAIN' 'CHILD' 'FARM' 'FOREIGN' 'GO' 'LOOK' 'LOW' 'MAYBE'
+ 'PAST' 'TALL']",['light'],[],[],[],[],[]
+signer0_sample163_color.mp4,1,['tailor'],"['ALLOW' 'AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'LONELY' 'LOW'
+ 'PANIC' 'SETTLE' 'SPREAD' 'SWIM']",['tailor'],[],[],[],[],[]
+signer0_sample1084_color.mp4,1,['who'],"['ANYTHING' 'AREA' 'BEDROOM' 'BIG' 'BRITAIN' 'CONFUSE' 'DECREASE'
+ 'EVALUATE' 'FARM' 'FIVE' 'HEAR' 'MANY' 'MAYBE' 'SIGN' 'SLEEP' 'TEN'
+ 'WATER' 'WONDERFUL']",[],[],[],[],[],[]
+signer0_sample360_color.mp4,1,['lap'],"['AMERICA' 'BANDAGE' 'BEHAVIOUR' 'BODY' 'CLOTHES' 'DOOR' 'LOVE' 'PERIODIC'
+ 'PREGNANT' 'SURPRISE' 'UPSET' 'WORK' 'WOW']",['lap'],[],[],[],[],[]
+signer0_sample1287_color.mp4,1,['champion'],"['BALL' 'BIG' 'BLACK' 'BRITAIN' 'CHURCH' 'CURTAINS' 'DISAPPEAR'
+ 'EVERYTHING' 'EXPAND' 'GRAB' 'HOUSE' 'LINK' 'LOSE' 'MEANING' 'PARTNER'
+ 'PRAY' 'RELATIONSHIP' 'SIGN' 'SLEEP' 'SPREAD']",['champion'],[],[],[],[],[]
+signer0_sample1062_color.mp4,1,['together'],"['AWARD' 'BAD' 'BORROW' 'BROTHER' 'CHECK' 'FAVOUR' 'HORRIBLE' 'LOSE'
+ 'PARTNER' 'PRIEST' 'RUN' 'SLEEP' 'SPORT' 'TEACH']",[],['together'],[],[],[],[]
+signer0_sample185_color.mp4,1,['glove'],"['AREA' 'BRITAIN' 'CHAIR' 'CLOSED' 'COMPUTER' 'FAMILY' 'LOOK' 'PLACE'
+ 'PRACTISE' 'STAND' 'TEASE' 'WALK']",['glove'],[],[],[],[],[]
+signer0_sample1261_color.mp4,1,['tuesday'],"['ARRANGE' 'BAD' 'BODY' 'BORN' 'BRITAIN' 'CHECK' 'CLOTHES' 'COMMUNICATE'
+ 'ENOUGH' 'EXPAND' 'FRIGHTENED' 'LOSE' 'LOW' 'MEAL' 'READY' 'RELAX'
+ 'SLEEP' 'START' 'TEACH' 'TENT' 'TIRED' 'WAIT' 'WAKE' 'WAR']",['tuesday'],[],[],[],[],[]
+signer0_sample386_color.mp4,1,['scissors'],"['AREA' 'BIG' 'BORING' 'BOY' 'ENOUGH' 'PEOPLE' 'PLENTY' 'READY' 'SURPRISE'
+ 'WATER' 'WONDERFUL']",['scissors'],[],[],[],[],[]
+signer0_sample341_color.mp4,1,['cry'],"['BAD' 'BEDROOM' 'BRITAIN' 'CHILD' 'DEAF' 'HEAR' 'LEG' 'LOOK' 'LOW' 'NAME'
+ 'OLD' 'PERSON' 'READY' 'RELAX' 'SLEEP' 'THINK' 'TIRED' 'WONDERFUL']",['cry'],[],[],[],[],[]
+signer0_sample1298_color.mp4,1,['inform'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BEACH' 'BIG' 'BRITAIN' 'DARTS' 'DROP'
+ 'EXPAND' 'FLOCK' 'FOREIGN' 'FUTURE' 'INFORM' 'LONELY' 'MOVE' 'RAIN'
+ 'REMEMBER' 'SHEET' 'SPREAD' 'SUN' 'TEA' 'UNIT']",['inform'],[],[],[],[],[]
+signer0_sample142_color.mp4,1,['war'],['CLOTHES' 'FREE' 'RAIN' 'READY' 'RELAX' 'TENT' 'TIRED' 'UPWARD'],['war'],[],[],[],[],[]
+signer0_sample1240_color.mp4,1,['female'],['BOY' 'DEAF' 'EASY' 'ORAL' 'PEOPLE' 'RED' 'SAY'],['female'],[],[],[],[],[]
+signer0_sample399_color.mp4,1,['sauce'],"['AREA' 'ARRANGE' 'BRITAIN' 'CHILD' 'COMPUTER' 'ENOUGH' 'LOW' 'PANIC'
+ 'READY' 'RELAX' 'SETTLE' 'SIZE' 'SLEEP' 'SPREAD' 'SURPRISE' 'TALL' 'WANT'
+ 'WATER']",['sauce'],[],[],[],[],[]
+signer0_sample1043_color.mp4,1,['breakfast'],"['BANDAGE' 'BEHAVIOUR' 'BLACK' 'DOOR' 'EXPERIENCE' 'EXPLAIN' 'FIND'
+ 'FORGET' 'GO' 'KNOW' 'LAST' 'LEARN' 'LIVE' 'LOVELY' 'NEVER' 'NEW' 'NIGHT'
+ 'PUB' 'TEA' 'TEMPT' 'WIN' 'WORK']",['breakfast'],[],[],[],[],[]
+signer0_sample1347_color.mp4,1,['cologne'],"['AREA' 'BALL' 'BIG' 'BRITAIN' 'DECREASE' 'EVALUATE' 'EXPAND' 'FENCE'
+ 'FINISH' 'GESTURE' 'GROUP' 'HOTEL' 'HOUSE' 'READY' 'REDUCE' 'RELAX'
+ 'SHEET' 'SMALL' 'SPREAD' 'STADIUM' 'WAR' 'WATER']",['cologne'],[],[],[],[],[]
+signer0_sample1144_color.mp4,1,['hat'],"['AREA' 'BRITAIN' 'CHILD' 'DARTS' 'DRINK' 'FARM' 'FOREIGN' 'FORGET'
+ 'FUTURE' 'INFORM' 'LOW' 'MAYBE' 'MOVE' 'REMEMBER' 'SUN' 'TEA' 'WANT']",['hat'],[],[],[],[],[]
+signer0_sample246_color.mp4,1,['drink'],['BIRTHDAY' 'BLACK' 'FRANCE' 'KNOW' 'LIVE' 'SISTER' 'THINK'],['drink'],[],[],[],[],[]
+signer0_sample278_color.mp4,1,['promise'],"['BAD' 'DRINK' 'KNOW' 'LIVE' 'MAN' 'NICE' 'NUMBER' 'PERSON' 'PUB'
+ 'REMEMBER' 'SHOUT' 'SISTER' 'SURPRISE' 'WANT']",['promise'],[],[],[],[],[]
+signer0_sample127_color.mp4,1,['how'],"['ARRANGE' 'BECKON' 'BIG' 'EXPAND' 'EXPENSIVE' 'FLOCK' 'LEAVE' 'PAST'
+ 'RAIN' 'SIGN' 'SURPRISE' 'WOW']",[],[],[],[],[],[]
+signer0_sample119_color.mp4,1,['okay'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHAIR' 'CHILD' 'LOW' 'PANIC'
+ 'RELAX' 'SETTLE' 'SPREAD' 'TENT']",['okay'],[],[],[],[],[]
+signer0_sample324_color.mp4,1,['scissors'],"['AREA' 'BIG' 'BREATHE' 'ENOUGH' 'LIVE' 'LOW' 'PLENTY' 'READY' 'RELAX'
+ 'SURPRISE' 'TIRED' 'WATER']",['scissors'],[],[],[],[],[]
+signer0_sample1026_color.mp4,1,['where'],"['ACCOMMODATION' 'ARRANGE' 'CLOTHES' 'EXPAND' 'FLOCK' 'FREE' 'RAIN'
+ 'RELAX' 'RETIRE' 'SLEEP' 'SURPRISE' 'TIRED']",[],[],[],[],[],[]
+signer0_sample1018_color.mp4,1,['unwise'],"['AREA' 'BAD' 'BOSS' 'BRITAIN' 'CHILD' 'DEAF' 'HEAR' 'HEARING' 'KNOW'
+ 'LEG' 'LOOK' 'LOW' 'ONE' 'REMEMBER' 'THINK']",['unwise'],[],[],[],[],[]
+signer0_sample1225_color.mp4,1,['feast'],['AREA' 'ARRANGE' 'AUDIENCE' 'BIG' 'BRITAIN' 'SPREAD'],['feast'],[],[],[],[],[]
+signer0_sample1121_color.mp4,1,['angel'],"['AMERICA' 'AREA' 'BEHAVIOUR' 'BREATHE' 'DOOR' 'ENOUGH' 'LIKE' 'LOVE'
+ 'NIGHT' 'SINCE' 'UPSET' 'WATER' 'WORK']",['angel'],[],[],[],[],[]
+signer0_sample1322_color.mp4,1,['belt'],"['ARRANGE' 'BIG' 'CHAIR' 'ESCAPE' 'EXPAND' 'GESTURE' 'LONELY' 'PREGNANT'
+ 'RAIN' 'SETTLE' 'TIRED']",['belt'],[],[],[],[],[]
+signer0_sample223_color.mp4,1,['manager'],"['BRITAIN' 'DEAF' 'HEAR' 'HEARING' 'KNOW' 'LOOK' 'LOW' 'REMEMBER' 'SISTER'
+ 'SLEEP' 'THINK']",['manager'],[],[],[],[],[]
+signer0_sample32_color.mp4,1,['fasting'],"['AREA' 'BORING' 'DECREASE' 'ENOUGH' 'ETHNIC' 'FOREIGN' 'GO' 'HOT'
+ 'PLENTY' 'SCHOOL' 'THANK' 'TOUCH' 'USE' 'WATER']",[],[],[],['fasting'],[],[]
+signer0_sample1188_color.mp4,1,['you'],"['ALLOW' 'ARRANGE' 'AUDIENCE' 'BEACH' 'FLOCK' 'LONELY' 'LUGGAGE'
+ 'MOTORBIKE' 'MOW' 'RAIN' 'RETIRE' 'ROOM' 'SHEET' 'SNOOKER' 'SPREAD']",[],[],[],[],['you'],[]
+signer0_sample252_color.mp4,1,['turkey'],"['AREA' 'BAD' 'BRITAIN' 'CHILD' 'FOREIGN' 'KNOW' 'LOOK' 'LOW' 'PAST'
+ 'REMEMBER' 'SPREAD']",['turkey'],[],[],[],[],[]
+signer0_sample1150_color.mp4,1,['carpet'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BELFAST' 'BRITAIN' 'CLOTHES' 'LONELY'
+ 'PANIC' 'RAIN' 'RELAX' 'RETIRE' 'SETTLE' 'SPREAD']",['carpet'],[],[],[],[],[]
+signer0_sample1254_color.mp4,1,['saturday'],"['ARRANGE' 'BRITAIN' 'CLOTHES' 'FINISH' 'FLOCK' 'HEAR' 'LOSE' 'LOW'
+ 'PERFECT' 'RAIN' 'RELAX' 'SLEEP' 'SPREAD' 'TIRED']",['saturday'],[],[],[],[],[]
+signer0_sample1069_color.mp4,1,['hi'],"['AREA' 'BRITAIN' 'CHILD' 'DECREASE' 'ETHNIC' 'HEAR' 'HOME' 'LOW' 'MAYBE'
+ 'PAST' 'REMEMBER' 'SIZE' 'TALL' 'TIRED' 'TOUCH']",['hi'],[],[],[],[],[]
+signer0_sample1057_color.mp4,1,['unwise'],"['CHILD' 'DEAF' 'GOOD' 'HEAR' 'HEARING' 'KNOW' 'LONDON' 'LOW' 'ONE'
+ 'THINK']",['unwise'],[],[],[],[],[]
+signer0_sample355_color.mp4,1,['alone'],"['BAD' 'BIRTHDAY' 'CHILD' 'DEAF' 'FRANCE' 'HEAR' 'KNOW' 'LIVE' 'LOOK'
+ 'LOW' 'MAYBE' 'REMEMBER' 'SISTER' 'THINK']",[],['alone'],[],[],[],[]
+signer0_sample168_color.mp4,1,['belt'],['AREA' 'ARRANGE' 'BIG' 'EXPAND' 'LONELY' 'LOW' 'SNOOKER' 'SPREAD'],['belt'],[],[],[],[],[]
+signer0_sample156_color.mp4,1,['eat'],"['BIRTHDAY' 'BLACK' 'BRITAIN' 'CHILD' 'CLOTHES' 'FORGET' 'FRANCE' 'KNOW'
+ 'LEARN' 'LIVE' 'LOW' 'PUB' 'REMEMBER' 'TEA' 'WANT' 'WOW']",['eat'],[],[],[],[],[]
+signer0_sample26_color.mp4,1,['olympiad'],"['ACCOMMODATION' 'ACT' 'BALL' 'BRITAIN' 'CARAVAN' 'COMMUNICATE'
+ 'EVERYTHING' 'EXPAND' 'GROUP' 'HOUSE' 'LOSE' 'LOW' 'PRAY' 'SLEEP'
+ 'SPREAD' 'TEACH' 'TENT']",['olympiad'],[],[],[],[],[]
+signer0_sample18_color.mp4,1,['police'],"['AMERICA' 'AREA' 'ARRANGE' 'BIG' 'DISAPPEAR' 'EXPAND' 'GROUP' 'LINK'
+ 'UNIT']",['police'],[],[],[],[],[]
+signer0_sample209_color.mp4,1,['enjoy_your_meal'],"['AREA' 'ARRANGE' 'BREATHE' 'BRITAIN' 'CHILD' 'EVALUATE' 'FAMILY' 'LIKE'
+ 'LOVE' 'LOW' 'PANIC' 'READY' 'SETTLE' 'SURPRISE' 'TIRED' 'UPSET' 'WANT'
+ 'WATER' 'WOW']",['enjoy_your_meal'],[],[],[],[],[]
+signer0_sample237_color.mp4,1,['forest'],"['ACCOMMODATION' 'AREA' 'BAD' 'BALL' 'BIG' 'BRITAIN' 'CONCENTRATE'
+ 'CONFUSE' 'EVERYTHING' 'EXPERIENCE' 'EXPLAIN' 'FOREIGN' 'GESTURE' 'GO'
+ 'HISTORY' 'HOLIDAY' 'MANY' 'NEW' 'NIGHT' 'PAST' 'SIGN' 'SPREAD' 'STADIUM'
+ 'STRAIGHTAWAY' 'TEN']",['forest'],[],[],[],[],[]
+signer0_sample1135_color.mp4,1,['push'],"['ARRANGE' 'EXPAND' 'GESTURE' 'GROUP' 'PUSH' 'REDUCE' 'SETTLE' 'SHEET'
+ 'SMALL' 'SPREAD' 'WITHOUT']",['push'],[],[],[],[],[]
+signer0_sample1308_color.mp4,1,['together'],"['ACT' 'ANGRY' 'ARRANGE' 'AWARD' 'BAD' 'BODY' 'BORN' 'CLOTHES' 'COW'
+ 'EXCITED' 'EXPAND' 'FAMOUS' 'FINISH' 'HEALTHY' 'HORRIBLE' 'ILL' 'LOSE'
+ 'LOW' 'PARTY' 'PERFECT' 'PREGNANT' 'RICH' 'STRONG' 'STUBBORN' 'TYPICAL'
+ 'WOW']",[],['together'],[],[],[],[]
+signer0_sample1336_color.mp4,1,['glove'],['AREA' 'BELFAST' 'CHAIR' 'FAMILY' 'PLACE' 'SIT' 'SWIM' 'UNIVERSAL' 'WALK'],['glove'],[],[],[],[],[]
+signer0_sample1032_color.mp4,1,['tailor'],"['ARRANGE' 'BELFAST' 'BRITAIN' 'CHAIR' 'CHILD' 'LOW' 'PANIC' 'RELAX'
+ 'SETTLE' 'SPREAD' 'SWIM']",['tailor'],[],[],[],[],[]
+signer0_sample1231_color.mp4,1,['look'],['DEAF' 'HEAR' 'HEARING' 'KNOW' 'LOOK' 'SISTER' 'THINK'],['look'],[],[],[],[],[]
+signer0_sample133_color.mp4,1,['tap'],"['AREA' 'ARRANGE' 'BELFAST' 'BIG' 'BRITAIN' 'COMPUTER' 'PANIC' 'PREGNANT'
+ 'SETTLE' 'SPREAD' 'SURPRISE']",['tap'],[],[],[],[],[]
+signer0_sample330_color.mp4,1,['work'],"['BORN' 'CHAIR' 'CLOTHES' 'FAVOUR' 'FINISH' 'LOW' 'RETIRE' 'RUN' 'SHOP'
+ 'WAIT']",['work'],[],[],[],[],[]
+signer0_sample1210_color.mp4,1,['lightweight'],"['BODY' 'BRITAIN' 'CLOTHES' 'EVALUATE' 'HEAVY' 'RELAX' 'RICH' 'SCALES'
+ 'SETTLE' 'TIRED']",['lightweight'],[],[],[],[],[]
+signer0_sample1013_color.mp4,1,['male'],['FRANCE' 'LITTLE' 'LIVE' 'LOOK' 'SISTER' 'SPEECH'],['male'],[],[],[],[],[]
+signer0_sample311_color.mp4,1,['police'],"['AMERICA' 'ARRANGE' 'BIG' 'CARAVAN' 'EXPAND' 'GROUP' 'LINK'
+ 'RELATIONSHIP' 'SPREAD' 'UNIT' 'WAR' 'WEDNESDAY']",['police'],[],[],[],[],[]
+signer0_sample112_color.mp4,1,['border'],"['AMERICA' 'AREA' 'ARRANGE' 'BELFAST' 'CLOSED' 'DOOR' 'POOR' 'SPREAD'
+ 'UNIT']",['border'],[],[],[],[],[]
+signer0_sample39_color.mp4,1,['meal'],"['AREA' 'CHILD' 'DECREASE' 'ENOUGH' 'ETHNIC' 'GO' 'LOW' 'PAST' 'PLENTY'
+ 'SINCE' 'TOUCH' 'WOW']",['meal'],[],[],[],[],[]
+signer0_sample216_color.mp4,1,['dog'],"['ANYTHING' 'BALL' 'BIG' 'CLOSED' 'DAMAGE' 'GO' 'MEANING' 'NOTHING' 'RISE'
+ 'SIGN' 'SPREAD' 'TRUE']",['dog'],[],[],[],[],[]
+signer0_sample228_color.mp4,1,['wood'],"['ALWAYS' 'AREA' 'BACK' 'BAD' 'BASE' 'BEHAVIOUR' 'BUY' 'FOREIGN' 'GO'
+ 'GRAB' 'HOME' 'KNOW' 'LOVE' 'LOW' 'MARRY' 'NIGHT' 'PERSON' 'RIGHT'
+ 'START' 'SUE' 'THEATRE' 'WANT' 'WORK']",['wood'],[],[],[],[],[]
+signer0_sample1317_color.mp4,1,['they'],['BACK' 'CHILD' 'GOOD' 'LOOK' 'PAST'],[],[],[],[],['they'],[]
+signer0_sample1329_color.mp4,1,['teapot'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BELFAST' 'BIRTHDAY' 'BLACK' 'BOY' 'BRITAIN'
+ 'DRINK' 'ENOUGH' 'FOREIGN' 'FUTURE' 'GOOD' 'LOVELY' 'NICE' 'OPERATE'
+ 'PANIC' 'SHOP' 'SHOULDER' 'SPREAD' 'TOUCH' 'WATER']",['teapot'],[],[],[],[],[]
+signer0_sample1114_color.mp4,1,['wise'],"['AREA' 'BRITAIN' 'DRINK' 'FARM' 'FOREIGN' 'GO' 'HOME' 'KNOW' 'MAYBE'
+ 'REMEMBER']",['wise'],[],[],[],[],[]
+signer0_sample191_color.mp4,1,['ceiling'],"['ARRANGE' 'AUDIENCE' 'BIG' 'EVALUATE' 'EXPAND' 'FINISH' 'FLOCK' 'FOREIGN'
+ 'GESTURE' 'HOLLAND' 'LOW' 'NOTHING' 'PERFECT' 'RAIN' 'RISE' 'SHEET'
+ 'SPREAD' 'UPWARD']",['ceiling'],[],[],[],[],[]
+signer0_sample1076_color.mp4,1,['I'],['AREA' 'BIG' 'BRITAIN' 'LIVE' 'READY' 'RELAX' 'SURPRISE' 'TIRED' 'WANT'],[],[],[],[],['I'],[]
+signer0_sample392_color.mp4,1,['fault'],['BAD' 'GIRL' 'HEARING' 'LITTLE' 'LOOK' 'PEOPLE' 'SISTER' 'THINK'],['fault'],[],[],[],[],[]
+signer0_sample1048_color.mp4,1,['escape'],['AREA' 'BACK' 'CHILD' 'GO' 'LOW' 'PARK' 'SETTLE'],['escape'],[],[],[],[],[]
+signer0_sample1275_color.mp4,1,['identity'],"['BAD' 'BRITAIN' 'FAMOUS' 'FINISH' 'HARD' 'HORRIBLE' 'MAYBE' 'MOTHER'
+ 'PUSH' 'SATURDAY' 'SLEEP' 'TEACH']",['identity'],[],[],[],[],[]
+signer0_sample1090_color.mp4,1,['towel'],"['BALL' 'BIG' 'BRITAIN' 'EVERYTHING' 'EXPAND' 'FAMOUS' 'FINISH' 'FLOCK'
+ 'GESTURE' 'HOTEL' 'HOUSE' 'INTERVAL' 'LOW' 'PERFECT' 'RAIN' 'REDUCE'
+ 'SPREAD' 'STADIUM' 'TENT' 'TIRED' 'UPWARD']",['towel'],[],[],[],[],[]
+signer0_sample177_color.mp4,1,['topple'],"['AREA' 'ARRANGE' 'BELFAST' 'BRITAIN' 'CHILD' 'FAMILY' 'GO' 'LOW' 'PANIC'
+ 'RELAX' 'SETTLE' 'SPREAD' 'WALL']",['topple'],[],[],[],[],[]
+signer0_sample1293_color.mp4,1,['cry'],"['ACCOMMODATION' 'BEDROOM' 'BRITAIN' 'DEAF' 'DRINK' 'FARM' 'KNOW' 'LOOK'
+ 'LOVELY' 'LOW' 'NAME' 'OLD' 'READY' 'REMEMBER' 'SLEEP' 'THINK' 'TIRED'
+ 'WATER' 'WONDERFUL']",['cry'],[],[],[],[],[]
+signer0_sample149_color.mp4,1,['elephant'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BANDAGE' 'BEACH' 'BELFAST' 'BRITAIN' 'BUILD'
+ 'BUY' 'CHAIR' 'DECORATE' 'EXPAND' 'EXPERIENCE' 'GO' 'GROUP' 'LOW' 'MIX'
+ 'NEVER' 'SIGN' 'SPREAD' 'START' 'STRAIGHTAWAY' 'SURROUNDINGS' 'TALL']",['elephant'],[],[],[],[],[]
+signer0_sample374_color.mp4,1,['existing'],['AREA' 'ARMY' 'BRITAIN' 'MAYBE' 'READY' 'RELAX' 'TIRED' 'WATER'],[],[],[],['existing'],[],[]
+signer0_sample1197_color.mp4,1,['hour'],"['BLUE' 'DOCTOR' 'FATHER' 'FRIDAY' 'IRELAND' 'POLICE' 'SIT' 'SPOUSE'
+ 'THEATRE' 'TIME']",['hour'],[],[],[],[],[]
+signer0_sample273_color.mp4,1,['meal'],"['AREA' 'BECKON' 'DECREASE' 'ENOUGH' 'ETHNIC' 'FAMILY' 'MORNING' 'PARK'
+ 'PAST' 'SINCE' 'TOUCH' 'WATER' 'WOW']",['meal'],[],[],[],[],[]
+signer0_sample1171_color.mp4,1,['flour'],"['AMERICA' 'AREA' 'DECREASE' 'DISCUSS' 'GO' 'HAPPY' 'LINK' 'LOW' 'MEANING'
+ 'PARK' 'PAYMENT' 'TALL']",['flour'],[],[],[],[],[]
+signer0_sample295_color.mp4,1,['we'],"['ARRANGE' 'AUDIENCE' 'BIG' 'CLOTHES' 'EXPAND' 'FREE' 'LONELY' 'RAIN'
+ 'REDUCE' 'RELAX' 'SHEET' 'SPREAD' 'TIRED']",[],[],[],[],['we'],[]
