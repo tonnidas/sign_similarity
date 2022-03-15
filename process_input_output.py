@@ -17,6 +17,9 @@ from nltk.tokenize import word_tokenize
 # nltk.download('punkt')
 # nltk.download('averaged_perceptron_tagger') # To get categorized wordslist
 
+# list of woodward
+woodward = pd.read_csv('woodward.csv', sep=",").columns.values.tolist()
+
 # remove stop words from a list of words and returns unique words
 def remove_stop_words(w):
     stop_words = set(stopwords.words('english'))
@@ -70,6 +73,7 @@ def writeToDataframe(videoFile, inWords, outWords):
     vrb = [] # For Verbs
     poi = [] # For Prepositions like he, her, hers, etc.
     oth = [] # Others
+    ww = [] # woodward
 
     for word in inWords:
         if (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "NN") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "NNS") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "NNP") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "NNPS"):
@@ -90,8 +94,11 @@ def writeToDataframe(videoFile, inWords, outWords):
         if (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "CC") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "PDT") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "CD") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "EX") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "IN") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "MD") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "POS") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "RP") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "TO") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "UH") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "FW") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "IN") or (nltk.pos_tag(nltk.word_tokenize(word))[0][1] == "LS"):
             oth.append(word)
 
+        if word in woodward:
+            ww.append(word)
+
     global categories 
-    record = [{"videoFile":videoFile, "groundTruthWords":inWords, "predictedWords":outWords,"Noun":noun, "Adverb":adv, "Adjective":adj, "Verb":vrb, "Pointers":poi, "others":oth}]
+    record = [{"videoFile":videoFile, "groundTruthWords":inWords, "predictedWords":outWords,"Noun":noun, "Adverb":adv, "Adjective":adj, "Verb":vrb, "Pointers":poi, "others":oth, "woodward":ww}]
     categories = pd.concat([categories, pd.DataFrame.from_records(record)])
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -99,7 +106,7 @@ def writeToDataframe(videoFile, inWords, outWords):
 # Processing the groundtruths and predictions to csv file
 # define global variable for word category
 print("Processing PSL")
-categories = pd.DataFrame(columns = ["videoFile", "groundTruthWords", "predictedWords", "Noun", "Adverb", "Adjective", "Verb", "Pointers", "others"])
+categories = pd.DataFrame(columns = ["videoFile", "groundTruthWords", "predictedWords", "Noun", "Adverb", "Adjective", "Verb", "Pointers", "others", "woodward"])
 
 # For ira
 for i in os.listdir('datasets/ira_alegria/processed_ira_alegria/srt'):   
@@ -116,13 +123,14 @@ for i in os.listdir('datasets/proteinas_porcentajes/processed_proteinas_porcenta
     writeToDataframe(i.removesuffix('.srt') + '.mp4', inWords_pro, outWords_pro)
 
 categories.to_pickle('processed_input_output/listOfSigns_inp-out_PSL')
+categories.to_csv('processed_input_output/listOfSigns_inp-out_PSL.csv', sep=",", index=False)
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ASL---------------------------------------------------------------------------------------------------------------------------------------------
 # Processing the groundtruths and predictions to csv file
 # define global variable for word category
 print("Processing ASL")
-categories = pd.DataFrame(columns = ["videoFile", "groundTruthWords", "predictedWords", "Noun", "Adverb", "Adjective", "Verb", "Pointers", "others"])
+categories = pd.DataFrame(columns = ["videoFile", "groundTruthWords", "predictedWords", "Noun", "Adverb", "Adjective", "Verb", "Pointers", "others", "woodward"])
 
 # For how2sign
 for i in os.listdir('datasets/how2sign/processed_how2sign/srt'):   
@@ -139,13 +147,14 @@ for i in os.listdir('datasets/how2sign2/processed_how2sign2/srt'):
     writeToDataframe(i.removesuffix('.srt') + '.mp4', inWords_h2, outWords_h2)
 
 categories.to_pickle('processed_input_output/listOfSigns_inp-out_ASL')
+categories.to_csv('processed_input_output/listOfSigns_inp-out_ASL.csv', sep=",", index=False)
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ISL---------------------------------------------------------------------------------------------------------------------------------------------
 # Processing the groundtruths and predictions to csv file
 # define global variable for word category
 print("Processing ISL")
-categories = pd.DataFrame(columns = ["videoFile", "groundTruthWords", "predictedWords", "Noun", "Adverb", "Adjective", "Verb", "Pointers", "others"])
+categories = pd.DataFrame(columns = ["videoFile", "groundTruthWords", "predictedWords", "Noun", "Adverb", "Adjective", "Verb", "Pointers", "others", "woodward"])
 inputDF = pd.read_csv('datasets/ISL/raw_ISL/ISL.csv')
 
 for i in os.listdir('datasets/ISL/processed_ISL/vtt'): 
@@ -159,13 +168,14 @@ for i in os.listdir('datasets/ISL/processed_ISL/vtt'):
     writeToDataframe(i.removesuffix('_result.vtt') + '.mp4', inWords_isl, outWords_isl)
 
 categories.to_pickle('processed_input_output/listOfSigns_inp-out_ISL')
+categories.to_csv('processed_input_output/listOfSigns_inp-out_ISL.csv', sep=",", index=False)
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 
 # AUTSL-------------------------------------------------------------------------------------------------------------------------------------------
 # Processing the groundtruths and predictions to csv file
 # define global variable for word category
 print("Processing AUTSL")
-categories = pd.DataFrame(columns = ["videoFile", "groundTruthWords", "predictedWords", "Noun", "Adverb", "Adjective", "Verb", "Pointers", "others"])
+categories = pd.DataFrame(columns = ["videoFile", "groundTruthWords", "predictedWords", "Noun", "Adverb", "Adjective", "Verb", "Pointers", "others", "woodward"])
 inputDF = pd.read_csv('datasets/AUTSL/raw_AUTSL/train_labels_merged.csv')
 
 for i in os.listdir('datasets/AUTSL/processed_AUTSL/vtt'): 
@@ -178,4 +188,5 @@ for i in os.listdir('datasets/AUTSL/processed_AUTSL/vtt'):
     writeToDataframe(i.removesuffix('_result.vtt') + '.mp4', inWords_autsl, outWords_autsl)
 
 categories.to_pickle('processed_input_output/listOfSigns_inp-out_AUTSL')
+categories.to_csv('processed_input_output/listOfSigns_inp-out_AUTSL.csv', sep=",", index=False)
 # ------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,176 @@
+videoFile,groundTruthWords,predictedWords,Noun,Adverb,Adjective,Verb,Pointers,others,woodward
+29.mp4,['house'],"['AREA' 'ARMY' 'BIG' 'BOY' 'CEILING' 'COPY' 'DEAF' 'DECORATE' 'DOCTOR'
+ 'ETHNIC' 'FACE' 'GO' 'GOOD' 'HAPPY' 'HOUSE' 'INTERVAL' 'IRELAND' 'LEFT'
+ 'LEG' 'LONDON' 'LOOK' 'LOW' 'MEANING' 'MISS' 'MONEY' 'MUST' 'NEW' 'ONE'
+ 'PARK' 'PAST' 'PICTURE' 'QUEUE' 'RANKING' 'REDUCE' 'RIGHT' 'SAY' 'SELF'
+ 'SIGN' 'SLEEP' 'STADIUM' 'SURPRISE' 'TALL' 'THEATRE' 'THINK' 'TIRED'
+ 'TOUCH' 'TWO' 'UNDERSTAND']",['house'],[],[],[],[],[],[]
+35.mp4,['could' 'house' 'location'],"['AEROPLANE' 'AMERICA' 'BAD' 'BORN' 'CHILD' 'FACE' 'FUTURE' 'GO' 'KNOW'
+ 'LINK' 'LITTLE' 'MOTORBIKE' 'MOVE' 'PAY' 'PERSON' 'RELATIONSHIP' 'RIGHT'
+ 'ROAD' 'SCOTLAND' 'SLEEP' 'STAND' 'SUN' 'TALL' 'THINK' 'TIME' 'TYPICAL'
+ 'VISIT' 'WEDNESDAY' 'WEEK' 'YES']","['house', 'location']",[],[],[],[],['could'],[]
+46.mp4,['clear'],"['AWARD' 'BECKON' 'CAMERA' 'CURTAINS' 'FAMOUS' 'FLOCK' 'GESTURE'
+ 'INTERPRETER' 'INTERVAL' 'LOOK' 'MEET' 'MUST' 'NOTHING' 'PICTURE' 'STAY'
+ 'TICKET' 'TITLE' 'TRAVEL' 'VANISH']",[],[],['clear'],[],[],[],[]
+13.mp4,['far' 'put' 'together' 'try'],"['ACCOMMODATION' 'ADULT' 'BECKON' 'BIG' 'BOOK' 'CLOTHES' 'COLD' 'COLLECT'
+ 'CONTROL' 'COPY' 'DAY' 'DEAF' 'DECORATE' 'DISAPPEAR' 'DRIVE' 'DROP'
+ 'EVALUATE' 'FLOCK' 'FREE' 'HOLIDAY' 'INTERVAL' 'LEAVE' 'LOW' 'MANY'
+ 'MONEY' 'MUST' 'NEW' 'NOTHING' 'RAIN' 'RECEIVE' 'REDUCE' 'RESPECT' 'RISE'
+ 'RUN' 'SMALL' 'STADIUM' 'STRONG' 'STUBBORN' 'TALL' 'TEACH' 'TEN'
+ 'VEHICLE']","['put', 'try']","['far', 'together']",[],[],[],[],[]
+24.mp4,"[""'s"" 'father' 'name']","['BECKON' 'BLIND' 'CHILD' 'COPY' 'DEAF' 'DOG' 'FACE' 'FIVE' 'GO' 'GOOD'
+ 'HAPPY' 'LEG' 'LOOK' 'LOW' 'OLD' 'ONE' 'PAST' 'PAY' 'PLAY' 'PROBLEM'
+ 'RANKING' 'RIGHT' 'SELF' 'SLOW' 'TALL' 'THINK' 'TIME' 'TOUCH' 'TRUE'
+ 'TWO' 'UNDERSTAND' 'WAIT' 'WANT' 'WONDER']","['father', 'name']",[],[],[],[],"[""'s""]","['father', 'name']"
+38.mp4,['sentences'],"['BOOK' 'BUS' 'COME' 'DAMN' 'DARTS' 'DISCUSS' 'DREADFUL' 'ENCOURAGE'
+ 'EVALUATE' 'EVERYTHING' 'FANTASTIC' 'FINGERSPELL' 'GRANDMOTHER' 'HAPPEN'
+ 'HAPPY' 'HELP' 'INTERVAL' 'LINK' 'LOOK' 'NEW' 'PLAY' 'RELATIONSHIP'
+ 'RIGHT' 'SAY' 'SCALES' 'SELF' 'SUE' 'TICKET' 'TITLE' 'TOMORROW' 'TRAVEL'
+ 'TRUE' 'WALES' 'WITHOUT' 'WORTH' 'WRITE' 'WRONG']",['sentences'],[],[],[],[],[],[]
+43.mp4,['keep' 'practicing' 'way'],"['ANGRY' 'BACK' 'BODY' 'CLOTHES' 'COLLECT' 'COPY' 'DIFFERENT' 'ESCAPE'
+ 'EXCITED' 'HAPPEN' 'HURT' 'ILL' 'INTERVAL' 'MEET' 'MUST' 'NOTHING' 'SIGN'
+ 'THING' 'TIRED' 'TOILET']",['way'],[],[],"['keep', 'practicing']",[],[],[]
+21.mp4,['name'],"['BACK' 'BAD' 'BECKON' 'BUSINESS' 'COLLECT' 'COPY' 'ENCOURAGE' 'GOOD'
+ 'LOOK' 'NOTHING' 'PERFECT' 'PLAY' 'RIGHT' 'SCALES' 'SIT' 'SLOW' 'STAND'
+ 'TIME' 'TOUCH' 'TYPICAL' 'WALK' 'WITHOUT' 'YES']",['name'],[],[],[],[],[],['name']
+16.mp4,['expressions'],['COLLECT' 'COPY' 'PRAY' 'PUSH' 'TRUE'],['expressions'],[],[],[],[],[],[]
+5.mp4,['learned' 'words'],"['BAD' 'BLIND' 'BRAINY' 'COLLECT' 'COPY' 'COUNCIL' 'DAMAGE' 'DREADFUL'
+ 'FACE' 'FIRE' 'FORGET' 'GIRL' 'GRANDMOTHER' 'HALF' 'HANDS' 'HAPPEN'
+ 'HAPPY' 'HIDE' 'INTERVAL' 'LITTLE' 'LOOK' 'MEANING' 'MIND' 'MINUTE' 'MUM'
+ 'NEW' 'NOTHING' 'PERSON' 'PRAY' 'SIGN' 'START' 'STUPID' 'SUNDAY' 'TRUE'
+ 'UNDERSTAND' 'WORK']",['words'],[],[],['learned'],[],[],[]
+8.mp4,['communicate' 'sentences' 'simple'],"['ARRIVE' 'BALL' 'BLIND' 'BRITAIN' 'CARAVAN' 'CLOSED' 'DEAF' 'DISAPPEAR'
+ 'DRINK' 'EVERYTHING' 'FENCE' 'FLOCK' 'GROUP' 'HEAR' 'HOME' 'INTERVAL'
+ 'LOOK' 'LOSE' 'LOW' 'MUST' 'PRAY' 'PUSH' 'QUIET' 'REDUCE' 'SLEEP' 'SMALL'
+ 'SPREAD' 'STADIUM' 'THINK' 'TOILET' 'TRUE']","['communicate', 'sentences', 'simple']",[],[],[],[],[],[]
+30.mp4,['color' 'like'],"['AREA' 'ARMY' 'AUSTRALIA' 'BAD' 'BOY' 'COLLECT' 'COPY' 'DESSERT' 'DRINK'
+ 'GO' 'GOOD' 'GRAB' 'HAPPY' 'IMPORTANT' 'LEG' 'LINK' 'LONDON' 'LOOK' 'LOW'
+ 'MOVE' 'PARK' 'PERSON' 'PLAY' 'READY' 'RIGHT' 'SAY' 'SCHOOL' 'SHOULDER'
+ 'SURPRISE' 'SYMPATHY' 'TALL' 'TOUCH' 'WALK' 'WIN']",['color'],[],[],[],[],['like'],[]
+37.mp4,['fingerspell' 'practice' 'use'],"['ACCOMMODATION' 'ANYTHING' 'BOOK' 'ENCOURAGE' 'EVALUATE' 'FUTURE'
+ 'GESTURE' 'HAPPY' 'HOLIDAY' 'HOUSE' 'LEFT' 'LINK' 'LOOK' 'MUST' 'PAST'
+ 'PLAY' 'REDUCE' 'SCALES' 'SIGN' 'SLEEP' 'THEATRE' 'WITHOUT']","['fingerspell', 'practice', 'use']",[],[],[],[],[],[]
+49.mp4,['exciting' 'learning' 'right'],"['ACCOMMODATION' 'ADULT' 'CURTAINS' 'FAMOUS' 'FLOCK' 'HOLLAND' 'HOUSE'
+ 'IMAGINE' 'SLEEP' 'UPWARD']",['right'],[],[],"['exciting', 'learning']",[],[],['right']
+2.mp4,['hello'],"['ACCOMMODATION' 'ADULT' 'BALL' 'BEDROOM' 'BRITAIN' 'COMMUNICATE'
+ 'EVERYTHING' 'GOOD' 'GROUP' 'HOLLAND' 'HOUSE' 'LEFT' 'LOOK' 'LOW' 'RIGHT'
+ 'SLEEP' 'TENT' 'TICKET' 'TOP' 'TOUCH' 'UNIT']",['hello'],[],[],[],[],[],[]
+44.mp4,['practice' 'signing' 'using' 'words'],"['ADD' 'BECKON' 'COLLECT' 'COPY' 'DAMN' 'DREADFUL' 'FLOCK' 'GOOD' 'HAPPEN'
+ 'HOUSE' 'INTERVAL' 'MONEY' 'MUST' 'NOTHING' 'PLAY' 'REDUCE' 'SMALL'
+ 'TRUE' 'WALK' 'WRITE']","['practice', 'signing', 'words']",[],[],['using'],[],[],[]
+26.mp4,[],"['ACT' 'BAD' 'CLOTHES' 'FAMOUS' 'FLOCK' 'GESTURE' 'GOOD' 'GROUP' 'HOTEL'
+ 'INTERVAL' 'LEG' 'LOOK' 'LOW' 'MUST' 'NOTHING' 'PERFECT' 'PUSH' 'REDUCE'
+ 'RETIRE' 'RIGHT' 'RUN' 'SIGN' 'SURPRISE' 'THROW' 'TIRED' 'TOUCH']",[],[],[],[],[],[],[]
+11.mp4,['many' 'practice' 'use' 'words'],"['CLOSED' 'DRUNK' 'FACE' 'FINISH' 'FLOCK' 'FORGET' 'GO' 'GOOD' 'HOTEL'
+ 'LOSE' 'MUST' 'NAME' 'NOTHING' 'PUSH' 'REMEMBER' 'ROAD' 'SETTLE' 'SHEET'
+ 'SPREAD' 'STAND' 'STAY' 'STUPID' 'TALL' 'TICKET' 'WALK' 'WITHOUT']","['practice', 'use', 'words']",[],['many'],[],[],[],[]
+7.mp4,['learn' 'use' 'words'],"['BACK' 'COME' 'COPY' 'DARTS' 'FIVE^ZERO' 'FOREIGN' 'FORGET' 'GOOD'
+ 'HAPPEN' 'INFORM' 'LAUGH' 'MORNING' 'NOTHING' 'REMEMBER' 'SELF' 'STUPID'
+ 'SUE' 'TOMORROW' 'TOUCH' 'UNDERSTAND' 'WALES' 'WONDER']","['learn', 'use', 'words']",[],[],[],[],[],[]
+41.mp4,['okay'],"['ACT' 'AEROPLANE' 'AGES' 'ANGRY' 'ANYTHING' 'BANDAGE' 'BEHAVIOUR' 'BODY'
+ 'BOOK' 'BREATHE' 'BRITAIN' 'CLOTHES' 'COME' 'CONTINUE' 'DISCUSS'
+ 'EMOTION' 'ENCOURAGE' 'ENDURE' 'EVALUATE' 'EXPLAIN' 'FACE' 'FAMOUS'
+ 'FARM' 'FBUOY' 'FIVE' 'FLOCK' 'FORGET' 'FUTURE' 'GOOD' 'HAPPY' 'HURT'
+ 'INTERVAL' 'KNOW' 'LIKE' 'LINK' 'LITTLE' 'LOOK' 'LOVE' 'MEANING' 'NAME'
+ 'NEVER' 'NEW' 'NOTHING' 'PARTY' 'PAST' 'PERFECT' 'PERSON' 'PLAY'
+ 'PREGNANT' 'QUIET' 'READY' 'REMEMBER' 'RIGHTWARDS' 'SCHOOL' 'SHEET'
+ 'SIGN' 'SMALL' 'SUE' 'SURPRISE' 'THINK' 'TITLE' 'UNDERSTAND' 'UPSET']",['okay'],[],[],[],[],[],[]
+14.mp4,['connect' 'proper' 'sentences'],"['ARRIVE' 'CARAVAN' 'EVERYTHING' 'FLOCK' 'GROUP' 'HOUSE' 'INTERVAL' 'LOW'
+ 'NOTHING' 'REDUCE' 'SMALL' 'STADIUM' 'SURPRISE' 'TENT' 'THING' 'TICKET'
+ 'TIRED' 'TOILET' 'UNIT' 'WITHOUT']","['connect', 'proper', 'sentences']",[],[],[],[],[],[]
+23.mp4,['priya'],"['BORN' 'CLOTHES' 'COLLECT' 'COPY' 'EIGHT' 'FIVE' 'FOUR' 'GOOD' 'HALL'
+ 'INTERVAL' 'LATE' 'LEG' 'LOOK' 'MONTH' 'NINE' 'QUEUE' 'RANKING' 'RETIRE'
+ 'RIGHT' 'RUN' 'SIGN' 'SLEEP' 'SURPRISE' 'THREE' 'TICKET' 'TIRED' 'TOILET'
+ 'TOUCH' 'TWO' 'VISIT' 'YEAR']",['priya'],[],[],[],[],[],[]
+32.mp4,['answers' 'questions'],"['BOAT' 'BRITAIN' 'CARAVAN' 'COMMUNICATE' 'CURTAINS' 'EVERYTHING'
+ 'FINGERSPELL' 'FLOCK' 'HARD' 'HOUSE' 'LITTLE' 'LOOK' 'NEWSPAPER'
+ 'SEPARATE' 'SIT' 'SPORT' 'STAY' 'TEACH' 'TENT' 'TICKET' 'UNIT' 'WALK']","['answers', 'questions']",[],[],[],[],[],[]
+50.mp4,['bye'],"['ANGRY' 'BIG' 'CALLISTHENICS' 'EXCITED' 'FAMOUS' 'FINISH' 'FLOCK'
+ 'GESTURE' 'GOOD' 'HEALTHY' 'HURT' 'ILL' 'MUST' 'NOTHING' 'PERFECT' 'RAIN'
+ 'REDUCE' 'RICH' 'SEARCH' 'SHEET' 'SIGN' 'SMALL' 'WEATHER' 'WOW']",['bye'],[],[],[],[],[],[]
+19.mp4,['answer' 'let' 'practice' 'question' 'us'],"['ARRIVE' 'COMMUNICATE' 'DEAF' 'ESCAPE' 'HARD' 'HOUSE' 'INTERPRETER'
+ 'INTERVAL' 'LINK' 'LOOK' 'MEET' 'REDUCE' 'REGULAR' 'RELATIONSHIP'
+ 'SATURDAY' 'SCHOOL' 'SLEEP' 'TENT' 'TICKET' 'WALK' 'WEEKEND']","['answer', 'practice', 'question']",[],[],['let'],['us'],[],[]
+42.mp4,['excited' 'learning'],"['BALL' 'BORN' 'COLLECT' 'GOOD' 'LOOK' 'MEANING' 'MEET' 'NEAR' 'RIGHT'
+ 'SIGN' 'TALK' 'THING' 'TOILET' 'TOUCH' 'UNIVERSITY' 'VISIT']",[],[],[],"['excited', 'learning']",[],[],[]
+20.mp4,['format'],"['ACCOMMODATION' 'CALLISTHENICS' 'COLLECT' 'COPY' 'DAMN' 'EIGHT'
+ 'EVALUATE' 'GOOD' 'GRANDMOTHER' 'HAPPEN' 'HOLIDAY' 'HOLLAND' 'LEG' 'LOOK'
+ 'LOW' 'MIND' 'MONEY' 'MUST' 'PUSH' 'REDUCE' 'RICH' 'SEARCH' 'SEEM'
+ 'SETTLE' 'SEVEN' 'SLEEP' 'SURPRISE' 'TEN' 'TIRED' 'TOUCH' 'TRAIN3b' 'WIN'
+ 'WRITE']",['format'],[],[],[],[],[],[]
+17.mp4,['hand' 'shapes' 'understand'],"['ANGRY' 'BANDAGE' 'BODY' 'BORN' 'CLOTHES' 'COMPUTER' 'COPY' 'DANCE' 'DOG'
+ 'FLOCK' 'HURT' 'IMPOSSIBLE' 'INDEPENDENT' 'MERGE' 'MUST' 'REDUCE' 'ROAD'
+ 'SCALES' 'SIGN' 'SURPRISE' 'TIRED' 'TOILET' 'WANT']","['hand', 'shapes', 'understand']",[],[],[],[],[],[]
+4.mp4,['practicing' 'sharing'],"['ANYTHING' 'APPROACH' 'BECKON' 'BIG' 'BOOK' 'CHURCH' 'COLLECT' 'COPY'
+ 'DISAPPEAR' 'DREADFUL' 'FIRE' 'GRANDMOTHER' 'HAPPEN' 'HAPPY' 'HELP'
+ 'IMPORTANT' 'INDEPENDENT' 'INTERVAL' 'LINK' 'MANY' 'MEANING' 'MONEY'
+ 'MOTHER' 'PLAY' 'PRAY' 'QUEUE' 'REDUCE' 'SATURDAY' 'SMALL' 'SUNDAY'
+ 'WRITE' 'WRONG']",[],[],[],"['practicing', 'sharing']",[],[],[]
+31.mp4,['green' 'like'],"['AREA' 'BREATHE' 'COMPUTER' 'DEAF' 'EMOTION' 'ENDURE' 'FAMILY'
+ 'FRIGHTENED' 'GOOD' 'LEG' 'LIKE' 'LOOK' 'LOVE' 'LOW' 'MOTHER' 'POOR'
+ 'PREGNANT' 'PRESIDENT' 'RELIEF' 'RIGHT' 'SIT' 'SPEECH' 'STAND' 'SURPRISE'
+ 'THEATRE' 'TIRED' 'TOILET' 'TOUCH' 'UPSET' 'WALK' 'WANT']",[],[],['green'],[],[],['like'],['green']
+9.mp4,['going' 'help' 'us'],"['BACK' 'COME' 'COPY' 'DREADFUL' 'FIRE' 'HAPPEN' 'HAPPY' 'HELP' 'INTERVAL'
+ 'MORNING' 'MUST' 'NEW' 'REDUCE' 'SAFE' 'SIGN' 'SMALL' 'START' 'TOMORROW'
+ 'TRAIN3b' 'TRUE']",['help'],[],[],['going'],['us'],[],[]
+28.mp4,['house'],"['ANYTHING' 'AREA' 'BAD' 'BALL' 'BUSINESS' 'COMMUNICATE' 'COPY'
+ 'ENCOURAGE' 'FIRE' 'GO' 'GOOD' 'HAPPEN' 'HAPPY' 'HOUSE' 'LATE' 'LOOK'
+ 'MEANING' 'MUST' 'PLAY' 'PRAY' 'RIGHT' 'SCOTLAND' 'SIGN' 'STADIUM'
+ 'SUNDAY' 'SURPRISE' 'SYMPATHY' 'TENT' 'TIRED' 'TOUCH' 'TRAIN' 'VISIT'
+ 'WAIT' 'WANT' 'WITHOUT' 'YES']",['house'],[],[],[],[],[],[]
+34.mp4,['another' 'could' 'name' 'replace'],"['ADD' 'AWARD' 'BAD' 'BRITAIN' 'CHANGE' 'COMMUNICATE' 'CURTAINS' 'DRIVE'
+ 'EIGHT' 'ENCOURAGE' 'EUROPE' 'EVERYTHING' 'FBUOY' 'FIVE' 'FLOCK' 'FOUR'
+ 'GESTURE' 'GRAB' 'HOLLAND' 'LITTLE' 'LOOK' 'MANY' 'MOVE' 'NEW' 'NOTHING'
+ 'PAST' 'PERSON' 'RIGHT' 'SHOUT' 'SINCE' 'STUBBORN' 'SUE' 'TEACH' 'TEN'
+ 'THREE' 'TRAVEL' 'TWO' 'UNDERSTAND' 'YES']",['name'],[],[],['replace'],['another'],['could'],['name']
+47.mp4,['expression' 'good' 'happy' 'sentences'],['COPY' 'HAPPEN' 'HAPPY' 'MUST' 'SIGN' 'SURPRISE' 'TIRED'],"['expression', 'sentences']",[],"['good', 'happy']",[],[],[],['good']
+12.mp4,['learned'],['BALL' 'CONFUSE' 'EXPERIENCE' 'NIGHT' 'SINCE' 'TRUE'],[],[],[],['learned'],[],[],[]
+25.mp4,"[""'s"" 'father' 'name']","['BACK' 'BALL' 'BORN' 'COLLECT' 'COME' 'COPY' 'DAMAGE' 'DEAF' 'EIGHT'
+ 'FALL' 'FBUOY' 'FLOCK' 'GOOD' 'GROUP' 'HAPPY' 'HOUSE' 'IMPORTANT'
+ 'INTERVAL' 'LATE' 'LEG' 'LOOK' 'LOSE' 'LOW' 'MEANING' 'MONEY' 'NEAR'
+ 'PAST' 'PROBLEM' 'PUSH' 'QUEUE' 'RIGHT' 'ROAD' 'ROOM' 'SIT' 'SLEEP'
+ 'SLOW' 'THURSDAY' 'TICKET' 'TIME' 'TIRED' 'TOILET' 'TOP' 'TOUCH']","['father', 'name']",[],[],[],[],"[""'s""]","['father', 'name']"
+39.mp4,['choose' 'colors' 'even'],"['CARAVAN' 'FENCE' 'FLOCK' 'GROUP' 'HOUSE' 'SPREAD' 'STADIUM' 'TENT'
+ 'TICKET']","['choose', 'colors']",['even'],[],[],[],[],[]
+6.mp4,['lessons' 'previous'],"['ADULT' 'BEDROOM' 'EVALUATE' 'FLOCK' 'HOLIDAY' 'HOLLAND' 'INTERVAL' 'LOW'
+ 'MUST' 'NIGHT' 'PERFECT' 'REDUCE' 'SLEEP' 'TEACH' 'UPWARD']",['lessons'],[],['previous'],[],[],[],[]
+40.mp4,['colors' 'practice' 'substitute'],"['ALCOHOLIC' 'AREA' 'BORING' 'BREATHE' 'DRINK' 'ENOUGH' 'FBUOY' 'HAPPY'
+ 'INTERVAL' 'LINK' 'MARRY' 'MEANING' 'PARK' 'PLENTY' 'READY' 'THEATRE'
+ 'WATER']","['colors', 'practice', 'substitute']",[],[],[],[],[],[]
+15.mp4,['clear' 'facial' 'time' 'use'],"['AWARD' 'BOOK' 'CAMERA' 'CHANGE' 'CONTROL' 'CURTAINS' 'DAUGHTER'
+ 'DIFFERENT' 'ENCOURAGE' 'GESTURE' 'HAPPEN' 'HARD' 'HOLIDAY' 'MEET'
+ 'NOTHING' 'PERMANENT' 'PLAY' 'SCALES' 'SIGN' 'STUBBORN' 'SUE' 'THING'
+ 'TICKET' 'TIRED' 'TITLE' 'TRAVEL' 'TRY' 'UNIVERSITY' 'VANISH' 'WALK'
+ 'WITHOUT']","['time', 'use']",[],"['clear', 'facial']",[],[],[],[]
+22.mp4,['name'],"['BREATHE' 'ENDURE' 'ESCAPE' 'HOUSE' 'INTERPRETER' 'INTERVAL' 'LATE'
+ 'LOOK' 'LOVE' 'PREGNANT' 'REDUCE' 'RIGHT' 'SLEEP' 'SURPRISE' 'TOILET'
+ 'TOUCH' 'UPSET' 'VISIT' 'WANT' 'WEEK' 'WORK']",['name'],[],[],[],[],[],['name']
+33.mp4,['answers' 'choose'],"['AEROPLANE' 'CAMERA' 'FAMOUS' 'GESTURE' 'MEET' 'PICTURE' 'TITLE' 'TRAVEL'
+ 'VANISH']","['answers', 'choose']",[],[],[],[],[],[]
+18.mp4,['clearly' 'right' 'sign'],"['ALWAYS' 'ANYTHING' 'BAD' 'BECKON' 'BIG' 'BLIND' 'CLOSED' 'COLLECT'
+ 'COME' 'COMFORTABLE' 'DIFFERENT' 'EVALUATE' 'GIRL' 'GO' 'GOOD' 'HAPPEN'
+ 'HOUSE' 'ILL' 'INTERVAL' 'LANGUAGE' 'LEG' 'LOOK' 'LOSE' 'MEANING' 'MUST'
+ 'NEW' 'NEXT' 'ONE' 'PICTURE' 'PLAY' 'RANKING' 'REDUCE' 'RETIRE' 'RISE'
+ 'RUN' 'SCALES' 'SELF' 'SIGN' 'SPREAD' 'STRAIGHTAWAY' 'STUBBORN'
+ 'SURPRISE' 'THINK' 'TICKET' 'TOILET' 'TOUCH' 'TRUE' 'TWO' 'UNDERSTAND'
+ 'WONDER' 'WOW']","['right', 'sign']",['clearly'],[],[],[],[],['right']
+36.mp4,['location' 'substitute'],"['ACCOMMODATION' 'ARRIVE' 'BRITAIN' 'COMMUNICATE' 'DEAF' 'DISCUSS' 'EMPTY'
+ 'EVERYTHING' 'FBUOY' 'FINGERSPELL' 'GROUP' 'HAPPY' 'HOLIDAY' 'HOLLAND'
+ 'HOUSE' 'KNOW' 'LEFT' 'LINK' 'LITTLE' 'LOOK' 'MEANING' 'RELATIONSHIP'
+ 'REMEMBER' 'SLEEP' 'SUE' 'TENT' 'THINK' 'UNDERSTAND' 'VISIT' 'WORTH'
+ 'WRITE']","['location', 'substitute']",[],[],[],[],[],[]
+48.mp4,['happy' 'learning'],"['ANGRY' 'BECKON' 'BODY' 'CLOTHES' 'COLLECT' 'COPY' 'EXCITED' 'FORWARD'
+ 'GOOD' 'HURT' 'ILL' 'MUST' 'RICH' 'RIGHT' 'RUN' 'SIGN' 'TIRED' 'TRUE'
+ 'WALK' 'WOW']",[],[],['happy'],['learning'],[],[],[]
+3.mp4,['another' 'lesson'],"['ARRIVE' 'BECKON' 'BORING' 'DISCUSS' 'DREADFUL' 'DROP' 'ENCOURAGE'
+ 'ETHNIC' 'FANTASTIC' 'FIRST' 'GO' 'HELP' 'HOME' 'HOT' 'KICK' 'LOW'
+ 'MEANING' 'MONEY' 'MORNING' 'NEW' 'NIGHT' 'PAST' 'PLAY' 'PLENTY' 'SAFE'
+ 'SCHOOL' 'SINCE' 'THANK' 'TOUCH' 'TRUE' 'WALES' 'WALK']",['lesson'],[],[],[],['another'],[],[]
+45.mp4,['lessons' 'make' 'previous' 'see'],"['ACCOMMODATION' 'ANGRY' 'ANYTHING' 'ARRIVE' 'BECKON' 'COPY' 'EVALUATE'
+ 'FAMOUS' 'FLOCK' 'HAPPY' 'HOLLAND' 'HOUSE' 'LOW' 'RIGHT' 'SINCE' 'SLEEP'
+ 'TOILET' 'TRUE' 'UPWARD' 'WALK' 'WOW']",['lessons'],[],['previous'],"['make', 'see']",[],[],[]
+27.mp4,['fine'],"['ANGRY' 'BECKON' 'BIG' 'BODY' 'BORN' 'CLOTHES' 'EVALUATE' 'GOOD' 'HEAVY'
+ 'HURT' 'INTERVAL' 'LOOK' 'PERFECT' 'REDUCE' 'RIGHT' 'SETTLE' 'SIGN'
+ 'SURPRISE' 'TEN' 'TIRED' 'TOILET' 'TOUCH' 'WOW']",['fine'],[],[],[],[],[],[]
+10.mp4,['conversations'],"['BOOK' 'COLLECT' 'COPY' 'DISAPPEAR' 'GRANDMOTHER' 'GROUP' 'HAPPEN'
+ 'INTERVAL' 'LINK' 'NOTHING' 'OLYMPIC' 'TOILET' 'TRUE' 'WIN']",['conversations'],[],[],[],[],[],[]

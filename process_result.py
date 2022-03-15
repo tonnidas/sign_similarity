@@ -11,10 +11,10 @@ def combineCounts(datasetName):
     sumDF = pd.concat([pd.Series({"totalVideos": inputDF.shape[0]}), sumDF])
     # sumDF["totalVideos"] = inputDF.shape[0]
 
-    x = ["matchedWords", "matchedNoun", "matchedConj", "matchedAdj", "matchedVerbs", "matchedAdv", "matchedPoi", "matchedMisce", "matchedSentence"]
-    y = ["totalWords", "totalNoun", "totalConj", "totalAdj", "totalVerbs", "totalAdv", "totalPoi", "totalMisce", "totalVideos"]
+    x = ["matchedWords", "matchedNoun", "matchedConj", "matchedAdj", "matchedVerbs", "matchedAdv", "matchedPoi", "matchedMisce", "matchedWood", "matchedSentence"]
+    y = ["totalWords", "totalNoun", "totalConj", "totalAdj", "totalVerbs", "totalAdv", "totalPoi", "totalMisce", "totalWood", "totalVideos"]
 
-    for i in range(9):
+    for i in range(len(x)):
         matchedNoSyn = x[i] + "_noSyn"
         matchedSyn = x[i] + "_Syn"
         percentNoSyn = x[i] + "_noSyn_percent"
