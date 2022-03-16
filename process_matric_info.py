@@ -46,17 +46,45 @@ def compare_Syn(inputWords, outputWords):
     return count
 
 
+def compare_Syn_out(inputWords, outputWords):
+    count = 0
+
+    outputWords = [x.lower() for x in outputWords]
+    out = set()
+    for s in outputWords:
+        out.add(s)
+        syns = wordnet.synsets(s)
+        for x in syns:
+            out.add(x.lemmas()[0].name())
+
+    # outWordsSet = set(outputWords)
+
+    for s in inputWords:
+        synSet = {s}
+        syns = wordnet.synsets(s)
+        for x in syns:
+            synSet.add(x.lemmas()[0].name())
+        if len(synSet.intersection(out)) > 0:
+            count += 1
+        
+    return count
+
+
 def countMatched(inputDF):
     categories = pd.DataFrame(columns = ["videoFileName", 
     "totalWords", "totalNoun", "totalConj", "totalAdj", "totalVerbs", "totalAdv", "totalPoi", "totalMisce", "totalWood",
     "matchedWords_noSyn", "matchedNoun_noSyn", "matchedConj_noSyn", "matchedAdj_noSyn", "matchedVerbs_noSyn", "matchedAdv_noSyn", "matchedPoi_noSyn", "matchedMisce_noSyn", "matchedWood_noSyn", "matchedSentence_noSyn", 
-    "matchedWords_Syn", "matchedNoun_Syn", "matchedConj_Syn", "matchedAdj_Syn", "matchedVerbs_Syn", "matchedAdv_Syn", "matchedPoi_Syn", "matchedMisce_Syn", "matchedWood_Syn", "matchedSentence_Syn"])
+    "matchedWords_Syn", "matchedNoun_Syn", "matchedConj_Syn", "matchedAdj_Syn", "matchedVerbs_Syn", "matchedAdv_Syn", "matchedPoi_Syn", "matchedMisce_Syn", "matchedWood_Syn", "matchedSentence_Syn",
+    "matchedWords_Syn_out", "matchedNoun_Syn_out", "matchedConj_Syn_out", "matchedAdj_Syn_out", "matchedVerbs_Syn_out", "matchedAdv_Syn_out", "matchedPoi_Syn_out", "matchedMisce_Syn_out", "matchedWood_Syn_out", "matchedSentence_Syn_out"])
+
+
 
     for index, row in inputDF.iterrows():
         record = [{"videoFileName":row['videoFile'], 
         "totalWords":len(row['groundTruthWords']), "totalNoun":len(row['Noun']), "totalConj":0 , "totalAdj":len(row['Adjective']), "totalVerbs":len(row['Verb']), "totalAdv":len(row['Adverb']), "totalPoi":len(row['Pointers']), "totalMisce":len(row['others']), "totalWood":len(row['woodward']), 
         "matchedWords_noSyn":compare_noSyn(row['groundTruthWords'],row['predictedWords']), "matchedNoun_noSyn":compare_noSyn(row['Noun'],row['predictedWords']), "matchedConj_noSyn":0, "matchedAdj_noSyn":compare_noSyn(row['Adjective'],row['predictedWords']), "matchedVerbs_noSyn":compare_noSyn(row['Verb'],row['predictedWords']), "matchedAdv_noSyn":compare_noSyn(row['Adverb'],row['predictedWords']), "matchedPoi_noSyn":compare_noSyn(row['Pointers'],row['predictedWords']),"matchedMisce_noSyn":compare_noSyn(row['others'],row['predictedWords']), "matchedWood_noSyn":compare_noSyn(row['woodward'],row['predictedWords']), "matchedSentence_noSyn":0, 
-        "matchedWords_Syn":compare_Syn(row['groundTruthWords'],row['predictedWords']), "matchedNoun_Syn":compare_Syn(row['Noun'],row['predictedWords']), "matchedConj_Syn":0, "matchedAdj_Syn":compare_Syn(row['Adjective'],row['predictedWords']), "matchedVerbs_Syn":compare_Syn(row['Verb'],row['predictedWords']), "matchedAdv_Syn":compare_Syn(row['Adverb'],row['predictedWords']), "matchedPoi_Syn":compare_Syn(row['Pointers'],row['predictedWords']), "matchedMisce_Syn":compare_Syn(row['others'],row['predictedWords']), "matchedWood_Syn":compare_Syn(row['woodward'],row['predictedWords']), "matchedSentence_Syn":0
+        "matchedWords_Syn":compare_Syn(row['groundTruthWords'],row['predictedWords']), "matchedNoun_Syn":compare_Syn(row['Noun'],row['predictedWords']), "matchedConj_Syn":0, "matchedAdj_Syn":compare_Syn(row['Adjective'],row['predictedWords']), "matchedVerbs_Syn":compare_Syn(row['Verb'],row['predictedWords']), "matchedAdv_Syn":compare_Syn(row['Adverb'],row['predictedWords']), "matchedPoi_Syn":compare_Syn(row['Pointers'],row['predictedWords']), "matchedMisce_Syn":compare_Syn(row['others'],row['predictedWords']), "matchedWood_Syn":compare_Syn(row['woodward'],row['predictedWords']), "matchedSentence_Syn":0,
+        "matchedWords_Syn_out":compare_Syn_out(row['groundTruthWords'],row['predictedWords']), "matchedNoun_Syn_out":compare_Syn_out(row['Noun'],row['predictedWords']), "matchedConj_Syn":0, "matchedAdj_Syn_out":compare_Syn_out(row['Adjective'],row['predictedWords']), "matchedVerbs_Syn_out":compare_Syn_out(row['Verb'],row['predictedWords']), "matchedAdv_Syn_out":compare_Syn_out(row['Adverb'],row['predictedWords']), "matchedPoi_Syn_out":compare_Syn_out(row['Pointers'],row['predictedWords']), "matchedMisce_Syn_out":compare_Syn_out(row['others'],row['predictedWords']), "matchedWood_Syn_out":compare_Syn_out(row['woodward'],row['predictedWords']), "matchedSentence_Syn_out":0
         }]
 
         if record[0]['totalWords'] == 0 or record[0]['matchedWords_noSyn'] > 0:
@@ -64,6 +92,9 @@ def countMatched(inputDF):
 
         if record[0]['totalWords'] == 0 or record[0]['matchedWords_Syn'] > 0:
             record[0]['matchedSentence_Syn'] = 1
+
+        if record[0]['totalWords'] == 0 or record[0]['matchedWords_Syn_out'] > 0:
+            record[0]['matchedSentence_Syn_out'] = 1
 
         categories = pd.concat([categories, pd.DataFrame.from_records(record)])
 

@@ -17,15 +17,19 @@ def combineCounts(datasetName):
     for i in range(len(x)):
         matchedNoSyn = x[i] + "_noSyn"
         matchedSyn = x[i] + "_Syn"
+        matchedSynOut = x[i] + "_Syn_out"
         percentNoSyn = x[i] + "_noSyn_percent"
         percentSyn = x[i] + "_Syn_percent"
+        percentSynOut = x[i] + "_Syn_out_percent"
 
         if(sumDF[y[i]] > 0):
             sumDF[percentNoSyn] = round(sumDF[matchedNoSyn] * 100 / sumDF[y[i]], 2)
             sumDF[percentSyn] = round(sumDF[matchedSyn] * 100 / sumDF[y[i]], 2)
+            sumDF[percentSynOut] = round(sumDF[matchedSynOut] * 100 / sumDF[y[i]], 2)
         else: # devide by zero
             sumDF[percentNoSyn] = 100.0
             sumDF[percentSyn] = 100.0
+            sumDF[percentSynOut] = 100.0
     
     return sumDF.to_frame(name = datasetName)
 
