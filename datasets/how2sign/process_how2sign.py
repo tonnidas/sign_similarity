@@ -12,7 +12,7 @@ def processSentence(sentence):
     return " ".join(tokens)
 
 
-# read csv file into df and sort by video length
+# read csv file into df and sort by video length 
 df = pd.read_csv('raw_how2sign/srt/how2sign_realigned_test.csv', sep='\t')
 df['length'] = df['END_REALIGNED'] - df['START_REALIGNED']
 

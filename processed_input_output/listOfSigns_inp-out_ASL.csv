@@ -1,4 +1,4 @@
-videoFile,groundTruthWords,predictedWords,Noun,Adverb,Adjective,Verb,Pointers,others,woodward
+videoFile,groundTruthWords,predictedWords,Noun,Adverb,Adjective,Verb,Pointers,others,woodward,swadesh
 FZCF7kPIyOk_12-1-rgb_front.mp4,['People' 'bound' 'flip' 'going' 'injure' 'nothing' 'securely'],"['ADD' 'ALRIGHT' 'ANGRY' 'ARRIVE' 'ASK' 'BABY' 'BACK' 'BAD' 'BECKON'
  'BEST' 'BETTER' 'BOAT' 'BORN' 'BREAK' 'BUY' 'CULTURE' 'DEPTH' 'DIE'
  'DOOR' 'DREADFUL' 'EXACT' 'EXCITED' 'FAIL' 'FAVOUR' 'FEEL' 'FORWARD'
@@ -7,7 +7,7 @@ FZCF7kPIyOk_12-1-rgb_front.mp4,['People' 'bound' 'flip' 'going' 'injure' 'nothin
  'PARENTS' 'PARTNER' 'PERFECT' 'PERHAPS' 'PLAN' 'PRINT' 'RECEIVE' 'RIGHT'
  'ROAD' 'SINCE' 'SLEEP' 'STADIUM' 'START' 'STAY' 'SURPRISE' 'TEA' 'TEN'
  'THURSDAY' 'TICKET' 'TIDY' 'TRAVEL' 'TYPICAL' 'UNIT' 'UPSET' 'WAIT'
- 'WALK' 'WANT' 'WRITE']","['People', 'bound', 'flip', 'injure', 'nothing']",['securely'],[],['going'],[],[],[]
+ 'WALK' 'WANT' 'WRITE']","['People', 'bound', 'flip', 'injure', 'nothing']",['securely'],[],['going'],[],[],[],[]
 92V3oH63zbQ_23-1-rgb_front.mp4,"['able' 'depending' 'dragging' 'get' 'going' 'guy' 'hard' 'know' 'like'
  'old' 'sitting' 'swinging' 'throws' 'zone']","['ADD' 'AEROPLANE' 'ANGRY' 'ARRIVE' 'BACK' 'BAD' 'BASE' 'BEDROOM'
  'BEHAVIOUR' 'BEST' 'BETTER' 'BOAT' 'BRING' 'BUY' 'CAMERA' 'CHURCH'
@@ -19,13 +19,13 @@ FZCF7kPIyOk_12-1-rgb_front.mp4,['People' 'bound' 'flip' 'going' 'injure' 'nothin
  'READY' 'REDUCE' 'RELATIONSHIP' 'RELAX' 'SCHOOL' 'SCOTLAND' 'SHOULDER'
  'SLEEP' 'SOON' 'START' 'STRESS' 'SUPPORT' 'SURPRISE' 'TIRED' 'TITLE'
  'TRAIN' 'TRAVEL' 'TYPICAL' 'UNIT' 'WAIT' 'WALES' 'WEDNESDAY' 'WONDERFUL'
- 'YES']","['guy', 'throws', 'zone']",[],"['able', 'hard', 'old']","['depending', 'dragging', 'get', 'going', 'know', 'sitting', 'swinging']",[],['like'],['old']
+ 'YES']","['guy', 'throws', 'zone']",[],"['able', 'hard', 'old']","['depending', 'dragging', 'get', 'going', 'know', 'sitting', 'swinging']",[],['like'],['old'],"['know', 'sitting']"
 -fZc293MpJk_5-1-rgb_front.mp4,"['Therefore' 'adjusts' 'air' 'downhill' 'earlier' 'either' 'flat' 'going'
  'speed' 'talked' 'uphill']","['AGE' 'AREA' 'ASK' 'BAD' 'BEDROOM' 'BORING' 'CHILD' 'COLD' 'COMPUTER'
  'DEAF' 'DEPTH' 'DOOR' 'DRINK' 'DRIVE' 'EAT' 'FRIEND' 'FULL' 'FUTURE'
  'GIRL' 'HEAR' 'LATER' 'LOOK' 'LOVELY' 'PAY' 'POOR' 'PROBLEM' 'PUB'
  'RANKING' 'SCOTLAND' 'SLEEP' 'SPORT' 'STUBBORN' 'TEA' 'TRAIN' 'WAIT'
- 'WALK' 'WONDERFUL' 'WORK' 'YES' 'YESTERDAY']","['adjusts', 'air', 'downhill', 'speed', 'uphill']","['Therefore', 'earlier']",['flat'],"['going', 'talked']",['either'],[],[]
+ 'WALK' 'WONDERFUL' 'WORK' 'YES' 'YESTERDAY']","['adjusts', 'air', 'downhill', 'speed', 'uphill']","['Therefore', 'earlier']",['flat'],"['going', 'talked']",['either'],[],[],[]
 FZrU_mEryAs_6-2-rgb_front.mp4,['also' 'child' 'could' 'fun' 'help' 'make' 'project'],"['ACT' 'AGREE' 'APPROACH' 'ARRIVE' 'ASK' 'AWARD' 'BAD' 'BUY' 'CAMERA'
  'CHANGE' 'CHEAP' 'DEAF' 'DRIVE' 'DROP' 'EAT' 'EUROPE' 'FAMILY' 'FATHER'
  'FIND' 'FOREIGN' 'FRANCE' 'FRIDAY' 'GAME' 'GOVERNMENT' 'GRANDFATHER'
@@ -33,40 +33,40 @@ FZrU_mEryAs_6-2-rgb_front.mp4,['also' 'child' 'could' 'fun' 'help' 'make' 'proje
  'HOTEL' 'INATTENTION' 'LITTLE' 'LOOK' 'MAKE' 'MEET' 'MOVE' 'NAME' 'NEAR'
  'NEW' 'NOTHING' 'OLD' 'ONE' 'OPERATE' 'PARENTS' 'PARTNER' 'PARTY'
  'PERFECT' 'POLICE' 'PUB' 'REMEMBER' 'SCOTLAND' 'SEARCH' 'SPORT' 'START'
- 'STRESS' 'STUBBORN' 'SUNDAY' 'TALK' 'THING' 'TRAIN' 'TRY' 'WAIT' 'WONDER']","['child', 'fun', 'help', 'project']",['also'],[],['make'],[],['could'],['child']
+ 'STRESS' 'STUBBORN' 'SUNDAY' 'TALK' 'THING' 'TRAIN' 'TRY' 'WAIT' 'WONDER']","['child', 'fun', 'help', 'project']",['also'],[],['make'],[],['could'],['child'],[]
 37ZtKNf6Yd8_1-1-rgb_front.mp4,['four' 'head' 'instrument' 'notice' 'stock' 'stringed'],"['AGE' 'AREA' 'ATTACK' 'BLACK' 'DEAF' 'DISAPPOINT' 'EIGHT' 'ETHNIC'
  'EXCITED' 'FBUOY' 'FEEL' 'FIVE' 'FLOCK' 'FOUR' 'HOLIDAY' 'HOUSE' 'LAST'
  'MORNING' 'MOVE' 'PRIEST' 'READY' 'RELAX' 'SEEM' 'SEVEN' 'SIX'
  'SPECTACLES' 'SURPRISE' 'TALK' 'TEN' 'THANK' 'THREE' 'TICKET' 'UNIT'
- 'WAR' 'WORK']","['head', 'instrument', 'notice', 'stock']",[],[],['stringed'],[],['four'],[]
+ 'WAR' 'WORK']","['head', 'instrument', 'notice', 'stock']",[],[],['stringed'],[],['four'],[],['head']
 -g45vqccdzI_3-1-rgb_front.mp4,['enough' 'get'],"['ACT' 'ALRIGHT' 'ANGRY' 'BALL' 'BASE' 'BRITAIN' 'CHAIR' 'COMMUNICATE'
  'DAY' 'DEAF' 'DISAPPOINT' 'EASY' 'EMIT' 'EVALUATE' 'FEEL' 'FIND' 'FINISH'
  'FLOCK' 'FORGET' 'FUTURE' 'GOOD' 'GROUP' 'HEALTHY' 'INATTENTION' 'LATE'
  'LEARN' 'LOOK' 'MAKE' 'MANY' 'MARRY' 'MAYBE' 'OLD' 'PARTNER' 'PARTY'
  'PERFECT' 'PLAN' 'PUSH' 'READY' 'RICH' 'SAY' 'SCALES' 'SEVEN' 'SLEEP'
  'START' 'TALK' 'TEACH' 'TEN' 'THEATRE' 'TIRED' 'TWO' 'UPWARD' 'WITHOUT'
- 'WORK' 'YEAR']",[],['enough'],[],['get'],[],[],[]
+ 'WORK' 'YEAR']",[],['enough'],[],['get'],[],[],[],[]
 FZd8Iv9ACVw_7-8-rgb_front.mp4,['actually' 'already' 'help' 'see' 'studded' 'studs' 'tire'],"['AGREE' 'ANGRY' 'ANYTHING' 'ATTACK' 'AUSTRALIA' 'BACK' 'BAD' 'BETTER'
  'BORROW' 'BOY' 'CHAIR' 'CLOSED' 'COME' 'CRUEL' 'DIE' 'EVALUATE' 'EXCITED'
  'FAIL' 'FINISH' 'FLOCK' 'GAME' 'GIRL' 'GO' 'GOOD' 'GOVERNMENT' 'HARD'
  'HEALTHY' 'HEARING' 'HELP' 'HOTEL' 'INATTENTION' 'KEEP' 'LATER' 'LOOK'
  'MAKE' 'MEAL' 'MEET' 'MENTION' 'MIX' 'MOVE' 'MUST' 'PARTNER' 'PERSON'
  'PLAY' 'RANKING' 'RICH' 'RIGHT' 'SAY' 'SCHOOL' 'SHEET' 'SHOULDER' 'SIGN'
- 'STAY' 'STUCK' 'SUE' 'SWIM' 'WAIT' 'WALES' 'WITHDRAW']","['help', 'studs', 'tire']","['actually', 'already']",[],"['see', 'studded']",[],[],[]
+ 'STAY' 'STUCK' 'SUE' 'SWIM' 'WAIT' 'WALES' 'WITHDRAW']","['help', 'studs', 'tire']","['actually', 'already']",[],"['see', 'studded']",[],[],[],['see']
 FZLxEwsoc1c_0-8-rgb_front.mp4,['Alright' 'combat' 'go' 'going' 'naps' 'next' 'stage' 'thing'],"['ALLOW' 'AROUND' 'BAD' 'BRING' 'DAMAGE' 'DANCE' 'DIFFERENT' 'DIVIDE'
  'DOCTOR' 'DOOR' 'DREADFUL' 'DROP' 'FIRE' 'FRIEND' 'FULL' 'GOOD' 'HALF'
  'HAPPY' 'HELP' 'HIDE' 'HOLIDAY' 'INATTENTION' 'INSERT' 'INVOLVE' 'LATE'
  'LITTLE' 'LOOK' 'MARRY' 'MEANING' 'MISS' 'MOVE' 'MUST' 'NEW' 'NEXT' 'ONE'
  'PERHAPS' 'PRAY' 'PROBLEM' 'RIGHT' 'ROTATE' 'SAFE' 'SIGN' 'SINCE' 'SIT'
  'SPOUSE' 'SUNDAY' 'THING' 'TIME' 'TRAIN' 'TRUE' 'TYPICAL' 'WAIT' 'WALK'
- 'YES']","['Alright', 'combat', 'naps', 'stage', 'thing']",[],['next'],"['go', 'going']",[],[],[]
+ 'YES']","['Alright', 'combat', 'naps', 'stage', 'thing']",[],['next'],"['go', 'going']",[],[],[],[]
 -g0iPSnQt6w_1-1-rgb_front.mp4,['1' '2' 'back' 'diving' 'expert' 'pike' 'talking'],"['AGE' 'ALCOHOLIC' 'AMERICA' 'ANYWAY' 'ASK' 'BAD' 'BALL' 'BECKON' 'BOAT'
  'BORING' 'BREATHE' 'CHRISTMAS' 'COMMUNICATE' 'DRINK' 'EASY' 'EVALUATE'
  'EXCITED' 'FEEL' 'FRIGHTENED' 'GIRL' 'GROUP' 'HOUSE' 'LIKE' 'LINK'
  'LITTLE' 'LOOK' 'LOVELY' 'MAN' 'MANY' 'MEANING' 'ONE' 'PEOPLE' 'PLAN'
  'PLAY' 'SATURDAY' 'SAY' 'SELF' 'SPEECH' 'SPOUSE' 'SURPRISE' 'TELEVISION'
  'TEN' 'TENT' 'THANK' 'THINK' 'TOMORROW' 'TOUCH' 'UNIT' 'USE' 'WANT'
- 'WEDNESDAY' 'WEEK' 'WONDER' 'WORK']","['expert', 'pike']",['back'],[],"['diving', 'talking']",[],"['1', '2']",[]
+ 'WEDNESDAY' 'WEEK' 'WONDER' 'WORK']","['expert', 'pike']",['back'],[],"['diving', 'talking']",[],"['1', '2']",[],[]
 92V3oH63zbQ_16-1-rgb_front.mp4,['break' 'different' 'going' 'swing' 'things'],"['ACCOMMODATION' 'ARRIVE' 'ASK' 'BABY' 'BAD' 'BALL' 'BEDROOM' 'BORN'
  'BREAK' 'CHANGE' 'CLOTHES' 'CONTROL' 'DIFFERENT' 'DRINK' 'DRIVE' 'FAMILY'
  'FEEL' 'FINISH' 'FRIDAY' 'FRIEND' 'GAME' 'GO' 'GOOD' 'GOVERNMENT' 'HARD'
@@ -74,12 +74,12 @@ FZLxEwsoc1c_0-8-rgb_front.mp4,['Alright' 'combat' 'go' 'going' 'naps' 'next' 'st
  'MUST' 'NORMAL' 'OLYMPIC' 'PERHAPS' 'PICTURE' 'PLAN' 'PLUS' 'PREGNANT'
  'PRISON' 'RELATIONSHIP' 'RELAX' 'RUN' 'SATURDAY' 'SIGN' 'SLEEP' 'STRESS'
  'STRONG' 'STUBBORN' 'STUCK' 'TALK' 'TEACH' 'TELEVISION' 'TICKET' 'TRY'
- 'UNIT' 'UNIVERSITY' 'VEHICLE' 'WAIT' 'WANT' 'WAR']","['break', 'things']",[],['different'],"['going', 'swing']",[],[],[]
+ 'UNIT' 'UNIVERSITY' 'VEHICLE' 'WAIT' 'WANT' 'WAR']","['break', 'things']",[],['different'],"['going', 'swing']",[],[],[],[]
 -g0iPSnQt6w_11-1-rgb_front.mp4,['arms' 'come' 'going' 'legs' 'take' 'underneath'],"['AUDIENCE' 'BEACH' 'BIG' 'BOAT' 'BOSS' 'BUILD' 'CALLISTHENICS' 'CARAVAN'
  'DEPTH' 'DIFFERENT' 'EXCITED' 'FINISH' 'FLOCK' 'GESTURE' 'HEALTHY'
  'HOLIDAY' 'HOTEL' 'ILL' 'KICK' 'LOOK' 'MANAGE' 'MEAL' 'OPEN' 'PICTURE'
  'RAIN' 'RICH' 'SEARCH' 'SEPARATE' 'SIT' 'THING' 'TICKET' 'UNIT' 'UPWARD'
- 'WITHDRAW' 'WOMAN']","['arms', 'legs', 'underneath']",[],[],"['come', 'going', 'take']",[],[],[]
+ 'WITHDRAW' 'WOMAN']","['arms', 'legs', 'underneath']",[],[],"['come', 'going', 'take']",[],[],[],['come']
 3ddzkmFPEBU_4-1-rgb_front.mp4,['either' 'guitar' 'nylon' 'softer' 'style' 'use'],"['ALRIGHT' 'ANYTHING' 'ARMY' 'BAD' 'BASE' 'BEHAVIOUR' 'DIFFERENT'
  'DISAPPEAR' 'EIGHT' 'ENGLAND' 'EVERYTHING' 'EXCITED' 'FAIL' 'FBUOY'
  'FEEL' 'FINISH' 'GAME' 'GOOD' 'GOVERNMENT' 'INATTENTION' 'INTERPRETER'
@@ -87,16 +87,16 @@ FZLxEwsoc1c_0-8-rgb_front.mp4,['Alright' 'combat' 'go' 'going' 'naps' 'next' 'st
  'MOTHER' 'MUST' 'NEXT' 'NINE' 'PARTNER' 'PERHAPS' 'PICTURE' 'PLUS'
  'PREGNANT' 'READY' 'RIGHT' 'SCHOOL' 'SEVEN' 'SIX' 'SLEEP' 'START'
  'STRESS' 'SUPPORT' 'TEN' 'TEXTURE' 'TIRED' 'TRY' 'TYPICAL' 'UNIVERSITY'
- 'VISIT' 'WANT' 'WEEK' 'WELL' 'WONDERFUL' 'WORK' 'YES']","['guitar', 'nylon', 'softer', 'style', 'use']",[],[],[],['either'],[],[]
+ 'VISIT' 'WANT' 'WEEK' 'WELL' 'WONDERFUL' 'WORK' 'YES']","['guitar', 'nylon', 'softer', 'style', 'use']",[],[],[],['either'],[],[],[]
 FZCEymcpq7I_10-1-rgb_front.mp4,['draw' 'fade' 'going' 'try'],"['ALRIGHT' 'ANGRY' 'ASK' 'BAD' 'BEST' 'EXCITED' 'FAIL' 'FEEL' 'FINISH'
  'GIRL' 'GOOD' 'LATER' 'LEG' 'LITTLE' 'LOOK' 'MAYBE' 'NEXT' 'NOTHING'
  'PERHAPS' 'PREGNANT' 'RICH' 'RIGHT' 'SPEECH' 'START' 'SURPRISE'
- 'SYMPATHY' 'TIRED' 'TYPICAL' 'WELL' 'YES']","['draw', 'fade', 'try']",[],[],['going'],[],[],[]
+ 'SYMPATHY' 'TIRED' 'TYPICAL' 'WELL' 'YES']","['draw', 'fade', 'try']",[],[],['going'],[],[],[],[]
 -fZc293MpJk_3-1-rgb_front.mp4,"['angle' 'attack' 'cause' 'decrease' 'increase' 'lowering' 'moving'
  'particular' 'pressure' 'raising' 'stick' 'wing']","['ASK' 'BACK' 'BLUE' 'BRITAIN' 'DRINK' 'ENGLAND' 'ESCAPE' 'FRIDAY'
  'FRIEND' 'GO' 'GRANDMOTHER' 'HEAR' 'HOME' 'LAST' 'LOOK' 'MOVE' 'NOTHING'
  'PROBLEM' 'SIT' 'SLEEP' 'SPOUSE' 'STAND' 'START' 'TEA' 'TEASE' 'TIME'
- 'TRUE' 'WAIT' 'WALK' 'WORK' 'YEAR' 'YES']","['angle', 'attack', 'cause', 'decrease', 'increase', 'pressure', 'stick']",[],['particular'],"['lowering', 'moving', 'raising', 'wing']",[],[],[]
+ 'TRUE' 'WAIT' 'WALK' 'WORK' 'YEAR' 'YES']","['angle', 'attack', 'cause', 'decrease', 'increase', 'pressure', 'stick']",[],['particular'],"['lowering', 'moving', 'raising', 'wing']",[],[],[],[]
 FZCF7kPIyOk_14-1-rgb_front.mp4,['Also' 'good' 'see' 'visual' 'yeah'],"['ADD' 'AGE' 'ARRIVE' 'BALL' 'BORING' 'CAMERA' 'CHRISTMAS' 'COMFORTABLE'
  'COMMUNICATE' 'DISAPPOINT' 'ENOUGH' 'ETHNIC' 'EXCITED' 'FBUOY' 'FEEL'
  'FINISH' 'FIVE' 'FLOCK' 'FOUR' 'GOOD' 'GROUP' 'HOUSE' 'INTERPRETER'
@@ -104,7 +104,7 @@ FZCF7kPIyOk_14-1-rgb_front.mp4,['Also' 'good' 'see' 'visual' 'yeah'],"['ADD' 'AG
  'PERHAPS' 'PLAN' 'PLENTY' 'QUIET' 'RELAX' 'SCHOOL' 'SEARCH' 'SIGN'
  'SLEEP' 'STAND' 'START' 'STAY' 'STILL' 'TALK' 'TEACH' 'TELEVISION'
  'THANK' 'THREE' 'THURSDAY' 'TICKET' 'TIDY' 'TITLE' 'TRAVEL' 'TWO' 'UNIT'
- 'USE' 'VIEW' 'VISIT' 'WALK' 'YES']",['yeah'],['Also'],"['good', 'visual']",['see'],[],[],['good']
+ 'USE' 'VIEW' 'VISIT' 'WALK' 'YES']",['yeah'],['Also'],"['good', 'visual']",['see'],[],[],['good'],"['good', 'see']"
 FZLxEwsoc1c_1-8-rgb_front.mp4,"['basically' 'generally' 'hear' 'hitting' 'kicking' 'nap' 'punching'
  'someone' 'sound']","['ALRIGHT' 'ANYTHING' 'ARRIVE' 'BACK' 'BAD' 'BECKON' 'BLIND' 'CHANGE'
  'CLOSED' 'DAMN' 'DANCE' 'DAY' 'DEAF' 'DIVIDE' 'EASY' 'ENCOURAGE'
@@ -113,38 +113,38 @@ FZLxEwsoc1c_1-8-rgb_front.mp4,"['basically' 'generally' 'hear' 'hitting' 'kickin
  'INVOLVE' 'LAST' 'LITTLE' 'LOOK' 'MAKE' 'MAYBE' 'MOVE' 'MUST' 'NEVER'
  'NEW' 'NEXT' 'PERHAPS' 'PLAY' 'QUICK' 'REGULAR' 'RIGHT' 'SAFE' 'SAY'
  'SCALES' 'SCHOOL' 'SCOTLAND' 'SIGN' 'SINCE' 'SPORT' 'START' 'THINK'
- 'TRAIN' 'TRAIN3b' 'TRUE' 'TYPICAL' 'WANT' 'WIN' 'WRITE' 'YES' 'YESTERDAY']","['hear', 'nap', 'someone', 'sound']","['basically', 'generally']",[],"['hitting', 'kicking', 'punching']",[],[],[]
+ 'TRAIN' 'TRAIN3b' 'TRUE' 'TYPICAL' 'WANT' 'WIN' 'WRITE' 'YES' 'YESTERDAY']","['hear', 'nap', 'someone', 'sound']","['basically', 'generally']",[],"['hitting', 'kicking', 'punching']",[],[],[],['hear']
 FZCF7kPIyOk_2-1-rgb_front.mp4,['bound' 'example' 'nicely' 'script'],"['AGE' 'BIG' 'BORING' 'BUILD' 'DANCE' 'DEAF' 'DIRTY' 'DISAPPEAR' 'DRIVE'
  'EASY' 'EMPTY' 'EXCITED' 'FIVE' 'FLOCK' 'FOUR' 'FREE' 'HAPPEN' 'HOLIDAY'
  'HOT' 'INFORMATION' 'LOOK' 'MEAL' 'MENTION' 'MOTHER' 'MUST' 'NEVER'
  'NORMAL' 'OLD' 'PLAN' 'PLEASE' 'POUND' 'PRACTISE' 'RELAX' 'SATURDAY'
  'SAY' 'SCHOOL' 'SEEM' 'SIGN' 'SURPRISE' 'TALK' 'TEACH' 'TELEVISION'
- 'THANK' 'THINK' 'TIDY' 'TOMORROW' 'UNIT' 'USE' 'YEAR']","['bound', 'example', 'script']",['nicely'],[],[],[],[],[]
+ 'THANK' 'THINK' 'TIDY' 'TOMORROW' 'UNIT' 'USE' 'YEAR']","['bound', 'example', 'script']",['nicely'],[],[],[],[],[],[]
 -g0iPSnQt6w_0-1-rgb_front.mp4,['Bobby' 'Buenos' 'Dias' 'Larew' 'Spanish' 'know' 'n' 'spoke'],"['AGE' 'ANGRY' 'ANYTHING' 'ASK' 'BAD' 'BECKON' 'BORING' 'CHANGE' 'DRINK'
  'ENOUGH' 'ETHNIC' 'EXCITED' 'FBUOY' 'FEEL' 'FINISH' 'FORGET' 'GIRL' 'GO'
  'GOOD' 'HOLIDAY' 'HOPE' 'HORRIBLE' 'INTERPRETER' 'LITTLE' 'LOOK' 'MAYBE'
  'MIND' 'MORNING' 'MUM' 'NOTHING' 'PARTNER' 'PERFECT' 'PERHAPS' 'PLAY'
  'READY' 'RIGHT' 'SCHOOL' 'SEEM' 'SIT' 'SLEEP' 'SPEECH' 'TIME' 'TOUCH'
- 'TYPICAL' 'WAIT' 'WALES' 'WALK' 'WONDERFUL' 'YES']","['Bobby', 'Buenos', 'Dias', 'Larew', 'n', 'spoke']",[],['Spanish'],['know'],[],[],[]
+ 'TYPICAL' 'WAIT' 'WALES' 'WALK' 'WONDERFUL' 'YES']","['Bobby', 'Buenos', 'Dias', 'Larew', 'n', 'spoke']",[],['Spanish'],['know'],[],[],[],['know']
 8kAWy2YodzQ_19-1-rgb_front.mp4,['tune' 'ukulele'],"['AEROPLANE' 'ARRIVE' 'ASK' 'AWARD' 'BAD' 'CHANGE' 'CLUB' 'COLD' 'CONTROL'
  'CREATE' 'DRIVE' 'FINISH' 'HORRIBLE' 'INATTENTION' 'LAST' 'LATER'
  'LITTLE' 'LOOK' 'NEWSPAPER' 'NOTHING' 'PARTNER' 'PERFECT' 'PERHAPS' 'RUN'
  'SPORT' 'STUBBORN' 'SUE' 'SYMPATHY' 'TOUCH' 'TYPICAL' 'WAIT' 'WALES'
- 'WALK' 'WEEKEND' 'YES']","['tune', 'ukulele']",[],[],[],[],[],[]
+ 'WALK' 'WEEKEND' 'YES']","['tune', 'ukulele']",[],[],[],[],[],[],[]
 92V3oH63zbQ_4-1-rgb_front.mp4,['baseball' 'going' 'hands' 'inside' 'keeping' 'talk'],"['ASK' 'BALL' 'BROTHER' 'CHRISTMAS' 'DAY' 'DIFFERENT' 'DOCTOR' 'ENGLAND'
  'EVALUATE' 'EXPLAIN' 'FEEL' 'FINGERSPELL' 'FRIEND' 'GOOD' 'HARD'
  'INATTENTION' 'INFORMATION' 'MAKE' 'MANY' 'MENTION' 'MORNING' 'NEAR'
  'NEXT' 'NIGHT' 'NORMAL' 'PARTNER' 'PERHAPS' 'PLAN' 'PLUS' 'PROBLEM'
  'RESPECT' 'SEVEN' 'SHOW' 'SINCE' 'SPEECH' 'SPOUSE' 'STRESS' 'TALK'
  'TELEVISION' 'TEN' 'THANK' 'THEATRE' 'TIME' 'TOUCH' 'WEEK' 'WORK' 'WORTH'
- 'YES']","['baseball', 'hands', 'talk']",[],[],"['going', 'keeping']",[],['inside'],[]
+ 'YES']","['baseball', 'hands', 'talk']",[],[],"['going', 'keeping']",[],['inside'],[],['hands']
 -g0sqksgyc4_5-2-rgb_front.mp4,"['Like' 'covered' 'earlier' 'everything' 'going' 'half' 'increments'
  'step' 'try']","['AREA' 'ARRIVE' 'BACK' 'BAD' 'BEST' 'CHAIR' 'CHANGE' 'CHILD' 'COMPUTER'
  'DOCTOR' 'ENOUGH' 'FULL' 'HARD' 'HORRIBLE' 'INVOLVE' 'LAST' 'LOW' 'MARRY'
  'MAYBE' 'MORNING' 'MOTHER' 'NEXT' 'NOTHING' 'OPERATE' 'PARTNER' 'PAST'
  'PERHAPS' 'PERSON' 'PLAN' 'PLENTY' 'POLICE' 'PRACTISE' 'RELAX' 'SATURDAY'
  'SCOTLAND' 'SINCE' 'SLOW' 'SPOUSE' 'START' 'TELEVISION' 'TIME' 'TOUCH'
- 'WAIT' 'WANT' 'WEEKEND' 'YES' 'YOUNG']","['everything', 'half', 'increments', 'step', 'try']",['earlier'],[],"['covered', 'going']",[],['Like'],[]
+ 'WAIT' 'WANT' 'WEEKEND' 'YES' 'YOUNG']","['everything', 'half', 'increments', 'step', 'try']",['earlier'],[],"['covered', 'going']",[],['Like'],[],[]
 -g0iPSnQt6w_7-1-rgb_front.mp4,['around' 'make' 'spin' 'sure' 'way'],"['ALRIGHT' 'BEST' 'BETTER' 'BOY' 'BROTHER' 'CATCH' 'CHANGE' 'CHURCH'
  'CLUB' 'COMMUNITY' 'CRUEL' 'DAY' 'DISAPPOINT' 'EASY' 'ENGLAND' 'EXCITED'
  'FAIL' 'FEEL' 'FINISH' 'FIVE' 'FOUR' 'GAME' 'GIRL' 'GO' 'GOOD'
@@ -153,38 +153,38 @@ FZCF7kPIyOk_2-1-rgb_front.mp4,['bound' 'example' 'nicely' 'script'],"['AGE' 'BIG
  'NICE' 'NUMBER' 'PARTNER' 'PARTY' 'PEOPLE' 'PREFER' 'PRIEST' 'RICH' 'RUN'
  'SATURDAY' 'SAY' 'SHOULDER' 'SINCE' 'SLEEP' 'SPORT' 'STRESS' 'STRONG'
  'TEACH' 'THINK' 'THREE' 'TOUCH' 'TRUE' 'TWO' 'UNIT' 'WANT' 'WEEK'
- 'WEEKEND' 'WELL' 'WORK' 'YEAR']","['spin', 'sure', 'way']",[],[],['make'],[],['around'],[]
+ 'WEEKEND' 'WELL' 'WORK' 'YEAR']","['spin', 'sure', 'way']",[],[],['make'],[],['around'],[],[]
 FZLxEwsoc1c_6-8-rgb_front.mp4,['acting' 'follow' 'still'],"['ACT' 'ALWAYS' 'ANGRY' 'ARRIVE' 'AVOID' 'AWARD' 'BAD' 'BEST' 'BETTER'
  'BORING' 'CHECK' 'CHILD' 'CONTINUE' 'CULTURE' 'DIE' 'DIFFERENT'
  'DREADFUL' 'ENOUGH' 'EXCITED' 'FAIL' 'FAVOUR' 'FEEL' 'HARD' 'HEALTHY'
  'HORRIBLE' 'HOT' 'ILL' 'LAUGH' 'LIKE' 'LIVE' 'MONEY' 'MORNING' 'MOTHER'
  'PAY' 'PLENTY' 'RIGHT' 'RUN' 'SCHOOL' 'SCOTLAND' 'SELL' 'SPORT' 'START'
- 'STAY' 'STRONG' 'STUBBORN' 'SURPRISE' 'TEACH' 'USE' 'WAIT' 'WRITE' 'YES']",[],['still'],[],"['acting', 'follow']",[],[],[]
+ 'STAY' 'STRONG' 'STUBBORN' 'SURPRISE' 'TEACH' 'USE' 'WAIT' 'WRITE' 'YES']",[],['still'],[],"['acting', 'follow']",[],[],[],[]
 FZd8Iv9ACVw_1-8-rgb_front.mp4,['difference' 'going' 'season' 'snow' 'talk' 'tires' 'today'],"['ALRIGHT' 'AWARD' 'BACK' 'BAD' 'BEST' 'CALLISTHENICS' 'CHANGE' 'CLOSED'
  'COMFORTABLE' 'DAY' 'DIFFERENT' 'DRIVE' 'ENGLAND' 'EXPAND' 'FINISH'
  'FLOCK' 'GOOD' 'HAPPEN' 'HARD' 'IMPOSSIBLE' 'INATTENTION' 'INTERPRETER'
  'LATER' 'MEET' 'MOVE' 'NEXT' 'NOTHING' 'PARTY' 'PERFECT' 'PERHAPS'
  'PICTURE' 'PLUS' 'QUICK' 'REDUCE' 'RIGHT' 'SCALES' 'SCOTLAND' 'SHEET'
- 'SHOULDNT' 'SIGN' 'START' 'TALK' 'TYPICAL' 'UNIT' 'WELL' 'YES']","['difference', 'season', 'snow', 'talk', 'tires', 'today']",[],[],['going'],[],[],['snow']
+ 'SHOULDNT' 'SIGN' 'START' 'TALK' 'TYPICAL' 'UNIT' 'WELL' 'YES']","['difference', 'season', 'snow', 'talk', 'tires', 'today']",[],[],['going'],[],[],['snow'],[]
 -g0iPSnQt6w_8-1-rgb_front.mp4,['Let' 'good' 'pike' 'position' 'show'],"['AMERICA' 'BAD' 'BALL' 'BORING' 'CAMERA' 'CHRISTMAS' 'DISAPPEAR' 'DRIVE'
  'GIRL' 'GROUP' 'HORRIBLE' 'HOT' 'LITTLE' 'LOOK' 'MAYBE' 'MEANING'
  'PERHAPS' 'PLAN' 'PLEASE' 'PLENTY' 'REDUCE' 'SATURDAY' 'SAY' 'SCHOOL'
  'SPECTACLES' 'SPEECH' 'THANK' 'TICKET' 'TRAVEL' 'TYPICAL' 'UNIT' 'USE'
- 'VIEW' 'VISIT' 'WEEK']","['pike', 'position', 'show']",[],['good'],['Let'],[],[],['good']
+ 'VIEW' 'VISIT' 'WEEK']","['pike', 'position', 'show']",[],['good'],['Let'],[],[],['good'],['good']
 FZCEymcpq7I_8-1-rgb_front.mp4,['get' 'lined' 'target' 'want'],"['ACT' 'ARMY' 'ASK' 'BAD' 'BOOKED' 'COMMUNICATE' 'FINISH' 'FRIDAY' 'GOOD'
  'HAPPEN' 'HAPPY' 'HEAR' 'HOME' 'KEEP' 'LEG' 'LITTLE' 'LOOK' 'MANY'
  'MAYBE' 'MEANING' 'MINUTE' 'MUST' 'NOTHING' 'OLYMPIC' 'PERFECT' 'PERHAPS'
  'PLAN' 'QUEUE' 'QUIET' 'READY' 'RIGHT' 'SAD' 'STAND' 'SURPRISE' 'TALK'
  'TEACH' 'TELEVISION' 'TEN' 'THURSDAY' 'TICKET' 'TIRED' 'TOILET' 'TOUCH'
- 'TYPICAL' 'WALK' 'YES' 'YOUNG']","['target', 'want']",[],[],"['get', 'lined']",[],[],[]
+ 'TYPICAL' 'WALK' 'YES' 'YOUNG']","['target', 'want']",[],[],"['get', 'lined']",[],[],[],[]
 8kAWy2YodzQ_14-1-rgb_front.mp4,['good' 'pretty'],"['BAD' 'BECKON' 'EIGHT' 'EXCITED' 'EXTRACT' 'FBUOY' 'GOOD' 'LEG' 'LITTLE'
- 'LOOK' 'RIGHT' 'SCHOOL' 'SEVEN' 'SPEECH' 'TYPICAL' 'WAIT' 'WALES' 'YES']",[],['pretty'],['good'],[],[],[],['good']
+ 'LOOK' 'RIGHT' 'SCHOOL' 'SEVEN' 'SPEECH' 'TYPICAL' 'WAIT' 'WALES' 'YES']",[],['pretty'],['good'],[],[],[],['good'],['good']
 8kAWy2YodzQ_1-1-rgb_front.mp4,['going' 'instrument' 'musical' 'play' 'tune'],"['ALRIGHT' 'ANGRY' 'AWARD' 'BECKON' 'BEHAVIOUR' 'BREATHE' 'BROTHER'
  'CALLISTHENICS' 'CAMERA' 'CHANGE' 'COLD' 'COMFORTABLE' 'CONTROL' 'DEAF'
  'DRIVE' 'EASY' 'EMOTION' 'EVALUATE' 'EXCITED' 'FEEL' 'GAME' 'GIRL' 'GOOD'
  'HEALTHY' 'HEAR' 'HEARING' 'ILL' 'LIKE' 'LITTLE' 'LOOK' 'LOVE' 'MAKE'
  'PARTNER' 'RETIRE' 'RICH' 'SCHOOL' 'SEARCH' 'SPEECH' 'SPORT' 'STAY'
- 'STRESS' 'STUBBORN' 'SURPRISE' 'TRAVEL' 'YESTERDAY']","['instrument', 'play', 'tune']",[],['musical'],['going'],[],[],['play']
+ 'STRESS' 'STUBBORN' 'SURPRISE' 'TRAVEL' 'YESTERDAY']","['instrument', 'play', 'tune']",[],['musical'],['going'],[],[],['play'],[]
 -g0sqksgyc4_0-2-rgb_front.mp4,"['aspect' 'clip' 'covering' 'footwork' 'forward' 'going' 'moving'
  'talking']","['ACCOMMODATION' 'ALRIGHT' 'APPROACH' 'BAD' 'CHEAP' 'DAMAGE' 'DEAF'
  'DRIVE' 'DROP' 'ESCAPE' 'FAVOUR' 'GIRL' 'GO' 'HAPPEN' 'HAPPY' 'HEARING'
@@ -192,12 +192,12 @@ FZCEymcpq7I_8-1-rgb_front.mp4,['get' 'lined' 'target' 'want'],"['ACT' 'ARMY' 'AS
  'NOTHING' 'OPERATE' 'PARENTS' 'PEOPLE' 'PERHAPS' 'PERSON' 'PRAY' 'QUEUE'
  'RANKING' 'REDUCE' 'SCOTLAND' 'SELF' 'SIT' 'SPEECH' 'SPOUSE' 'STAY'
  'SUNDAY' 'TALK' 'TEACH' 'THING' 'TIME' 'TOUCH' 'TRUE' 'TRY' 'WAIT'
- 'WALES' 'YEAR' 'YOUNG']","['aspect', 'clip', 'footwork']",['forward'],[],"['covering', 'going', 'moving', 'talking']",[],[],[]
+ 'WALES' 'YEAR' 'YOUNG']","['aspect', 'clip', 'footwork']",['forward'],[],"['covering', 'going', 'moving', 'talking']",[],[],[],[]
 -g0iPSnQt6w_12-1-rgb_front.mp4,['actually' 'going' 'lock' 'pike' 'wrists'],"['ADD' 'ANYWAY' 'BAD' 'BASE' 'BEST' 'BLUE' 'CHURCH' 'DEPTH' 'DOOR' 'EIGHT'
  'ESCAPE' 'FOREIGN' 'FORWARD' 'FRIEND' 'FUTURE' 'GAME' 'GOOD' 'GOVERNMENT'
  'GRAB' 'GRANDMOTHER' 'INATTENTION' 'LEAVE' 'MAKE' 'MANAGE' 'NEXT' 'ONE'
  'PARTNER' 'PERIODIC' 'PROBLEM' 'RANKING' 'RIGHT' 'SEARCH' 'SELF' 'SIT'
- 'STRESS' 'TIME' 'TOMORROW' 'TYPICAL' 'WONDER' 'WORK' 'YEAR' 'YES']","['lock', 'pike', 'wrists']",['actually'],[],['going'],[],[],[]
+ 'STRESS' 'TIME' 'TOMORROW' 'TYPICAL' 'WONDER' 'WORK' 'YEAR' 'YES']","['lock', 'pike', 'wrists']",['actually'],[],['going'],[],[],[],[]
 -g0iPSnQt6w_5-1-rgb_front.mp4,['ca' 'decide' 'dive' 'get' 'know' 'middle' 'n'],"['ANGRY' 'ARMY' 'ARRIVE' 'ASK' 'BAD' 'BEDROOM' 'BLIND' 'BRING'
  'CALLISTHENICS' 'CAT' 'CHRISTMAS' 'DAY' 'DEAF' 'EIGHT' 'EVALUATE'
  'FAMILY' 'FATHER' 'FINISH' 'FRIDAY' 'GOOD' 'HARD' 'HEAR' 'HOLIDAY'
@@ -206,7 +206,7 @@ FZCEymcpq7I_8-1-rgb_front.mp4,['get' 'lined' 'target' 'want'],"['ACT' 'ARMY' 'AS
  'PERFECT' 'PLAN' 'PLAY' 'READY' 'RICH' 'RIGHT' 'SAD' 'SAY' 'SCALES'
  'SEARCH' 'SEVEN' 'SIX' 'SLEEP' 'SOON' 'SPEECH' 'SPOUSE' 'SYMPATHY' 'TALK'
  'TEACH' 'TELEVISION' 'THINK' 'THURSDAY' 'TOMORROW' 'TRAIN' 'WIN'
- 'WONDERFUL' 'YES']","['decide', 'dive', 'middle', 'n']",[],[],"['get', 'know']",[],['ca'],[]
+ 'WONDERFUL' 'YES']","['decide', 'dive', 'middle', 'n']",[],[],"['get', 'know']",[],['ca'],[],['know']
 FZLxEwsoc1c_4-8-rgb_front.mp4,['basically' 'get' 'naps' 'second' 'three' 'types' 'usually'],"['AGE' 'ANESTHETISE' 'ANGRY' 'ANYTHING' 'AUSTRALIA' 'BACK' 'BAD' 'BEDROOM'
  'BORING' 'BREATHE' 'CHILD' 'CHRISTMAS' 'CLUB' 'CONTINUE' 'DEAF' 'DECIDE'
  'DIFFERENT' 'EMOTION' 'ENDURE' 'EXPENSIVE' 'FEEL' 'GO' 'HAPPEN' 'HEAR'
@@ -214,12 +214,12 @@ FZLxEwsoc1c_4-8-rgb_front.mp4,['basically' 'get' 'naps' 'second' 'three' 'types'
  'NEXT' 'ONE' 'ORAL' 'PERHAPS' 'PLAN' 'PLAY' 'POUND' 'PREGNANT' 'PROBLEM'
  'QUICK' 'RANKING' 'RIGHT' 'SAD' 'SCHOOL' 'SEEM' 'SELF' 'SIGN' 'SLEEP'
  'STAND' 'START' 'SURPRISE' 'TALK' 'TEACHER' 'THANK' 'THING' 'TYPICAL'
- 'UPSET' 'USE' 'WALK' 'WANT' 'WONDERFUL' 'WRITE' 'YEAR' 'YES' 'YOUNG']","['naps', 'types']","['basically', 'usually']",['second'],['get'],[],['three'],[]
+ 'UPSET' 'USE' 'WALK' 'WANT' 'WONDERFUL' 'WRITE' 'YEAR' 'YES' 'YOUNG']","['naps', 'types']","['basically', 'usually']",['second'],['get'],[],['three'],[],[]
 92V3oH63zbQ_12-1-rgb_front.mp4,['already' 'bar' 'breaking' 'go' 'hands' 'many' 'rules' 'talked' 'way'],"['AREA' 'AUSTRALIA' 'BAD' 'BREAK' 'CHANGE' 'CLOSED' 'DANCE' 'DAY' 'DOCTOR'
  'EXCITED' 'FILM' 'FIVE' 'FOREIGN' 'FOUR' 'FRIDAY' 'FULL' 'HARD'
  'HORRIBLE' 'INVOLVE' 'LATE' 'LITTLE' 'MAKE' 'MEAL' 'MORNING' 'PLAN'
  'ROAD' 'SCOTLAND' 'SIT' 'SPOUSE' 'START' 'STAY' 'TEACH' 'TELEVISION'
- 'THREE' 'THURSDAY' 'TIME' 'TRAVEL' 'TYPICAL' 'WAIT' 'WORK' 'YEAR' 'YOUNG']","['bar', 'hands', 'rules', 'way']",['already'],['many'],"['breaking', 'go', 'talked']",[],[],[]
+ 'THREE' 'THURSDAY' 'TIME' 'TRAVEL' 'TYPICAL' 'WAIT' 'WORK' 'YEAR' 'YOUNG']","['bar', 'hands', 'rules', 'way']",['already'],['many'],"['breaking', 'go', 'talked']",[],[],[],"['hands', 'many']"
 -g0iPSnQt6w_15-1-rgb_front.mp4,['like' 'look'],"['AGREE' 'ANYTHING' 'ARRIVE' 'AWARD' 'BAD' 'BLIND' 'BORROW' 'BOSS' 'BRING'
  'BRITAIN' 'CAMERA' 'CHANGE' 'CHILD' 'CHURCH' 'CLUB' 'COMFORTABLE'
  'COMPUTER' 'DEAF' 'EIGHT' 'EVERYTHING' 'FISH' 'FLOCK' 'FOUR' 'GAME'
@@ -228,21 +228,21 @@ FZLxEwsoc1c_4-8-rgb_front.mp4,['basically' 'get' 'naps' 'second' 'three' 'types'
  'MAYBE' 'MERGE' 'MOVE' 'NIGHT' 'OLD' 'PARTNER' 'PARTY' 'PEOPLE' 'PERFECT'
  'PERHAPS' 'PLAY' 'PROBLEM' 'RIGHT' 'SEARCH' 'SLOW' 'STRESS' 'STUBBORN'
  'SUPPORT' 'THREE' 'TWO' 'TYPICAL' 'UNIVERSITY' 'VISIT' 'WAKE' 'WORK'
- 'YES']",['look'],[],[],[],[],['like'],[]
+ 'YES']",['look'],[],[],[],[],['like'],[],[]
 -g0sqksgyc4_8-2-rgb_front.mp4,['back' 'drag' 'foot' 'front' 'going' 'slide'],"['AREA' 'ARRIVE' 'BACK' 'BEDROOM' 'BEST' 'BUS' 'CHAIR' 'CHILD'
  'DISAPPOINT' 'DRIVE' 'EXPECT' 'FAIL' 'FAMILY' 'FATHER' 'FINISH' 'FLOCK'
  'FORGET' 'HARD' 'HEAR' 'HOME' 'INSERT' 'INVOLVE' 'LOW' 'MORNING' 'MUM'
  'NAME' 'NEXT' 'OPERATE' 'PARENTS' 'PARTNER' 'PRACTISE' 'PUB' 'RELAX'
  'RELIEF' 'REMEMBER' 'SCHOOL' 'SCOTLAND' 'SHOULDER' 'SLEEP' 'SPOUSE'
  'START' 'SWIM' 'TALK' 'TEACH' 'TIME' 'TOUCH' 'UNIVERSAL' 'VEHICLE' 'WAIT'
- 'WEEKEND' 'WRITE' 'YES']","['drag', 'foot', 'front', 'slide']",['back'],[],['going'],[],[],[]
+ 'WEEKEND' 'WRITE' 'YES']","['drag', 'foot', 'front', 'slide']",['back'],[],['going'],[],[],[],['foot']
 -g0iPSnQt6w_14-1-rgb_front.mp4,['Let' 'back' 'demonstrate' 'easier' 'lot'],"['ANGRY' 'ANYTHING' 'BABY' 'BAD' 'BALL' 'BLIND' 'BORN' 'BREATHE' 'DAY'
  'DOCTOR' 'EIGHT' 'EVALUATE' 'EXCITED' 'FEEL' 'FOUR' 'FRIEND' 'FULL'
  'GOOD' 'HOLIDAY' 'LAST' 'LATER' 'LIKE' 'LIVE' 'LOOK' 'MORNING' 'NIGHT'
  'OLD' 'ONE' 'PERHAPS' 'PLAN' 'PREGNANT' 'PROBLEM' 'SATURDAY' 'SCOTLAND'
  'SEARCH' 'SEEM' 'SHOW' 'SINCE' 'SIT' 'SPOUSE' 'START' 'SURPRISE' 'TALK'
  'TELEVISION' 'THANK' 'THEATRE' 'THREE' 'TIME' 'TOILET' 'TOUCH' 'TWO'
- 'VISIT' 'WANT' 'WEEK' 'WONDER' 'YES']","['demonstrate', 'lot']",['back'],['easier'],['Let'],[],[],[]
+ 'VISIT' 'WANT' 'WEEK' 'WONDER' 'YES']","['demonstrate', 'lot']",['back'],['easier'],['Let'],[],[],[],[]
 92V3oH63zbQ_7-1-rgb_front.mp4,['Keeping' 'ball' 'hands' 'inside' 'like' 'looks'],"['ANGRY' 'AUSTRALIA' 'BAD' 'BEST' 'BRITAIN' 'BUY' 'CHANGE' 'CHRISTMAS'
  'CLOSED' 'CONCENTRATE' 'DAUGHTER' 'DAY' 'DIFFERENT' 'DOCTOR' 'EVALUATE'
  'EXPERIENCE' 'EXPLAIN' 'FEEL' 'FINISH' 'FRIDAY' 'FRIEND' 'GAME' 'GOOD'
@@ -250,24 +250,24 @@ FZLxEwsoc1c_4-8-rgb_front.mp4,['basically' 'get' 'naps' 'second' 'three' 'types'
  'LITTLE' 'MARRY' 'MENTION' 'MUST' 'NEW' 'NEXT' 'NIGHT' 'PARTNER'
  'PERHAPS' 'PLACE' 'PROBLEM' 'RIGHT' 'SCHOOL' 'SIGN' 'SINCE' 'SIT'
  'SPOUSE' 'START' 'STRESS' 'SURPRISE' 'TALK' 'TEACHER' 'THANK' 'TIME'
- 'TOUCH' 'TRY' 'TYPICAL' 'WAIT' 'WANT' 'WEEK' 'WORK' 'YEAR' 'YES']","['ball', 'hands', 'looks']",[],[],['Keeping'],[],"['inside', 'like']",[]
+ 'TOUCH' 'TRY' 'TYPICAL' 'WAIT' 'WANT' 'WEEK' 'WORK' 'YEAR' 'YES']","['ball', 'hands', 'looks']",[],[],['Keeping'],[],"['inside', 'like']",[],['hands']
 FZCEymcpq7I_15-1-rgb_front.mp4,['good' 'half' 'pretty' 'wedge'],"['ANGRY' 'ARRIVE' 'BACK' 'BAD' 'BEHAVIOUR' 'BIRTHDAY' 'BORING' 'BREAK'
  'CHRISTMAS' 'COME' 'CONTINUE' 'DAY' 'ENOUGH' 'EXCITED' 'FEEL' 'FISH'
  'GOOD' 'HEALTHY' 'LAST' 'LOOK' 'LOVE' 'LOVELY' 'MOVE' 'NEXT' 'PARTNER'
  'PLENTY' 'PREGNANT' 'RICH' 'SAY' 'SCHOOL' 'SCOTLAND' 'SELF' 'TEN' 'THANK'
- 'TRAIN' 'TWO' 'TYPICAL' 'USE' 'WAIT' 'WORK' 'YES']","['half', 'wedge']",['pretty'],['good'],[],[],[],['good']
+ 'TRAIN' 'TWO' 'TYPICAL' 'USE' 'WAIT' 'WORK' 'YES']","['half', 'wedge']",['pretty'],['good'],[],[],[],['good'],['good']
 -g0sqksgyc4_9-2-rgb_front.mp4,"['back' 'drag' 'foot' 'forward' 'front' 'going' 'moving' 'slide'
  'whenever']","['AREA' 'BRING' 'BROTHER' 'CHAIR' 'CHILD' 'DECREASE' 'DRIVE' 'ENOUGH'
  'EUROPE' 'FAMILY' 'FAVOUR' 'FLOCK' 'HARD' 'LOOK' 'OPERATE' 'PARTNER'
  'READY' 'RELAX' 'RELIEF' 'SHOULDER' 'SIT' 'SPORT' 'SUE' 'TEA' 'TRAIN'
- 'TRAVEL' 'WAIT' 'WALK' 'YES']","['drag', 'foot', 'front', 'slide', 'whenever']","['back', 'forward']",[],"['going', 'moving']",[],[],[]
+ 'TRAVEL' 'WAIT' 'WALK' 'YES']","['drag', 'foot', 'front', 'slide', 'whenever']","['back', 'forward']",[],"['going', 'moving']",[],[],[],['foot']
 -fZc293MpJk_7-1-rgb_front.mp4,"['actually' 'airplane' 'feet' 'left' 'moved' 'right' 'start' 'steers'
  'stop' 'turn']","['ALRIGHT' 'AREA' 'ARMY' 'AUSTRALIA' 'BAD' 'BEST' 'BOY' 'CHEAP' 'CHILD'
  'CHOOSE' 'DEAF' 'EXPECT' 'FINISH' 'GIRL' 'GOOD' 'HEAR' 'LEAVE' 'LEG'
  'LOOK' 'LOW' 'MAN' 'NAME' 'NEXT' 'NOTHING' 'OLD' 'ORAL' 'PARTY' 'PERFECT'
  'PERHAPS' 'PLACE' 'REMEMBER' 'RIGHT' 'SAD' 'SCHOOL' 'SCOTLAND' 'SETTLE'
  'SHEET' 'SIX' 'START' 'THINK' 'TOUCH' 'TYPICAL' 'WAIT' 'WALES' 'WELL'
- 'WONDER' 'YES' 'YESTERDAY']","['airplane', 'feet', 'left', 'right', 'start', 'steers', 'stop', 'turn']",['actually'],[],['moved'],[],[],['right']
+ 'WONDER' 'YES' 'YESTERDAY']","['airplane', 'feet', 'left', 'right', 'start', 'steers', 'stop', 'turn']",['actually'],[],['moved'],[],[],['right'],['feet']
 FZCF7kPIyOk_9-1-rgb_front.mp4,['binding' 'consider' 'like' 'longer' 'might' 'script'],"['ALRIGHT' 'ANGRY' 'ARRIVE' 'ASK' 'BAD' 'BEHAVIOUR' 'BEST' 'BETTER' 'BOAT'
  'BODY' 'BREAK' 'CHANGE' 'CLOTHES' 'COLD' 'DAMN' 'DIFFERENT' 'DISAPPEAR'
  'DISAPPOINT' 'DREADFUL' 'DRIVE' 'ENGLAND' 'EVERYTHING' 'EXCITED'
@@ -276,7 +276,7 @@ FZCF7kPIyOk_9-1-rgb_front.mp4,['binding' 'consider' 'like' 'longer' 'might' 'scr
  'NEXT' 'NOTHING' 'PARTNER' 'PERFECT' 'PERHAPS' 'PLUS' 'POOR' 'PREFER'
  'PREGNANT' 'QUICK' 'RELAX' 'RETIRE' 'SEARCH' 'SLOVAKIA' 'STADIUM' 'START'
  'STRONG' 'SURPRISE' 'TALK' 'TEACH' 'THANK' 'THING' 'TRUE' 'TYPICAL'
- 'UNIT' 'WEEK' 'WELL' 'WORK' 'WOW' 'WRITE' 'YEAR' 'YES']","['binding', 'longer', 'script']",[],[],['consider'],[],"['like', 'might']",[]
+ 'UNIT' 'WEEK' 'WELL' 'WORK' 'WOW' 'WRITE' 'YEAR' 'YES']","['binding', 'longer', 'script']",[],[],['consider'],[],"['like', 'might']",[],[]
 FZCF7kPIyOk_18-1-rgb_front.mp4,['advice' 'basically' 'bind' 'good' 'script'],"['AGREE' 'ASK' 'AWARD' 'BAD' 'BALL' 'BASE' 'BEST' 'BETTER' 'BIG' 'BORING'
  'CHANGE' 'CHRISTMAS' 'COLD' 'COMMUNICATE' 'CONTROL' 'DAMN' 'DOCTOR'
  'DREADFUL' 'DRIVE' 'ENOUGH' 'EVERYTHING' 'EXPAND' 'FOREIGN' 'FRIEND'
@@ -284,12 +284,12 @@ FZCF7kPIyOk_18-1-rgb_front.mp4,['advice' 'basically' 'bind' 'good' 'script'],"['
  'MARRY' 'MOTHER' 'NEXT' 'NOTHING' 'PARTNER' 'PERHAPS' 'PLEASE' 'PLENTY'
  'PRAISE' 'PRAY' 'PROBLEM' 'PUB' 'PUSH' 'RIGHT' 'SCHOOL' 'SIGN' 'SPORT'
  'SPOUSE' 'START' 'STUBBORN' 'STUPID' 'THANK' 'TIME' 'TIRED' 'TOILET'
- 'TOUCH' 'TRAIN' 'TRUE' 'TYPICAL' 'USE' 'WAIT' 'WEEKEND' 'WIN' 'YES']","['advice', 'bind', 'script']",['basically'],['good'],[],[],[],['good']
+ 'TOUCH' 'TRAIN' 'TRUE' 'TYPICAL' 'USE' 'WAIT' 'WEEKEND' 'WIN' 'YES']","['advice', 'bind', 'script']",['basically'],['good'],[],[],[],['good'],['good']
 37ZtKNf6Yd8_4-1-rgb_front.mp4,['guitar' 'nylon' 'similar' 'string' 'strings' 'tied'],"['ACT' 'ANGRY' 'BAD' 'BREAK' 'CHOOSE' 'COLD' 'CONTROL' 'CRASH' 'DRIVE'
  'EXCITED' 'HORRIBLE' 'LIKE' 'LITTLE' 'LOOK' 'MAYBE' 'MOVE' 'NOTHING'
  'PARTNER' 'PARTY' 'PERFECT' 'PERHAPS' 'READY' 'RELAX' 'SHOULDER' 'SPEECH'
  'STRONG' 'SURPRISE' 'TALK' 'TEACH' 'TRAIN' 'TYPICAL' 'UNIT' 'UPWARD'
- 'WAIT']","['guitar', 'nylon', 'string', 'strings']",[],['similar'],['tied'],[],[],[]
+ 'WAIT']","['guitar', 'nylon', 'string', 'strings']",[],['similar'],['tied'],[],[],[],[]
 FZd8Iv9ACVw_10-8-rgb_front.mp4,['around' 'driving' 'get' 'seasons' 'snow' 'time'],"['AGREE' 'ALWAYS' 'ANYTHING' 'AVOID' 'AWARD' 'BACK' 'BAD' 'BEST' 'BETTER'
  'BIG' 'BREAK' 'BROTHER' 'CHANGE' 'CHRISTMAS' 'COLD' 'CONTROL' 'DIFFERENT'
  'DOCTOR' 'DRIVE' 'ENGLAND' 'ESCAPE' 'EVALUATE' 'GO' 'HARD' 'INATTENTION'
@@ -298,11 +298,11 @@ FZd8Iv9ACVw_10-8-rgb_front.mp4,['around' 'driving' 'get' 'seasons' 'snow' 'time'
  'POINT' 'POLICE' 'PREFER' 'PROBLEM' 'RIGHT' 'SAY' 'SCALES' 'SCOTLAND'
  'SETTLE' 'SHEET' 'SIGN' 'SISTER' 'SLOW' 'STAY' 'STRESS' 'STUBBORN'
  'STUCK' 'SUPPORT' 'THEATRE' 'TIME' 'TIRED' 'TRY' 'TYPICAL' 'WAIT' 'YEAR'
- 'YES' 'YOUNG']","['seasons', 'snow', 'time']",[],[],"['driving', 'get']",[],['around'],['snow']
+ 'YES' 'YOUNG']","['seasons', 'snow', 'time']",[],[],"['driving', 'get']",[],['around'],['snow'],[]
 8kAWy2YodzQ_0-1-rgb_front.mp4,['Hi' 'learning' 'play' 'today' 'ukulele'],"['ALRIGHT' 'ANGRY' 'BAD' 'CHECK' 'EXCITED' 'FAIL' 'FEEL' 'FINISH' 'GOOD'
  'HEALTHY' 'LEG' 'LOOK' 'MANCHESTER' 'MORNING' 'MOTHER' 'NEWCASTLE'
  'PARENTS' 'PARTNER' 'PARTY' 'PLAN' 'RICH' 'RIGHT' 'TELEVISION' 'THURSDAY'
- 'WALK' 'WEEKEND' 'WELL']","['Hi', 'play', 'today', 'ukulele']",[],[],['learning'],[],[],['play']
+ 'WALK' 'WEEKEND' 'WELL']","['Hi', 'play', 'today', 'ukulele']",[],[],['learning'],[],[],['play'],[]
 FZrU_mEryAs_3-2-rgb_front.mp4,"['able' 'child' 'contact' 'good' 'point' 'really' 'stranger' 'way'
  'younger']","['ACCOMMODATION' 'ACT' 'ALWAYS' 'ANGRY' 'ARRIVE' 'ASK' 'ATTACK' 'AWARD'
  'BAD' 'BOOK' 'BORN' 'BORROW' 'BUSINESS' 'CAMERA' 'CHANGE' 'CHEAP'
@@ -314,19 +314,19 @@ FZrU_mEryAs_3-2-rgb_front.mp4,"['able' 'child' 'contact' 'good' 'point' 'really'
  'QUEUE' 'QUICK' 'QUIET' 'RICH' 'ROAD' 'RUN' 'SCALES' 'SCHOOL' 'SEND'
  'SIGN' 'SIT' 'SLEEP' 'SLOW' 'SPEECH' 'SPOUSE' 'STAY' 'STRONG' 'STUBBORN'
  'SUNDAY' 'TALK' 'TEACH' 'THINK' 'TIME' 'TOUCH' 'TRAVEL' 'TRUE' 'VEHICLE'
- 'WAIT' 'WALK' 'WANT' 'WORRY']","['child', 'contact', 'point', 'stranger', 'way']",['really'],"['able', 'good', 'younger']",[],[],[],"['child', 'good']"
+ 'WAIT' 'WALK' 'WANT' 'WORRY']","['child', 'contact', 'point', 'stranger', 'way']",['really'],"['able', 'good', 'younger']",[],[],[],"['child', 'good']",['good']
 92V3oH63zbQ_0-1-rgb_front.mp4,['different' 'hitting' 'pitches' 'talked' 'types'],"['AGREE' 'ANGRY' 'ANYWAY' 'ARRIVE' 'BACK' 'BALL' 'BEST' 'BETTER' 'CHANGE'
  'CLUB' 'DIFFERENT' 'ENGLAND' 'FATHER' 'FEEL' 'GOOD' 'HARD' 'HOME'
  'INTERPRETER' 'KEEP' 'LOOK' 'MUST' 'NORMAL' 'PARTNER' 'PICTURE' 'PLAN'
  'PLUS' 'SCHOOL' 'SPORT' 'SURPRISE' 'TALK' 'TELEVISION' 'TOILET' 'TRY'
- 'UNIT' 'WALES' 'WANT' 'WEEK' 'WEEKEND' 'WORK']","['pitches', 'types']",[],['different'],"['hitting', 'talked']",[],[],[]
+ 'UNIT' 'WALES' 'WANT' 'WEEK' 'WEEKEND' 'WORK']","['pitches', 'types']",[],['different'],"['hitting', 'talked']",[],[],[],[]
 FZCF7kPIyOk_17-1-rgb_front.mp4,['One' 'binding' 'firmly' 'hold' 'pretty' 'professional' 'script' 'thing'],"['ACT' 'AGES' 'ASK' 'AWARD' 'BREAK' 'CAMERA' 'CHANGE' 'COLD' 'COMFORTABLE'
  'CONTROL' 'DAMAGE' 'DISAPPOINT' 'DRINK' 'DRIVE' 'FLOCK' 'GO'
  'GRANDMOTHER' 'HAPPY' 'INTERPRETER' 'LAST' 'LATER' 'LITTLE' 'LOOK'
  'MEANING' 'NOTHING' 'PARTY' 'PERFECT' 'PRAY' 'PROBLEM' 'QUEUE' 'QUIET'
  'RECEIVE' 'REDUCE' 'RETIRE' 'RUN' 'SAY' 'SCHOOL' 'SELF' 'SIGN' 'SIT'
  'START' 'STRONG' 'STUBBORN' 'STUPID' 'SUE' 'SUNDAY' 'TALK' 'TEACH'
- 'TITLE' 'TOMORROW' 'TRAIN' 'TRAVEL' 'TRUE' 'VEHICLE' 'WORK' 'YEAR']","['binding', 'hold', 'script', 'thing']","['firmly', 'pretty']",['professional'],[],[],['One'],[]
+ 'TITLE' 'TOMORROW' 'TRAIN' 'TRAVEL' 'TRUE' 'VEHICLE' 'WORK' 'YEAR']","['binding', 'hold', 'script', 'thing']","['firmly', 'pretty']",['professional'],[],[],['One'],[],[]
 FZCEymcpq7I_3-1-rgb_front.mp4,['eighty' 'get' 'going' 'lot' 'sand' 'use' 'wedge' 'within' 'yards'],"['ASK' 'AWARD' 'BAD' 'BECKON' 'BEST' 'BETTER' 'BREAK' 'BROTHER' 'CHANGE'
  'COLD' 'CONTROL' 'DAY' 'DREADFUL' 'DRIVE' 'ENOUGH' 'EXCITED' 'FILM'
  'FINISH' 'FRIEND' 'GAME' 'GIVE' 'GOOD' 'GOVERNMENT' 'HAPPEN' 'HAPPY'
@@ -335,203 +335,203 @@ FZCEymcpq7I_3-1-rgb_front.mp4,['eighty' 'get' 'going' 'lot' 'sand' 'use' 'wedge'
  'REGULAR' 'RIGHT' 'SAFE' 'SCHOOL' 'SCOTLAND' 'SINCE' 'SPOUSE' 'START'
  'STRESS' 'STRONG' 'STUBBORN' 'SUE' 'TALK' 'TEACH' 'THANK' 'TIME' 'TOUCH'
  'TRAIN' 'TRUE' 'TYPICAL' 'USE' 'VEHICLE' 'WAIT' 'WEEK' 'WEEKEND' 'WORK'
- 'YES']","['eighty', 'lot', 'sand', 'use', 'wedge', 'yards']",[],[],"['get', 'going']",[],['within'],[]
+ 'YES']","['eighty', 'lot', 'sand', 'use', 'wedge', 'yards']",[],[],"['get', 'going']",[],['within'],[],['sand']
 -g0iPSnQt6w_13-1-rgb_front.mp4,['going' 'legs' 'lock' 'squeeze' 'underneath'],"['BALL' 'BLUE' 'CARAVAN' 'DAMAGE' 'DOCTOR' 'DREADFUL' 'ENGLAND'
  'FANTASTIC' 'FATHER' 'FLOCK' 'FOOTBALL' 'FRIDAY' 'FRIEND' 'HARD' 'HELP'
  'HOLLAND' 'HOUSE' 'INATTENTION' 'LAST' 'MINUTE' 'NEW' 'PARTNER' 'POLICE'
  'PRAY' 'PROBLEM' 'PUSH' 'REGULAR' 'SAFE' 'SINCE' 'SIT' 'SPOUSE' 'SUNDAY'
- 'TEACH' 'TENT' 'TIME' 'TRUE' 'UPWARD' 'WALL' 'YEAR' 'YOUNG']","['legs', 'lock', 'squeeze', 'underneath']",[],[],['going'],[],[],[]
-92V3oH63zbQ_5-1-rgb_front.mp4,['baseball' 'hands' 'inside' 'keeping'],['BAD' 'GOOD' 'LEG' 'RIGHT'],"['baseball', 'hands']",[],[],['keeping'],[],['inside'],[]
+ 'TEACH' 'TENT' 'TIME' 'TRUE' 'UPWARD' 'WALL' 'YEAR' 'YOUNG']","['legs', 'lock', 'squeeze', 'underneath']",[],[],['going'],[],[],[],[]
+92V3oH63zbQ_5-1-rgb_front.mp4,['baseball' 'hands' 'inside' 'keeping'],['BAD' 'GOOD' 'LEG' 'RIGHT'],"['baseball', 'hands']",[],[],['keeping'],[],['inside'],[],['hands']
 -g0sqksgyc4_4-2-rgb_front.mp4,"['big' ""n't"" 'steps' 'take']","['ALRIGHT' 'ANGRY' 'AREA' 'BEST' 'BORN' 'CHAIR' 'CHILD' 'COMPUTER'
  'DECREASE' 'DOG' 'ENOUGH' 'EXCITED' 'FAMILY' 'FAVOUR' 'FINISH' 'GRAB'
  'HEALTHY' 'LEAGUE' 'LIVE' 'LOW' 'MAN' 'MORNING' 'MOTHER' 'MOW' 'NEXT'
  'NOTHING' 'OPERATE' 'PARTY' 'PREFER' 'READY' 'RELAX' 'RICH' 'SETTLE'
- 'START' 'TIME' 'WAIT' 'WANT' 'WELL' 'YES']",['steps'],"[""n't""]",['big'],['take'],[],[],[]
+ 'START' 'TIME' 'WAIT' 'WANT' 'WELL' 'YES']",['steps'],"[""n't""]",['big'],['take'],[],[],[],['big']
 -g0iPSnQt6w_16-1-rgb_front.mp4,"[""'s"" 'good' 'pike' 'position']","['ALCOHOLIC' 'BAD' 'BORING' 'CHRISTMAS' 'DIFFERENT' 'EXTRACT' 'GIRL' 'HOT'
  'HOUSE' 'INTERPRETER' 'LITTLE' 'LOOK' 'MAYBE' 'PERHAPS' 'PLENTY' 'REDUCE'
  'SAY' 'SCHOOL' 'SPECTACLES' 'SPEECH' 'THANK' 'TICKET' 'UNIVERSITY' 'USE'
- 'VIEW' 'VISIT' 'WALES']","['pike', 'position']",[],['good'],[],[],"[""'s""]",['good']
+ 'VIEW' 'VISIT' 'WALES']","['pike', 'position']",[],['good'],[],[],"[""'s""]",['good'],['good']
 FZCEymcpq7I_6-1-rgb_front.mp4,['advise' 'lot' 'practice' 'putting' 'sand' 'time' 'wedge' 'would'],"['ALRIGHT' 'ANGRY' 'ASK' 'BALL' 'BASE' 'BEST' 'BETTER' 'BRITAIN'
  'CHRISTMAS' 'DOCTOR' 'DRIVE' 'EXCITED' 'FAIL' 'FEEL' 'FOREIGN' 'FRIEND'
  'FULL' 'GOOD' 'HARD' 'HORRIBLE' 'INATTENTION' 'LAST' 'MARRY' 'MOVE'
  'NEXT' 'NOTHING' 'PAYMENT' 'PROBLEM' 'RECEIVE' 'RIGHT' 'SCOTLAND'
  'SPOUSE' 'START' 'STRONG' 'SURPRISE' 'TIME' 'TOUCH' 'TYPICAL' 'WAIT'
- 'YEAR' 'YES']","['advise', 'lot', 'practice', 'sand', 'time', 'wedge']",[],[],['putting'],[],['would'],[]
+ 'YEAR' 'YES']","['advise', 'lot', 'practice', 'sand', 'time', 'wedge']",[],[],['putting'],[],['would'],[],['sand']
 FZLxEwsoc1c_8-8-rgb_front.mp4,"[""'s"" 'basically' 'explanation' 'nap']","['ACCOMMODATION' 'ALRIGHT' 'ANGRY' 'AUSTRALIA' 'BAD' 'BEST' 'BETTER'
  'DANCE' 'DIE' 'FINISH' 'GOOD' 'HOTEL' 'HOUSE' 'LEAVE' 'LOOK' 'MIX' 'MUST'
- 'NEXT' 'PERHAPS' 'PLAY' 'RAIN' 'RIGHT' 'ROAD' 'TYPICAL' 'WAIT' 'YES']","['explanation', 'nap']",['basically'],[],[],[],"[""'s""]",[]
-FZrWOf-oGDk_7-8-rgb_front.mp4,['back' 'continue' 'either' 'front' 'hook'],['DISAPPOINT' 'GOOD' 'RIGHT'],"['continue', 'front', 'hook']",['back'],[],[],['either'],[],[]
+ 'NEXT' 'PERHAPS' 'PLAY' 'RAIN' 'RIGHT' 'ROAD' 'TYPICAL' 'WAIT' 'YES']","['explanation', 'nap']",['basically'],[],[],[],"[""'s""]",[],[]
+FZrWOf-oGDk_7-8-rgb_front.mp4,['back' 'continue' 'either' 'front' 'hook'],['DISAPPOINT' 'GOOD' 'RIGHT'],"['continue', 'front', 'hook']",['back'],[],[],['either'],[],[],[]
 -g45vqccdzI_4-1-rgb_front.mp4,"[""'ve"" 'exit' 'find' 'get' 'got' 'way']","['ACT' 'AGREE' 'BAD' 'BEST' 'DIFFERENT' 'DISAPPOINT' 'EXCITED' 'FAIL'
  'FRIEND' 'FULL' 'HAPPEN' 'HORRIBLE' 'INSERT' 'INVOLVE' 'LITTLE' 'LOOK'
  'MOTHER' 'NEAR' 'NEWCASTLE' 'NORMAL' 'NOTHING' 'ONE' 'PARENTS' 'PARTNER'
  'PARTY' 'PERFECT' 'PERHAPS' 'PLAN' 'READY' 'SAY' 'SPOUSE' 'STRONG'
- 'TEACH' 'TELEVISION' 'THING' 'WEEKEND']","['exit', 'way']",[],[],"[""'ve"", 'find', 'get', 'got']",[],[],[]
+ 'TEACH' 'TELEVISION' 'THING' 'WEEKEND']","['exit', 'way']",[],[],"[""'ve"", 'find', 'get', 'got']",[],[],[],[]
 Fz-N1S0swh8_1-8-rgb_front.mp4,"[""'m"" 'bit' 'dice' 'going' 'little' 'peppers']","['AGE' 'ALRIGHT' 'BORING' 'CHRISTMAS' 'COMPUTER' 'ENOUGH' 'FAMILY'
  'FINISH' 'GOOD' 'HAPPY' 'LOOK' 'MEANING' 'MOTHER' 'NEXT' 'PERHAPS'
  'PLACE' 'SCHOOL' 'SEEM' 'SINCE' 'SIT' 'SPOUSE' 'STAND' 'THANK' 'TOILET'
- 'TRANSLATE' 'TRUE' 'USE' 'WAIT' 'WALES' 'WALK' 'WELL' 'WOW' 'YES']","['bit', 'dice', 'peppers']",[],['little'],"[""'m"", 'going']",[],[],[]
+ 'TRANSLATE' 'TRUE' 'USE' 'WAIT' 'WALES' 'WALK' 'WELL' 'WOW' 'YES']","['bit', 'dice', 'peppers']",[],['little'],"[""'m"", 'going']",[],[],[],['bit']
 8kAWy2YodzQ_2-1-rgb_front.mp4,['different' 'ukuleles'],"['DIFFERENT' 'DISAPPOINT' 'EXCITED' 'FEEL' 'FINISH' 'GIRL' 'GOOD' 'LATER'
- 'LOOK' 'MEETING' 'NEXT' 'PICTURE' 'PLUS' 'START']",['ukuleles'],[],['different'],[],[],[],[]
+ 'LOOK' 'MEETING' 'NEXT' 'PICTURE' 'PLUS' 'START']",['ukuleles'],[],['different'],[],[],[],[],[]
 FZNuNG9UBnw_8-1-rgb_front.mp4,"[""'m"" 'bruni' 'captain' 'joe']","['ASK' 'BACK' 'BAD' 'DISAPPOINT' 'EXCITED' 'HORRIBLE' 'LITTLE' 'LOOK'
  'MORNING' 'NOTHING' 'PAST' 'SCHOOL' 'SCOTLAND' 'SHOULDER' 'SINCE'
- 'SPEECH' 'SPOUSE' 'TOUCH' 'TWENTY' 'TYPICAL' 'WAIT' 'WALES' 'YES' 'ZERO']","['bruni', 'captain', 'joe']",[],[],"[""'m""]",[],[],[]
+ 'SPEECH' 'SPOUSE' 'TOUCH' 'TWENTY' 'TYPICAL' 'WAIT' 'WALES' 'YES' 'ZERO']","['bruni', 'captain', 'joe']",[],[],"[""'m""]",[],[],[],[]
 92V3oH63zbQ_19-1-rgb_front.mp4,"[""'ll"" 'one' 'show' 'time']","['ARRIVE' 'BALL' 'BUY' 'DREADFUL' 'MONEY' 'MONTH' 'MOTHER' 'ONE' 'PLAN'
  'PRAY' 'RISE' 'SAFE' 'SATURDAY' 'SAY' 'SEARCH' 'SELF' 'SINCE' 'SLEEP'
- 'TOMORROW' 'VISIT']","['show', 'time']",[],[],[],[],"[""'ll"", 'one']",[]
+ 'TOMORROW' 'VISIT']","['show', 'time']",[],[],[],[],"[""'ll"", 'one']",[],['one']
 92V3oH63zbQ_2-1-rgb_front.mp4,"[""'ve"" 'hitting' 'outside' 'pitches' 'talked']","['ADD' 'ARRIVE' 'ASK' 'BACK' 'BAD' 'DIFFERENT' 'DRINK' 'ENGLAND' 'GO'
  'HOME' 'HORRIBLE' 'LOOK' 'LOVELY' 'MAN' 'MOVE' 'NEAR' 'NEXT' 'ORAL'
  'PERHAPS' 'PLAN' 'PLUS' 'RIGHT' 'SATURDAY' 'SAY' 'SIT' 'TRAVEL' 'TYPICAL'
- 'WALES' 'YES']",['pitches'],[],[],"[""'ve"", 'hitting', 'talked']",[],['outside'],[]
+ 'WALES' 'YES']",['pitches'],[],[],"[""'ve"", 'hitting', 'talked']",[],['outside'],[],[]
 FZNuNG9UBnw_9-1-rgb_front.mp4,"[""'ll"" 'next' 'safe' 'see' 'stay' 'time' 'ya']","['ACT' 'ALRIGHT' 'BAD' 'BASE' 'BLIND' 'BRITAIN' 'CATCH' 'CHURCH' 'CLUB'
  'COMMUNICATE' 'DEAF' 'EXCLUDE' 'FINGERSPELL' 'FINISH' 'GAME' 'GOOD'
  'GOVERNMENT' 'HARD' 'HORRIBLE' 'HOUR' 'INATTENTION' 'LAUGH' 'LINK'
  'LITTLE' 'LOOK' 'MAKE' 'NEXT' 'NICE' 'NOTHING' 'OLD' 'OLYMPIC' 'ORAL'
  'PARTNER' 'PAST' 'PERFECT' 'PLENTY' 'PROBLEM' 'QUIET' 'RIGHT' 'SLOW'
  'SPORT' 'STRESS' 'TALK' 'TEACH' 'TIME' 'TOUCH' 'TWO' 'TYPICAL' 'USE'
- 'WAIT' 'YES']","['stay', 'time', 'ya']",[],"['next', 'safe']",['see'],[],"[""'ll""]",[]
+ 'WAIT' 'YES']","['stay', 'time', 'ya']",[],"['next', 'safe']",['see'],[],"[""'ll""]",[],['see']
 -g45vqccdzI_2-1-rgb_front.mp4,['affiliation' 'company'],"['ACT' 'AGES' 'BAD' 'BOOKED' 'CHOOSE' 'DOCTOR' 'GO' 'GOOD' 'HOME'
  'INATTENTION' 'INTERVIEW' 'KEEP' 'LINK' 'LOOK' 'MAKE' 'MAYBE' 'NEXT'
  'NOTHING' 'OLYMPIC' 'PARTY' 'PAYMENT' 'PERFECT' 'PERHAPS' 'PROBLEM'
  'QUIET' 'RELATIONSHIP' 'SIX' 'SPEECH' 'SPOUSE' 'STUCK' 'TALK' 'TEACH'
- 'THEATRE' 'TIME' 'TOUCH' 'TYPICAL' 'YES']","['affiliation', 'company']",[],[],[],[],[],[]
+ 'THEATRE' 'TIME' 'TOUCH' 'TYPICAL' 'YES']","['affiliation', 'company']",[],[],[],[],[],[],[]
 8kAWy2YodzQ_3-1-rgb_front.mp4,"[""'re"" 'instruments' 'little' 'versatile']","['ALRIGHT' 'ANGRY' 'BRING' 'CALLISTHENICS' 'CHANGE' 'CLOTHES' 'COLD'
  'CONTROL' 'DAMAGE' 'DRIVE' 'EXCITED' 'FEEL' 'FILM' 'GO' 'HAPPY' 'ILL'
  'LIKE' 'LOOK' 'PARTY' 'RELAX' 'RICH' 'RUN' 'SEARCH' 'SINCE' 'SIT'
- 'STRONG' 'STUBBORN' 'SURPRISE' 'TRAIN' 'VEHICLE' 'WALK']","['instruments', 'versatile']",[],['little'],"[""'re""]",[],[],[]
+ 'STRONG' 'STUBBORN' 'SURPRISE' 'TRAIN' 'VEHICLE' 'WALK']","['instruments', 'versatile']",[],['little'],"[""'re""]",[],[],[],[]
 92V3oH63zbQ_18-1-rgb_front.mp4,"[""'s"" 'baseball' 'inside' 'staying']","['ASK' 'BAD' 'BREAK' 'CHAIR' 'DANCE' 'DAY' 'EIGHT' 'FAVOUR' 'FRIDAY'
  'HOLIDAY' 'HORRIBLE' 'LIKE' 'LOOK' 'MEAL' 'MORNING' 'MOTHER' 'NORMAL'
  'NOTHING' 'PERHAPS' 'PLAN' 'ROAD' 'SEVEN' 'SIX' 'SPEECH' 'SWIM' 'TEACH'
- 'TELEVISION' 'TEN' 'TOUCH' 'TYPICAL' 'WAIT' 'WALES' 'YES']",['baseball'],[],[],['staying'],[],"[""'s"", 'inside']",[]
+ 'TELEVISION' 'TEN' 'TOUCH' 'TYPICAL' 'WAIT' 'WALES' 'YES']",['baseball'],[],[],['staying'],[],"[""'s"", 'inside']",[],[]
 -g0iPSnQt6w_10-1-rgb_front.mp4,"[""'m"" ""'s"" 'arms' 'faster' 'going' 'help' 'little' 'spin']","['ADD' 'ALRIGHT' 'ATTACK' 'CHANGE' 'DEPTH' 'DOOR' 'DREADFUL' 'EXCITED'
  'FAIL' 'FINISH' 'GOOD' 'HEALTHY' 'HELP' 'MEAL' 'NEXT' 'NIGHT' 'PARTNER'
- 'PERIODIC' 'REGULAR' 'SAFE' 'START' 'TEACH' 'TICKET' 'WELL']","['arms', 'faster', 'help', 'spin']",[],['little'],"[""'m"", 'going']",[],"[""'s""]",[]
+ 'PERIODIC' 'REGULAR' 'SAFE' 'START' 'TEACH' 'TICKET' 'WELL']","['arms', 'faster', 'help', 'spin']",[],['little'],"[""'m"", 'going']",[],"[""'s""]",[],[]
 92V3oH63zbQ_3-1-rgb_front.mp4,['balls'],"['ASK' 'BACK' 'BAD' 'CHRISTMAS' 'DIFFERENT' 'DOCTOR' 'ENGLAND' 'FRIDAY'
  'FRIEND' 'FULL' 'GO' 'HOME' 'INATTENTION' 'INFORMATION' 'LOOK' 'MARRY'
  'NEAR' 'PERHAPS' 'PLAN' 'PLUS' 'PROBLEM' 'SATURDAY' 'SPOUSE' 'START'
- 'TIME' 'UNIVERSITY' 'WAIT' 'WALES']",['balls'],[],[],[],[],[],[]
+ 'TIME' 'UNIVERSITY' 'WAIT' 'WALES']",['balls'],[],[],[],[],[],[],[]
 FzUdcaxw_vs_18-2-rgb_front.mp4,"[""'s"" 'come' 'get' 'ironing' 'let']","['ALRIGHT' 'ARRIVE' 'BORN' 'BOSS' 'CALLISTHENICS' 'COW' 'ESCAPE'
  'EXCHANGE' 'FAIL' 'FINISH' 'GIVE' 'GOOD' 'HEALTHY' 'HORRIBLE' 'LONDON'
  'MEET' 'MOVE' 'ONE' 'PARTY' 'RANKING' 'RICH' 'SELF' 'SINCE' 'SIT' 'THINK'
- 'WELL' 'WRITE']",[],[],[],"['come', 'get', 'ironing', 'let']",[],"[""'s""]",[]
+ 'WELL' 'WRITE']",[],[],[],"['come', 'get', 'ironing', 'let']",[],"[""'s""]",[],['come']
 FZCEymcpq7I_11-1-rgb_front.mp4,"[""'re"" 'get' 'going' 'good' 'loft' 'try']","['AGREE' 'BRITAIN' 'CHANGE' 'COMMUNICATE' 'CREATE' 'FINGERSPELL' 'GAME'
  'HARD' 'LAST' 'PARTNER' 'RIGHT' 'SPORT' 'STRESS' 'TALK' 'TEACH' 'WEEKEND'
- 'WORTH']","['loft', 'try']",[],['good'],"[""'re"", 'get', 'going']",[],[],['good']
+ 'WORTH']","['loft', 'try']",[],['good'],"[""'re"", 'get', 'going']",[],[],['good'],['good']
 Fz-N1S0swh8_8-8-rgb_front.mp4,['actually' 'good' 'loved' 'really' 'tasted'],"['ASK' 'BACK' 'BAD' 'CHILD' 'COME' 'DIFFERENT' 'DISAPPOINT' 'ENGLAND'
  'GOOD' 'HORRIBLE' 'LONDON' 'NEAR' 'NEXT' 'PERHAPS' 'PLUS' 'RIGHT' 'SAY'
- 'SCOTLAND' 'SELF' 'TOILET' 'TYPICAL' 'YES']",[],"['actually', 'really']",['good'],"['loved', 'tasted']",[],[],['good']
+ 'SCOTLAND' 'SELF' 'TOILET' 'TYPICAL' 'YES']",[],"['actually', 'really']",['good'],"['loved', 'tasted']",[],[],['good'],['good']
 FzAIlhumvMA_5-2-rgb_front.mp4,"[""'s"" 'contact' 'customer' 'hotline' 'service']","['ACCESS' 'AREA' 'ARRIVE' 'AWARD' 'BAD' 'BOOK' 'BROTHER' 'CHANGE'
  'CONTINUE' 'DISCUSS' 'DRIVE' 'FAVOUR' 'FINISH' 'GESTURE' 'GIRL' 'GRAB'
  'HARD' 'HEARING' 'HOLIDAY' 'HOTEL' 'ILL' 'INTERVAL' 'LOOK' 'MOVE' 'NEAR'
  'PEOPLE' 'PRAY' 'PRIEST' 'QUEUE' 'RESPECT' 'SIGN' 'SIX' 'SMALL' 'SPORT'
  'STAND' 'STAY' 'STRONG' 'STUBBORN' 'SUNDAY' 'THING' 'VEHICLE' 'WALK'
- 'WEATHER' 'WORSE' 'WRITE']","['contact', 'customer', 'hotline', 'service']",[],[],[],[],"[""'s""]",[]
+ 'WEATHER' 'WORSE' 'WRITE']","['contact', 'customer', 'hotline', 'service']",[],[],[],[],"[""'s""]",[],[]
 FzQPg4aqNYc_9-1-rgb_front.mp4,['cup' 'mixing'],"['ANGRY' 'BOAT' 'COMPUTER' 'DEPTH' 'DISAPPOINT' 'DOOR' 'EXCITED' 'FEEL'
  'FRIEND' 'INVOLVE' 'LIKE' 'LOOK' 'MORNING' 'RELAX' 'STAND' 'SURPRISE'
- 'UNIT' 'WALK' 'WAR']",['cup'],[],[],['mixing'],[],[],[]
+ 'UNIT' 'WALK' 'WAR']",['cup'],[],[],['mixing'],[],[],[],[]
 FzQPg4aqNYc_6-1-rgb_front.mp4,"[""'s"" 'let' 'plate' 'show']","['ALRIGHT' 'AREA' 'BODY' 'CLOTHES' 'DRIVE' 'EXCITED' 'FAMILY' 'FEEL'
  'FINISH' 'GOOD' 'GROUP' 'HOUSE' 'HURT' 'LOOK' 'MOVE' 'PARTY' 'PLACE'
  'PLAN' 'PREGNANT' 'RELAX' 'SATURDAY' 'SIT' 'SIX' 'SURPRISE' 'THURSDAY'
- 'UNIT' 'WALK' 'WORSE' 'WOW']","['plate', 'show']",[],[],['let'],[],"[""'s""]",[]
+ 'UNIT' 'WALK' 'WORSE' 'WOW']","['plate', 'show']",[],[],['let'],[],"[""'s""]",[],[]
 92V3oH63zbQ_22-1-rgb_front.mp4,['bat' 'effective' 'everyone' 'knows' 'makes' 'quick'],"['AGE' 'ALRIGHT' 'ANGRY' 'ARRIVE' 'ASK' 'BACK' 'BASE' 'BEHAVIOUR' 'BORING'
  'CALLISTHENICS' 'DEAF' 'ENGLAND' 'ETHNIC' 'FAIL' 'FEEL' 'FINISH' 'FISH'
  'GAME' 'GO' 'GOOD' 'GOVERNMENT' 'GRANDMOTHER' 'HARD' 'HEALTHY' 'HEAR'
  'HOLIDAY' 'HOME' 'HOT' 'INATTENTION' 'LOOK' 'LOVE' 'MAKE' 'MEANING'
  'MIND' 'MUM' 'MUST' 'NIGHT' 'PARTNER' 'PARTY' 'PAST' 'PREGNANT' 'PROBLEM'
  'READY' 'RELAX' 'SHOULDNT' 'SINCE' 'SLEEP' 'STRESS' 'SURPRISE' 'TIRED'
- 'WANT' 'WELL' 'WONDERFUL' 'WORK']","['bat', 'everyone', 'knows', 'quick']",[],['effective'],['makes'],[],[],[]
+ 'WANT' 'WELL' 'WONDERFUL' 'WORK']","['bat', 'everyone', 'knows', 'quick']",[],['effective'],['makes'],[],[],[],['knows']
 8kAWy2YodzQ_4-1-rgb_front.mp4,['pain' 'sometimes' 'tune'],"['AGREE' 'ANGRY' 'BOY' 'BREATHE' 'CHANGE' 'DISAPPOINT' 'EMOTION' 'EXCITED'
  'FEEL' 'FINGERSPELL' 'GOOD' 'HAPPY' 'LIKE' 'LOOK' 'LOVE' 'MEANING'
  'MOTHER' 'NORMAL' 'PARTNER' 'PLAN' 'SATURDAY' 'SAY' 'SPORT' 'SURPRISE'
- 'TELEVISION' 'TICKET' 'TOMORROW' 'WANT' 'WEEKEND' 'WORK' 'WORTH' 'YEAR']","['pain', 'tune']",['sometimes'],[],[],[],[],[]
+ 'TELEVISION' 'TICKET' 'TOMORROW' 'WANT' 'WEEKEND' 'WORK' 'WORTH' 'YEAR']","['pain', 'tune']",['sometimes'],[],[],[],[],[],[]
 8kAWy2YodzQ_11-1-rgb_front.mp4,['checking' 'one' 'second'],"['AREA' 'CHEAP' 'CHILD' 'COMPUTER' 'DIE' 'EIGHT' 'FBUOY' 'KICK' 'LEAVE'
- 'LOOK' 'PERSON' 'WAIT' 'WALES']",[],[],['second'],['checking'],[],['one'],[]
+ 'LOOK' 'PERSON' 'WAIT' 'WALES']",[],[],['second'],['checking'],[],['one'],[],['one']
 Fz-N1S0swh8_2-8-rgb_front.mp4,"[""'m"" 'going' 'little' 'lot' 'use']","['ASK' 'BAD' 'BUY' 'DEAF' 'GOOD' 'INATTENTION' 'INTERPRETER' 'LATER' 'LEG'
  'LITTLE' 'LOOK' 'MARRY' 'MUST' 'NEVER' 'PARENTS' 'PLAY' 'RIGHT'
- 'SCOTLAND' 'SIGN' 'TALK' 'TRAIN' 'TYPICAL' 'WORK' 'YES']","['lot', 'use']",[],['little'],"[""'m"", 'going']",[],[],[]
+ 'SCOTLAND' 'SIGN' 'TALK' 'TRAIN' 'TYPICAL' 'WORK' 'YES']","['lot', 'use']",[],['little'],"[""'m"", 'going']",[],[],[],[]
 FzQPg4aqNYc_11-1-rgb_front.mp4,['actually' 'cup' 'shape' 'takes'],"['AGE' 'AREA' 'ASK' 'AVOID' 'CHAIR' 'CHECK' 'EIGHT' 'FAIL' 'FAMILY'
  'FAVOUR' 'FIVE' 'FOUR' 'FRIEND' 'INVOLVE' 'LEAGUE' 'LINK' 'MOVE' 'NEXT'
  'NOTHING' 'OLD' 'OPERATE' 'PARTNER' 'PERFECT' 'PLACE' 'SEEM' 'SPEECH'
  'SPOUSE' 'STUBBORN' 'TALK' 'TEACH' 'THREE' 'TOUCH' 'TWO' 'UNIT' 'WAIT'
- 'WEEKEND']","['cup', 'shape']",['actually'],[],['takes'],[],[],[]
+ 'WEEKEND']","['cup', 'shape']",['actually'],[],['takes'],[],[],[],[]
 92V3oH63zbQ_1-1-rgb_front.mp4,"[""'ve"" 'hitting' 'inside' 'pitches' 'talked']","['ASK' 'BACK' 'CHRISTMAS' 'DOCTOR' 'FRIDAY' 'FRIEND' 'FULL' 'GO' 'HOME'
  'INATTENTION' 'INVOLVE' 'LOOK' 'MARRY' 'NEXT' 'PROBLEM' 'SPOUSE' 'TIME'
- 'WALES']",['pitches'],[],[],"[""'ve"", 'hitting', 'talked']",[],['inside'],[]
+ 'WALES']",['pitches'],[],[],"[""'ve"", 'hitting', 'talked']",[],['inside'],[],[]
 FZCF7kPIyOk_16-1-rgb_front.mp4,['fairly' 'need' 'professional' 'something' 'stay'],"['ARRIVE' 'ASK' 'BALL' 'EAT' 'FINISH' 'GOOD' 'HAPPEN' 'HOUSE'
  'INTERPRETER' 'LATER' 'MAN' 'MANY' 'MUST' 'NEAR' 'NUMBER' 'ONE' 'PLUS'
  'PUB' 'PUSH' 'QUICK' 'RANKING' 'REDUCE' 'SELF' 'SIGN' 'START' 'TALK'
- 'TEN' 'THING']","['need', 'something', 'stay']",['fairly'],['professional'],[],[],[],[]
+ 'TEN' 'THING']","['need', 'something', 'stay']",['fairly'],['professional'],[],[],[],[],[]
 -g0iPSnQt6w_2-1-rgb_front.mp4,"[""'re"" 'fun' 'hope']","['AGE' 'ANESTHETISE' 'ANYTHING' 'ARRIVE' 'BAD' 'DEAF' 'EVALUATE' 'FAMILY'
  'FATHER' 'FEEL' 'FINISH' 'FRIDAY' 'GOOD' 'GRANDFATHER' 'HEAR' 'HOPE'
  'HOUSE' 'LOOK' 'MANY' 'MORNING' 'OLD' 'ORAL' 'PARENTS' 'PERFECT' 'PLAY'
- 'SLEEP' 'TEA' 'TEACH' 'TEN' 'TOUCH' 'TWO' 'VIEW']","['fun', 'hope']",[],[],"[""'re""]",[],[],[]
+ 'SLEEP' 'TEA' 'TEACH' 'TEN' 'TOUCH' 'TWO' 'VIEW']","['fun', 'hope']",[],[],"[""'re""]",[],[],[],[]
 FZCF7kPIyOk_7-1-rgb_front.mp4,"[""'re"" 'blood' 'enjoy' 'fingertips' 'gushing' ""n't"" 'script' 'someone'
  'trying' 'want']","['AREA' 'ATTACK' 'BALL' 'BRITAIN' 'CRY' 'DAY' 'EXPLAIN' 'FINISH' 'FLOCK'
  'INFORMATION' 'MANY' 'MEAL' 'MUST' 'NEAR' 'NIGHT' 'PLUS' 'PRACTISE'
- 'PRIEST' 'PUSH' 'THING' 'TICKET' 'TIRED' 'UNIVERSITY']","['blood', 'enjoy', 'fingertips', 'script', 'someone', 'want']","[""n't""]",[],"[""'re"", 'gushing', 'trying']",[],[],['blood']
+ 'PRIEST' 'PUSH' 'THING' 'TICKET' 'TIRED' 'UNIVERSITY']","['blood', 'enjoy', 'fingertips', 'script', 'someone', 'want']","[""n't""]",[],"[""'re"", 'gushing', 'trying']",[],[],['blood'],['blood']
 3ddzkmFPEBU_0-1-rgb_front.mp4,"[""'s"" 'accessories' 'choice' 'guitar' 'let' 'look' 'take']","['ANGRY' 'ANYTHING' 'AUSTRALIA' 'BAD' 'COMPUTER' 'DEAF' 'DIFFERENT' 'EASY'
  'ENGLAND' 'FAMILY' 'FRIDAY' 'GOOD' 'HEAR' 'HEARING' 'LITTLE' 'LOOK'
  'NOTHING' 'PERFECT' 'PLACE' 'PLUS' 'RICH' 'SEVEN' 'SPEECH' 'TEN' 'THINK'
- 'TRY' 'UNIVERSITY' 'WALK' 'YESTERDAY']","['accessories', 'choice', 'guitar', 'look']",[],[],"['let', 'take']",[],"[""'s""]",[]
+ 'TRY' 'UNIVERSITY' 'WALK' 'YESTERDAY']","['accessories', 'choice', 'guitar', 'look']",[],[],"['let', 'take']",[],"[""'s""]",[],[]
 8kAWy2YodzQ_9-1-rgb_front.mp4,"[""'s"" 'a.' 'c' 'e' 'g' 'tuned']","['ACT' 'AUSTRALIA' 'BLUE' 'DAUGHTER' 'DEAF' 'EASY' 'EXPECT' 'FAMILY'
  'FAMOUS' 'FATHER' 'FRIDAY' 'FRIEND' 'GIRL' 'HEAR' 'HEARING' 'HELP'
  'INTERPRETER' 'LITTLE' 'LOOK' 'LOSE' 'MOVE' 'NOTHING' 'PARENTS' 'PARTNER'
  'PERFECT' 'PLACE' 'QUIET' 'REGULAR' 'SCHOOL' 'SHEET' 'SIT' 'SPEECH'
  'SPOUSE' 'START' 'THINK' 'TICKET' 'TRAVEL' 'UNIT' 'WALES' 'WALK'
- 'WEEKEND' 'YESTERDAY']","['c', 'e', 'g']",[],[],['tuned'],['a.'],"[""'s""]",[]
+ 'WEEKEND' 'YESTERDAY']","['c', 'e', 'g']",[],[],['tuned'],['a.'],"[""'s""]",[],[]
 -g0sqksgyc4_7-2-rgb_front.mp4,"[""'re"" 'actually' 'going' 'slide']","['ALRIGHT' 'AREA' 'BELFAST' 'CHAIR' 'CHILD' 'COW' 'DISAPPOINT' 'EQUAL'
  'ESCAPE' 'EXPECT' 'FAIL' 'FAMILY' 'FLOCK' 'GOOD' 'HARD' 'HEALTHY'
  'HORRIBLE' 'LOOK' 'MORNING' 'MOTHER' 'PARTY' 'PLAN' 'PRACTISE' 'READY'
  'RELAX' 'RICH' 'SATURDAY' 'SAY' 'SCOTLAND' 'SHOULDER' 'SPOUSE' 'SWIM'
- 'TALK' 'TEACH' 'TELEVISION' 'TIME' 'UNIVERSAL' 'WELL' 'YES']",['slide'],['actually'],[],"[""'re"", 'going']",[],[],[]
+ 'TALK' 'TEACH' 'TELEVISION' 'TIME' 'UNIVERSAL' 'WELL' 'YES']",['slide'],['actually'],[],"[""'re"", 'going']",[],[],[],[]
 Fz-N1S0swh8_5-8-rgb_front.mp4,"[""n't"" 'people']","['ALRIGHT' 'ALWAYS' 'ARRIVE' 'BORN' 'DISAPPOINT' 'DREADFUL' 'EVALUATE'
  'FANTASTIC' 'FINISH' 'GOOD' 'HAPPY' 'HELP' 'HOUSE' 'INTERPRETER' 'KNOW'
  'LOOK' 'MEANING' 'MUST' 'NICE' 'PREFER' 'REDUCE' 'REGULAR' 'RIGHT' 'SAFE'
- 'SAY' 'SCHOOL' 'SINCE' 'START' 'TITLE' 'TOILET' 'TRUE' 'WOW' 'YES']",['people'],"[""n't""]",[],[],[],[],[]
+ 'SAY' 'SCHOOL' 'SINCE' 'START' 'TITLE' 'TOILET' 'TRUE' 'WOW' 'YES']",['people'],"[""n't""]",[],[],[],[],[],[]
 8kAWy2YodzQ_6-1-rgb_front.mp4,['home' 'pipe' 'pitch' 'use'],"['BAD' 'DREADFUL' 'FEEL' 'FIVE' 'GIRL' 'HAPPY' 'HEARING' 'HORRIBLE'
  'LITTLE' 'LOOK' 'MAYBE' 'MEANING' 'MOTHER' 'PEOPLE' 'PERHAPS' 'TEN'
- 'TRUE' 'TYPICAL' 'YES']","['home', 'pipe', 'pitch', 'use']",[],[],[],[],[],[]
+ 'TRUE' 'TYPICAL' 'YES']","['home', 'pipe', 'pitch', 'use']",[],[],[],[],[],[],[]
 92V3oH63zbQ_9-1-rgb_front.mp4,"[""'ve"" 'already' 'ball' 'easier' 'makes' 'much' 'stay' 'talked' 'top']","['ACT' 'ARRIVE' 'BAD' 'BASE' 'BROTHER' 'CHURCH' 'EASY' 'FINISH' 'FLOCK'
  'GAME' 'GOOD' 'GOVERNMENT' 'HAPPEN' 'HORRIBLE' 'INATTENTION' 'KEEP'
  'LAST' 'MAKE' 'MENTION' 'NEXT' 'NOTHING' 'OLYMPIC' 'ONE' 'PARTNER'
  'PARTY' 'PERFECT' 'POUND' 'PRISON' 'QUICK' 'QUIET' 'RANKING' 'SAY' 'SELF'
  'SLOW' 'START' 'STRESS' 'STUCK' 'TALK' 'TEACH' 'TEACHER' 'TOILET'
- 'TOMORROW' 'TYPICAL' 'WAIT' 'WEEK' 'YES']","['ball', 'stay', 'top']",['already'],"['easier', 'much']","[""'ve"", 'makes', 'talked']",[],[],[]
+ 'TOMORROW' 'TYPICAL' 'WAIT' 'WEEK' 'YES']","['ball', 'stay', 'top']",['already'],"['easier', 'much']","[""'ve"", 'makes', 'talked']",[],[],[],[]
 92V3oH63zbQ_13-1-rgb_front.mp4,"[""'m"" 'back' 'end' 'foot' 'going' 'spinning']","['AREA' 'ARRIVE' 'ASK' 'BAD' 'BREATHE' 'CHILD' 'CHOOSE' 'CLOSED' 'CULTURE'
  'FEEL' 'HORRIBLE' 'LIKE' 'LITTLE' 'LIVE' 'LOOK' 'MORNING' 'MOTHER'
  'PLACE' 'SCOTLAND' 'SIT' 'SPEECH' 'STAND' 'START' 'SURPRISE' 'TOUCH'
- 'TYPICAL' 'WAIT' 'WALES' 'WANT' 'YES']","['end', 'foot']",['back'],[],"[""'m"", 'going', 'spinning']",[],[],[]
+ 'TYPICAL' 'WAIT' 'WALES' 'WANT' 'YES']","['end', 'foot']",['back'],[],"[""'m"", 'going', 'spinning']",[],[],[],['foot']
 FZCF7kPIyOk_10-1-rgb_front.mp4,['bindings' 'bound' 'long' 'right' 'script'],"['AEROPLANE' 'BAD' 'BUILD' 'DIFFERENT' 'DRIVE' 'FLOCK' 'GOOD' 'HOLLAND'
  'LITTLE' 'LOOK' 'NEXT' 'PERHAPS' 'TALK' 'TEACH' 'TYPICAL' 'UPWARD' 'WAIT'
- 'WEEKEND' 'YES']","['bindings', 'bound', 'right', 'script']",['long'],[],[],[],[],"['long', 'right']"
+ 'WEEKEND' 'YES']","['bindings', 'bound', 'right', 'script']",['long'],[],[],[],[],"['long', 'right']",['long']
 -g0sqksgyc4_6-2-rgb_front.mp4,['feet' 'okay' 'pick' 'try'],"['ADULT' 'BAD' 'BOOK' 'BORN' 'CHILD' 'DECORATE' 'DECREASE' 'DOG' 'FINISH'
- 'INCREASE' 'INTERVAL' 'LOW' 'NOTHING' 'PERFECT' 'PUSH' 'SMALL' 'TALL']","['feet', 'okay', 'pick', 'try']",[],[],[],[],[],[]
+ 'INCREASE' 'INTERVAL' 'LOW' 'NOTHING' 'PERFECT' 'PUSH' 'SMALL' 'TALL']","['feet', 'okay', 'pick', 'try']",[],[],[],[],[],[],['feet']
 8kAWy2YodzQ_8-1-rgb_front.mp4,['differently' 'guitars' 'tuned' 'ukulele' 'unlike'],"['ALWAYS' 'AUSTRALIA' 'BAD' 'CHEAP' 'COUSIN' 'DOCTOR' 'FAMILY' 'FEEL'
  'FIVE' 'FRIDAY' 'GIRL' 'HEARING' 'INATTENTION' 'INTERPRETER' 'LATER'
  'LITTLE' 'LOOK' 'MAKE' 'MANY' 'PEOPLE' 'PROBLEM' 'QUIET' 'SCHOOL' 'SIT'
- 'SPEECH' 'TEN' 'THEATRE' 'TIME' 'WALES' 'WALK' 'WANT']","['guitars', 'ukulele']",['differently'],[],['tuned'],[],['unlike'],[]
+ 'SPEECH' 'TEN' 'THEATRE' 'TIME' 'WALES' 'WALK' 'WANT']","['guitars', 'ukulele']",['differently'],[],['tuned'],[],['unlike'],[],[]
 8kAWy2YodzQ_12-1-rgb_front.mp4,"[""'s"" 'good' 'pretty']","['ACT' 'AGE' 'BORING' 'CHILD' 'DEAF' 'DOG' 'EASY' 'ETHNIC' 'FLOCK' 'GIRL'
  'HEARING' 'HOLIDAY' 'HORRIBLE' 'HOT' 'HOUSE' 'INTERPRETER' 'LINK' 'LOOK'
  'MOVE' 'NOTHING' 'PARTNER' 'PARTY' 'PERFECT' 'SAY' 'SCHOOL' 'SURPRISE'
- 'THANK' 'THINK' 'TOMORROW' 'UNIT' 'USE' 'WAIT' 'YESTERDAY']",[],['pretty'],['good'],[],[],"[""'s""]",['good']
+ 'THANK' 'THINK' 'TOMORROW' 'UNIT' 'USE' 'WAIT' 'YESTERDAY']",[],['pretty'],['good'],[],[],"[""'s""]",['good'],['good']
 92V3oH63zbQ_8-1-rgb_front.mp4,['boom' 'like'],"['ACT' 'ARRIVE' 'AUSTRALIA' 'BAD' 'BALL' 'BOOKED' 'GOOD' 'HORRIBLE' 'LEG'
  'MOVE' 'NEXT' 'NOTHING' 'OLYMPIC' 'PARTY' 'PERFECT' 'PERHAPS' 'QUIET'
- 'SPEECH' 'TOILET' 'TYPICAL' 'WAIT' 'WALK' 'YES']",['boom'],[],[],[],[],['like'],[]
+ 'SPEECH' 'TOILET' 'TYPICAL' 'WAIT' 'WALK' 'YES']",['boom'],[],[],[],[],['like'],[],[]
 FzQPg4aqNYc_5-1-rgb_front.mp4,['everything' 'fused' 'nice' 'really'],"['AGE' 'AMERICA' 'BECKON' 'BORING' 'ENGLAND' 'ENOUGH' 'ETHNIC' 'FEEL'
  'FOUR' 'GOOD' 'GROUP' 'LINK' 'PAST' 'PLENTY' 'SCHOOL' 'SEEM' 'SINCE'
- 'THANK' 'UNIT' 'USE' 'WEDNESDAY' 'WEEK' 'WOW']",['everything'],['really'],['nice'],['fused'],[],[],[]
+ 'THANK' 'UNIT' 'USE' 'WEDNESDAY' 'WEEK' 'WOW']",['everything'],['really'],['nice'],['fused'],[],[],[],[]
 FzQPg4aqNYc_2-1-rgb_front.mp4,"[""'re"" 'back']","['ADD' 'ALRIGHT' 'ANYTHING' 'ARRIVE' 'CALLISTHENICS' 'COW' 'DISAPPOINT'
  'EVALUATE' 'EXCITED' 'FEEL' 'GOOD' 'HEALTHY' 'HOUSE' 'ILL' 'INTERPRETER'
  'LIKE' 'LOOK' 'MORNING' 'MOVE' 'MUST' 'PARTY' 'REDUCE' 'RICH' 'SCHOOL'
- 'SEVEN' 'SIX' 'SUE' 'TEN' 'TITLE']",[],['back'],[],"[""'re""]",[],[],[]
+ 'SEVEN' 'SIX' 'SUE' 'TEN' 'TITLE']",[],['back'],[],"[""'re""]",[],[],[],[]
 Fz-N1S0swh8_3-8-rgb_front.mp4,['bit' 'little' 'maybe'],"['BECKON' 'BETTER' 'BOAT' 'BORN' 'BRITAIN' 'BUSINESS' 'CLUB' 'DAY'
  'EVALUATE' 'FAIL' 'FRIEND' 'GOOD' 'INVOLVE' 'LAST' 'MONEY' 'NEXT' 'PLAY'
  'RECEIVE' 'SCALES' 'SINCE' 'START' 'STAY' 'TRUE' 'UNIT' 'WAIT' 'WEEKEND'
- 'WORSE']",['bit'],['maybe'],['little'],[],[],[],[]
+ 'WORSE']",['bit'],['maybe'],['little'],[],[],[],[],['bit']
 Fz-N1S0swh8_12-8-rgb_front.mp4,['go' 'onions' 'peppers' 'pieces' 'ready' 'small'],"['ARRIVE' 'ASK' 'BAD' 'BORROW' 'CHANGE' 'DEAF' 'DREADFUL' 'GIRL'
  'GRANDMOTHER' 'HAPPY' 'HARD' 'HEARING' 'HELP' 'INTERPRETER' 'LATER'
  'LITTLE' 'LOOK' 'NOTHING' 'PAY' 'QUICK' 'REDUCE' 'SIGN' 'SISTER' 'SPORT'
- 'TEA' 'THINK' 'TOUCH' 'WRITE' 'WRONG' 'YES']","['onions', 'peppers', 'pieces']",[],"['ready', 'small']",['go'],[],[],[]
+ 'TEA' 'THINK' 'TOUCH' 'WRITE' 'WRONG' 'YES']","['onions', 'peppers', 'pieces']",[],"['ready', 'small']",['go'],[],[],[],['small']
 92V3oH63zbQ_14-1-rgb_front.mp4,"[""'s"" 'ball' 'going' 'head' 'stay']","['ASK' 'BREATHE' 'CONCENTRATE' 'DAY' 'EMOTION' 'FEEL' 'FRIGHTENED' 'GIRL'
  'HISTORY' 'HOLIDAY' 'LIKE' 'LITTLE' 'LOOK' 'MEET' 'MENTION' 'NEXT'
  'NIGHT' 'SCHOOL' 'SISTER' 'SURPRISE' 'TALK' 'THANK' 'TIME' 'TRUE' 'WANT'
- 'YES']","['ball', 'head', 'stay']",[],[],['going'],[],"[""'s""]",[]
+ 'YES']","['ball', 'head', 'stay']",[],[],['going'],[],"[""'s""]",[],['head']

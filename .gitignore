@@ -2,3 +2,5 @@
 datasets/how2sign/raw_how2sign/videos
 datasets/how2sign2/raw_how2sign2/videos
 datasets/AUTSL/raw_AUTSL/train_set_vfbha39.zip.001
+.DS_Store
+.DS_Store_result.vtt

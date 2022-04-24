@@ -1,0 +1,116 @@
+videoFile,groundTruthWords,predictedWords,Noun,Adverb,Adjective,Verb,Pointers,others,woodward,swadesh
+aus_9.mp4,"[',' '.' 'calling' 'forest' 'frog' 'high' 'looking' 'low' 'set']","['ACCOMMODATION' 'BIG' 'CAMERA' 'CLOTHES' 'COMMUNICATE' 'CRY' 'DOG'
+ 'EXPAND' 'EXTRACT' 'FATHER' 'GESTURE' 'HOUSE' 'LOOK' 'MANCHESTER' 'MEAL'
+ 'MUST' 'PENCE' 'PLAN' 'RAIN' 'READ' 'READY' 'REDUCE' 'RELATIONSHIP'
+ 'SATURDAY' 'SCHOOL' 'SHOUT' 'SIGN' 'SLEEP' 'SPECTACLES' 'SPEECH' 'STAY'
+ 'SURPRISE' 'TELEVISION' 'TENT' 'TIRED' 'TOP' 'TREE' 'TRY' 'VIEW' 'WANT'
+ 'WITH']","['forest', 'frog', 'set']",[],"['high', 'low']","['calling', 'looking']",[],[],[],[]
+aus_16.mp4,"[""'s"" ',' '.' 'along' 'antlers' 'boy' 'deer' 'dog' 'hanging' 'keep' 'onto'
+ 'running' 'side' 'takes' 'trying' 'with']","['CAMERA' 'CLOTHES' 'DOG' 'FALL' 'FATHER' 'PREGNANT' 'READY' 'SIGN' 'STAY'
+ 'SUN' 'SURPRISE' 'TERRIFIED' 'TIRED' 'TREE' 'WANT' 'WHAT' 'WITH']","['antlers', 'boy', 'deer', 'dog', 'side']",[],[],"['hanging', 'keep', 'running', 'takes', 'trying']",[],"[""'s"", 'along', 'onto', 'with']","['dog', 'with']",['dog']
+aus_17.mp4,"[',' '.' 'antlers' 'boy' 'deer' 'dog' 'pond' 'throws' 'with']","['ACT' 'AGES' 'ALLOW' 'AMERICA' 'BICYCLE' 'BODY' 'BORN' 'BOY'
+ 'CALLISTHENICS' 'CLOTHES' 'DAUGHTER' 'DOG' 'DROP' 'EVALUATE' 'EXPAND'
+ 'FALL' 'FATHER' 'FEEL' 'GO' 'HOW' 'LONDON' 'LOW' 'MOVE' 'NOT' 'OTHER'
+ 'PARTY' 'PREGNANT' 'READY' 'RELAX' 'RETIRE' 'RUN' 'SATURDAY' 'SAY'
+ 'SHOUT' 'SIGN' 'SLEEP' 'STUBBORN' 'SURPRISE' 'TALL' 'TEACH' 'TERRIFIED'
+ 'THROW' 'TICKET' 'TIRED' 'TREE' 'VANISH' 'WAIT' 'WANT' 'WHAT' 'WHERE'
+ 'WITH' 'WITHOUT']","['antlers', 'boy', 'deer', 'dog', 'pond', 'throws']",[],[],[],[],['with'],"['dog', 'with']",['dog']
+aus_8.mp4,['.' 'boy' 'comforts' 'picks'],"['ANGRY' 'BANDAGE' 'BECKON' 'BODY' 'CLOTHES' 'DOG' 'ENOUGH' 'EXPLAIN'
+ 'FALL' 'FATHER' 'FEEL' 'GOOD' 'HISTORY' 'HURT' 'ILL' 'NEVER' 'PREGNANT'
+ 'READY' 'RIGHT' 'SURPRISE' 'TERRIFIED' 'TIRED' 'TREE' 'WANT' 'WHEN'
+ 'WITH' 'WOW']","['boy', 'comforts', 'picks']",[],[],[],[],[],[],[]
+aus_15.mp4,"['!' ""'s"" 'actually' 'deer' 'gets' 'holding' 'onto' 'realises' 'shock'
+ 'when']","['DAUGHTER' 'DOG' 'FATHER' 'HARD' 'PERMANENT' 'PLUS' 'SATURDAY' 'TICKET'
+ 'TREE' 'TRY' 'UNIVERSITY' 'WITH']","['deer', 'realises', 'shock']",['actually'],[],"['gets', 'holding']",[],"[""'s"", 'onto']",['when'],[]
+aus_14.mp4,"[',' '.' 'around' 'behind' 'boy' 'branches' 'chases' 'grabs' 'large'
+ 'looks' 'onto' 'owl' 'rock' 'runs' 'sticking']","['ATTACK' 'BOY' 'CONTINUE' 'COUSIN' 'DAUGHTER' 'DOCTOR' 'DOG' 'FALL'
+ 'FATHER' 'GESTURE' 'GO' 'GRAB' 'HOW' 'IRELAND' 'LOOK' 'LOW' 'MEAL' 'MISS'
+ 'PLAN' 'RAIN' 'REGULAR' 'RELATIONSHIP' 'RESEARCH' 'SATURDAY' 'SAY'
+ 'SHOUT' 'SIGN' 'SIT' 'SLEEP' 'TALL' 'TEACH' 'TERRIFIED' 'TICKET' 'TIME'
+ 'TIRED' 'TREE' 'TRY' 'VANISH' 'WALK' 'WANT' 'WITH' 'WORTH']","['boy', 'branches', 'chases', 'grabs', 'looks', 'owl', 'rock', 'runs']",[],['large'],['sticking'],[],"['around', 'behind', 'onto']",[],[]
+aus_10.mp4,"[',' '.' 'beaver' 'boy' 'ground' 'hits' 'hole' 'jumps' 'looks' 'nose'
+ 'sees']","['ALLOW' 'AMERICA' 'BODY' 'BORN' 'BREATHE' 'CHAIR' 'CLOTHES' 'DAUGHTER'
+ 'DOG' 'FALL' 'FATHER' 'FRIGHTENED' 'GROUP' 'LOW' 'NOT' 'PLAN' 'PREGNANT'
+ 'READY' 'RELAX' 'RUN' 'SAY' 'SIGN' 'SLEEP' 'SURPRISE' 'TERRIFIED'
+ 'TICKET' 'TIDY' 'TIRED' 'TREE' 'TRY' 'WANT' 'WAR' 'WITH' 'WORTH']","['beaver', 'boy', 'ground', 'hits', 'hole', 'jumps', 'looks', 'sees']",['nose'],[],[],[],[],[],"['nose', 'sees']"
+aus_11.mp4,"[',' '.' 'Nearby' 'barking' 'beehive' 'bees' 'chasing' 'course' 'dog'
+ 'falls' 'goes' 'ground' 'start' 'tree' 'wrong']","['AMERICA' 'ATTACK' 'BORN' 'CAMERA' 'CLOTHES' 'CONTINUE' 'COUSIN'
+ 'DAUGHTER' 'DOG' 'DRINK' 'EAT' 'ESCAPE' 'EXCHANGE' 'EXTRACT' 'FACE'
+ 'FALL' 'FAMILY' 'FATHER' 'GESTURE' 'GO' 'HARD' 'HOW' 'LOW' 'MIX' 'PAST'
+ 'PLAN' 'PRIEST' 'QUEUE' 'READY' 'RESEARCH' 'SAY' 'SHOUT' 'SIGN' 'SISTER'
+ 'SLEEP' 'SURPRISE' 'TEACH' 'TICKET' 'TIRED' 'TREE' 'TRY' 'WANT' 'WHERE'
+ 'WITH' 'WOW']","['barking', 'beehive', 'bees', 'course', 'dog', 'falls', 'ground', 'start', 'tree']",['Nearby'],['wrong'],"['chasing', 'goes']",[],[],"['dog', 'tree']","['barking', 'dog', 'tree']"
+aus_13.mp4,"[',' '.' 'calling' 'everywhere' 'frog' 'going' 'keep' 'two']","['ALLOW' 'ATTACK' 'CAMERA' 'COMFORTABLE' 'DEBATE' 'DOG' 'FATHER' 'MEAL'
+ 'RETIRE' 'SLEEP' 'SPECTACLES' 'TEACH' 'TREE' 'WAKE' 'WITH']",['frog'],['everywhere'],[],"['calling', 'going', 'keep']",[],['two'],[],['two']
+aus_12.mp4,"[""'s"" ',' '.' 'boy' 'climbs' 'falls' 'flies' 'hollow' 'looks' 'owl'
+ 'surprises' 'that' 'tree']","['ACCOMMODATION' 'AIM' 'ALWAYS' 'AMERICA' 'ATTACK' 'BORN' 'BOY' 'BREATHE'
+ 'CAMERA' 'CARPENTER' 'CHILD' 'CLOTHES' 'COLD' 'COLLECT' 'CONTINUE'
+ 'COUSIN' 'DAUGHTER' 'DOG' 'DRINK' 'DRIVE' 'EXCITED' 'FALL' 'FATHER'
+ 'FEEL' 'FISH' 'GOOD' 'GRAB' 'INTERPRETER' 'LINK' 'LOOK' 'MISS' 'MIX'
+ 'MOVE' 'NOT' 'PERSON' 'PLUS' 'READY' 'RELATIONSHIP' 'RESEARCH' 'RIGHT'
+ 'RUN' 'SAY' 'SHOUT' 'SIGN' 'SISTER' 'SLEEP' 'SLOW' 'SPECTACLES' 'STAY'
+ 'STUBBORN' 'SUN' 'SURPRISE' 'TERRIFIED' 'TICKET' 'TIRED' 'TOILET' 'TRAIN'
+ 'TRAIN3b' 'TREE' 'TRY' 'VANISH' 'VEHICLE' 'WALK' 'WANT' 'WATER' 'WITH'
+ 'WRITE']","['boy', 'climbs', 'falls', 'flies', 'hollow', 'looks', 'owl', 'surprises', 'tree']",[],[],[],[],"[""'s"", 'that']",['tree'],"['flies', 'that', 'tree']"
+aus_1.mp4,"[""'s"" ',' '.' 'big' 'boy' 'catches' 'frog' 'jar' 'little' 'puts' 'who']","['AMERICA' 'ARRANGE' 'BODY' 'BOY' 'BREATHE' 'CHAIR' 'CLOTHES' 'DESSERT'
+ 'DOG' 'DRIVE' 'EMOTION' 'ESCAPE' 'EXCITED' 'EXPAND' 'FALL' 'FATHER'
+ 'FIND' 'FRIGHTENED' 'FULL' 'GRAB' 'GROUP' 'ILL' 'IRELAND' 'LIKE' 'LIVE'
+ 'LOW' 'MAN' 'MEAL' 'MEANING' 'NICE' 'PREFER' 'PRESIDENT' 'READY' 'RED'
+ 'RELAX' 'SAY' 'SISTER' 'SLEEP' 'STUBBORN' 'SURPRISE' 'TIRED' 'TOMORROW'
+ 'TRAIN' 'TREE' 'UNIT' 'WANT' 'WITH']","['boy', 'catches', 'frog', 'jar', 'puts']",[],"['big', 'little']",[],[],"[""'s""]",['who'],"['big', 'who']"
+aus_20.mp4,['.' 'Cute' 'little' 'things'],"['BODY' 'BORING' 'BREATHE' 'CHRISTMAS' 'CLOTHES' 'DOG' 'EAT' 'EMOTION'
+ 'ENDURE' 'ENOUGH' 'FATHER' 'FEEL' 'LOVELY' 'NICE' 'PLENTY' 'PREGNANT'
+ 'SURPRISE' 'THANK' 'TIRED' 'TREE' 'USE' 'WANT' 'WHEN' 'WITH']","['Cute', 'things']",[],['little'],[],[],[],[],[]
+aus_3.mp4,"['!' ',' 'day' 'frog' 'gone' 'next' 'wake' 'when']","['ARMY' 'ATTACK' 'BREATHE' 'CAMERA' 'CHECK' 'COMFORTABLE' 'CONTINUE' 'DOG'
+ 'EMOTION' 'FATHER' 'FRIGHTENED' 'GIVE' 'IRELAND' 'LIKE' 'MEAL' 'READY'
+ 'RETIRE' 'SAY' 'SLEEP' 'STAY' 'SURPRISE' 'TERRIFIED' 'TREE' 'WAKE' 'WANT'
+ 'WITH']","['day', 'frog', 'wake']",[],['next'],['gone'],[],[],"['day', 'when']",[]
+aus_2.mp4,"[',' '.' 'bed' 'dog' 'go' 'hop' 'little' 'peer' 'sleep']","['ALLOW' 'ATTACK' 'BODY' 'BORROW' 'BREATHE' 'CLOTHES' 'CULTURE' 'DOG'
+ 'EXACT' 'FALL' 'FATHER' 'FEEL' 'GIVE' 'GO' 'GRAB' 'HELP' 'MANCHESTER'
+ 'MEANING' 'MIX' 'NEVER' 'PREGNANT' 'READY' 'RELAX' 'SHOUT' 'SLEEP'
+ 'SURPRISE' 'TAKE' 'TALL' 'TEACH' 'TIRED' 'TREE' 'TRUE' 'WALK' 'WANT'
+ 'WHAT' 'WITH' 'WRITE' 'WRONG']","['bed', 'dog', 'hop', 'peer', 'sleep']",[],['little'],['go'],[],[],['dog'],"['dog', 'sleep']"
+aus_21.mp4,"[',' '.' 'baby' 'boy' 'carrying' 'caught' 'father' 'frog' 'frogs' 'gives'
+ 'goodbye' 'heads' 'home' 'know' 'mother' ""n't"" 'new' 'one' 'say' 'well'
+ 'whether']","['AMERICA' 'BABY' 'BANDAGE' 'BECKON' 'BEHAVIOUR' 'BICYCLE' 'BOAT' 'BODY'
+ 'BORN' 'BOY' 'BREATHE' 'CLOTHES' 'DEPTH' 'DIG' 'DOCTOR' 'DOG' 'DOOR'
+ 'EMOTION' 'ENDURE' 'ESCAPE' 'ETHNIC' 'EXCITED' 'FACE' 'FALL' 'FATHER'
+ 'FLOCK' 'FOREIGN' 'FRIGHTENED' 'GIVE' 'GO' 'GOOD' 'GRAB' 'HEADS' 'HEAVY'
+ 'HOME' 'HOT' 'INTERVAL' 'IRELAND' 'KNOW' 'LONG' 'LOVE' 'LOW' 'MANAGE'
+ 'MISS' 'MOVE' 'MUM' 'NEVER' 'NEW' 'NEXT' 'NOT' 'ONE' 'PAST' 'PERSON'
+ 'PLUS' 'POOR' 'PREGNANT' 'READY' 'RELAX' 'REMOVE' 'RIGHT' 'SAY' 'SIGN'
+ 'SLOW' 'STILL' 'SURPRISE' 'TIME' 'TIRED' 'TOILET' 'TREE' 'TRY' 'WANT'
+ 'WAR' 'WHAT' 'WHEN' 'WITH' 'WORK' 'YES']","['baby', 'boy', 'caught', 'father', 'frog', 'frogs', 'goodbye', 'heads', 'home', 'mother']","[""n't"", 'well']",['new'],"['carrying', 'gives', 'know', 'say']",[],"['one', 'whether']","['father', 'mother', 'new']","['gives', 'heads', 'know', 'new', 'one', 'say']"
+aus_6.mp4,"[',' '.' 'dog' 'head' 'help' 'inside' 'jar' 'sticks' 'wants']","['AMERICA' 'ANGRY' 'BODY' 'BOY' 'BREATHE' 'BUILD' 'CHAIR' 'CLOTHES' 'DOG'
+ 'EMOTION' 'EXPECT' 'FATHER' 'FEEL' 'HEALTHY' 'HEARING' 'IDEA' 'KNOW'
+ 'LIVE' 'LONDON' 'MORNING' 'POOR' 'PREFER' 'PREGNANT' 'READY' 'SIGN'
+ 'SLEEP' 'SURPRISE' 'TERRIFIED' 'THINK' 'TIRED' 'TREE' 'WANT' 'WHEN'
+ 'WITH' 'WONDER' 'YESTERDAY']","['dog', 'head', 'help', 'jar', 'sticks']",[],[],['wants'],[],['inside'],['dog'],"['dog', 'head']"
+aus_19.mp4,"['!' ""'s"" ',' '.' 'Well' 'big' 'children' 'father' 'frog' 'little' 'log'
+ 'look' 'mother' 'nine' 'sneak' 'this' 'with']","['ACT' 'AMERICA' 'ARRANGE' 'AUDIENCE' 'BELFAST' 'BODY' 'BORN' 'BREATHE'
+ 'CHAIR' 'CHILD' 'CLOTHES' 'CONTINUE' 'DISAPPEAR' 'DOG' 'EMOTION' 'ENDURE'
+ 'ENGLAND' 'ESCAPE' 'FACE' 'FALL' 'FAMILY' 'FATHER' 'FRIGHTENED' 'GIVE'
+ 'GROUP' 'HAPPY' 'HOW' 'LIKE' 'LOVE' 'LOW' 'MANCHESTER' 'MEANING' 'MOTHER'
+ 'NOT' 'PARENTS' 'PLAN' 'POOR' 'PREGNANT' 'READY' 'RELATIONSHIP' 'RELAX'
+ 'RESEARCH' 'RETIRE' 'SIGN' 'SNOOKER' 'SPREAD' 'STAY' 'STILL' 'SURPRISE'
+ 'TEMPT' 'TIDY' 'TIRED' 'TOILET' 'TREE' 'UNIT' 'WALK' 'WANT' 'WEDNESDAY'
+ 'WITH' 'WORTH' 'WRITE']","['children', 'father', 'frog', 'log', 'look', 'mother', 'sneak']",['Well'],"['big', 'little']",[],['this'],"[""'s"", 'nine', 'with']","['father', 'mother', 'with']","['big', 'this']"
+aus_18.mp4,"['!' ""'s"" '.' 'Suddenly' 'calling' 'catch' 'frog' 'hear' 'noise' 'sound'
+ 'that']","['ALLOW' 'ARMY' 'ASK' 'BOY' 'BREATHE' 'DOCTOR' 'DOG' 'DRINK' 'EMOTION'
+ 'FALL' 'FATHER' 'FEEL' 'FRIGHTENED' 'GIRL' 'HEARING' 'LIKE' 'LONDON'
+ 'LOOK' 'MAN' 'NEXT' 'NICE' 'NOT' 'PREFER' 'READY' 'REMEMBER' 'SAY' 'SELF'
+ 'SISTER' 'SLEEP' 'SPEECH' 'SURPRISE' 'THINK' 'TIRED' 'TOUCH' 'TOWN'
+ 'TREE' 'WANT' 'WHAT' 'WITH']","['catch', 'frog', 'hear', 'noise', 'sound']",['Suddenly'],[],['calling'],[],"[""'s"", 'that']",[],"['hear', 'that']"
+aus_7.mp4,"[',' '.' 'boy' 'falls' 'head' 'hops' 'jar' 'sill' 'smashes' 'still'
+ 'window' 'with']","['ACCOMMODATION' 'AMERICA' 'BEST' 'BETTER' 'BODY' 'BREAK' 'BROTHER'
+ 'CHAIR' 'CLOTHES' 'DOG' 'FALL' 'FATHER' 'FOOTBALL' 'FREE' 'FUTURE'
+ 'GESTURE' 'GO' 'GOOD' 'HOW' 'INCREASE' 'LINK' 'LOSE' 'MIX' 'PARTNER'
+ 'PREGNANT' 'QUICK' 'READY' 'RELATIONSHIP' 'RELAX' 'SIGN' 'SLEEP'
+ 'SPECTACLES' 'STRONG' 'SUN' 'SURPRISE' 'TALL' 'TENT' 'TIRED' 'TREE'
+ 'WANT' 'WEDNESDAY' 'WEEKEND' 'WHAT' 'WITH' 'WORTH']","['boy', 'falls', 'head', 'hops', 'jar', 'sill', 'smashes', 'window']",['still'],[],[],[],['with'],['with'],['head']
+aus_5.mp4,"[',' '.' 'boy' 'calling' 'frog' 'sees' 'starts' 'window']","['ADD' 'AMERICA' 'CHURCH' 'DEPTH' 'DOG' 'DOOR' 'EVERYTHING' 'FATHER'
+ 'FENCE' 'LINK' 'PRAY' 'PUSH' 'SLEEP' 'TENT' 'TREE' 'WITH']","['boy', 'frog', 'sees', 'starts', 'window']",[],[],['calling'],[],[],[],['sees']
+aus_4.mp4,"[',' '.' 'everywhere' 'inside' 'look' 'looking' 'room' 'shoes' 'things'
+ 'turning']","['ADD' 'BODY' 'BORN' 'CHANGE' 'CLOTHES' 'DANCE' 'DIG' 'DOG' 'EAT' 'FALL'
+ 'FATHER' 'GIVE' 'HEALTHY' 'MEAL' 'NOT' 'PREGNANT' 'RUN' 'STUBBORN'
+ 'SURPRISE' 'TAKE' 'TEACH' 'TIRED' 'TREE' 'WANT' 'WITH']","['look', 'room', 'shoes', 'things']",['everywhere'],[],"['looking', 'turning']",[],['inside'],[],[]

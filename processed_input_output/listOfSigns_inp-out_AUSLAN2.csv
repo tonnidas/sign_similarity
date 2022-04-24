@@ -1,0 +1,79 @@
+videoFile,groundTruthWords,predictedWords,Noun,Adverb,Adjective,Verb,Pointers,others,woodward,swadesh
+aus_9.mp4,"[',' '.' 'Finally' 'breaks' 'glass' 'ground' 'hits' 'jar']","['BECKON' 'BORN' 'BOWLING' 'CARPENTER' 'CHILD' 'COLLECT' 'CONTROL' 'LEARN'
+ 'NEWSPAPER' 'NOTHING' 'RECEIVE' 'REMOVE' 'SIGN' 'SLEEP' 'SUN' 'TICKET'
+ 'TRAIN3b' 'WATER']","['breaks', 'glass', 'ground', 'hits', 'jar']",['Finally'],[],[],[],[],[],[]
+aus_16.mp4,"[',' '.' 'anything' 'back' 'boy' 'bucks' 'ca' 'deer' 'drop' ""n't"" 'pond'
+ 'runs']","['BEST' 'BETTER' 'BORROW' 'BOY' 'CHAIR' 'CHILD' 'DROP' 'ESCAPE' 'FALL'
+ 'FOREIGN' 'FULL' 'FUTURE' 'GO' 'GRAB' 'HARD' 'HELP' 'LINK' 'LOOK' 'MAN'
+ 'MOVE' 'REMEMBER' 'RIGHT' 'SATURDAY' 'SAY' 'SHOUT' 'SISTER' 'SPEECH'
+ 'SUN' 'TALL' 'WALK']","['anything', 'boy', 'bucks', 'deer', 'drop', 'pond', 'runs']","['back', ""n't""]",[],[],[],['ca'],[],[]
+aus_17.mp4,['.' 'dog' 'jumps' 'water'],['BAD' 'CHILD' 'FALL' 'FLOCK' 'GO' 'LEG' 'LOW' 'SWIM' 'TICKET' 'TOUCH'],"['dog', 'jumps', 'water']",[],[],[],[],[],"['dog', 'water']","['dog', 'water']"
+aus_8.mp4,"[',' '.' 'break' 'dog' 'falls' 'head' 'jar' 'manages' 'window']","['ARRANGE' 'BIG' 'CAD' 'DISAPPEAR' 'EVERYTHING' 'FALL' 'GIVE' 'GOOD'
+ 'GROUP' 'HELP' 'LINK' 'RELATIONSHIP' 'REMOVE' 'SLEEP' 'SMALL']","['break', 'dog', 'falls', 'head', 'jar', 'manages', 'window']",[],[],[],[],[],['dog'],"['dog', 'head']"
+aus_15.mp4,"[""'s"" ',' '.' 'actually' 'boy' 'climbs' 'deer' 'looks' 'onto' 'realises'
+ 'rock' 'running' 'side' 'sitting' 'takes']","['ACCOMMODATION' 'ADULT' 'ESCAPE' 'EXTRACT' 'FALL' 'FLOCK' 'GESTURE' 'GO'
+ 'GRAB' 'HOTEL' 'LOOK' 'MEET' 'RAIN' 'READ' 'ROLL' 'SHOUT' 'SITTING'
+ 'SLEEP' 'SPEECH' 'SUN' 'WALK' 'WORRY']","['boy', 'climbs', 'deer', 'looks', 'realises', 'rock', 'side']",['actually'],[],"['running', 'sitting', 'takes']",[],"[""'s"", 'onto']",[],['sitting']
+aus_14.mp4,"[""'s"" ',' '.' 'across' 'along' 'big' 'comes' 'going' 'rock' 'searching']","['ALWAYS' 'BOY' 'CHILD' 'CONTINUE' 'FALL' 'FLOCK' 'GOOD' 'HOUSE' 'LOOK'
+ 'LOW' 'MAN' 'OLD' 'RAIN' 'READ' 'SAY' 'SIT' 'SLEEP' 'STAY' 'TALL'
+ 'TICKET' 'TOMORROW' 'WAIT' 'WALK']",['rock'],[],['big'],"['comes', 'going', 'searching']",[],"[""'s"", 'across', 'along']",[],"['big', 'comes']"
+aus_10.mp4,"[""'s"" ',' '.' 'boy' 'calling' 'disappeared' 'frog' 'high' 'keeps' 'low'
+ 'searching']","['ARRANGE' 'ASK' 'BECKON' 'BIG' 'BREATHE' 'COLLECT' 'DISAPPEAR' 'DRINK'
+ 'ENOUGH' 'FALL' 'FLOCK' 'GO' 'GROUP' 'LOOK' 'PLAY' 'PUSH' 'READY'
+ 'RETIRE' 'SIGN' 'SLEEP' 'SMALL' 'SPEECH' 'SURPRISE' 'TEA' 'TICKET'
+ 'TOUCH' 'WALK' 'WATER' 'WITHOUT']","['boy', 'frog', 'keeps']",[],"['high', 'low']","['calling', 'disappeared', 'searching']",[],"[""'s""]",[],[]
+aus_11.mp4,"[""'s"" ',' '.' 'gets' 'hole' 'idea' 'looking' 'nearby' 'tree' 'trunk']","['ARRANGE' 'BALL' 'BIG' 'DAMAGE' 'DISAPPEAR' 'EXPAND' 'FIRE' 'FLOCK'
+ 'GESTURE' 'GO' 'HAPPY' 'LINK' 'MEANING' 'RAIN' 'SIGN' 'SLEEP'
+ 'SPECTACLES' 'TALL' 'TRUE' 'WANT']","['hole', 'idea', 'tree', 'trunk']",['nearby'],[],"['gets', 'looking']",[],"[""'s""]",['tree'],['tree']
+aus_13.mp4,"[',' '.' 'along' 'bees' 'behind' 'chased' 'cloud' 'gets' 'running' 'whole']","['CARPENTER' 'COLLECT' 'ENGLAND' 'FALL' 'GO' 'LOOK' 'SLEEP' 'STAND'
+ 'TICKET' 'TOILET' 'TRY' 'WALK' 'YEAR']","['bees', 'cloud']",[],['whole'],"['chased', 'gets', 'running']",[],"['along', 'behind']",[],['cloud']
+aus_12.mp4,"[',' '.' 'angry' 'boy' 'bursts' 'climbs' 'frog' 'might' ""n't"" 'owl'
+ 'peers' 'scares' 'thought']","['AMERICA' 'ANGRY' 'BIG' 'BREATHE' 'CHAIR' 'EXPAND' 'FALL' 'FINISH' 'FIRE'
+ 'FLOCK' 'FREE' 'GESTURE' 'GO' 'GROUP' 'HAPPY' 'LINK' 'LOSE' 'MEANING'
+ 'MINUTE' 'MOTHER' 'MUST' 'NOTHING' 'PUSH' 'QUEUE' 'QUIET' 'RAIN' 'READY'
+ 'RELATIONSHIP' 'RELAX' 'REMOVE' 'SIGN' 'SLEEP' 'SUN' 'SURPRISE' 'TALL'
+ 'TEACH' 'TOUCH' 'VANISH' 'WALK' 'WANT' 'WOW']","['boy', 'bursts', 'climbs', 'frog', 'owl', 'peers', 'scares', 'thought']","[""n't""]",['angry'],[],[],['might'],[],[]
+aus_22.mp4,"[',' '.' 'Well' 'baby' 'found' 'frogs' 'just-born' 'log' 'water']","['AGREE' 'ALRIGHT' 'AMERICA' 'APPROACH' 'BAD' 'BOAT' 'BORN' 'BOWLING'
+ 'CARPENTER' 'CHILD' 'COLLECT' 'DISAPPEAR' 'DOCTOR' 'DRIVE' 'ESCAPE'
+ 'FINISH' 'FLOCK' 'GOOD' 'HAPPY' 'HARD' 'ILL' 'LINK' 'LOOK' 'MEANING'
+ 'MEET' 'MERGE' 'MOTHER' 'NOTHING' 'REMOVE' 'RIGHT' 'SIT' 'SLOW' 'SMALL'
+ 'STAND' 'STILL' 'TICKET' 'TOILET' 'WAIT' 'WALK' 'WEDNESDAY' 'WITHDRAW'
+ 'WORTH']","['baby', 'found', 'frogs', 'just-born', 'log', 'water']",['Well'],[],[],[],[],['water'],['water']
+aus_1.mp4,['...' 'boy' 'sleeping' 'story'],"['BAD' 'BOY' 'DESSERT' 'GOOD' 'KNOW' 'LOOK' 'MAN' 'NICE' 'NUMBER' 'PREFER'
+ 'PUSH' 'SAY' 'SLEEP' 'TICKET' 'TOUCH']","['boy', 'story']",[],[],['sleeping'],[],[],[],['sleeping']
+aus_20.mp4,['!' 'around' 'baby' 'frog' 'frogs' 'log' 'peer' 'row' 'see' 'whole'],"['AMERICA' 'BAD' 'BREATHE' 'CHILD' 'FALL' 'GOOD' 'LOOK' 'PREGNANT' 'READ'
+ 'SIGN' 'SLEEP' 'SMALL' 'SURPRISE' 'TICKET' 'WALK']","['baby', 'frog', 'frogs', 'log', 'peer', 'row']",[],['whole'],['see'],[],['around'],[],['see']
+aus_3.mp4,['.' 'bed' 'dogs' 'hops' 'sleep'],['BACK' 'BECKON' 'CAD' 'GO' 'MUST' 'REMOVE' 'SLEEP' 'SURPRISE' 'TOUCH'],"['bed', 'dogs', 'hops', 'sleep']",[],[],[],[],[],[],"['dogs', 'sleep']"
+aus_2.mp4,"[',' '.' 'big' 'first' 'frog' 'glass' 'jar' 'puts']","['AGREE' 'ARRANGE' 'ASK' 'BACK' 'BAD' 'BALL' 'BEST' 'BORN' 'BREATHE'
+ 'BROTHER' 'CARPENTER' 'CHILD' 'COLLECT' 'DISAPPEAR' 'ENOUGH' 'EVERYTHING'
+ 'FALL' 'FIRE' 'FLOCK' 'FRIGHTENED' 'GO' 'HAPPY' 'HARD' 'HELP' 'HOUSE'
+ 'LATE' 'LEG' 'LINK' 'LOOK' 'LOSE' 'LOW' 'MAN' 'MEANING' 'MEET' 'MOTHER'
+ 'NEXT' 'NOTHING' 'PLAN' 'PUSH' 'READY' 'RELATIONSHIP' 'RIGHT' 'SATURDAY'
+ 'SIGN' 'SLEEP' 'SLOW' 'SPORT' 'SURPRISE' 'TAKE' 'TELEVISION' 'TICKET'
+ 'TIDY' 'TOUCH' 'TRAIN3b' 'WAIT' 'WALK' 'WATER' 'WORTH' 'YEAR']","['frog', 'glass', 'jar', 'puts']",['first'],['big'],[],[],[],[],['big']
+aus_21.mp4,['INDECIPHERABLE'],"['AMERICA' 'ASK' 'BAD' 'BOY' 'DISAPPEAR' 'FALL' 'GO' 'LOOK' 'MAN'
+ 'MEANING' 'MOTHER' 'NEWSPAPER' 'NOTHING' 'PREGNANT' 'SAY' 'SMALL'
+ 'SURPRISE' 'TICKET' 'TOUCH' 'WALK' 'WANT' 'WAR' 'WEDNESDAY']",['INDECIPHERABLE'],[],[],[],[],[],[],[]
+aus_6.mp4,"[',' '.' 'dog' 'gets' 'glass' 'head' 'help' 'jar' 'look' 'poor' 'right'
+ 'sticks' 'stuck' 'thing' 'wants']","['BAD' 'BECKON' 'BEST' 'BETTER' 'BOOKED' 'BROTHER' 'CARPENTER' 'COLLECT'
+ 'DOCTOR' 'FALL' 'FATHER' 'FLOCK' 'HARD' 'LEG' 'LOOK' 'MEANING' 'MOTHER'
+ 'NOTHING' 'PARENTS' 'PLAN' 'PUSH' 'RIGHT' 'STAND' 'TELEVISION' 'TICKET'
+ 'TOUCH' 'TRY' 'TYPICAL' 'WAIT' 'WALK' 'WRITE' 'YES']","['dog', 'glass', 'head', 'help', 'jar', 'look', 'right', 'sticks', 'stuck', 'thing']",[],['poor'],"['gets', 'wants']",[],[],"['dog', 'right']","['dog', 'head']"
+aus_19.mp4,"[',' '.' 'frog' 'must' 'quietly' 'sneak' 'think']","['ASK' 'BOY' 'DOCTOR' 'DRINK' 'FLOCK' 'FRIEND' 'LOOK' 'MAN' 'SLEEP'
+ 'SPEECH' 'SPOUSE' 'SWIM' 'TOUCH' 'WALK']","['frog', 'sneak', 'think']",['quietly'],[],[],[],['must'],[],[]
+aus_18.mp4,['.' 'big' 'log' 'near' 'pond' 'see'],"['AGREE' 'APPROACH' 'ARRANGE' 'BORROW' 'BROTHER' 'FLOCK' 'GO' 'HAPPY'
+ 'HARD' 'LATE' 'LINK' 'MEANING' 'MEET' 'MUST' 'PARTNER' 'QUEUE' 'SIGN'
+ 'SPORT' 'SPREAD' 'STRESS' 'TICKET' 'WANT']","['log', 'pond']",[],['big'],['see'],[],['near'],[],"['big', 'see']"
+aus_7.mp4,"[',' '.' 'around' 'boy' 'calls' 'frog' 'looking' 'open' 'opens' 'sees'
+ 'still' 'window']","['AMERICA' 'BECKON' 'BIG' 'BOY' 'BREATHE' 'CAMERA' 'COLLECT' 'DOCTOR'
+ 'DRINK' 'EXPAND' 'FALL' 'FLOCK' 'FRIGHTENED' 'GO' 'LINK' 'LOOK' 'LOW'
+ 'MEAL' 'MEET' 'READY' 'SAY' 'SIGN' 'SLEEP' 'SURPRISE' 'TENT' 'TOP'
+ 'TOUCH' 'WANT' 'WAR' 'WATER']","['boy', 'calls', 'frog', 'opens', 'sees', 'window']",['still'],['open'],['looking'],[],['around'],[],['sees']
+aus_5.mp4,"[',' '.' 'around' 'find' 'frog' 'looks' ""n't"" 'shakes' 'socks']","['ARRIVE' 'COLLECT' 'FALL' 'FLOCK' 'GO' 'GRAB' 'HARD' 'HOTEL' 'MANCHESTER'
+ 'MIX' 'MOTHER' 'NOTHING' 'PAY' 'PLAN' 'PUSH' 'SHOUT' 'SLEEP' 'STAND'
+ 'SUN' 'SURPRISE' 'TALL' 'TELEVISION' 'THURSDAY' 'TICKET' 'VANISH' 'WAIT'
+ 'WALK' 'WRITE']","['frog', 'looks', 'shakes', 'socks']","[""n't""]",[],['find'],[],['around'],[],[]
+aus_4.mp4,"['!' ',' 'frog' 'gone' 'morning' 'next' 'wakes']","['AMERICA' 'ASK' 'BALL' 'BECKON' 'BOY' 'CAD' 'CARPENTER' 'CHILD'
+ 'CHRISTMAS' 'COLLECT' 'DISAPPEAR' 'DRINK' 'EAT' 'GROUP' 'LOW' 'MAN'
+ 'MOTHER' 'NOTHING' 'PUB' 'PUSH' 'REMEMBER' 'SMALL' 'SURPRISE' 'TICKET'
+ 'TOUCH' 'WALK']","['frog', 'morning', 'wakes']",[],['next'],['gone'],[],[],[],[]

@@ -1,0 +1,167 @@
+videoFile,groundTruthWords,predictedWords,SwadeshWords,matchedSwadeshWords,unmatchedSwadeshWords,WoodWords,matchedWoodWords,unmatchedWoodWords
+aus_9.mp4,['.' 'boy' 'hands' 'looked' 'rested' 'window' 'windowsill'],"['BAD' 'BARK' 'BARKED' 'BARKING' 'COMPUTER' 'DAUGHTER' 'DOCTOR' 'DOG'
+ 'EXTRACT' 'HALF' 'HEAD' 'LOOK' 'LOVE' 'MARRY' 'TEACH' 'TREE' 'WALK'
+ 'WORK']",['hands'],[],['hands'],[],[],[]
+aus_16.mp4,['.' 'away' 'boy' 'burrow' 'nose' 'rubbed' 'walked'],"['ASK' 'BARK' 'BARKED' 'BARKING' 'DRINK' 'DRIVE' 'EAT' 'EXTRACT'
+ 'FIVE^ZERO' 'HEAD' 'LINK' 'LITTLE' 'LOOK' 'LOVELY' 'NOTHING' 'NUMBER'
+ 'PERFECT' 'READ' 'RELATIONSHIP' 'SIX' 'SLEEP' 'SPEECH' 'SPOUSE' 'SUN'
+ 'TALK' 'TEA' 'TOWN' 'TREE' 'TWENTY' 'WALK']","['nose', 'walked']",['walked'],['nose'],[],[],[]
+aus_17.mp4,"[',' '.' 'attacked' 'barked' 'boy' 'checked' 'climbed' 'dog' 'head' 'owl'
+ 'passing' 'surprise' 'tree']","['AGES' 'ATTENTION' 'AVOID' 'BALL' 'BARK' 'BARKED' 'BARKING' 'BIG' 'BOOK'
+ 'BOY' 'BRIEF' 'BRING' 'BRITAIN' 'COMMUNIST' 'CURTAINS' 'DROP' 'EUROPE'
+ 'EVERYTHING' 'EXPAND' 'FAMILY' 'FAMOUS' 'FENCE' 'FIND' 'FLOCK' 'FORGET'
+ 'GESTURE' 'GRAB' 'GROUP' 'HEAD' 'HOTEL' 'LEAGUE' 'LEARN' 'LINK' 'LOSE'
+ 'MANY' 'MEAL' 'MOVE' 'NAME' 'PARTY' 'PERFECT' 'PRIEST' 'QUIET' 'READY'
+ 'REDUCE' 'RELATIONSHIP' 'SETTLE' 'SHEET' 'SHOULDER' 'SPOUSE' 'SPREAD'
+ 'SUE' 'SUN' 'TALK' 'TEACH' 'TOUCH' 'TRAIN3b' 'TREE']","['barked', 'dog', 'head', 'tree']","['barked', 'head', 'tree']",['dog'],"['dog', 'tree']",['tree'],['dog']
+aus_8.mp4,"[',' '.' 'dog' 'head' 'jar' 'put' 'searching' 'side' 'straightened'
+ 'turned' 'went']","['ADD' 'AEROPLANE' 'AGES' 'ARRIVE' 'BARK' 'BARKED' 'BARKING' 'BOOKED'
+ 'BORROW' 'BRING' 'BUY' 'CARAVAN' 'CHANGE' 'CLOSED' 'COMMUNIST' 'CONTROL'
+ 'CURTAINS' 'DARTS' 'DOG' 'ESCAPE' 'EXTRACT' 'FLOCK' 'FUTURE' 'GRAB'
+ 'HARD' 'HEAD' 'LINK' 'MANCHESTER' 'MEET' 'MONDAY' 'MONEY' 'MOVE'
+ 'NOTHING' 'PARTY' 'PERFECT' 'RELATIONSHIP' 'SATURDAY' 'SELL' 'SPOUSE'
+ 'SUN' 'THURSDAY' 'TOP' 'TREE' 'TYPICAL' 'VEHICLE' 'WRITE']","['dog', 'head']","['dog', 'head']",[],['dog'],['dog'],[]
+aus_29.mp4,"['.' 'baby' 'boy' 'dazzled' 'foward' 'frogs' 'leaned' 'line' 'see'
+ 'sitting']","['ACCESS' 'ADD' 'ANYWAY' 'AREA' 'ARRIVE' 'ASK' 'BARK' 'BARKED' 'BARKING'
+ 'BOOK' 'COMPUTER' 'DAMAGE' 'DISAPPEAR' 'DIVIDE' 'DOCTOR' 'DOG' 'DRINK'
+ 'ENOUGH' 'FAMILY' 'GIVE' 'GO' 'HEAD' 'INTERVAL' 'INVOLVE' 'LAPTOP' 'LOOK'
+ 'MIX' 'MONEY' 'NEXT' 'PAY' 'PLENTY' 'PRAY' 'QUEUE' 'READY' 'SAY' 'SINCE'
+ 'SIT' 'SMALL' 'SPOUSE' 'STAND' 'STILL' 'SUNDAY' 'TOUCH' 'TREE' 'TRUE'
+ 'WALK' 'WANT' 'YES']","['see', 'sitting']",['sitting'],['see'],[],[],[]
+aus_15.mp4,"[""'s"" ',' '.' 'bark' 'bit' 'boy' 'burrow' 'continued' 'nose' 'rodent']","['ASK' 'BAD' 'BARK' 'BARKED' 'BARKING' 'CONTROL' 'COUNCIL' 'DRIVE' 'EAT'
+ 'EIGHT' 'EXTRACT' 'FAMOUS' 'FBUOY' 'FOREIGN' 'FUTURE' 'GO' 'GROUP' 'HEAD'
+ 'INFORM' 'INTERVAL' 'LINK' 'LITTLE' 'MIX' 'MONEY' 'NOTHING' 'ONE'
+ 'PERFECT' 'SIX' 'SLEEP' 'SMALL' 'SPOUSE' 'SUN' 'TEN' 'TEXTURE' 'TOWN'
+ 'TREE' 'TWENTY' 'TWO']","['bark', 'bit', 'nose']",['bark'],"['bit', 'nose']",[],[],[]
+aus_14.mp4,['.' 'barked' 'bees' 'dog' 'dome-shaped' 'hive' 'looked' 'near' 'swarmed'],"['ACCOMMODATION' 'AREA' 'BALL' 'BARK' 'BARKED' 'BARKING' 'BEDROOM' 'BOOK'
+ 'CARAVAN' 'CLOSED' 'COMPUTER' 'COUNCIL' 'EMPTY' 'ESCAPE' 'EVERYTHING'
+ 'FAMOUS' 'FENCE' 'FOREIGN' 'GIVE' 'GO' 'HEAD' 'HOUR' 'HOUSE' 'INFORM'
+ 'LINK' 'LOOK' 'LOSE' 'MANCHESTER' 'MEANING' 'MINUTE' 'MIX' 'MONDAY'
+ 'MONEY' 'MONTH' 'MOTHER' 'NEWCASTLE' 'NIGHT' 'NOTHING' 'OLYMPIC'
+ 'PARENTS' 'PLAN' 'PRAY' 'PUSH' 'QUIET' 'READ' 'RELATIONSHIP' 'SELL'
+ 'SIMILAR' 'SMALL' 'SPEECH' 'SPOUSE' 'SPREAD' 'STADIUM' 'SUN' 'SUNDAY'
+ 'SURROUNDINGS' 'TELEVISION' 'THURSDAY' 'TOP' 'TREE' 'TWENTY' 'WALK']","['barked', 'dog']",['barked'],['dog'],['dog'],[],['dog']
+aus_28.mp4,"[',' '.' 'couple' 'embracing' 'frogs' 'log' 'loving' 'next' 'pushed'
+ 'romantically' 'saw' 'sitting']","['AREA' 'BARK' 'BARKED' 'BARKING' 'BOY' 'CHOOSE' 'DOG' 'FAMILY' 'FAMOUS'
+ 'FATHER' 'FRIEND' 'GO' 'HEAD' 'LOOK' 'MOVE' 'QUIET' 'READY' 'RELAX' 'SAY'
+ 'SCHOOL' 'SHOULDER' 'SIT' 'SPEECH' 'SPOUSE' 'STAND' 'SWIM' 'THREE'
+ 'TOUCH' 'TREE' 'WALK' 'WANT']","['saw', 'sitting']",['sitting'],['saw'],[],[],[]
+aus_10.mp4,"[',' '.' 'crouched' 'dog' 'fell' 'glass' 'ground' 'head' 'moved'
+ 'scattering' 'side' 'sitting' 'smashing' 'windowsill']","['ARRANGE' 'ARRIVE' 'BABY' 'BARK' 'BARKED' 'BARKING' 'BASE' 'BEACH'
+ 'BOOKED' 'BREAK' 'BUY' 'CHAIR' 'CHANGE' 'CHILD' 'DOCTOR' 'DOG' 'EAT'
+ 'EQUAL' 'FINISH' 'FRIEND' 'FULL' 'GIVE' 'HEAD' 'HELP' 'INVOLVE' 'LINK'
+ 'LOOK' 'LOSE' 'MANCHESTER' 'MARRY' 'MIX' 'MONDAY' 'MONEY' 'MONTH' 'NOSE'
+ 'NOTHING' 'PANIC' 'PAY' 'PLAN' 'PROBLEM' 'READ' 'RELATIONSHIP' 'SATURDAY'
+ 'SEE' 'SEES' 'SELL' 'SETTLE' 'SPEECH' 'SPOUSE' 'SPREAD' 'STAND' 'STILL'
+ 'STRONG' 'SUN' 'SWIM' 'TALK' 'TEACH' 'TELEVISION' 'TIME' 'TREE' 'VEHICLE'
+ 'WAIT' 'WALK' 'WORK' 'WRITE']","['dog', 'head', 'sitting']","['dog', 'head']",['sitting'],['dog'],['dog'],[]
+aus_11.mp4,['.' 'boy' 'dog' 'grumpy' 'patted'],"['AREA' 'BARK' 'BARKED' 'BARKING' 'COMPUTER' 'DOG' 'EIGHT' 'FIVE'
+ 'FIVE^ZERO' 'FOUR' 'GOOD' 'HEAD' 'LEAVE' 'MOTHER' 'ONE' 'PAY' 'READ'
+ 'SIT' 'STAND' 'THREE' 'TREE' 'TWENTY' 'TWO' 'WALK' 'WRITE' 'YES' 'YOUNG']",['dog'],['dog'],[],['dog'],['dog'],[]
+aus_13.mp4,"[',' '.' 'boy' 'burrow' 'closer' 'look' 'saw' 'took' 'walked']","['BARK' 'BARKED' 'BARKING' 'BOOKED' 'BOY' 'ESCAPE' 'EXTRACT' 'HEAD' 'LINK'
+ 'LOOK' 'PLACE' 'PLAN' 'READ' 'RELATIONSHIP' 'SAY' 'SISTER' 'STAND'
+ 'STILL' 'TELEVISION' 'THURSDAY' 'TOUCH' 'TREE' 'WALK' 'WRITE']","['saw', 'walked']",['walked'],['saw'],[],[],[]
+aus_12.mp4,"[""''"" ',' '.' '?' '``' 'boy' 'dog' 'frog' 'searching' 'several' 'started'
+ 'times' 'walked' 'woods' 'yelled']","['ACCOMMODATION' 'ANYTHING' 'AREA' 'BALL' 'BARK' 'BARKED' 'BARKING'
+ 'BEDROOM' 'BRING' 'BUILD' 'CAMERA' 'CARAVAN' 'COMMUNICATE' 'CURTAINS'
+ 'DAUGHTER' 'EIGHT' 'ENCOURAGE' 'EVALUATE' 'FAMILY' 'FAMOUS' 'FENCE'
+ 'GIVE' 'GROUP' 'HARD' 'HEAD' 'HOLLAND' 'HOUSE' 'INTERVAL' 'LEFT' 'MANY'
+ 'MONDAY' 'MOTHER' 'MUST' 'NEWSPAPER' 'NIGHT' 'PARTY' 'PLAY' 'PRAY' 'PUSH'
+ 'READY' 'REDUCE' 'RELATIONSHIP' 'RELAX' 'SCALES' 'SLEEP' 'STADIUM'
+ 'TELEVISION' 'TEN' 'TENT' 'TOP' 'TRAVEL' 'TREE' 'WANT' 'WEATHER'
+ 'WEDNESDAY' 'WORRY']","['dog', 'walked']",[],"['dog', 'walked']",['dog'],[],['dog']
+aus_23.mp4,['.' 'deer' 'head' 'lay' 'ran'],"['ACCOMMODATION' 'AUDIENCE' 'BARK' 'BARKED' 'BARKING' 'BRITAIN' 'CARAVAN'
+ 'DISCUSS' 'EIGHT' 'ENGLAND' 'ESCAPE' 'FINISH' 'FREE' 'GESTURE' 'GIVE'
+ 'GROUP' 'HEAD' 'HOTEL' 'LINK' 'POUND' 'PUSH' 'RAIN' 'RELATIONSHIP'
+ 'RELAX' 'SLEEP' 'SUN' 'TENT' 'TIRED' 'TOP' 'TREE']",['head'],['head'],[],[],[],[]
+aus_22.mp4,"[""''"" ',' '.' 'Suddenly' '``' 'antlers' 'boy' 'branches' 'deer' 'grip'
+ 'realised' 'tightened']","['ACCOMMODATION' 'ARRANGE' 'BARK' 'BARKED' 'BARKING' 'BIG' 'CEILING'
+ 'CHOOSE' 'DISAPPEAR' 'DOG' 'DRIVE' 'EXPAND' 'FINISH' 'GESTURE' 'GRAB'
+ 'GROUP' 'HEAD' 'HOTEL' 'NOTHING' 'PERFECT' 'QUIET' 'REDUCE' 'SETTLE'
+ 'SHEET' 'SIT' 'SPREAD' 'STAY' 'TITLE' 'TREE' 'WALK']",[],[],[],[],[],[]
+aus_1.mp4,"[',' '.' 'boy' 'dog' 'frog' 'jar' 'like' 'lived' 'one' 'pets' 'sausage'
+ 'tall' 'two']","['ADD' 'AGES' 'BALL' 'BARK' 'BARKED' 'BARKING' 'BOOK' 'BOY' 'BUILD' 'CAD'
+ 'CHAIR' 'CURTAINS' 'DESSERT' 'DEUCE' 'DIVIDE' 'DREADFUL' 'EMPTY' 'ENOUGH'
+ 'FAMILY' 'FAMOUS' 'FATHER' 'FINISH' 'FLAT' 'FLOCK' 'FRIDAY' 'FULL' 'GO'
+ 'HARD' 'HEAD' 'LOOK' 'MAN' 'MANCHESTER' 'MONDAY' 'MONEY' 'MONTH' 'MOTHER'
+ 'MOVE' 'NAME' 'ONE' 'PARTY' 'PLACE' 'PLAN' 'READY' 'RELAX' 'SAFE'
+ 'SATURDAY' 'SAY' 'SELL' 'SHOULDER' 'SISTER' 'SOON' 'SPOUSE' 'SWIM'
+ 'TELEVISION' 'TEXTURE' 'THURSDAY' 'TICKET' 'TREE' 'TWENTY' 'UNIT' 'WALK'
+ 'WIN']","['dog', 'one', 'two']","['dog', 'one', 'two']",[],['dog'],['dog'],[]
+aus_20.mp4,"[',' '.' 'big' 'climbed' 'disappeared' 'dog' 'rock']","['BAD' 'BARK' 'BARKED' 'BARKING' 'BORROW' 'CAD' 'CARAVAN' 'FATHER' 'GRAB'
+ 'GROUP' 'HEAD' 'HOUSE' 'LINK' 'LOOK' 'NOTHING' 'PAST' 'PERFECT'
+ 'RELATIONSHIP' 'SLEEP' 'SPEECH' 'SPOUSE' 'TALK' 'TEACH' 'TOP' 'TOUCH'
+ 'TREE']","['big', 'dog']","['big', 'dog']",[],['dog'],['dog'],[]
+aus_3.mp4,"[',' '.' 'bed' 'blankets' 'boy' 'dog' 'got' 'pulled' 'slept']","['ATTACK' 'BARK' 'BARKED' 'BARKING' 'CHANGE' 'CHOOSE' 'DIFFERENT' 'DOG'
+ 'ESCAPE' 'FLOCK' 'HARD' 'HEAD' 'INVOLVE' 'LEAGUE' 'LOOK' 'PARTY'
+ 'SPECTACLES' 'TEACH' 'TICKET' 'TREE' 'WAIT']","['dog', 'slept']",['dog'],['slept'],['dog'],['dog'],[]
+aus_2.mp4,"[',' '.' 'boy' 'dog' 'excitable' 'excited' 'frog' 'looked']","['AMERICA' 'ANGRY' 'BAD' 'BARK' 'BARKED' 'BARKING' 'BEST' 'BLUE' 'CAD'
+ 'EXCITED' 'FEEL' 'FRIEND' 'HEAD' 'HEALTHY' 'LIVE' 'MORNING' 'NEXT'
+ 'READY' 'RELAX' 'RIGHT' 'SPOUSE' 'TREE' 'TYPICAL' 'WALK' 'WORK']",['dog'],['dog'],[],['dog'],['dog'],[]
+aus_21.mp4,['.' 'back' 'boy' 'branches' 'came' 'dog' 'held' 'like' 'something'],"['ADD' 'AUSTRALIA' 'BARK' 'BARKED' 'BARKING' 'BRING' 'CAD' 'CAMERA'
+ 'CHOOSE' 'CURTAINS' 'DRIVE' 'FAMOUS' 'FINISH' 'FLOCK' 'HAIL' 'HEAD'
+ 'HEADS' 'KNOW' 'LITTLE' 'MOVE' 'NEW' 'NEWSPAPER' 'NOTHING' 'ONE'
+ 'PERFECT' 'SUE' 'TRAVEL' 'TREE']","['came', 'dog']","['came', 'dog']",[],['dog'],['dog'],[]
+aus_25.mp4,"[',' '.' 'boy' 'deer' 'drop' 'fell' 'lip' 'short-steep' 'stood' 'threw']","['ACCOMMODATION' 'AMERICA' 'AREA' 'BARK' 'BARKED' 'BARKING' 'BOAT' 'BUILD'
+ 'CARAVAN' 'COMPUTER' 'DOG' 'DOOR' 'EIGHT' 'FAMILY' 'FATHER' 'FENCE'
+ 'FLOCK' 'FRIDAY' 'FRIEND' 'FUTURE' 'GESTURE' 'GO' 'HARD' 'HEAD' 'HOUR'
+ 'HOUSE' 'LINK' 'LOOK' 'MEAL' 'MONDAY' 'MOTHER' 'NEWCASTLE' 'NOTHING'
+ 'PARENTS' 'PERFECT' 'PLAN' 'PRACTISE' 'READY' 'RELATIONSHIP' 'SLEEP'
+ 'SPOUSE' 'STAND' 'SUN' 'TELEVISION' 'TEN' 'TREE' 'WEDNESDAY' 'WEEK'
+ 'WORK']",['stood'],['stood'],[],[],[],[]
+aus_6.mp4,"[',' '.' 'clothes' 'looked' 'shocked' 'started' 'unfold']","['ADD' 'AREA' 'ARRANGE' 'ARRIVE' 'BAD' 'BARK' 'BARKED' 'BARKING' 'BRING'
+ 'CHILD' 'CHOOSE' 'CLOTHES' 'COMPUTER' 'CURTAINS' 'DOG' 'DOOR' 'EUROPE'
+ 'EXTRACT' 'FINISH' 'FLOCK' 'FREE' 'FRIEND' 'GO' 'HEAD' 'LINK' 'LONELY'
+ 'LOOK' 'LOW' 'MARRY' 'MOVE' 'NOTHING' 'PANIC' 'PARTY' 'RAIN'
+ 'RELATIONSHIP' 'SEVEN' 'SPOUSE' 'SUE' 'SWIM' 'TALL' 'TEN' 'TRAVEL' 'TREE'
+ 'VANISH' 'WORK']",[],[],[],[],[],[]
+aus_31.mp4,"[""'s"" '.' 'baby' 'boy' 'carried' 'father' 'frog' 'go' 'home' 'let'
+ 'walked']","['ADD' 'AIM' 'ARRIVE' 'BARK' 'BARKED' 'BARKING' 'BLUE' 'BOAT' 'DOG' 'DOOR'
+ 'FAMILY' 'FINISH' 'FLOCK' 'FOREIGN' 'FRIDAY' 'FRIEND' 'FULL' 'FUTURE'
+ 'GIVE' 'GO' 'GRAB' 'HEAD' 'HOME' 'INVOLVE' 'LEAVE' 'LINK' 'MERGE' 'MIX'
+ 'MOTHER' 'MOVE' 'MUST' 'PAY' 'PLAY' 'POLICE' 'PRACTISE' 'SPOUSE' 'STAND'
+ 'TREE' 'WALK' 'WRITE']",['walked'],['walked'],[],['father'],[],['father']
+aus_19.mp4,"[',' '.' 'away' 'boy' 'chased' 'climbed' 'flew' 'landed' 'owl' 'sat'
+ 'sprinted']","['ACT' 'AGES' 'ANGRY' 'AVOID' 'BARK' 'BARKED' 'BARKING' 'BECKON' 'BRING'
+ 'BUILD' 'CARAVAN' 'CHAIR' 'CLOTHES' 'DANCE' 'DOG' 'DROP' 'ESCAPE'
+ 'EXCITED' 'EXTRACT' 'FAMOUS' 'FINISH' 'FLOCK' 'GO' 'GRAB' 'HEAD' 'HOME'
+ 'HURT' 'ILL' 'INCREASE' 'LINK' 'LOOK' 'MERGE' 'MIX' 'MOVE' 'MUST'
+ 'NOTHING' 'PARTY' 'PERFECT' 'RAIN' 'RELATIONSHIP' 'RUN' 'SHOUT' 'SIGN'
+ 'SLEEP' 'SNOOKER' 'SPOUSE' 'SPREAD' 'SUN' 'TEACH' 'TIRED' 'TOP' 'TREE'
+ 'VANISH' 'WALK' 'WOW']","['flew', 'sat']",['flew'],['sat'],[],[],[]
+aus_18.mp4,"[',' '.' 'aware' 'away' 'became' 'bees' 'dog' 'fact' 'irritated' 'ran'
+ 'swarmed']","['AREA' 'ARRANGE' 'BAD' 'BARK' 'BARKED' 'BARKING' 'BEDROOM' 'BIG'
+ 'BRITAIN' 'CARAVAN' 'COMMUNICATE' 'DOG' 'FAMOUS' 'GESTURE' 'GO' 'GROUP'
+ 'HEAD' 'HOUSE' 'LINK' 'LOOK' 'LOSE' 'NAME' 'NOTHING' 'PARTY' 'PERFECT'
+ 'PLACE' 'QUIET' 'REDUCE' 'SHEET' 'SLEEP' 'SMALL' 'SPOUSE' 'SUN' 'TAKE'
+ 'TEACH' 'TREE' 'TYPICAL' 'UNIT' 'WELL']",['dog'],['dog'],[],['dog'],['dog'],[]
+aus_7.mp4,"[',' '.' 'asked' 'clothes' 'continuing' 'frog' 'unfold' 'whilst']","['ANYTHING' 'AREA' 'BANDAGE' 'BARK' 'BARKED' 'BARKING' 'BREAK' 'BUY'
+ 'CHANGE' 'COMPUTER' 'DANCE' 'DOG' 'DROP' 'ENCOURAGE' 'EVALUATE' 'FAMILY'
+ 'FIND' 'GO' 'HEAD' 'LIVE' 'MANY' 'MUST' 'NOTHING' 'PARTY' 'PLAY' 'READY'
+ 'RUN' 'SCALES' 'START' 'TREE' 'WANT' 'WEATHER' 'WITHOUT']",[],[],[],[],[],[]
+aus_30.mp4,"[',' '.' 'baby' 'embraced' 'frogs' 'indicating' 'one' 'parents' 'stay'
+ 'took' 'wanted' 'whose']","['ACCOMMODATION' 'AMERICA' 'AUSTRALIA' 'BABY' 'BARK' 'BARKED' 'BARKING'
+ 'BEDROOM' 'BLUE' 'CHOOSE' 'COMPUTER' 'DIFFERENT' 'DOG' 'DOOR' 'EXPLAIN'
+ 'FAMILY' 'FAMOUS' 'FATHER' 'FINISH' 'FLOCK' 'FORGET' 'FRIDAY' 'FRIEND'
+ 'GIVE' 'GO' 'HALF' 'HEAD' 'HELP' 'HOTEL' 'LEARN' 'LINK' 'LIVERPOOL'
+ 'LOOK' 'MANCHESTER' 'NAME' 'NEW' 'NORTH' 'ONE' 'PARENTS' 'PARTY' 'PLACE'
+ 'SHEET' 'SIMILAR' 'SLEEP' 'SOON' 'SPOUSE' 'STILL' 'THANK' 'THREE' 'TITLE'
+ 'TOP' 'TREE' 'TWENTY' 'TWO' 'WALK' 'WAR' 'WEDNESDAY' 'WORRY']",['one'],['one'],[],[],[],[]
+aus_24.mp4,"[',' '.' 'barked' 'concentrated' 'deer' 'dog' 'next' 'quickly' 'ran'
+ 'walking']","['BARK' 'BARKED' 'BARKING' 'GO' 'HEAD' 'LONELY' 'LOOK' 'LUGGAGE'
+ 'MOTORBIKE' 'MUST' 'PLACE' 'SNOOKER' 'STAND' 'SWIM' 'TREE' 'WALK']","['barked', 'dog', 'walking']","['barked', 'walking']",['dog'],['dog'],[],['dog']
+aus_5.mp4,"[',' '.' 'Next' 'boy' 'day' 'disappeared' 'frog' 'morning' 'see'
+ 'surprised' 'woke']","['ALLOW' 'BARK' 'BARKED' 'BARKING' 'BRING' 'CHANGE' 'COLD' 'DANCE' 'DOG'
+ 'FBUOY' 'FINISH' 'FREE' 'GO' 'GOOD' 'HEAD' 'LIVE' 'LOOK' 'MOVE' 'NOTHING'
+ 'PARTY' 'RELAX' 'SEVEN' 'TREE' 'VEHICLE' 'WANT' 'WITNESS']",['see'],['see'],[],['day'],[],['day']
+aus_26.mp4,"[',' '.' 'Immediately' 'also' 'deer' 'dog' 'fell' 'lay' 'water']","['ASK' 'BAD' 'BARK' 'BARKED' 'BARKING' 'CHOOSE' 'DOG' 'FBUOY' 'GIVE'
+ 'HEAD' 'HORRIBLE' 'LINK' 'LOOK' 'NEXT' 'NOTHING' 'PAY' 'PERFECT' 'PERSON'
+ 'RELATIONSHIP' 'SIT' 'SPOUSE' 'TREE' 'WALK' 'YES']","['dog', 'water']",['dog'],['water'],"['dog', 'water']",['dog'],['water']
+aus_27.mp4,"[',' '.' 'around' 'boy' 'heard' 'log' 'look' 'peeped' 'something']","['AGES' 'ALRIGHT' 'BAD' 'BARK' 'BARKED' 'BARKING' 'BOOK' 'BOOKED' 'CAMERA'
+ 'CHANGE' 'CULTURE' 'DARTS' 'DREADFUL' 'DRUNK' 'EXACT' 'FAMOUS' 'FOREIGN'
+ 'GO' 'HEAD' 'HOME' 'LISTEN' 'MONEY' 'MOTHER' 'MOVE' 'NOTHING' 'PARENTS'
+ 'PARTY' 'PERFECT' 'QUIET' 'RECEIVE' 'SLEEP' 'SUN' 'TELEVISION' 'TREE'
+ 'WIN' 'WRITE' 'YES']",['heard'],['heard'],[],[],[],[]
+aus_4.mp4,"[',' '.' 'frog' 'gone' 'got' 'jar' 'quieted' 'soon']","['BARK' 'BARKED' 'BARKING' 'DOG' 'ESCAPE' 'EXTRACT' 'FALL' 'GO' 'GRAB'
+ 'HEAD' 'LINK' 'LOOK' 'MIX' 'PAY' 'RELATIONSHIP' 'SHOUT' 'SISTER' 'SIT'
+ 'SLEEP' 'TREE' 'WALK']",[],[],[],[],[],[]

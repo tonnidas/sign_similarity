@@ -11,8 +11,8 @@ def combineCounts(datasetName):
     sumDF = pd.concat([pd.Series({"totalVideos": inputDF.shape[0]}), sumDF])
     # sumDF["totalVideos"] = inputDF.shape[0]
 
-    x = ["matchedWords", "matchedNoun", "matchedConj", "matchedAdj", "matchedVerbs", "matchedAdv", "matchedPoi", "matchedMisce", "matchedWood", "matchedSentence"]
-    y = ["totalWords", "totalNoun", "totalConj", "totalAdj", "totalVerbs", "totalAdv", "totalPoi", "totalMisce", "totalWood", "totalVideos"]
+    x = ["matchedWords", "matchedNoun", "matchedConj", "matchedAdj", "matchedVerbs", "matchedAdv", "matchedPoi", "matchedMisce", "matchedWood", "matchedSwadesh", "matchedSentence"]
+    y = ["totalWords", "totalNoun", "totalConj", "totalAdj", "totalVerbs", "totalAdv", "totalPoi", "totalMisce", "totalWood", "totalSwadesh", "totalVideos"]
 
     for i in range(len(x)):
         matchedNoSyn = x[i] + "_noSyn"
@@ -37,6 +37,11 @@ sumDF = combineCounts('PSL')
 sumDF = sumDF.join(combineCounts('ASL'))
 sumDF = sumDF.join(combineCounts('ISL'))
 sumDF = sumDF.join(combineCounts('AUTSL'))
+sumDF = sumDF.join(combineCounts('AUSLAN'))
+sumDF = sumDF.join(combineCounts('AUSLAN2'))
+sumDF = sumDF.join(combineCounts('AUSLAN3'))
+sumDF = sumDF.join(combineCounts('AUSLAN4'))
+sumDF = sumDF.join(combineCounts('AUSLAN5'))
 print(sumDF)
 
 sumDF.to_csv('matrices_final.csv', sep=',', index=True, index_label='Matrices')

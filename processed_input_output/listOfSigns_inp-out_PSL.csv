@@ -1,42 +1,42 @@
-videoFile,groundTruthWords,predictedWords,Noun,Adverb,Adjective,Verb,Pointers,others,woodward
+videoFile,groundTruthWords,predictedWords,Noun,Adverb,Adjective,Verb,Pointers,others,woodward,swadesh
 ira_39.mp4,[],"['AMERICA' 'AREA' 'BORN' 'BREATHE' 'BRITAIN' 'CHAIR' 'CHILD' 'CLOTHES'
  'COUSIN' 'DAUGHTER' 'DECREASE' 'DRINK' 'ESCAPE' 'EXCITED' 'EXPERIENCE'
  'FACE' 'FIRST' 'FLOCK' 'FOREIGN' 'FRIGHTENED' 'FUTURE' 'GOOD' 'HOT'
  'KNOW' 'LAUGH' 'LINK' 'LIVE' 'LOOK' 'LOW' 'MEAL' 'MEANING' 'MIX' 'MOVE'
  'NEW' 'NIGHT' 'PAST' 'PLAN' 'POOR' 'READY' 'RELATIONSHIP' 'RELAX' 'SINCE'
- 'SPEECH' 'STILL' 'SURPRISE' 'THINK' 'TIRED' 'TOP' 'TOUCH' 'WANT']",[],[],[],[],[],[],[]
+ 'SPEECH' 'STILL' 'SURPRISE' 'THINK' 'TIRED' 'TOP' 'TOUCH' 'WANT']",[],[],[],[],[],[],[],[]
 ira_11.mp4,['N' 'NN' 'Yes' 'ask' 'emotion' 'handle' 'sense'],"['ADULT' 'ANGRY' 'ARRANGE' 'BEACH' 'BODY' 'BREATHE' 'BRING' 'CHAIR'
  'CHILD' 'CLOTHES' 'CONTINUE' 'DELIVER' 'DIRTY' 'DISAPPEAR' 'EMOTION'
  'EMPTY' 'FINISH' 'FLOCK' 'FREE' 'GIVE' 'HEALTHY' 'HEAVY' 'LIKE' 'LIVE'
  'LOOK' 'LOSE' 'LOW' 'MANAGE' 'MOVE' 'PANIC' 'PERSON' 'PREGNANT' 'PUSH'
  'RAIN' 'READY' 'RELAX' 'SAY' 'SCALES' 'SETTLE' 'SNOOKER' 'SPREAD'
- 'SURPRISE' 'TEACH' 'TENT' 'TIDY' 'TIRED' 'UPWARD' 'WALK' 'WRITE']","['N', 'NN', 'ask', 'emotion', 'handle', 'sense']",[],[],[],[],['Yes'],[]
+ 'SURPRISE' 'TEACH' 'TENT' 'TIDY' 'TIRED' 'UPWARD' 'WALK' 'WRITE']","['N', 'NN', 'ask', 'emotion', 'handle', 'sense']",[],[],[],[],['Yes'],[],[]
 ira_10.mp4,['Name' 'accept' 'body' 'emotion' 'put' 'remind' 'search' 'select' 'us'],"['ACT' 'ANGRY' 'AREA' 'ARRANGE' 'BELFAST' 'BODY' 'BREATHE' 'CHAIR'
  'CLOTHES' 'DEAF' 'DISCUSS' 'DOOR' 'ENOUGH' 'ESCAPE' 'EXCITED' 'EXPAND'
  'FINISH' 'FLOCK' 'FREE' 'FRIGHTENED' 'GOOD' 'HEALTHY' 'INVOLVE' 'KNOW'
  'LAPTOP' 'LOOK' 'LOW' 'PANIC' 'POOR' 'PRACTISE' 'READY' 'RELAX' 'SCALES'
  'SETTLE' 'SHOULDER' 'SPREAD' 'SURPRISE' 'TEACH' 'TENT' 'THINK' 'TIRED'
- 'UPWARD' 'WANT' 'WITHOUT']","['Name', 'accept', 'body', 'emotion', 'put', 'remind', 'search', 'select']",[],[],[],['us'],[],[]
+ 'UPWARD' 'WANT' 'WITHOUT']","['Name', 'accept', 'body', 'emotion', 'put', 'remind', 'search', 'select']",[],[],[],['us'],[],[],[]
 ira_38.mp4,[],"['ACT' 'ADULT' 'AREA' 'CONTINUE' 'ESCAPE' 'FINISH' 'FLOCK' 'FREE' 'LONDON'
  'MORNING' 'READY' 'SHOUT' 'SINCE' 'SPEECH' 'SPREAD' 'TEACH' 'TOUCH'
- 'UPWARD' 'WALK' 'WRITE']",[],[],[],[],[],[],[]
+ 'UPWARD' 'WALK' 'WRITE']",[],[],[],[],[],[],[],[]
 ira_12.mp4,['N' 'NN' 'Yes' 'excuse' 'handle'],"['ARRANGE' 'ARRIVE' 'BORN' 'CHAIR' 'CHILD' 'CLOTHES' 'COLLECT' 'COMPUTER'
  'DIRTY' 'EMPTY' 'FINISH' 'FLOCK' 'LOSE' 'LOW' 'PANIC' 'PAY' 'PLAY'
- 'SETTLE' 'TEACH' 'TIDY' 'TOILET' 'UPWARD' 'WRITE']","['N', 'NN', 'excuse', 'handle']",[],[],[],[],['Yes'],[]
+ 'SETTLE' 'TEACH' 'TIDY' 'TOILET' 'UPWARD' 'WRITE']","['N', 'NN', 'excuse', 'handle']",[],[],[],[],['Yes'],[],[]
 ira_13.mp4,['around' 'emotion' 'excuse' 'good' 'hard' 'sense' 'weather'],"['ALRIGHT' 'ANGRY' 'BABY' 'BORN' 'BREATHE' 'CLOTHES' 'COUSIN' 'DEAF'
  'DISCUSS' 'DOCTOR' 'DRINK' 'EMOTION' 'ENDURE' 'EXPECT' 'GOOD' 'HEALTHY'
  'HEAR' 'HEAVY' 'HELP' 'IRELAND' 'KNOW' 'LAPTOP' 'LOVE' 'MORNING' 'POLICE'
  'POOR' 'PREGNANT' 'PROBLEM' 'READY' 'REMEMBER' 'RUN' 'SIT' 'SLEEP' 'SLOW'
  'STRONG' 'STUPID' 'SURPRISE' 'THEATRE' 'THINK' 'TIME' 'TIRED' 'TOILET'
- 'TRAIN' 'UNDERSTAND' 'WANT' 'WRITE']","['emotion', 'excuse', 'sense', 'weather']",[],"['good', 'hard']",[],[],['around'],['good']
+ 'TRAIN' 'UNDERSTAND' 'WANT' 'WRITE']","['emotion', 'excuse', 'sense', 'weather']",[],"['good', 'hard']",[],[],['around'],['good'],['good']
 ira_17.mp4,['control' 'emotion' 'miss' 'understand'],"['ALWAYS' 'ANGRY' 'ARRANGE' 'BEDROOM' 'BODY' 'BOY' 'BREATHE' 'CLOTHES'
  'COLD' 'CONTROL' 'CRUEL' 'DEAF' 'DELIVER' 'DISAPPEAR' 'EMOTION' 'ENOUGH'
  'EXPECT' 'HEALTHY' 'HEAR' 'KNOW' 'LOSE' 'LOVELY' 'LOW' 'MAN' 'NICE'
  'NUMBER' 'PLENTY' 'PREFER' 'PREGNANT' 'READY' 'RELAX' 'REMEMBER' 'SAY'
- 'SNOOKER' 'SURPRISE' 'TALL' 'THINK' 'TIRED' 'TOILET' 'WANT' 'WRITE']","['control', 'emotion', 'miss', 'understand']",[],[],[],[],[],[]
+ 'SNOOKER' 'SURPRISE' 'TALL' 'THINK' 'TIRED' 'TOILET' 'WANT' 'WRITE']","['control', 'emotion', 'miss', 'understand']",[],[],[],[],[],[],[]
 ira_16.mp4,['growing' 'mother' 'tell' 'understand'],"['ARRANGE' 'BORING' 'BOY' 'CHAIR' 'CHILD' 'ENOUGH' 'ETHNIC' 'EXPAND'
  'FAMILY' 'LONELY' 'LOW' 'MAYBE' 'MORNING' 'MOVE' 'PANIC' 'PAST' 'PLENTY'
- 'RELAX' 'SCHOOL' 'SETTLE' 'SPREAD' 'TOUCH' 'UNIT']","['mother', 'tell', 'understand']",[],[],['growing'],[],[],['mother']
+ 'RELAX' 'SCHOOL' 'SETTLE' 'SPREAD' 'TOUCH' 'UNIT']","['mother', 'tell', 'understand']",[],[],['growing'],[],[],['mother'],[]
 ira_9.mp4,"['P-U-B-E-R-T-A-D' 'age' 'body' 'candy' 'change' 'emotion' 'sense' 'ten'
  'weather' 'within']","['ANGRY' 'AREA' 'BABY' 'BAD' 'BECKON' 'BODY' 'BREATHE' 'CHAIR' 'CHILD'
  'CHRISTMAS' 'CLOTHES' 'COVER' 'DEAF' 'DIRTY' 'DISCUSS' 'DOG' 'EMOTION'
@@ -44,7 +44,7 @@ ira_9.mp4,"['P-U-B-E-R-T-A-D' 'age' 'body' 'candy' 'change' 'emotion' 'sense' 't
  'LOW' 'MAYBE' 'MORNING' 'MOTHER' 'PAST' 'PERSON' 'POLICE' 'PREGNANT'
  'PROBLEM' 'PUSH' 'READY' 'RELAX' 'RICH' 'RIGHT' 'SAY' 'SETTLE' 'SINCE'
  'SLOW' 'SURPRISE' 'TIDY' 'TIME' 'TIRED' 'TOILET' 'TOUCH' 'TRAIN' 'WANT'
- 'WONDERFUL' 'WRITE' 'YES']","['P-U-B-E-R-T-A-D', 'age', 'body', 'candy', 'change', 'emotion', 'sense', 'ten', 'weather']",[],[],[],[],['within'],[]
+ 'WONDERFUL' 'WRITE' 'YES']","['P-U-B-E-R-T-A-D', 'age', 'body', 'candy', 'change', 'emotion', 'sense', 'ten', 'weather']",[],[],[],[],['within'],[],[]
 ira_14.mp4,"['N' 'NN' 'agreement' 'anger' 'brother' 'comply' 'first' 'friend' 'play'
  'rule' 'think']","['ACT' 'AGE' 'AMERICA' 'AREA' 'BABY' 'BEST' 'BICYCLE' 'BODY' 'BORING'
  'BORN' 'BREATHE' 'BRITAIN' 'BUILD' 'CHAIR' 'CHANGE' 'CHILD' 'CLOTHES'
@@ -56,18 +56,18 @@ ira_14.mp4,"['N' 'NN' 'agreement' 'anger' 'brother' 'comply' 'first' 'friend' 'p
  'PARK' 'PEOPLE' 'PLEASE' 'PREGNANT' 'PRESIDENT' 'READY' 'RELAX' 'RUN'
  'SAY' 'SELF' 'SIGN' 'SLEEP' 'SLOW' 'STRANGE' 'SURPRISE' 'TAKE' 'TEACH'
  'TEMPT' 'TENT' 'TERRIFIED' 'THANK' 'THINK' 'TIDY' 'TIRED' 'TOILET'
- 'UNDERSTAND' 'USE' 'WALK' 'WANT' 'WATER' 'WONDER' 'WONDERFUL' 'WRITE']","['N', 'NN', 'agreement', 'anger', 'brother', 'comply', 'friend', 'play', 'rule', 'think']",['first'],[],[],[],[],"['brother', 'play']"
+ 'UNDERSTAND' 'USE' 'WALK' 'WANT' 'WATER' 'WONDER' 'WONDERFUL' 'WRITE']","['N', 'NN', 'agreement', 'anger', 'brother', 'comply', 'friend', 'play', 'rule', 'think']",['first'],[],[],[],[],"['brother', 'play']",[]
 ira_28.mp4,['N' 'NN' 'draw' 'history' 'objective' 'remind'],"['ACCOMMODATION' 'AEROPLANE' 'AREA' 'ARRIVE' 'AUDIENCE' 'BABY' 'BEACH'
  'BIRTHDAY' 'CARAVAN' 'CEILING' 'CHAIR' 'CLOTHES' 'CONTINUE' 'DEAF'
  'DECIDE' 'DECREASE' 'DIRTY' 'DISCUSS' 'DOOR' 'EMPTY' 'EQUAL' 'ESCAPE'
  'EVALUATE' 'EXCHANGE' 'FINISH' 'FLOCK' 'GIVE' 'GOOD' 'GRAB' 'HEAVY'
  'INCREASE' 'KNOW' 'LAPTOP' 'LEARN' 'LIST' 'MIX' 'PAY' 'REMEMBER' 'RIGHT'
  'SCALES' 'SEPARATE' 'SINCE' 'SLEEP' 'SPREAD' 'TAKE' 'TALL' 'TENT' 'THINK'
- 'TIDY' 'TOILET' 'UPWARD' 'WALK' 'WITHOUT' 'WRITE']","['N', 'NN', 'draw', 'history', 'objective', 'remind']",[],[],[],[],[],[]
+ 'TIDY' 'TOILET' 'UPWARD' 'WALK' 'WITHOUT' 'WRITE']","['N', 'NN', 'draw', 'history', 'objective', 'remind']",[],[],[],[],[],[],[]
 ira_29.mp4,['following' 'learn' 'use'],"['AREA' 'BELFAST' 'BODY' 'BRITAIN' 'CHAIR' 'CHILD' 'CLOTHES' 'DECREASE'
  'DIG' 'DIRTY' 'DISCUSS' 'EMPTY' 'ESCAPE' 'FINISH' 'FLOCK' 'HAPPY'
  'HEALTHY' 'LAPTOP' 'LOW' 'MIX' 'MOTHER' 'PANIC' 'PAY' 'RAIN' 'RELAX'
- 'SETTLE' 'SURPRISE' 'TALL' 'TIDY' 'TIRED' 'TOILET' 'WALK' 'WRITE']","['learn', 'use']",[],[],['following'],[],[],[]
+ 'SETTLE' 'SURPRISE' 'TALL' 'TIDY' 'TIRED' 'TOILET' 'WALK' 'WRITE']","['learn', 'use']",[],[],['following'],[],[],[],[]
 ira_15.mp4,"['N' 'NN' 'anger' 'brother' 'day' 'let' 'miss' 'mourn' 'play' 'quiet'
  'shout' 'win']","['ALRIGHT' 'ALWAYS' 'ANGRY' 'AREA' 'ARRANGE' 'BABY' 'BECKON' 'BEHAVIOUR'
  'BIRTHDAY' 'BODY' 'BORN' 'BOY' 'BREATHE' 'BRITAIN' 'CHAIR' 'CHILD'
@@ -79,39 +79,39 @@ ira_15.mp4,"['N' 'NN' 'anger' 'brother' 'day' 'let' 'miss' 'mourn' 'play' 'quiet
  'READY' 'RELAX' 'RETIRE' 'RICH' 'RUN' 'SAY' 'SCALES' 'SHOULDER' 'SIGN'
  'SPREAD' 'START' 'STRONG' 'SURPRISE' 'TALL' 'TEACH' 'TENT' 'TIDY' 'TIRED'
  'TOILET' 'TOUCH' 'TRAIN' 'UPWARD' 'WAIT' 'WANT' 'WITHDRAW' 'WOMAN'
- 'WORSE' 'WOW' 'WRITE']","['N', 'NN', 'anger', 'brother', 'day', 'miss', 'mourn', 'play', 'shout', 'win']",[],['quiet'],['let'],[],[],"['brother', 'day', 'play']"
+ 'WORSE' 'WOW' 'WRITE']","['N', 'NN', 'anger', 'brother', 'day', 'miss', 'mourn', 'play', 'shout', 'win']",[],['quiet'],['let'],[],[],"['brother', 'day', 'play']",[]
 ira_8.mp4,['emotion' 'excuse' 'explain' 'plus' 'puberty' 'show' 'week'],"['ALRIGHT' 'AMERICA' 'ANGRY' 'AREA' 'ARMY' 'ARRANGE' 'BABY' 'BODY'
  'BREATHE' 'CHAIR' 'CLOTHES' 'DIRTY' 'DISAPPOINT' 'DISCUSS' 'DRIVE'
  'EMPTY' 'ESCAPE' 'EXCITED' 'EXPAND' 'FEEL' 'FREE' 'GIVE' 'GOOD' 'GROUP'
  'HAPPY' 'HEALTHY' 'INFORMATION' 'LAPTOP' 'LOVE' 'MANAGE' 'MEAL' 'MORNING'
  'MOTHER' 'POOR' 'PRIEST' 'PUSH' 'READY' 'RECEIVE' 'RELAX' 'RUN' 'SCALES'
  'SHOULDER' 'STRONG' 'STUBBORN' 'SURPRISE' 'TENT' 'TIDY' 'TIRED' 'TOILET'
- 'TRAIN' 'UNIT' 'WAIT' 'WANT' 'WAR']","['emotion', 'excuse', 'explain', 'puberty', 'show', 'week']",[],[],[],[],['plus'],[]
+ 'TRAIN' 'UNIT' 'WAIT' 'WANT' 'WAR']","['emotion', 'excuse', 'explain', 'puberty', 'show', 'week']",[],[],[],[],['plus'],[],[]
 ira_48.mp4,['A-L-E-X' 'M-A-R-C-O' 'Yes' 'anger' 'good' 'happy' 'watch'],"['ALRIGHT' 'ARRIVE' 'CHAIR' 'ESCAPE' 'FINISH' 'FLOCK' 'INVOLVE' 'PAY'
- 'PRACTISE' 'SEPARATE' 'STILL' 'TEACH' 'WRITE']","['M-A-R-C-O', 'anger', 'watch']",[],"['A-L-E-X', 'good', 'happy']",[],[],['Yes'],['good']
+ 'PRACTISE' 'SEPARATE' 'STILL' 'TEACH' 'WRITE']","['M-A-R-C-O', 'anger', 'watch']",[],"['A-L-E-X', 'good', 'happy']",[],[],['Yes'],['good'],['good']
 ira_49.mp4,['emotion' 'go' 'identify' 'joy' 'learn'],"['ALWAYS' 'ANGRY' 'BABY' 'BORING' 'BREATHE' 'CHAIR' 'CLOTHES' 'DECREASE'
  'DEPTH' 'DISCUSS' 'EMOTION' 'ENOUGH' 'EXCITED' 'FACE' 'FINISH' 'FLOCK'
  'FREE' 'GO' 'GOOD' 'HAPPY' 'HEALTHY' 'HOT' 'LAPTOP' 'LAUGH' 'LOVE'
  'LOVELY' 'LOW' 'MAYBE' 'MORNING' 'NEXT' 'OLD' 'PARK' 'PAST' 'PERIODIC'
  'PLEASE' 'PLENTY' 'POOR' 'PREGNANT' 'READY' 'RELAX' 'SCHOOL' 'SHOULDER'
  'SINCE' 'STILL' 'SURPRISE' 'SYMPATHY' 'TALL' 'TENT' 'TIRED' 'UPWARD'
- 'USE' 'WANT' 'WONDER' 'WONDERFUL' 'WOW' 'YES']","['emotion', 'joy', 'learn']",[],[],"['go', 'identify']",[],[],[]
+ 'USE' 'WANT' 'WONDER' 'WONDERFUL' 'WOW' 'YES']","['emotion', 'joy', 'learn']",[],[],"['go', 'identify']",[],[],[],[]
 ira_53.mp4,['afraid' 'disgust' 'sadness' 'surprise'],"['ACT' 'BAD' 'BODY' 'BOY' 'BREATHE' 'CLOTHES' 'EXPECT' 'FEEL' 'FINISH'
  'FLOCK' 'HEALTHY' 'HEAVY' 'LOOK' 'MAN' 'NICE' 'NOTHING' 'PARTNER'
  'PERFECT' 'PREFER' 'PREGNANT' 'READY' 'RELAX' 'SAY' 'SLEEP' 'SURPRISE'
- 'TEACH' 'TIRED' 'TOILET' 'WALK' 'WANT']","['afraid', 'disgust', 'sadness', 'surprise']",[],[],[],[],[],[]
+ 'TEACH' 'TIRED' 'TOILET' 'WALK' 'WANT']","['afraid', 'disgust', 'sadness', 'surprise']",[],[],[],[],[],[],[]
 ira_47.mp4,['different' 'emotion'],"['ADD' 'ANGRY' 'BEHAVIOUR' 'BODY' 'CHILD' 'CLOTHES' 'COME' 'DISCUSS'
  'EXCITED' 'FINISH' 'FREE' 'GIVE' 'GOOD' 'HEALTHY' 'HURT' 'LAUGH' 'LEG'
- 'MANAGE' 'RELAX' 'RIGHT' 'SAY' 'SCALES' 'SIGN' 'TAKE' 'TOILET' 'WOW']",['emotion'],[],['different'],[],[],[],[]
+ 'MANAGE' 'RELAX' 'RIGHT' 'SAY' 'SCALES' 'SIGN' 'TAKE' 'TOILET' 'WOW']",['emotion'],[],['different'],[],[],[],[],[]
 ira_46.mp4,['A-L-E-X' 'bedroom'],"['ALRIGHT' 'BABY' 'BECKON' 'BICYCLE' 'CHAIR' 'CHANGE' 'COMPUTER'
  'CONTINUE' 'DISCUSS' 'ESCAPE' 'EXCHANGE' 'EXCLUDE' 'FINISH' 'GIVE' 'GOOD'
  'HEALTHY' 'LAPTOP' 'MIX' 'MOTHER' 'PANIC' 'PAST' 'PAY' 'POOR' 'RIGHT'
  'RUN' 'SEPARATE' 'SETTLE' 'STILL' 'TOILET' 'TOUCH' 'TRAIN' 'WALK' 'WRITE'
- 'YES']",['bedroom'],[],['A-L-E-X'],[],[],[],[]
+ 'YES']",['bedroom'],[],['A-L-E-X'],[],[],[],[],[]
 ira_52.mp4,['go' 'joy'],"['AMERICA' 'AUDIENCE' 'BABY' 'BEACH' 'BODY' 'BREATHE' 'BRITAIN' 'CHAIR'
  'CLOTHES' 'DECREASE' 'DISCUSS' 'EMPTY' 'ENOUGH' 'ESCAPE' 'EXCHANGE'
  'GIVE' 'LOVELY' 'LOW' 'MISS' 'PLAN' 'PLUS' 'READY' 'RELAX' 'STILL' 'TENT'
- 'TIRED' 'TOILET' 'UNIT' 'WANT' 'WOW']",['joy'],[],[],['go'],[],[],[]
+ 'TIRED' 'TOILET' 'UNIT' 'WANT' 'WOW']",['joy'],[],[],['go'],[],[],[],[]
 ira_44.mp4,['Yes' 'emotion' 'grandfather' 'home' 'intelligent' 'joy' 'teacher' 'want'],"['AMERICA' 'ANGRY' 'BABY' 'BASE' 'BOY' 'BREATHE' 'CHAIR' 'CHILD' 'CLOTHES'
  'DAMN' 'DEAF' 'DEPTH' 'DIRTY' 'DISCUSS' 'DRINK' 'EMOTION' 'EMPTY'
  'ENDURE' 'ENOUGH' 'ESCAPE' 'EXCITED' 'EXPENSIVE' 'EXPLAIN' 'FAMILY'
@@ -120,11 +120,11 @@ ira_44.mp4,['Yes' 'emotion' 'grandfather' 'home' 'intelligent' 'joy' 'teacher' '
  'MISS' 'MIX' 'MORNING' 'MOTHER' 'NEW' 'NEXT' 'NICE' 'NUMBER' 'OLD' 'PAY'
  'PLENTY' 'POOR' 'PRACTISE' 'PREFER' 'PREGNANT' 'READY' 'REGULAR' 'RELAX'
  'REMEMBER' 'RIGHT' 'SAFE' 'SAY' 'SINCE' 'SURPRISE' 'TEACH' 'TENT' 'THINK'
- 'TIDY' 'TIRED' 'TOILET' 'WANT' 'WATER' 'WOW' 'WRITE']","['emotion', 'grandfather', 'home', 'intelligent', 'joy', 'teacher', 'want']",[],[],[],[],['Yes'],[]
+ 'TIDY' 'TIRED' 'TOILET' 'WANT' 'WATER' 'WOW' 'WRITE']","['emotion', 'grandfather', 'home', 'intelligent', 'joy', 'teacher', 'want']",[],[],[],[],['Yes'],[],[]
 ira_50.mp4,['emotion' 'remember'],"['ANGRY' 'BABY' 'BODY' 'CHILD' 'CLOTHES' 'DIRTY' 'DISCUSS' 'EMPTY'
  'ENOUGH' 'EXCITED' 'FREE' 'HEALTHY' 'LOW' 'PANIC' 'RELAX' 'SAY' 'SINCE'
- 'SURPRISE' 'TIDY' 'TIRED' 'TOILET' 'WANT']",['emotion'],[],[],['remember'],[],[],[]
-ira_51.mp4,[],['BROWN' 'CHAIR' 'ESCAPE' 'INSERT' 'SWIM'],[],[],[],[],[],[],[]
+ 'SURPRISE' 'TIDY' 'TIRED' 'TOILET' 'WANT']",['emotion'],[],[],['remember'],[],[],[],[]
+ira_51.mp4,[],['BROWN' 'CHAIR' 'ESCAPE' 'INSERT' 'SWIM'],[],[],[],[],[],[],[],[]
 ira_45.mp4,"['M-A-R-C-O' 'bedroom' 'dad' 'day' 'grandfather' 'mother' 'one' 'sleep'
  'tell']","['ACT' 'AMERICA' 'AREA' 'ARMY' 'ASK' 'AUDIENCE' 'BABY' 'BAD' 'BOAT'
  'BORING' 'BREATHE' 'BRITAIN' 'CARAVAN' 'CHAIR' 'CHILD' 'COMMUNICATE'
@@ -136,38 +136,38 @@ ira_45.mp4,"['M-A-R-C-O' 'bedroom' 'dad' 'day' 'grandfather' 'mother' 'one' 'sle
  'PREGNANT' 'PUSH' 'QUEUE' 'RANKING' 'READY' 'RELAX' 'SAY' 'SELF' 'SETTLE'
  'SINCE' 'SLEEP' 'SPEECH' 'SPREAD' 'STADIUM' 'STILL' 'SURPRISE' 'SYMPATHY'
  'TEACH' 'TENT' 'THINK' 'TIDY' 'TIRED' 'TOILET' 'TOMORROW' 'TOUCH' 'TWO'
- 'UNDERSTAND' 'UPWARD' 'WITHOUT' 'WONDER' 'WRITE']","['M-A-R-C-O', 'bedroom', 'dad', 'day', 'grandfather', 'mother', 'sleep', 'tell']",[],[],[],[],['one'],"['day', 'mother']"
+ 'UNDERSTAND' 'UPWARD' 'WITHOUT' 'WONDER' 'WRITE']","['M-A-R-C-O', 'bedroom', 'dad', 'day', 'grandfather', 'mother', 'sleep', 'tell']",[],[],[],[],['one'],"['day', 'mother']","['one', 'sleep']"
 ira_41.mp4,['Yes'],"['AREA' 'ARRIVE' 'BUSINESS' 'DISCUSS' 'DRINK' 'EMPTY' 'ENCOURAGE'
  'EVALUATE' 'GIVE' 'KNOW' 'NEXT' 'PAY' 'PERSON' 'PLAY' 'REMEMBER' 'RIGHT'
- 'SCALES' 'SETTLE' 'SLEEP' 'STUPID' 'TEA' 'TOUCH' 'WRITE' 'YES']",[],[],[],[],[],['Yes'],[]
+ 'SCALES' 'SETTLE' 'SLEEP' 'STUPID' 'TEA' 'TOUCH' 'WRITE' 'YES']",[],[],[],[],[],['Yes'],[],[]
 ira_40.mp4,[],"['ACCOMMODATION' 'BEDROOM' 'BRITAIN' 'DEAF' 'GOOD' 'KNOW' 'NAME' 'OLD'
- 'SAY' 'SLEEP' 'THINK']",[],[],[],[],[],[],[]
+ 'SAY' 'SLEEP' 'THINK']",[],[],[],[],[],[],[],[]
 ira_42.mp4,[],"['ADULT' 'AGE' 'ANGRY' 'BEDROOM' 'BRAINY' 'CLOTHES' 'COUNCIL' 'CRY'
  'DEBATE' 'DISAPPOINT' 'ETHNIC' 'EXCITED' 'FEEL' 'FORGET' 'GOOD' 'HEALTHY'
  'HOLLAND' 'HOT' 'LEARN' 'LOW' 'MEAL' 'MIND' 'MORNING' 'MUM' 'PAST'
  'PRIEST' 'RAIN' 'READY' 'RELAX' 'RICH' 'SHOP' 'SHOULDER' 'SINCE'
- 'SURPRISE' 'TALL' 'TEACH' 'TENT' 'THEORY' 'TIRED' 'UPWARD' 'WANT']",[],[],[],[],[],[],[]
+ 'SURPRISE' 'TALL' 'TEACH' 'TENT' 'THEORY' 'TIRED' 'UPWARD' 'WANT']",[],[],[],[],[],[],[],[]
 ira_43.mp4,['coexistence' 'emotion' 'good' 'remind'],"['ANGRY' 'AREA' 'ARRANGE' 'BABY' 'BELFAST' 'BODY' 'CHAIR' 'CHILD'
  'CLOTHES' 'COMPUTER' 'DECREASE' 'DIRTY' 'DISCUSS' 'EMPTY' 'ESCAPE'
  'EVALUATE' 'EXCITED' 'FUTURE' 'GIVE' 'HAPPY' 'HEALTHY' 'HEAVY' 'INCREASE'
  'LAPTOP' 'LOW' 'MANAGE' 'MERGE' 'MORNING' 'PANIC' 'PAST' 'READY' 'RELAX'
- 'SCALES' 'SETTLE' 'SHOULDER' 'SINCE' 'SPREAD' 'TALL' 'TENT' 'TOILET']","['coexistence', 'emotion', 'remind']",[],['good'],[],[],[],['good']
+ 'SCALES' 'SETTLE' 'SHOULDER' 'SINCE' 'SPREAD' 'TALL' 'TENT' 'TOILET']","['coexistence', 'emotion', 'remind']",[],['good'],[],[],[],['good'],['good']
 ira_5.mp4,['come' 'fifth' 'guys' 'place' 'primary' 'safe' 'sixth'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BEACH' 'BODY' 'BREATHE' 'CHAIR' 'CLOTHES'
  'EMOTION' 'ESCAPE' 'FEEL' 'GOOD' 'LAUGH' 'LIKE' 'LOVE' 'MORNING' 'NICE'
  'PANIC' 'PARK' 'PREFER' 'PREGNANT' 'READY' 'RELAX' 'SAY' 'SPREAD'
- 'SURPRISE' 'TIRED' 'UNIVERSAL' 'UPSET' 'WANT']","['fifth', 'guys', 'place', 'primary', 'sixth']",[],['safe'],['come'],[],[],[]
+ 'SURPRISE' 'TIRED' 'UNIVERSAL' 'UPSET' 'WANT']","['fifth', 'guys', 'place', 'primary', 'sixth']",[],['safe'],['come'],[],[],[],['come']
 ira_18.mp4,['Meter' 'brother' 'need' 'patience' 'reason'],"['ARRANGE' 'BOY' 'BUSINESS' 'CHAIR' 'CRUEL' 'DIRTY' 'EMPTY' 'ENOUGH'
  'ESCAPE' 'EXCITED' 'EXPECT' 'FLOCK' 'HAPPY' 'HEALTHY' 'KNOW' 'LOSE' 'LOW'
  'MAN' 'MORNING' 'MOTHER' 'NICE' 'NUMBER' 'PANIC' 'PREFER' 'READY' 'RELAX'
  'SAY' 'SCALES' 'SCOTLAND' 'SETTLE' 'SHOULDER' 'TIDY' 'TIRED' 'TOILET'
- 'WITHOUT' 'WRITE']","['Meter', 'brother', 'need', 'patience', 'reason']",[],[],[],[],[],['brother']
+ 'WITHOUT' 'WRITE']","['Meter', 'brother', 'need', 'patience', 'reason']",[],[],[],[],[],['brother'],[]
 ira_30.mp4,['start' 'today'],"['ARRANGE' 'BODY' 'CHAIR' 'CLOTHES' 'GROUP' 'PANIC' 'READY' 'RELAX'
- 'SETTLE' 'SPREAD' 'TENT' 'TIRED']","['start', 'today']",[],[],[],[],[],[]
+ 'SETTLE' 'SPREAD' 'TENT' 'TIRED']","['start', 'today']",[],[],[],[],[],[],[]
 ira_24.mp4,['N' 'NN' 'anger' 'control' 'good' 'learn'],"['AGE' 'AMERICA' 'ARRANGE' 'BABY' 'BORING' 'BORN' 'BREATHE' 'BRITAIN'
  'CHAIR' 'CLOTHES' 'COMPUTER' 'DELIVER' 'DISAPPEAR' 'EMOTION' 'ENOUGH'
  'FARM' 'FINISH' 'GROUP' 'HEALTHY' 'HEAVY' 'LAPTOP' 'LOSE' 'LOVE' 'LOVELY'
  'MEANING' 'PANIC' 'POOR' 'READY' 'RELAX' 'SAY' 'SCALES' 'SETTLE' 'SPREAD'
- 'SURPRISE' 'THANK' 'TIDY' 'TIRED' 'TOILET' 'USE' 'WANT' 'WRITE']","['N', 'NN', 'anger', 'control', 'learn']",[],['good'],[],[],[],['good']
+ 'SURPRISE' 'THANK' 'TIDY' 'TIRED' 'TOILET' 'USE' 'WANT' 'WRITE']","['N', 'NN', 'anger', 'control', 'learn']",[],['good'],[],[],[],['good'],['good']
 ira_25.mp4,['.' 'accept' 'control' 'emotion' 'sense' 'think' 'us' 'week'],"['ACCOMMODATION' 'ADULT' 'ANGRY' 'AREA' 'ARRANGE' 'BABY' 'BELFAST' 'BODY'
  'BREATHE' 'BRITAIN' 'BUSINESS' 'CHAIR' 'CHILD' 'CLOTHES' 'COLD'
  'COMPUTER' 'CONTROL' 'DEAF' 'DECREASE' 'DELIVER' 'DIRTY' 'DISAPPEAR'
@@ -176,7 +176,7 @@ ira_25.mp4,['.' 'accept' 'control' 'emotion' 'sense' 'think' 'us' 'week'],"['ACC
  'LONDON' 'LOOK' 'LOSE' 'LOW' 'MERGE' 'NEWSPAPER' 'PANIC' 'PARK'
  'PRESIDENT' 'READY' 'RECEIVE' 'RELAX' 'RICH' 'SCALES' 'SETTLE' 'SHOULDER'
  'SINCE' 'SNOOKER' 'SPREAD' 'STILL' 'SURPRISE' 'TALL' 'TENT' 'TERRIFIED'
- 'THINK' 'TIDY' 'TIRED' 'TOILET' 'WALK' 'WANT' 'WRITE']","['accept', 'control', 'emotion', 'sense', 'think', 'week']",[],[],[],['us'],[],[]
+ 'THINK' 'TIDY' 'TIRED' 'TOILET' 'WALK' 'WANT' 'WRITE']","['accept', 'control', 'emotion', 'sense', 'think', 'week']",[],[],[],['us'],[],[],[]
 ira_31.mp4,"['N' 'NN' 'Yes' 'environment' 'excuse' 'good' 'objective' 'select' 'sort'
  'today' 'trouble']","['ACT' 'ANGRY' 'AREA' 'ARRIVE' 'BABY' 'BODY' 'BORN' 'CHAIR' 'CLOTHES'
  'COMMUNICATE' 'CONTINUE' 'DELIVER' 'DIRTY' 'DISAPPEAR' 'DISCUSS' 'EMPTY'
@@ -185,10 +185,10 @@ ira_31.mp4,"['N' 'NN' 'Yes' 'environment' 'excuse' 'good' 'objective' 'select' '
  'NOTHING' 'PARK' 'PAST' 'PERFECT' 'POOR' 'PREGNANT' 'PUSH' 'READY'
  'RELAX' 'SAFE' 'SCALES' 'SCHOOL' 'SETTLE' 'SINCE' 'SURPRISE' 'TALL'
  'TEACH' 'TENT' 'TIDY' 'TIRED' 'TOILET' 'TOP' 'TRUE' 'UNIT' 'UPWARD'
- 'WANT' 'WITHOUT' 'WRITE']","['N', 'NN', 'environment', 'excuse', 'objective', 'select', 'sort', 'today', 'trouble']",[],['good'],[],[],['Yes'],['good']
+ 'WANT' 'WITHOUT' 'WRITE']","['N', 'NN', 'environment', 'excuse', 'objective', 'select', 'sort', 'today', 'trouble']",[],['good'],[],[],['Yes'],['good'],['good']
 ira_19.mp4,['N' 'NN' 'Yes' 'mother'],"['ARRIVE' 'BIRTHDAY' 'BLACK' 'DEAF' 'ENOUGH' 'FINISH' 'FLOCK' 'FOREIGN'
  'KNOW' 'LOVELY' 'LOW' 'MOVE' 'PLENTY' 'SHOUT' 'SLEEP' 'TALL' 'TEACH'
- 'TOUCH' 'UPWARD']","['N', 'NN', 'mother']",[],[],[],[],['Yes'],['mother']
+ 'TOUCH' 'UPWARD']","['N', 'NN', 'mother']",[],[],[],[],['Yes'],['mother'],[]
 ira_4.mp4,"['continue' 'education' 'find' 'good' 'idea' 'ministry' 'safe' 'sense'
  'world']","['ALRIGHT' 'ANGRY' 'AREA' 'BELFAST' 'BODY' 'BORN' 'BREATHE' 'BRITAIN'
  'CHAIR' 'CHILD' 'CLOTHES' 'COMPUTER' 'COVER' 'DIRTY' 'DISCUSS' 'EMOTION'
@@ -196,93 +196,93 @@ ira_4.mp4,"['continue' 'education' 'find' 'good' 'idea' 'ministry' 'safe' 'sense
  'HEAVY' 'HELP' 'LAPTOP' 'LIKE' 'LOVE' 'LOW' 'MEANING' 'MORNING' 'MOTHER'
  'PANIC' 'PAST' 'PAYMENT' 'POOR' 'PRACTISE' 'PREGNANT' 'PUSH' 'READY'
  'REGULAR' 'RELAX' 'SCALES' 'SETTLE' 'SPREAD' 'STILL' 'SURPRISE' 'TALL'
- 'TIDY' 'TIRED' 'TOILET' 'WANT' 'WITHOUT' 'WRITE']","['continue', 'education', 'idea', 'ministry', 'sense', 'world']",[],"['good', 'safe']",['find'],[],[],['good']
+ 'TIDY' 'TIRED' 'TOILET' 'WANT' 'WITHOUT' 'WRITE']","['continue', 'education', 'idea', 'ministry', 'sense', 'world']",[],"['good', 'safe']",['find'],[],[],['good'],['good']
 ira_6.mp4,['brothers' 'come' 'dad' 'grandfather' 'mother'],"['ACT' 'ALWAYS' 'AREA' 'ARRANGE' 'AUDIENCE' 'BEACH' 'BECKON' 'BOY'
  'BREATHE' 'CHAIR' 'CHILD' 'CLOTHES' 'DEAF' 'EMOTION' 'ENCOURAGE' 'ESCAPE'
  'FINISH' 'FLOCK' 'GOOD' 'LAUGH' 'LIKE' 'LOVE' 'MOVE' 'NICE' 'READY'
- 'RELAX' 'SAY' 'SINCE' 'SPREAD' 'SURPRISE' 'TIRED' 'TOMORROW' 'WITHOUT']","['brothers', 'dad', 'grandfather', 'mother']",[],[],['come'],[],[],['mother']
+ 'RELAX' 'SAY' 'SINCE' 'SPREAD' 'SURPRISE' 'TIRED' 'TOMORROW' 'WITHOUT']","['brothers', 'dad', 'grandfather', 'mother']",[],[],['come'],[],[],['mother'],['come']
 ira_27.mp4,['Yes' 'environment' 'family' 'ir'],"['AMERICA' 'AREA' 'ARRANGE' 'BABY' 'BALL' 'BEACH' 'BIG' 'BODY' 'BOX'
  'CHAIR' 'CLOTHES' 'CONTINUE' 'DIRTY' 'DISCUSS' 'EMPTY' 'ESCAPE' 'EXPAND'
  'GIVE' 'GROUP' 'HAPPY' 'LAPTOP' 'LOSE' 'MEANING' 'PANIC' 'PRACTISE'
  'PREGNANT' 'READY' 'SPREAD' 'SURPRISE' 'TENT' 'TIDY' 'TIRED' 'TOILET'
- 'UNIT' 'WITHOUT' 'WRITE']","['environment', 'family', 'ir']",[],[],[],[],['Yes'],[]
+ 'UNIT' 'WITHOUT' 'WRITE']","['environment', 'family', 'ir']",[],[],[],[],['Yes'],[],[]
 ira_33.mp4,['A-N-D-R-E-A'],"['ADULT' 'ASK' 'BAD' 'BODY' 'CHAIR' 'CLOTHES' 'DRINK' 'EVALUATE'
  'FIVE^ZERO' 'HEAVY' 'MAYBE' 'NEXT' 'NOTHING' 'PERHAPS' 'PUSH' 'RELAX'
  'RIGHT' 'SCALES' 'STADIUM' 'TEA' 'TIDY' 'TIRED' 'TOILET' 'TYPICAL' 'WOW'
- 'YES']",[],[],['A-N-D-R-E-A'],[],[],[],[]
-ira_32.mp4,['P-A-T-I' 'Thank'],['DEPTH' 'ENOUGH' 'HEALTHY' 'HELP' 'LAPTOP' 'MANAGE' 'MORNING' 'PERIODIC'],"['P-A-T-I', 'Thank']",[],[],[],[],[],[]
+ 'YES']",[],[],['A-N-D-R-E-A'],[],[],[],[],[]
+ira_32.mp4,['P-A-T-I' 'Thank'],['DEPTH' 'ENOUGH' 'HEALTHY' 'HELP' 'LAPTOP' 'MANAGE' 'MORNING' 'PERIODIC'],"['P-A-T-I', 'Thank']",[],[],[],[],[],[],[]
 ira_26.mp4,['N' 'NN' 'Yes' 'learn' 'normal' 'positive'],"['ACT' 'AMERICA' 'ATTACK' 'BABY' 'CHAIR' 'CLOTHES' 'COMMUNICATE' 'DEAF'
  'DIG' 'DIRTY' 'DISCUSS' 'EMPTY' 'EQUAL' 'ESCAPE' 'FAMILY' 'FEEL' 'FLOCK'
  'HAPPY' 'HEALTHY' 'LAPTOP' 'LOOK' 'LOW' 'MEANING' 'MOTHER' 'PARTNER'
  'PAYMENT' 'PRACTISE' 'PRIEST' 'READY' 'RELAX' 'SAY' 'SIGN' 'SLOW' 'STILL'
- 'SURPRISE' 'TEACH' 'TENT' 'TIDY' 'TIRED' 'TOILET' 'WANT' 'WRITE']","['N', 'NN', 'learn']",[],"['normal', 'positive']",[],[],['Yes'],[]
+ 'SURPRISE' 'TEACH' 'TENT' 'TIDY' 'TIRED' 'TOILET' 'WANT' 'WRITE']","['N', 'NN', 'learn']",[],"['normal', 'positive']",[],[],['Yes'],[],[]
 ira_7.mp4,['Yes' 'good' 'learn' 'sense' 'together'],"['AGREE' 'ALRIGHT' 'BEHAVIOUR' 'BODY' 'BORROW' 'BREATHE' 'BROTHER' 'CHAIR'
  'CLOTHES' 'CRASH' 'DECREASE' 'DIRTY' 'EMOTION' 'EMPTY' 'ENDURE' 'ESCAPE'
  'FLOCK' 'HELP' 'LOVE' 'LOW' 'MOTHER' 'PARTNER' 'PAYMENT' 'POOR' 'PRAISE'
  'PREGNANT' 'PUSH' 'REGULAR' 'RIGHT' 'SURPRISE' 'TEACH' 'TENT' 'TIDY'
- 'UPWARD']","['learn', 'sense']",['together'],['good'],[],[],['Yes'],['good']
+ 'UPWARD']","['learn', 'sense']",['together'],['good'],[],[],['Yes'],['good'],['good']
 ira_3.mp4,['P-A-T-R-I-C-I-A' 'home' 'learn' 'qualification' 'welcome' 'within'],"['AREA' 'ARRANGE' 'AUDIENCE' 'BELFAST' 'BODY' 'CHAIR' 'CLOTHES'
  'COMMUNICATE' 'DECREASE' 'DIRTY' 'DISCUSS' 'FLOCK' 'FREE' 'GOOD' 'HEAVY'
  'HOUSE' 'INCREASE' 'KNOW' 'LOW' 'PANIC' 'PENCE' 'PRACTISE' 'RELAX'
  'RIGHT' 'SETTLE' 'SPREAD' 'TEACH' 'TENT' 'TIRED' 'TOP' 'TOUCH'
- 'UNIVERSAL' 'YES']","['P-A-T-R-I-C-I-A', 'home', 'learn', 'qualification', 'welcome']",[],[],[],[],['within'],[]
+ 'UNIVERSAL' 'YES']","['P-A-T-R-I-C-I-A', 'home', 'learn', 'qualification', 'welcome']",[],[],[],[],['within'],[],[]
 ira_22.mp4,['Union' 'better' 'brother' 'impatient' 'less'],"['ACT' 'AREA' 'ARRANGE' 'BABY' 'BEACH' 'BODY' 'CHAIR' 'CLOTHES' 'DECREASE'
  'DIRTY' 'DISCUSS' 'EMPTY' 'ENOUGH' 'FINISH' 'FLOCK' 'FREE' 'GIVE' 'GROUP'
  'HAPPY' 'LAPTOP' 'LOVE' 'MEANING' 'MOTHER' 'MOVE' 'NOTHING' 'PARK' 'PAST'
  'PAYMENT' 'PLENTY' 'PREGNANT' 'PUSH' 'READY' 'RELAX' 'SETTLE' 'SINCE'
  'SPREAD' 'SURPRISE' 'TEACH' 'TIDY' 'TIRED' 'TOILET' 'TOUCH' 'WANT'
- 'WITHDRAW']","['Union', 'brother', 'impatient']","['better', 'less']",[],[],[],[],['brother']
-ira_36.mp4,['Yes'],[],[],[],[],[],[],['Yes'],[]
+ 'WITHDRAW']","['Union', 'brother', 'impatient']","['better', 'less']",[],[],[],[],['brother'],[]
+ira_36.mp4,['Yes'],[],[],[],[],[],[],['Yes'],[],[]
 ira_37.mp4,['good'],"['ALRIGHT' 'FANTASTIC' 'GOOD' 'HEALTHY' 'ILL' 'MORNING' 'OPERATE' 'SAFE'
- 'WORSE']",[],[],['good'],[],[],[],['good']
-ira_23.mp4,['friend'],['BOAT' 'DISCUSS' 'DOOR' 'LAPTOP' 'MANCHESTER' 'POOR' 'STILL'],['friend'],[],[],[],[],[],[]
+ 'WORSE']",[],[],['good'],[],[],[],['good'],['good']
+ira_23.mp4,['friend'],['BOAT' 'DISCUSS' 'DOOR' 'LAPTOP' 'MANCHESTER' 'POOR' 'STILL'],['friend'],[],[],[],[],[],[],[]
 ira_2.mp4,['beautiful' 'morning'],"['AREA' 'BRITAIN' 'DECREASE' 'FINISH' 'FLOCK' 'GESTURE' 'GRAB' 'LOW'
- 'MOVE' 'RAIN' 'WITHOUT']","['beautiful', 'morning']",[],[],[],[],[],[]
+ 'MOVE' 'RAIN' 'WITHOUT']","['beautiful', 'morning']",[],[],[],[],[],[],[]
 ira_35.mp4,[],"['ANGRY' 'ARRANGE' 'AUDIENCE' 'BEACH' 'BODY' 'CLOTHES' 'CONTINUE' 'DEPTH'
  'DIRTY' 'DISCUSS' 'ENCOURAGE' 'ESCAPE' 'EVALUATE' 'EXCHANGE' 'EXCITED'
  'FLOCK' 'FORWARD' 'FREE' 'GIVE' 'HEALTHY' 'HURT' 'MANAGE' 'PANIC' 'PLAY'
- 'RELAX' 'SCALES' 'SETTLE' 'SPREAD' 'TIRED' 'WITHOUT' 'WOW' 'WRITE']",[],[],[],[],[],[],[]
+ 'RELAX' 'SCALES' 'SETTLE' 'SPREAD' 'TIRED' 'WITHOUT' 'WOW' 'WRITE']",[],[],[],[],[],[],[],[]
 ira_21.mp4,['link' 'relationship'],"['AMERICA' 'BREATHE' 'FRIGHTENED' 'GROUP' 'HEALTHY' 'LINK' 'POOR' 'READY'
- 'RELATIONSHIP' 'RELAX' 'STILL' 'SURPRISE' 'TENT' 'WAR' 'WEDNESDAY']","['link', 'relationship']",[],[],[],[],[],[]
+ 'RELATIONSHIP' 'RELAX' 'STILL' 'SURPRISE' 'TENT' 'WAR' 'WEDNESDAY']","['link', 'relationship']",[],[],[],[],[],[],[]
 ira_20.mp4,['Yes' 'along' 'move' 'patience'],"['ALWAYS' 'BABY' 'BEHAVIOUR' 'BLACK' 'BODY' 'BOY' 'CLOTHES' 'DEAF' 'DEPTH'
  'DOOR' 'ENOUGH' 'HEALTHY' 'HELP' 'KNOW' 'LAPTOP' 'LOW' 'MAN' 'MANAGE'
  'NICE' 'NUMBER' 'PLENTY' 'POOR' 'PUB' 'READY' 'SAY' 'STILL' 'TOUCH'
- 'TRAIN' 'WANT']","['move', 'patience']",[],[],[],[],"['Yes', 'along']",[]
+ 'TRAIN' 'WANT']","['move', 'patience']",[],[],[],[],"['Yes', 'along']",[],[]
 ira_34.mp4,['.' 'Contenta' 'guys'],"['ANGRY' 'ANYTHING' 'BABY' 'BODY' 'BREATHE' 'BUSINESS' 'CHAIR' 'CLOTHES'
  'DIRTY' 'DISCUSS' 'EMPTY' 'ENCOURAGE' 'ENOUGH' 'ESCAPE' 'FREE' 'GIVE'
  'HEALTHY' 'LAPTOP' 'MANAGE' 'MANY' 'MORNING' 'PLAY' 'POOR' 'RELAX' 'SAFE'
- 'SCALES' 'SINCE' 'SURPRISE' 'WITHOUT' 'WOW']","['Contenta', 'guys']",[],[],[],[],[],[]
+ 'SCALES' 'SINCE' 'SURPRISE' 'WITHOUT' 'WOW']","['Contenta', 'guys']",[],[],[],[],[],[],[]
 ira_1.mp4,['hello'],"['AREA' 'BECKON' 'BODY' 'CLOTHES' 'ENCOURAGE' 'GO' 'LEAVE' 'RAIN' 'REMOVE'
- 'WITHOUT' 'WOW']",['hello'],[],[],[],[],[],[]
+ 'WITHOUT' 'WOW']",['hello'],[],[],[],[],[],[],[]
 proteinas_64.mp4,['Dad' 'Yes' 'eat' 'excuse' 'many' 'meat' 'portion' 'swing'],"['ALWAYS' 'ANGRY' 'AREA' 'BECKON' 'BODY' 'BORN' 'BOY' 'CHAIR' 'CLOTHES'
  'DEAF' 'DIG' 'ENOUGH' 'ESCAPE' 'EXCLUDE' 'FAMILY' 'FIND' 'FREE' 'FULL'
  'GO' 'GOOD' 'LOVELY' 'LOW' 'MISS' 'MORNING' 'NICE' 'NUMBER' 'PAST' 'PAY'
  'PLENTY' 'READY' 'RELAX' 'SAY' 'SIT' 'TAKE' 'TALL' 'TENT' 'TOMORROW'
- 'TOUCH' 'TRAIN' 'UPWARD' 'WALK' 'WANT' 'WITHDRAW']","['Dad', 'eat', 'excuse', 'meat', 'portion']",[],['many'],['swing'],[],['Yes'],['meat']
+ 'TOUCH' 'TRAIN' 'UPWARD' 'WALK' 'WANT' 'WITHDRAW']","['Dad', 'eat', 'excuse', 'meat', 'portion']",[],['many'],['swing'],[],['Yes'],['meat'],"['eat', 'many']"
 proteinas_70.mp4,['body' 'daily' 'eat' 'later' 'levels' 'need' 'tell'],"['BEHAVIOUR' 'BOY' 'BREATHE' 'BUILD' 'CHAIR' 'CLOTHES' 'DECREASE'
  'DESSERT' 'EMOTION' 'ENDURE' 'ENOUGH' 'FREE' 'FULL' 'GO' 'LOVE' 'LOVELY'
  'LOW' 'MAN' 'MIX' 'NICE' 'PLENTY' 'PREGNANT' 'READY' 'RELAX' 'SAY'
- 'SHOULDER' 'SURPRISE' 'TALL' 'TENT' 'TOUCH' 'UPWARD' 'WANT']","['body', 'eat', 'levels', 'need', 'tell']",['later'],['daily'],[],[],[],[]
+ 'SHOULDER' 'SURPRISE' 'TALL' 'TENT' 'TOUCH' 'UPWARD' 'WANT']","['body', 'eat', 'levels', 'need', 'tell']",['later'],['daily'],[],[],[],[],['eat']
 proteinas_58.mp4,['easy' 'good' 'think'],"['ADULT' 'BABY' 'BODY' 'CHAIR' 'CLOTHES' 'DECREASE' 'ESCAPE' 'GIVE' 'GO'
- 'LONDON' 'LOW' 'MANAGE' 'PAST' 'SINCE' 'TALL' 'WOW']",['think'],[],"['easy', 'good']",[],[],[],['good']
+ 'LONDON' 'LOW' 'MANAGE' 'PAST' 'SINCE' 'TALL' 'WOW']",['think'],[],"['easy', 'good']",[],[],[],['good'],['good']
 proteinas_105.mp4,['fifth' 'good' 'kids' 'primary' 'school' 'sixth' 'tell' 'think'],"['AMERICA' 'AREA' 'ARRANGE' 'ARRIVE' 'BALL' 'BEACH' 'BELFAST' 'BEST'
  'BODY' 'BOY' 'CHAIR' 'CHILD' 'CLOTHES' 'CONTINUE' 'DESSERT' 'DIRTY'
  'DISCUSS' 'ENOUGH' 'ESCAPE' 'EXPAND' 'FINISH' 'FLOCK' 'GIVE' 'KNOW'
  'LAPTOP' 'LONDON' 'LOW' 'MAN' 'MEAL' 'MISS' 'MORNING' 'NEXT' 'NICE'
  'PANIC' 'PERSON' 'PRACTISE' 'PREFER' 'RED' 'RELAX' 'RIGHT' 'SAY'
  'SCOTLAND' 'SLEEP' 'SPREAD' 'TALL' 'TENT' 'THINK' 'TOMORROW' 'TYPICAL'
- 'UNIT']","['fifth', 'kids', 'primary', 'school', 'sixth', 'tell', 'think']",[],['good'],[],[],[],['good']
+ 'UNIT']","['fifth', 'kids', 'primary', 'school', 'sixth', 'tell', 'think']",[],['good'],[],[],[],['good'],['good']
 proteinas_111.mp4,['apart' 'break' 'contain' 'focus' 'protein' 'today'],"['ACT' 'AREA' 'ARRIVE' 'BECKON' 'BODY' 'CHAIR' 'CHILD' 'CLOTHES'
  'DECREASE' 'DIRTY' 'DISCUSS' 'ESCAPE' 'EXCLUDE' 'FINISH' 'FLOCK' 'FREE'
  'GO' 'LONDON' 'LOW' 'PAST' 'PRACTISE' 'PREGNANT' 'READY' 'RELAX' 'SINCE'
- 'SURPRISE' 'TALL' 'TEACH' 'TENT' 'TIRED' 'TOUCH' 'UPWARD' 'WANT']","['break', 'contain', 'focus', 'protein', 'today']",['apart'],[],[],[],[],[]
+ 'SURPRISE' 'TALL' 'TEACH' 'TENT' 'TIRED' 'TOUCH' 'UPWARD' 'WANT']","['break', 'contain', 'focus', 'protein', 'today']",['apart'],[],[],[],[],[],[]
 proteinas_139.mp4,['Prices' 'one' 'share'],"['ADD' 'AREA' 'BACK' 'BODY' 'BORN' 'BOY' 'BREAK' 'CHAIR' 'CHILD' 'CLOTHES'
  'DECREASE' 'ENOUGH' 'ESCAPE' 'FAMILY' 'FINISH' 'FLOCK' 'FULL' 'FUTURE'
  'GO' 'GOOD' 'HOME' 'INCREASE' 'LONDON' 'LOOK' 'LOW' 'MAYBE' 'PAST'
  'PLENTY' 'PREGNANT' 'RELAX' 'SINCE' 'SPEECH' 'SPREAD' 'TALL' 'TIRED'
- 'TOILET' 'TOUCH' 'UNIT' 'UPWARD' 'WAIT' 'WANT' 'WITHDRAW']","['Prices', 'share']",[],[],[],[],['one'],[]
+ 'TOILET' 'TOUCH' 'UNIT' 'UPWARD' 'WAIT' 'WANT' 'WITHDRAW']","['Prices', 'share']",[],[],[],[],['one'],[],['one']
 proteinas_138.mp4,['.' 'grid'],"['AREA' 'BACK' 'CHAIR' 'DISCUSS' 'ESCAPE' 'FAMILY' 'GIVE' 'GO' 'HOME'
- 'MIX' 'PARK' 'PAST' 'READY' 'RELAX' 'SAY' 'SURPRISE' 'TALL' 'WANT']",['grid'],[],[],[],[],[],[]
+ 'MIX' 'PARK' 'PAST' 'READY' 'RELAX' 'SAY' 'SURPRISE' 'TALL' 'WANT']",['grid'],[],[],[],[],[],[],[]
 proteinas_110.mp4,"['C-A-R-B-O-H-I-D-R-A-T-O-S' 'M-I-N-E-R-A-L-E-S' 'Water' 'fat' 'mineral'
  'part' 'vitamin']","['ACT' 'AREA' 'ARRANGE' 'ARRIVE' 'AUDIENCE' 'BELFAST' 'BOY' 'CHAIR'
  'CHILD' 'CLOTHES' 'DECREASE' 'DESSERT' 'DISCUSS' 'ENOUGH' 'ESCAPE'
@@ -290,12 +290,12 @@ proteinas_110.mp4,"['C-A-R-B-O-H-I-D-R-A-T-O-S' 'M-I-N-E-R-A-L-E-S' 'Water' 'fat
  'HOME' 'KNOW' 'LAPTOP' 'LONDON' 'LOOK' 'LOW' 'MAN' 'MIX' 'MORNING' 'NEW'
  'NEXT' 'NICE' 'OPEN' 'PANIC' 'PARTY' 'PAST' 'PAY' 'PLENTY' 'REGULAR'
  'RELAX' 'REMEMBER' 'SAFE' 'SAY' 'SHOULDER' 'SHOW' 'SINCE' 'SMALL'
- 'STADIUM' 'SURROUNDINGS' 'TALL' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT']","['C-A-R-B-O-H-I-D-R-A-T-O-S', 'M-I-N-E-R-A-L-E-S', 'Water', 'fat', 'mineral', 'part', 'vitamin']",[],[],[],[],[],['fat']
+ 'STADIUM' 'SURROUNDINGS' 'TALL' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT']","['C-A-R-B-O-H-I-D-R-A-T-O-S', 'M-I-N-E-R-A-L-E-S', 'Water', 'fat', 'mineral', 'part', 'vitamin']",[],[],[],[],[],['fat'],[]
 proteinas_104.mp4,['approximately' 'different' 'eat' 'kids'],"['ALWAYS' 'AREA' 'ARRANGE' 'BECKON' 'BELFAST' 'BOY' 'CHAIR' 'CHILD'
  'CLOTHES' 'DEAF' 'DESSERT' 'EASY' 'ENGLAND' 'ESCAPE' 'FAMILY' 'GO'
  'LONDON' 'LOW' 'MISS' 'MIX' 'MORNING' 'NICE' 'PANIC' 'PARK' 'PAST'
  'READY' 'RELAX' 'ROTATE' 'SAY' 'SINCE' 'SLOW' 'THINK' 'TIRED' 'TOMORROW'
- 'TOUCH' 'WANT']","['eat', 'kids']",['approximately'],['different'],[],[],[],[]
+ 'TOUCH' 'WANT']","['eat', 'kids']",['approximately'],['different'],[],[],[],[],['eat']
 proteinas_59.mp4,"['/' 'Ah' 'Group' 'Health' 'Yes' 'cheese' 'continue' 'eat' 'food' 'ingest'
  'inside' 'natural' 'normally' 'process' 'tell' 'used']","['ALWAYS' 'ANGRY' 'ARRIVE' 'BANDAGE' 'BEHAVIOUR' 'BODY' 'BORN' 'BOY'
  'BREATHE' 'BUILD' 'CHAIR' 'CHRISTMAS' 'CLOTHES' 'DANCE' 'DEAF' 'DEPTH'
@@ -303,7 +303,7 @@ proteinas_59.mp4,"['/' 'Ah' 'Group' 'Health' 'Yes' 'cheese' 'continue' 'eat' 'fo
  'FREE' 'FRIGHTENED' 'FULL' 'GO' 'HURT' 'LINK' 'LOVELY' 'LOW' 'MANAGE'
  'MANCHESTER' 'MIX' 'MORNING' 'MOTHER' 'NICE' 'PLAN' 'PLENTY' 'POOR'
  'PRACTISE' 'PREGNANT' 'READY' 'RELAX' 'RETIRE' 'SAY' 'SNOOKER' 'SURPRISE'
- 'TENT' 'TIRED' 'TOMORROW' 'UNIVERSAL' 'WANT' 'WAR' 'WITHDRAW' 'WOW']","['/', 'Ah', 'Group', 'Health', 'cheese', 'continue', 'eat', 'food', 'ingest', 'process', 'tell']",['normally'],['natural'],['used'],[],"['Yes', 'inside']",[]
+ 'TENT' 'TIRED' 'TOMORROW' 'UNIVERSAL' 'WANT' 'WAR' 'WITHDRAW' 'WOW']","['/', 'Ah', 'Group', 'Health', 'cheese', 'continue', 'eat', 'food', 'ingest', 'process', 'tell']",['normally'],['natural'],['used'],[],"['Yes', 'inside']",[],['eat']
 proteinas_71.mp4,"['?' 'Nn' 'eat' 'forever' 'many' 'percentage' 'qu' 'report' 'strong'
  'value' 'watch' 'within']","['AREA' 'ARRIVE' 'BACK' 'BEACH' 'BODY' 'BORN' 'BOY' 'BRAINY' 'CHAIR'
  'CLOTHES' 'DANCE' 'DECREASE' 'DESSERT' 'DISAPPOINT' 'ENOUGH' 'ESCAPE'
@@ -311,24 +311,24 @@ proteinas_71.mp4,"['?' 'Nn' 'eat' 'forever' 'many' 'percentage' 'qu' 'report' 's
  'HOME' 'INCREASE' 'LEARN' 'LOVELY' 'LOW' 'MAN' 'MANAGE' 'MISS' 'MIX'
  'MORNING' 'NICE' 'PAST' 'RELAX' 'REMEMBER' 'RETIRE' 'SAY' 'SHOULDER'
  'START' 'SURROUNDINGS' 'TALL' 'THINK' 'TIRED' 'TOILET' 'TOMORROW' 'TOP'
- 'TOUCH' 'WANT' 'WOW']","['Nn', 'eat', 'percentage', 'qu', 'report', 'value', 'watch']",['forever'],"['many', 'strong']",[],[],['within'],[]
+ 'TOUCH' 'WANT' 'WOW']","['Nn', 'eat', 'percentage', 'qu', 'report', 'value', 'watch']",['forever'],"['many', 'strong']",[],[],['within'],[],"['eat', 'many']"
 proteinas_65.mp4,['Meter' 'beans' 'eat' 'example' 'like' 'plant' 'salad' 'tell'],"['AREA' 'ATMOSPHERE' 'BEACH' 'BEHAVIOUR' 'BIG' 'BOAT' 'BODY' 'BREATHE'
  'BUILD' 'BUY' 'CHAIR' 'CHANGE' 'CLOTHES' 'CRASH' 'DIG' 'DISAPPOINT'
  'DOOR' 'EMOTION' 'ESCAPE' 'FLOCK' 'FULL' 'GIVE' 'GO' 'GOOD' 'HAPPY'
  'INVOLVE' 'MANY' 'MIX' 'MORNING' 'MOTHER' 'PARTNER' 'PLAN' 'PREGNANT'
  'REGULAR' 'SATURDAY' 'SHOULDER' 'STILL' 'SURPRISE' 'TIDY' 'TIRED' 'TOP'
- 'TOUCH' 'UNIT' 'WANT' 'WIDTH']","['Meter', 'beans', 'eat', 'example', 'plant', 'salad', 'tell']",[],[],[],[],['like'],[]
+ 'TOUCH' 'UNIT' 'WANT' 'WIDTH']","['Meter', 'beans', 'eat', 'example', 'plant', 'salad', 'tell']",[],[],[],[],['like'],[],['eat']
 proteinas_73.mp4,['C' 'E' 'Welcome' 'teacher'],"['AREA' 'ARRIVE' 'BACK' 'BECKON' 'CHILD' 'DEAF' 'DECREASE' 'ENOUGH' 'GOOD'
- 'LOW' 'NEXT' 'PAST' 'RIGHT' 'SINCE' 'TALL' 'TOUCH' 'YES']","['E', 'teacher']",[],[],['Welcome'],[],[],[]
+ 'LOW' 'NEXT' 'PAST' 'RIGHT' 'SINCE' 'TALL' 'TOUCH' 'YES']","['E', 'teacher']",[],[],['Welcome'],[],[],[],[]
 proteinas_67.mp4,['different' 'eat' 'like' 'many' 'sense' 'strong' 'think' 'within'],"['ADULT' 'ALWAYS' 'ANGRY' 'BEHAVIOUR' 'BODY' 'BOY' 'BREATHE' 'CHAIR'
  'CLOTHES' 'CRY' 'DANCE' 'DECREASE' 'DESSERT' 'EMOTION' 'ENDURE' 'ENOUGH'
  'EXCITED' 'FEEL' 'HURT' 'INCREASE' 'LIKE' 'LOVE' 'LOW' 'MAN' 'MEAL'
  'MISS' 'MORNING' 'NEVER' 'NICE' 'PAST' 'PLENTY' 'SAY' 'SURPRISE' 'TALL'
- 'TOUCH' 'WANT']","['eat', 'sense', 'think']",[],"['different', 'many', 'strong']",[],[],"['like', 'within']",[]
+ 'TOUCH' 'WANT']","['eat', 'sense', 'think']",[],"['different', 'many', 'strong']",[],[],"['like', 'within']",[],"['eat', 'many']"
 proteinas_112.mp4,['chicken' 'meat' 'within'],"['ALWAYS' 'ANGRY' 'AREA' 'BACK' 'BECKON' 'BODY' 'BOY' 'CHILD' 'CLOTHES'
  'DEAF' 'DESSERT' 'DISAPPOINT' 'ENOUGH' 'EXCITED' 'EXPECT' 'FIND' 'FREE'
  'HURT' 'KNOW' 'LIVE' 'LONDON' 'LOW' 'MAN' 'MORNING' 'NICE' 'PARK'
- 'PREFER' 'RELAX' 'SAY' 'SINCE' 'TALL' 'TOUCH' 'WOW']","['chicken', 'meat']",[],[],[],[],['within'],['meat']
+ 'PREFER' 'RELAX' 'SAY' 'SINCE' 'TALL' 'TOUCH' 'WOW']","['chicken', 'meat']",[],[],[],[],['within'],['meat'],[]
 proteinas_106.mp4,"['eat' 'fifth' 'grade' 'kid' 'man' 'primary' 'sixth' 'think' 'value'
  'woman']","['ADULT' 'ALWAYS' 'AMERICA' 'AREA' 'ARRANGE' 'AUDIENCE' 'BEACH' 'BECKON'
  'BEHAVIOUR' 'BODY' 'BOY' 'BREATHE' 'BUILD' 'CHAIR' 'CHILD' 'CLOTHES'
@@ -337,20 +337,20 @@ proteinas_106.mp4,"['eat' 'fifth' 'grade' 'kid' 'man' 'primary' 'sixth' 'think' 
  'INCREASE' 'LAUGH' 'LONDON' 'LOVE' 'LOVELY' 'LOW' 'MAN' 'MERGE' 'MIX'
  'MORNING' 'NICE' 'PANIC' 'PAST' 'PREFER' 'PREGNANT' 'READY' 'RED' 'RELAX'
  'SAY' 'SINCE' 'SURPRISE' 'TALL' 'TENT' 'THINK' 'TIDY' 'TIRED' 'TOILET'
- 'TOMORROW' 'TOUCH' 'WANT' 'WAR']","['eat', 'fifth', 'grade', 'kid', 'man', 'primary', 'sixth', 'think', 'value', 'woman']",[],[],[],[],[],"['man', 'woman']"
+ 'TOMORROW' 'TOUCH' 'WANT' 'WAR']","['eat', 'fifth', 'grade', 'kid', 'man', 'primary', 'sixth', 'think', 'value', 'woman']",[],[],[],[],[],"['man', 'woman']","['eat', 'man', 'woman']"
 proteinas_98.mp4,['Protein' 'animals' 'different' 'egg' 'inside' 'milk' 'one'],"['ADD' 'ANGRY' 'ARRIVE' 'ASK' 'BACK' 'BEACH' 'BECKON' 'BODY' 'CHAIR'
  'CLOTHES' 'DECREASE' 'DEPTH' 'ENGLAND' 'ENOUGH' 'ESCAPE' 'EXCITED' 'FREE'
  'FULL' 'GO' 'GOOD' 'HEALTHY' 'INCREASE' 'LOW' 'MISS' 'MIX' 'PAST'
- 'PLENTY' 'PLUS' 'QUICK' 'RELAX' 'SINCE' 'TALL' 'TENT' 'TOUCH']","['Protein', 'animals', 'egg', 'milk']",[],['different'],[],[],"['inside', 'one']",['egg']
+ 'PLENTY' 'PLUS' 'QUICK' 'RELAX' 'SINCE' 'TALL' 'TENT' 'TOUCH']","['Protein', 'animals', 'egg', 'milk']",[],['different'],[],[],"['inside', 'one']",['egg'],"['egg', 'one']"
 proteinas_99.mp4,['chicken' 'cow' 'different' 'fish' 'meat' 'pork'],"['ALWAYS' 'ANGRY' 'AREA' 'BECKON' 'BODY' 'BOY' 'CHAIR' 'CHILD' 'CLOTHES'
  'DEAF' 'EXCITED' 'FREE' 'GO' 'GOOD' 'LONDON' 'LOW' 'MORNING' 'PAST'
  'READY' 'RELAX' 'SHOULDER' 'SINCE' 'TALL' 'TENT' 'TIRED' 'TOUCH' 'WANT'
- 'WOW']","['chicken', 'cow', 'fish', 'meat', 'pork']",[],['different'],[],[],[],"['fish', 'meat']"
+ 'WOW']","['chicken', 'cow', 'fish', 'meat', 'pork']",[],['different'],[],[],[],"['fish', 'meat']",['fish']
 proteinas_107.mp4,['Protein' 'daily' 'eat' 'fifty' 'grams'],"['ACT' 'ALWAYS' 'AREA' 'BEHAVIOUR' 'BODY' 'BOY' 'BREATHE' 'CHAIR' 'CHILD'
  'CLOTHES' 'DEAF' 'DECREASE' 'DESSERT' 'EMOTION' 'ENDURE' 'ENOUGH' 'FLOCK'
  'FREE' 'GO' 'KNOW' 'LONDON' 'LOOK' 'LOW' 'MAN' 'MORNING' 'MOVE' 'NICE'
  'PARTY' 'PAST' 'PLENTY' 'PREGNANT' 'READY' 'RELAX' 'SAY' 'SURPRISE'
- 'TALL' 'TEACH' 'THINK' 'TIRED' 'TOMORROW' 'TOUCH' 'UPWARD' 'WANT']","['Protein', 'eat', 'fifty', 'grams']",[],['daily'],[],[],[],[]
+ 'TALL' 'TEACH' 'THINK' 'TIRED' 'TOMORROW' 'TOUCH' 'UPWARD' 'WANT']","['Protein', 'eat', 'fifty', 'grams']",[],['daily'],[],[],[],[],['eat']
 proteinas_113.mp4,"['C-A-R-B-O-H-I-D-R-A-T-O-S' 'Water' 'fat' 'percentage' 'protein' 'seven'
  'ten' 'zero']","['ACT' 'ALWAYS' 'AMERICA' 'ANGRY' 'AREA' 'ASK' 'BACK' 'BECKON' 'BEDROOM'
  'BEHAVIOUR' 'BELFAST' 'BODY' 'BOY' 'BUILD' 'CHAIR' 'CHILD' 'CLOTHES'
@@ -362,17 +362,17 @@ proteinas_113.mp4,"['C-A-R-B-O-H-I-D-R-A-T-O-S' 'Water' 'fat' 'percentage' 'prot
  'PUB' 'READY' 'REGULAR' 'RELAX' 'RELIEF' 'REMEMBER' 'RIGHT' 'SAY'
  'SCOTLAND' 'SHOULDER' 'SINCE' 'SLEEP' 'SPEECH' 'SPREAD' 'START' 'STUPID'
  'TEA' 'TENT' 'THINK' 'TIRED' 'TOILET' 'TOMORROW' 'TOP' 'TOUCH' 'TRAIN'
- 'TRAIN3b' 'UNIVERSAL' 'UPWARD' 'WALK' 'WANT' 'WITHOUT' 'YES']","['C-A-R-B-O-H-I-D-R-A-T-O-S', 'Water', 'fat', 'percentage', 'protein', 'ten', 'zero']",[],[],[],[],['seven'],['fat']
+ 'TRAIN3b' 'UNIVERSAL' 'UPWARD' 'WALK' 'WANT' 'WITHOUT' 'YES']","['C-A-R-B-O-H-I-D-R-A-T-O-S', 'Water', 'fat', 'percentage', 'protein', 'ten', 'zero']",[],[],[],[],['seven'],['fat'],[]
 proteinas_66.mp4,['amount' 'body' 'eat' 'many'],"['ANGRY' 'ARRANGE' 'BODY' 'BORN' 'BREATHE' 'CHAIR' 'CLOTHES' 'DEPTH'
  'ENOUGH' 'ESCAPE' 'EXCITED' 'EXPAND' 'FIND' 'FINISH' 'FLOCK' 'FREE'
  'HEALTHY' 'HURT' 'LOVELY' 'LOW' 'MEAL' 'MISS' 'MORNING' 'PREGNANT'
  'READY' 'RELAX' 'SHOULDER' 'SURPRISE' 'TALL' 'TENT' 'TIRED' 'WANT' 'WAR'
- 'WITHDRAW' 'WOW']","['amount', 'body', 'eat']",[],['many'],[],[],[],[]
+ 'WITHDRAW' 'WOW']","['amount', 'body', 'eat']",[],['many'],[],[],[],[],"['eat', 'many']"
 proteinas_72.mp4,['teach'],"['BASE' 'BOY' 'CLOTHES' 'CRY' 'EXCITED' 'HEALTHY' 'ILL' 'LONDON' 'MEAL'
- 'MISS' 'MORNING' 'RELAX' 'RUN' 'SHOULDER']",['teach'],[],[],[],[],[],[]
+ 'MISS' 'MORNING' 'RELAX' 'RUN' 'SHOULDER']",['teach'],[],[],[],[],[],[],[]
 proteinas_76.mp4,['Peru' 'everything' 'hello' 'kids'],"['AREA' 'ARRANGE' 'CHAIR' 'CHILD' 'CLOTHES' 'DIRTY' 'ESCAPE' 'EXPAND'
  'FUTURE' 'GO' 'HOME' 'LOW' 'MERGE' 'PANIC' 'PAST' 'SETTLE' 'SPREAD'
- 'TALL' 'TIDY' 'TOUCH']","['Peru', 'everything', 'hello', 'kids']",[],[],[],[],[],[]
+ 'TALL' 'TIDY' 'TOUCH']","['Peru', 'everything', 'hello', 'kids']",[],[],[],[],[],[],[]
 proteinas_62.mp4,"['/' '?' 'Add' 'E' 'L' 'Maximum' 'N' 'R' 'Water' 'approximate' 'daily'
  'excuse' 'fat' 'good' 'include' 'inside' 'many' 'protein' 'vitamin']","['ACT' 'ADULT' 'ALWAYS' 'ANGRY' 'AREA' 'BACK' 'BANDAGE' 'BEACH'
  'BEHAVIOUR' 'BODY' 'BOY' 'BUILD' 'CHAIR' 'CLOTHES' 'DEPTH' 'DISCUSS'
@@ -381,30 +381,30 @@ proteinas_62.mp4,"['/' '?' 'Add' 'E' 'L' 'Maximum' 'N' 'R' 'Water' 'approximate'
  'MIX' 'MORNING' 'MOTHER' 'NICE' 'PAST' 'PEOPLE' 'PLENTY' 'POOR' 'READY'
  'REGULAR' 'RELAX' 'SATURDAY' 'SAY' 'SHOULDER' 'SHOW' 'SINCE' 'SPREAD'
  'STILL' 'SURPRISE' 'TALL' 'TEACH' 'TENT' 'TIRED' 'TOILET' 'TOMORROW'
- 'TOUCH' 'UPWARD' 'WANT' 'WITHOUT']","['/', 'E', 'L', 'Maximum', 'N', 'R', 'Water', 'approximate', 'excuse', 'fat', 'include', 'protein', 'vitamin']",[],"['daily', 'good', 'many']",['Add'],[],['inside'],"['fat', 'good']"
-proteinas_89.mp4,['hello'],['CHILD' 'DECREASE' 'EXCLUDE' 'GO' 'INCREASE' 'LOW' 'PAST' 'TALL'],['hello'],[],[],[],[],[],[]
+ 'TOUCH' 'UPWARD' 'WANT' 'WITHOUT']","['/', 'E', 'L', 'Maximum', 'N', 'R', 'Water', 'approximate', 'excuse', 'fat', 'include', 'protein', 'vitamin']",[],"['daily', 'good', 'many']",['Add'],[],['inside'],"['fat', 'good']","['good', 'many']"
+proteinas_89.mp4,['hello'],['CHILD' 'DECREASE' 'EXCLUDE' 'GO' 'INCREASE' 'LOW' 'PAST' 'TALL'],['hello'],[],[],[],[],[],[],[]
 proteinas_117.mp4,['Protein' 'approximate' 'chicken' 'many'],"['ACT' 'ADD' 'ALWAYS' 'ARRIVE' 'BACK' 'BODY' 'BORN' 'BOY' 'BUILD' 'CHAIR'
  'CLOTHES' 'DEAF' 'DESSERT' 'ENOUGH' 'FEEL' 'FINISH' 'FLOCK' 'FREE' 'GO'
  'GOOD' 'HEAR' 'HOME' 'KNOW' 'LONDON' 'LOOK' 'LOW' 'MORNING' 'MOVE' 'NEXT'
  'NICE' 'NOTHING' 'PARTY' 'PAST' 'PLENTY' 'PREGNANT' 'READY' 'RELAX'
  'RIGHT' 'SAY' 'TENT' 'THINK' 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT'
- 'YES']","['Protein', 'approximate', 'chicken']",[],['many'],[],[],[],[]
+ 'YES']","['Protein', 'approximate', 'chicken']",[],['many'],[],[],[],[],['many']
 proteinas_103.mp4,"['.' 'ask' 'different' 'eat' 'fifth' 'grade' 'kids' 'look' 'many' 'need'
  'sixth']","['ADULT' 'AMERICA' 'AREA' 'ARRANGE' 'ARRIVE' 'AUDIENCE' 'BEACH' 'BIG'
  'BODY' 'BOY' 'BREATHE' 'CHAIR' 'CHILD' 'CLOTHES' 'DECREASE' 'DEPTH'
  'DIRTY' 'EMOTION' 'ESCAPE' 'FLOCK' 'FREE' 'GIVE' 'HEALTHY' 'HEAVY'
  'INCREASE' 'LONDON' 'LOOK' 'LOW' 'MEAL' 'MERGE' 'MORNING' 'PANIC' 'PARK'
  'PAST' 'PREGNANT' 'READY' 'RELAX' 'SHOULDER' 'SINCE' 'SURPRISE' 'TALL'
- 'TENT' 'TIRED' 'TOILET' 'TOUCH' 'UNIT' 'WANT' 'WATER' 'WOW']","['ask', 'eat', 'fifth', 'grade', 'kids', 'look', 'need', 'sixth']",[],"['different', 'many']",[],[],[],[]
+ 'TENT' 'TIRED' 'TOILET' 'TOUCH' 'UNIT' 'WANT' 'WATER' 'WOW']","['ask', 'eat', 'fifth', 'grade', 'kids', 'look', 'need', 'sixth']",[],"['different', 'many']",[],[],[],[],"['eat', 'many']"
 proteinas_102.mp4,['adult' 'age' 'depends' 'eat' 'man' 'need' 'person' 'training' 'woman'],"['ALWAYS' 'ARRIVE' 'BACK' 'BEHAVIOUR' 'BODY' 'BORN' 'BOY' 'BREATHE'
  'CHAIR' 'CHILD' 'CLOTHES' 'DEAF' 'DESSERT' 'DISAPPOINT' 'EMOTION'
  'ENDURE' 'ENOUGH' 'ESCAPE' 'EXCITED' 'FLOCK' 'FREE' 'GO' 'GOOD'
  'INCREASE' 'KNOW' 'LAUGH' 'LIKE' 'LONDON' 'LOOK' 'LOW' 'MAN' 'MORNING'
  'NICE' 'PANIC' 'PAST' 'PLENTY' 'PREGNANT' 'READY' 'RELAX' 'SAY'
  'SHOULDER' 'SINCE' 'SPREAD' 'SURPRISE' 'TALL' 'TIRED' 'TOILET' 'TOMORROW'
- 'TOUCH' 'WANT' 'WITHDRAW']","['adult', 'age', 'depends', 'eat', 'man', 'need', 'person', 'training', 'woman']",[],[],[],[],[],"['man', 'person', 'woman']"
+ 'TOUCH' 'WANT' 'WITHDRAW']","['adult', 'age', 'depends', 'eat', 'man', 'need', 'person', 'training', 'woman']",[],[],[],[],[],"['man', 'person', 'woman']","['eat', 'man', 'person', 'woman']"
 proteinas_116.mp4,['good'],"['BASE' 'BOY' 'CHURCH' 'ENOUGH' 'EXCLUDE' 'LOW' 'MAN' 'NICE' 'PAST'
- 'PLENTY' 'PUB' 'START' 'TOUCH' 'WORK']",[],[],['good'],[],[],[],['good']
+ 'PLENTY' 'PUB' 'START' 'TOUCH' 'WORK']",[],[],['good'],[],[],[],['good'],['good']
 proteinas_88.mp4,"['come' 'eat' 'good' 'important' 'many' 'strong' 'think' 'together'
  'watch' 'within']","['ADULT' 'AGREE' 'ALWAYS' 'ARRANGE' 'ARRIVE' 'BABY' 'BACK' 'BEACH' 'BODY'
  'BORROW' 'BOY' 'BROTHER' 'CHAIR' 'CHURCH' 'CLOTHES' 'COMMUNICATE' 'CRASH'
@@ -412,188 +412,188 @@ proteinas_88.mp4,"['come' 'eat' 'good' 'important' 'many' 'strong' 'think' 'toge
  'HEALTHY' 'HELP' 'LAUGH' 'LONDON' 'LOW' 'MAN' 'MANAGE' 'MEAL' 'MORNING'
  'NICE' 'PANIC' 'PARTNER' 'PAST' 'PENCE' 'PLAY' 'PLENTY' 'READY' 'RELAX'
  'RUN' 'SAY' 'SCALES' 'SHOULDER' 'SINCE' 'SURPRISE' 'TALL' 'TEACH' 'TENT'
- 'TIRED' 'TOMORROW' 'TOUCH' 'UPWARD' 'WANT' 'WEEKEND' 'WITHOUT']","['eat', 'think', 'watch']",['together'],"['good', 'important', 'many', 'strong']",['come'],[],['within'],['good']
+ 'TIRED' 'TOMORROW' 'TOUCH' 'UPWARD' 'WANT' 'WEEKEND' 'WITHOUT']","['eat', 'think', 'watch']",['together'],"['good', 'important', 'many', 'strong']",['come'],[],['within'],['good'],"['come', 'eat', 'good', 'many']"
 proteinas_63.mp4,['benefit' 'eat' 'good' 'increase' 'many' 'think'],"['ALWAYS' 'AMERICA' 'AREA' 'BEHAVIOUR' 'BODY' 'BOY' 'BREATHE' 'BUILD'
  'CHAIR' 'CHILD' 'CLOTHES' 'DECREASE' 'DESSERT' 'EMOTION' 'ENDURE'
  'ENOUGH' 'FAMILY' 'FREE' 'FRIGHTENED' 'FULL' 'GIVE' 'GO' 'GOOD' 'GROUP'
  'KNOW' 'LONDON' 'LOVE' 'LOW' 'MAN' 'MEANING' 'MIX' 'MORNING' 'NICE'
  'NUMBER' 'PARK' 'PAST' 'PLENTY' 'PREGNANT' 'READY' 'RELAX' 'SAY'
  'SURPRISE' 'TALL' 'TENT' 'TOMORROW' 'TOUCH' 'UPWARD' 'WANT' 'WAR'
- 'WITHDRAW']","['benefit', 'eat', 'increase', 'think']",[],"['good', 'many']",[],[],[],['good']
+ 'WITHDRAW']","['benefit', 'eat', 'increase', 'think']",[],"['good', 'many']",[],[],[],['good'],"['eat', 'good', 'many']"
 proteinas_77.mp4,['C' 'P' 'PA' 'R'],"['BACK' 'BECKON' 'BOY' 'GO' 'HEARING' 'HOME' 'LOOK' 'LOW' 'PAST'
- 'REMEMBER' 'SAY' 'SINCE' 'THINK' 'TOUCH']","['P', 'PA', 'R']",[],[],[],[],[],[]
+ 'REMEMBER' 'SAY' 'SINCE' 'THINK' 'TOUCH']","['P', 'PA', 'R']",[],[],[],[],[],[],[]
 proteinas_49.mp4,['eat' 'times'],"['AREA' 'BLACK' 'BOY' 'DECREASE' 'DESSERT' 'ENOUGH' 'FAMILY' 'LOW'
- 'MORNING' 'NICE' 'PLENTY' 'TALL' 'TOUCH']","['eat', 'times']",[],[],[],[],[],[]
+ 'MORNING' 'NICE' 'PLENTY' 'TALL' 'TOUCH']","['eat', 'times']",[],[],[],[],[],[],['eat']
 proteinas_61.mp4,['benefit' 'eat' 'excuse' 'good' 'know' 'think'],"['ADULT' 'ALWAYS' 'AREA' 'ARRIVE' 'BACK' 'BECKON' 'BOY' 'BUILD' 'CHILD'
  'CLOTHES' 'COME' 'DECREASE' 'ENOUGH' 'EXCITED' 'EXPECT' 'FAMILY' 'FREE'
  'FUTURE' 'HOME' 'INCREASE' 'LONDON' 'LOW' 'MAN' 'MEAL' 'MORNING' 'NICE'
  'NOTHING' 'PARK' 'PAST' 'PEOPLE' 'PLENTY' 'READY' 'RELAX' 'SAY'
- 'SHOULDER' 'SINCE' 'SURPRISE' 'TALL' 'TOUCH' 'TRAIN' 'WANT']","['benefit', 'eat', 'excuse', 'think']",[],['good'],['know'],[],[],['good']
-proteinas_75.mp4,['hello'],['FUTURE' 'GO' 'HOME' 'LOW' 'PAST' 'TALL'],['hello'],[],[],[],[],[],[]
+ 'SHOULDER' 'SINCE' 'SURPRISE' 'TALL' 'TOUCH' 'TRAIN' 'WANT']","['benefit', 'eat', 'excuse', 'think']",[],['good'],['know'],[],[],['good'],"['eat', 'good', 'know']"
+proteinas_75.mp4,['hello'],['FUTURE' 'GO' 'HOME' 'LOW' 'PAST' 'TALL'],['hello'],[],[],[],[],[],[],[]
 proteinas_128.mp4,['Prices' 'percentage' 'protein'],"['ACT' 'ADD' 'ARRIVE' 'BACK' 'FINISH' 'FLOCK' 'GO' 'HOME' 'LOOK' 'LOW'
- 'MOVE' 'PARTY' 'PAY' 'RIGHT' 'SAY' 'TALL' 'TOUCH' 'TRAIN' 'WANT']","['Prices', 'percentage', 'protein']",[],[],[],[],[],[]
+ 'MOVE' 'PARTY' 'PAY' 'RIGHT' 'SAY' 'TALL' 'TOUCH' 'TRAIN' 'WANT']","['Prices', 'percentage', 'protein']",[],[],[],[],[],[],[]
 proteinas_100.mp4,"['C' 'H' 'Protein' 'RQ' 'Wi' 'animals' 'cow' 'different' 'dried' 'food'
  'meat' 'within']","['ACT' 'ADULT' 'ANGRY' 'BACK' 'BEHAVIOUR' 'BODY' 'BORN' 'BOY' 'BUILD'
  'CHAIR' 'CHILD' 'CLOTHES' 'DEAF' 'DECREASE' 'DEPTH' 'DISAPPOINT' 'ENOUGH'
  'EXCITED' 'FINISH' 'FLOCK' 'FREE' 'FRIGHTENED' 'GO' 'GOOD' 'HEALTHY'
  'HOME' 'INCREASE' 'LEG' 'LONDON' 'LOW' 'MEAL' 'MIX' 'MORNING' 'NOTHING'
  'PARTY' 'PAST' 'PERFECT' 'READY' 'RELAX' 'SAY' 'SHOULDER' 'SINCE' 'TALL'
- 'TEACH' 'TOILET' 'TOUCH' 'UPWARD' 'WANT' 'WITHOUT']","['H', 'Protein', 'RQ', 'Wi', 'animals', 'cow', 'food', 'meat']",[],['different'],['dried'],[],['within'],['meat']
+ 'TEACH' 'TOILET' 'TOUCH' 'UPWARD' 'WANT' 'WITHOUT']","['H', 'Protein', 'RQ', 'Wi', 'animals', 'cow', 'food', 'meat']",[],['different'],['dried'],[],['within'],['meat'],['dried']
 proteinas_114.mp4,['chicken' 'focus' 'meat' 'protein' 'share'],"['ADULT' 'ALWAYS' 'AREA' 'ARRIVE' 'BASE' 'BECKON' 'BELFAST' 'BOY' 'CHAIR'
  'CHILD' 'COVER' 'DECREASE' 'DESSERT' 'DIG' 'DIRTY' 'DISAPPOINT' 'ENOUGH'
  'EQUAL' 'ESCAPE' 'EXCLUDE' 'FINISH' 'FLOCK' 'FULL' 'GO' 'GOOD' 'LAUGH'
  'LONDON' 'LOW' 'MAN' 'MERGE' 'MISS' 'MORNING' 'NICE' 'PANIC' 'PARK'
  'PAST' 'PRACTISE' 'PREFER' 'RELAX' 'SAY' 'SHOULDNT' 'SINCE' 'SPREAD'
  'SURPRISE' 'TALL' 'TENT' 'TIDY' 'TOILET' 'TOMORROW' 'TOUCH' 'UPWARD'
- 'WANT' 'WITHOUT' 'WOW']","['chicken', 'focus', 'meat', 'protein', 'share']",[],[],[],[],[],['meat']
+ 'WANT' 'WITHOUT' 'WOW']","['chicken', 'focus', 'meat', 'protein', 'share']",[],[],[],[],[],['meat'],[]
 proteinas_115.mp4,['percentage' 'protein' 'zero'],"['ACT' 'ALWAYS' 'ARRIVE' 'BODY' 'BOY' 'BREATHE' 'CLOTHES' 'DESSERT'
  'DISAPPOINT' 'ENOUGH' 'FINISH' 'FLOCK' 'FOREIGN' 'HOME' 'INFORM' 'KNOW'
  'LONDON' 'LOW' 'MORNING' 'NEXT' 'NICE' 'NOTHING' 'PARTY' 'PAST' 'PERFECT'
  'READY' 'RELAX' 'SAY' 'SHOULDER' 'SLEEP' 'SURPRISE' 'TIRED' 'TOUCH'
- 'WANT' 'WITHOUT']","['percentage', 'protein', 'zero']",[],[],[],[],[],[]
+ 'WANT' 'WITHOUT']","['percentage', 'protein', 'zero']",[],[],[],[],[],[],[]
 proteinas_101.mp4,['Diarifying' 'approximate' 'eat' 'many' 'protein'],"['ADULT' 'ALWAYS' 'AREA' 'BEHAVIOUR' 'BODY' 'BOY' 'BUILD' 'CALLISTHENICS'
  'CHAIR' 'CHILD' 'CLOTHES' 'DECREASE' 'DEPTH' 'ENOUGH' 'ESCAPE' 'FLOCK'
  'FREE' 'FULL' 'GO' 'ILL' 'LONDON' 'LOW' 'MEAL' 'MIX' 'MORNING' 'PAST'
  'READY' 'RELAX' 'SAY' 'SEARCH' 'SHOULDER' 'SINCE' 'STADIUM' 'TALL' 'TENT'
- 'TOUCH' 'UPWARD']","['approximate', 'eat', 'protein']",[],['many'],['Diarifying'],[],[],[]
+ 'TOUCH' 'UPWARD']","['approximate', 'eat', 'protein']",[],['many'],['Diarifying'],[],[],[],"['eat', 'many']"
 proteinas_129.mp4,[],"['BEHAVIOUR' 'BODY' 'BORN' 'CHAIR' 'CHILD' 'CLOSED' 'CLOTHES' 'EMPTY'
  'ESCAPE' 'EXCITED' 'FREE' 'FULL' 'GO' 'LOW' 'MERGE' 'MORNING' 'RELAX'
- 'SETTLE' 'TIRED' 'TOILET' 'WANT']",[],[],[],[],[],[],[]
+ 'SETTLE' 'TIRED' 'TOILET' 'WANT']",[],[],[],[],[],[],[],[]
 proteinas_74.mp4,['excuse' 'percentage' 'teach'],"['ARRIVE' 'BACK' 'BUILD' 'FOREIGN' 'FULL' 'FUTURE' 'GO' 'GOOD' 'LONDON'
- 'LOW' 'NEVER' 'PAST' 'SINCE' 'SUN' 'TALL' 'TOUCH']","['excuse', 'percentage', 'teach']",[],[],[],[],[],[]
+ 'LOW' 'NEVER' 'PAST' 'SINCE' 'SUN' 'TALL' 'TOUCH']","['excuse', 'percentage', 'teach']",[],[],[],[],[],[],[]
 proteinas_60.mp4,"['E' 'L' 'N' 'Protein' 'R' 'fat' 'food' 'give' 'good' 'strong' 'tell'
  'vitamins' 'within']","['ADD' 'ANGRY' 'AREA' 'ARRANGE' 'ARRIVE' 'BACK' 'BAD' 'BECKON' 'BEHAVIOUR'
  'BODY' 'BOY' 'BUILD' 'CHAIR' 'CLOTHES' 'DOOR' 'ENOUGH' 'ESCAPE' 'EXCITED'
  'FLOCK' 'FREE' 'GO' 'GOOD' 'LAUGH' 'LONDON' 'LOOK' 'LOW' 'MIX' 'MORNING'
  'NEXT' 'NOTHING' 'PANIC' 'PARTY' 'PAST' 'POOR' 'RELAX' 'REMEMBER' 'RICH'
  'RIGHT' 'SAY' 'SEARCH' 'SHOULDER' 'SINCE' 'SPREAD' 'TALL' 'TEACH' 'TIRED'
- 'TOP' 'TOUCH' 'UPWARD' 'WANT']","['E', 'L', 'N', 'Protein', 'R', 'fat', 'food', 'tell', 'vitamins']",[],"['good', 'strong']",['give'],[],['within'],"['fat', 'good']"
-proteinas_48.mp4,[],['BACK' 'PAST' 'RIGHT' 'TOUCH'],[],[],[],[],[],[],[]
-proteinas_9.mp4,['perfect'],['ADULT' 'FLOCK' 'FREE' 'LOW' 'RELAX' 'TENT' 'UPWARD'],['perfect'],[],[],[],[],[],[]
+ 'TOP' 'TOUCH' 'UPWARD' 'WANT']","['E', 'L', 'N', 'Protein', 'R', 'fat', 'food', 'tell', 'vitamins']",[],"['good', 'strong']",['give'],[],['within'],"['fat', 'good']","['give', 'good']"
+proteinas_48.mp4,[],['BACK' 'PAST' 'RIGHT' 'TOUCH'],[],[],[],[],[],[],[],[]
+proteinas_9.mp4,['perfect'],['ADULT' 'FLOCK' 'FREE' 'LOW' 'RELAX' 'TENT' 'UPWARD'],['perfect'],[],[],[],[],[],[],[]
 proteinas_13.mp4,['different' 'eat' 'family' 'happy' 'think' 'try' 'week' 'within'],"['AMERICA' 'AUDIENCE' 'BEACH' 'BEHAVIOUR' 'BIG' 'BODY' 'BOY' 'CHAIR'
  'CHILD' 'CLOTHES' 'DIRTY' 'DOOR' 'EMOTION' 'ENOUGH' 'ESCAPE' 'EXPAND'
  'FALL' 'FULL' 'GO' 'GOOD' 'GROUP' 'INFLUENCE' 'LOW' 'MANAGE' 'MANY'
  'MERGE' 'MIX' 'MORNING' 'NICE' 'PAY' 'PLENTY' 'POOR' 'SAY' 'SPREAD'
- 'STADIUM' 'TALL' 'TENT' 'TOILET' 'TOUCH' 'WANT']","['eat', 'family', 'think', 'try', 'week']",[],"['different', 'happy']",[],[],['within'],[]
+ 'STADIUM' 'TALL' 'TENT' 'TOILET' 'TOUCH' 'WANT']","['eat', 'family', 'think', 'try', 'week']",[],"['different', 'happy']",[],[],['within'],[],['eat']
 proteinas_12.mp4,"['N' 'NN' 'come' 'everything' 'forget' 'notebook' 'questions' 'think'
  'write']","['ADULT' 'ANGRY' 'AREA' 'ARRIVE' 'ATMOSPHERE' 'BACK' 'BECKON' 'BEHAVIOUR'
  'BODY' 'BUILD' 'CHAIR' 'CLOTHES' 'DECREASE' 'DEPTH' 'DIRTY' 'DISCUSS'
  'EMPTY' 'ESCAPE' 'EXCHANGE' 'EXCITED' 'EXCLUDE' 'FULL' 'GIVE' 'GO'
  'HAPPY' 'HEALTHY' 'HOME' 'HURT' 'INCREASE' 'LAPTOP' 'LOW' 'MANAGE' 'MEAL'
  'MERGE' 'MIX' 'MOTHER' 'MOVE' 'PAST' 'PAY' 'PLAY' 'SINCE' 'TALL' 'TIDY'
- 'TOUCH' 'WOW']","['N', 'NN', 'everything', 'forget', 'notebook', 'questions', 'think', 'write']",[],[],['come'],[],[],[]
+ 'TOUCH' 'WOW']","['N', 'NN', 'everything', 'forget', 'notebook', 'questions', 'think', 'write']",[],[],['come'],[],[],[],['come']
 proteinas_8.mp4,['Ah'],"['ADULT' 'ARRIVE' 'DECREASE' 'ENOUGH' 'LOW' 'MORNING' 'RELAX' 'SHOULDER'
- 'TOUCH']",['Ah'],[],[],[],[],[],[]
+ 'TOUCH']",['Ah'],[],[],[],[],[],[],[]
 proteinas_10.mp4,['brother' 'dad' 'everybody' 'first' 'mother' 'warn'],"['ALWAYS' 'ARRIVE' 'BANDAGE' 'BUILD' 'BUY' 'CHAIR' 'CLOTHES' 'DEAF'
  'ESCAPE' 'FULL' 'GO' 'HURT' 'LOW' 'MEAL' 'MIX' 'NEVER' 'SAY' 'SIGN'
- 'START' 'TALL' 'WANT']","['brother', 'dad', 'everybody', 'mother', 'warn']",['first'],[],[],[],[],"['brother', 'mother']"
+ 'START' 'TALL' 'WANT']","['brother', 'dad', 'everybody', 'mother', 'warn']",['first'],[],[],[],[],"['brother', 'mother']",[]
 proteinas_38.mp4,['tell'],"['BABY' 'BOY' 'DISCUSS' 'EVALUATE' 'KNOW' 'LAUGH' 'LOOK' 'LOW' 'PLAY'
- 'SAY' 'SCALES' 'THINK' 'TIRED' 'TOILET' 'TOUCH']",['tell'],[],[],[],[],[],[]
+ 'SAY' 'SCALES' 'THINK' 'TIRED' 'TOILET' 'TOUCH']",['tell'],[],[],[],[],[],[],[]
 proteinas_39.mp4,['Yes'],"['BOY' 'DISAPPOINT' 'ENOUGH' 'MAN' 'NICE' 'PLENTY' 'SAY' 'SHOULDER'
- 'TOUCH']",[],[],[],[],[],['Yes'],[]
+ 'TOUCH']",[],[],[],[],[],['Yes'],[],[]
 proteinas_11.mp4,['Union' 'call' 'family' 'together' 'watch'],"['ARRIVE' 'BEACH' 'BEHAVIOUR' 'BODY' 'BROTHER' 'BUILD' 'CARAVAN' 'CHAIR'
  'CLOTHES' 'COMMUNICATE' 'CRASH' 'DECREASE' 'DEPTH' 'DOOR' 'EQUAL'
  'ESCAPE' 'FLOCK' 'HELP' 'HOUSE' 'LAPTOP' 'LOW' 'MANAGE' 'MEAL' 'PARTNER'
  'PAST' 'POOR' 'RELAX' 'SHOULDER' 'SINCE' 'SPREAD' 'STADIUM' 'TEACH'
- 'TENT' 'TOP' 'TOUCH' 'UPWARD' 'WEEKEND']","['Union', 'call', 'family', 'watch']",['together'],[],[],[],[],[]
+ 'TENT' 'TOP' 'TOUCH' 'UPWARD' 'WEEKEND']","['Union', 'call', 'family', 'watch']",['together'],[],[],[],[],[],[]
 proteinas_29.mp4,['days' 'five' 'four' 'next' 'put' 'three' 'two'],"['BODY' 'CHAIR' 'CHILD' 'CLOTHES' 'FLOCK' 'FREE' 'GOOD' 'LOOK' 'LOW'
- 'MERGE' 'PREGNANT' 'RAIN' 'RELAX' 'TALL' 'TIRED' 'WANT']","['days', 'put']",[],['next'],[],[],"['five', 'four', 'three', 'two']",[]
+ 'MERGE' 'PREGNANT' 'RAIN' 'RELAX' 'TALL' 'TIRED' 'WANT']","['days', 'put']",[],['next'],[],[],"['five', 'four', 'three', 'two']",[],['two']
 proteinas_15.mp4,['/' 'Conserve' 'Inca' 'Preserve' 'Water' 'save' 'use'],"['ANGRY' 'ANYTHING' 'AREA' 'BACK' 'BECKON' 'BODY' 'BORN' 'BOY' 'CHAIR'
  'CHILD' 'CLOTHES' 'DEAF' 'DESSERT' 'DISAPPOINT' 'DOOR' 'ENOUGH' 'ESCAPE'
  'EVALUATE' 'FAMILY' 'FREE' 'FRIGHTENED' 'FULL' 'GO' 'INSERT' 'INVOLVE'
  'LONDON' 'LOW' 'MORNING' 'MOTHER' 'NICE' 'PAST' 'PRACTISE' 'READY'
  'RELAX' 'SAY' 'SHOULDER' 'SINCE' 'SURPRISE' 'TALL' 'TENT' 'TIRED'
- 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']","['/', 'Conserve', 'Inca', 'Preserve', 'Water', 'use']",[],[],['save'],[],[],[]
+ 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']","['/', 'Conserve', 'Inca', 'Preserve', 'Water', 'use']",[],[],['save'],[],[],[],[]
 proteinas_14.mp4,['Ah' 'continue' 'different' 'eat' 'know' 'save' 'way' 'well'],"['ANGRY' 'ANYTHING' 'AREA' 'BACK' 'BECKON' 'BODY' 'BORN' 'BOY' 'CHAIR'
  'CHILD' 'CLOTHES' 'DEAF' 'DESSERT' 'DISAPPOINT' 'DOOR' 'ENOUGH' 'ESCAPE'
  'EVALUATE' 'FAMILY' 'FREE' 'FRIGHTENED' 'FULL' 'GO' 'INSERT' 'INVOLVE'
  'LONDON' 'LOW' 'MORNING' 'MOTHER' 'NICE' 'PAST' 'PRACTISE' 'READY'
  'RELAX' 'SAY' 'SHOULDER' 'SINCE' 'SURPRISE' 'TALL' 'TENT' 'TIRED'
- 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']","['Ah', 'continue', 'eat', 'way']",['well'],['different'],"['know', 'save']",[],[],[]
+ 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']","['Ah', 'continue', 'eat', 'way']",['well'],['different'],"['know', 'save']",[],[],[],"['eat', 'know']"
 proteinas_28.mp4,"['Water' 'approximately' 'day' 'five' 'flip' 'four' 'open' 'put' 'spray'
  'tie']","['AREA' 'ASK' 'BEACH' 'BODY' 'BOY' 'CHAIR' 'CHILD' 'CLOTHES' 'DESSERT'
  'DISAPPOINT' 'DRINK' 'ENOUGH' 'ESCAPE' 'EXCITED' 'EXCLUDE' 'FOREIGN'
  'FREE' 'GO' 'HOME' 'HURT' 'LAUGH' 'LOOK' 'LOW' 'MEAL' 'MIX' 'MORNING'
  'PRACTISE' 'READY' 'RELAX' 'SAY' 'SPREAD' 'TALL' 'TIRED' 'TOUCH'
- 'UNIVERSAL' 'WANT']","['Water', 'day', 'flip', 'put', 'spray', 'tie']",['approximately'],['open'],[],[],"['five', 'four']",['day']
+ 'UNIVERSAL' 'WANT']","['Water', 'day', 'flip', 'put', 'spray', 'tie']",['approximately'],['open'],[],[],"['five', 'four']",['day'],[]
 proteinas_16.mp4,['C' 'H' 'meat' 'save' 'take'],"['ANGRY' 'ANYTHING' 'AREA' 'BACK' 'BECKON' 'BODY' 'BORN' 'BOY' 'CHAIR'
  'CHILD' 'CLOTHES' 'DEAF' 'DESSERT' 'DISAPPOINT' 'DOOR' 'ENOUGH' 'ESCAPE'
  'EVALUATE' 'FAMILY' 'FREE' 'FRIGHTENED' 'FULL' 'GO' 'INSERT' 'INVOLVE'
  'LONDON' 'LOW' 'MORNING' 'MOTHER' 'NICE' 'PAST' 'PRACTISE' 'READY'
  'RELAX' 'SAY' 'SHOULDER' 'SINCE' 'SURPRISE' 'TALL' 'TENT' 'TIRED'
- 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']","['H', 'meat']",[],[],"['save', 'take']",[],[],['meat']
+ 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']","['H', 'meat']",[],[],"['save', 'take']",[],[],['meat'],[]
 proteinas_17.mp4,['Group' 'N' 'NN' 'Please' 'change' 'continue' 'save' 'tell' 'temperature'],"['ANGRY' 'ANYTHING' 'AREA' 'BACK' 'BECKON' 'BODY' 'BORN' 'BOY' 'CHAIR'
  'CHILD' 'CLOTHES' 'DEAF' 'DESSERT' 'DISAPPOINT' 'DOOR' 'ENOUGH' 'ESCAPE'
  'EVALUATE' 'FAMILY' 'FREE' 'FRIGHTENED' 'FULL' 'GO' 'INSERT' 'INVOLVE'
  'LONDON' 'LOW' 'MORNING' 'MOTHER' 'NICE' 'PAST' 'PRACTISE' 'READY'
  'RELAX' 'SAY' 'SHOULDER' 'SINCE' 'SURPRISE' 'TALL' 'TENT' 'TIRED'
- 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']","['Group', 'N', 'NN', 'change', 'continue', 'tell', 'temperature']",[],[],"['Please', 'save']",[],[],[]
+ 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']","['Group', 'N', 'NN', 'change', 'continue', 'tell', 'temperature']",[],[],"['Please', 'save']",[],[],[],[]
 proteinas_26.mp4,['Water' 'beans' 'cover' 'meter' 'tie'],"['AREA' 'BOY' 'CHAIR' 'DECREASE' 'DISAPPOINT' 'DISCUSS' 'ESCAPE' 'FULL'
  'FUTURE' 'GO' 'GOOD' 'INCREASE' 'KNOW' 'LAUGH' 'LOW' 'MAN' 'MIX'
  'MORNING' 'NEW' 'NICE' 'NUMBER' 'PAST' 'PREFER' 'SAY' 'SHOULDER'
- 'SURROUNDINGS' 'TALL' 'TOMORROW' 'WRITE']","['Water', 'beans', 'cover', 'meter', 'tie']",[],[],[],[],[],[]
+ 'SURROUNDINGS' 'TALL' 'TOMORROW' 'WRITE']","['Water', 'beans', 'cover', 'meter', 'tie']",[],[],[],[],[],[],[]
 proteinas_32.mp4,['?' 'Health' 'eat' 'excuse' 'healthy'],"['BODY' 'BOY' 'CLOTHES' 'DEPTH' 'DESSERT' 'ENOUGH' 'FREE' 'HEALTHY' 'ILL'
  'LOW' 'MEAL' 'MORNING' 'READY' 'RELAX' 'RUN' 'SURPRISE' 'TENT' 'TIRED'
- 'WANT' 'WAR']","['Health', 'eat', 'excuse']",[],['healthy'],[],[],[],[]
+ 'WANT' 'WAR']","['Health', 'eat', 'excuse']",[],['healthy'],[],[],[],[],['eat']
 proteinas_33.mp4,['Health' 'eat' 'questions' 'strong' 'think' 'within'],"['ADULT' 'ANGRY' 'BANDAGE' 'BEHAVIOUR' 'BODY' 'BORN' 'BREATHE' 'BUILD'
  'CHAIR' 'CLOTHES' 'DECREASE' 'EXCITED' 'EXPAND' 'FREE' 'FULL' 'HURT'
  'INCREASE' 'LOW' 'MEAL' 'MIX' 'PREGNANT' 'READY' 'RELAX' 'SHOULDER'
- 'SURPRISE' 'TALL' 'TENT' 'TIRED' 'TOILET' 'WANT']","['Health', 'eat', 'questions', 'think']",[],['strong'],[],[],['within'],[]
+ 'SURPRISE' 'TALL' 'TENT' 'TIRED' 'TOILET' 'WANT']","['Health', 'eat', 'questions', 'think']",[],['strong'],[],[],['within'],[],['eat']
 proteinas_27.mp4,['Water' 'bottle' 'flow' 'frequently' 'later' 'leave' 'throw' 'uncover'],"['ALWAYS' 'ANGRY' 'AREA' 'BODY' 'BORN' 'BOY' 'CHAIR' 'CHILD' 'CLOTHES'
  'DECREASE' 'DESSERT' 'DISAPPOINT' 'ENOUGH' 'ESCAPE' 'EXCITED' 'EXCLUDE'
  'FIND' 'GO' 'HURT' 'LAUGH' 'LONDON' 'LOW' 'MEAL' 'MORNING' 'NICE' 'PAST'
  'POOR' 'READY' 'RELAX' 'ROTATE' 'SAY' 'SHOULDER' 'TALL' 'TOILET'
- 'TOMORROW' 'TOUCH']","['Water', 'bottle', 'flow', 'throw', 'uncover']","['frequently', 'later']",[],['leave'],[],[],[]
+ 'TOMORROW' 'TOUCH']","['Water', 'bottle', 'flow', 'throw', 'uncover']","['frequently', 'later']",[],['leave'],[],[],[],[]
 proteinas_1.mp4,['Meter' 'day' 'fifth' 'good' 'grade' 'kids' 'primary' 'sixth'],"['AMERICA' 'AREA' 'BEACH' 'BEHAVIOUR' 'BODY' 'BUILD' 'CHAIR' 'CLOTHES'
  'DISCUSS' 'DRINK' 'ENOUGH' 'ESCAPE' 'FULL' 'GO' 'LOVELY' 'LOW' 'MIX'
- 'PARK' 'PAST' 'READY' 'RELAX' 'TENT' 'UNIT' 'WANT' 'WATER' 'WOW']","['Meter', 'day', 'fifth', 'grade', 'kids', 'primary', 'sixth']",[],['good'],[],[],[],"['day', 'good']"
-proteinas_3.mp4,['excuse' 'today'],['BODY' 'BORN' 'CHAIR' 'CLOTHES' 'FREE' 'HEALTHY' 'LOW' 'RELAX'],"['excuse', 'today']",[],[],[],[],[],[]
+ 'PARK' 'PAST' 'READY' 'RELAX' 'TENT' 'UNIT' 'WANT' 'WATER' 'WOW']","['Meter', 'day', 'fifth', 'grade', 'kids', 'primary', 'sixth']",[],['good'],[],[],[],"['day', 'good']",['good']
+proteinas_3.mp4,['excuse' 'today'],['BODY' 'BORN' 'CHAIR' 'CLOTHES' 'FREE' 'HEALTHY' 'LOW' 'RELAX'],"['excuse', 'today']",[],[],[],[],[],[],[]
 proteinas_31.mp4,['?' 'Please' 'Yes' 'dried' 'healthy' 'meat' 'preserved' 'tell'],"['AMERICA' 'BODY' 'BOY' 'BREATHE' 'CLOTHES' 'DEAF' 'DISAPPOINT' 'EMOTION'
  'EXCITED' 'EXPAND' 'FLOCK' 'FREE' 'GO' 'LINK' 'LONDON' 'LOOK' 'LOW'
  'MISS' 'MORNING' 'NICE' 'PAST' 'PREGNANT' 'READY' 'RELAX' 'SAY'
- 'SURPRISE' 'SWIM' 'TIRED' 'TOUCH' 'WANT' 'WATER' 'WITHDRAW']","['meat', 'tell']",[],['healthy'],"['Please', 'dried', 'preserved']",[],['Yes'],['meat']
+ 'SURPRISE' 'SWIM' 'TIRED' 'TOUCH' 'WANT' 'WATER' 'WITHDRAW']","['meat', 'tell']",[],['healthy'],"['Please', 'dried', 'preserved']",[],['Yes'],['meat'],['dried']
 proteinas_25.mp4,['excuse' 'first' 'plant' 'process'],"['BANDAGE' 'BEHAVIOUR' 'BODY' 'BUILD' 'CHAIR' 'CHILD' 'CLOTHES' 'DEAF'
  'DOOR' 'ESCAPE' 'EXCITED' 'FREE' 'FULL' 'INCREASE' 'INVOLVE' 'LOW'
  'MANAGE' 'MIX' 'MOTHER' 'POOR' 'PRACTISE' 'READY' 'RELAX' 'SHOULDER'
- 'STILL' 'TALL' 'TIRED' 'TOUCH' 'WANT']","['excuse', 'plant', 'process']",['first'],[],[],[],[],[]
+ 'STILL' 'TALL' 'TIRED' 'TOUCH' 'WANT']","['excuse', 'plant', 'process']",['first'],[],[],[],[],[],[]
 proteinas_19.mp4,['interesting'],"['ANGRY' 'ANYTHING' 'AREA' 'BACK' 'BECKON' 'BODY' 'BORN' 'BOY' 'CHAIR'
  'CHILD' 'CLOTHES' 'DEAF' 'DESSERT' 'DISAPPOINT' 'DOOR' 'ENOUGH' 'ESCAPE'
  'EVALUATE' 'FAMILY' 'FREE' 'FRIGHTENED' 'FULL' 'GO' 'INSERT' 'INVOLVE'
  'LONDON' 'LOW' 'MORNING' 'MOTHER' 'NICE' 'PAST' 'PRACTISE' 'READY'
  'RELAX' 'SAY' 'SHOULDER' 'SINCE' 'SURPRISE' 'TALL' 'TENT' 'TIRED'
- 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']",[],[],[],['interesting'],[],[],[]
+ 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']",[],[],[],['interesting'],[],[],[],[]
 proteinas_144.mp4,[],"['ANGRY' 'BEHAVIOUR' 'BODY' 'CHAIR' 'CLOTHES' 'DEPTH' 'EXCITED' 'FREE'
  'FULL' 'GO' 'HURT' 'LOW' 'MANAGE' 'MEAL' 'MIX' 'RELAX' 'SHOULDER' 'TALL'
- 'TIRED' 'WOW']",[],[],[],[],[],[],[]
+ 'TIRED' 'WOW']",[],[],[],[],[],[],[],[]
 proteinas_18.mp4,['meat' 'shall'],"['ANGRY' 'ANYTHING' 'AREA' 'BACK' 'BECKON' 'BODY' 'BORN' 'BOY' 'CHAIR'
  'CHILD' 'CLOTHES' 'DEAF' 'DESSERT' 'DISAPPOINT' 'DOOR' 'ENOUGH' 'ESCAPE'
  'EVALUATE' 'FAMILY' 'FREE' 'FRIGHTENED' 'FULL' 'GO' 'INSERT' 'INVOLVE'
  'LONDON' 'LOW' 'MORNING' 'MOTHER' 'NICE' 'PAST' 'PRACTISE' 'READY'
  'RELAX' 'SAY' 'SHOULDER' 'SINCE' 'SURPRISE' 'TALL' 'TENT' 'TIRED'
- 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']",['meat'],[],[],[],[],['shall'],['meat']
+ 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']",['meat'],[],[],[],[],['shall'],['meat'],[]
 proteinas_24.mp4,['remind' 'worry'],"['BUILD' 'CHAIR' 'DECORATE' 'ESCAPE' 'FULL' 'FUTURE' 'GO' 'HOME' 'MIX'
- 'PAST' 'SINCE' 'STRAIGHTAWAY' 'TALL']","['remind', 'worry']",[],[],[],[],[],[]
+ 'PAST' 'SINCE' 'STRAIGHTAWAY' 'TALL']","['remind', 'worry']",[],[],[],[],[],[],[]
 proteinas_30.mp4,['beans' 'plant' 'think'],"['BASE' 'BEHAVIOUR' 'BUILD' 'CHANGE' 'CHILD' 'CHURCH' 'CLOTHES' 'CRY'
  'DEAF' 'ESCAPE' 'EXCITED' 'EXPLAIN' 'FINISH' 'FIRE' 'FLOCK' 'FREE' 'FULL'
  'GAME' 'GO' 'HAPPEN' 'HELP' 'HOME' 'ILL' 'INDEPENDENT' 'INFORMATION'
  'LONDON' 'LOW' 'MAKE' 'MEAL' 'NEVER' 'NEW' 'PANIC' 'PAST' 'PRAISE'
  'REGULAR' 'RELAX' 'RUN' 'SATURDAY' 'SHOULDER' 'SHOW' 'START' 'SUNDAY'
- 'TALL' 'TEACH' 'TIRED' 'WANT']","['beans', 'plant', 'think']",[],[],[],[],[],[]
+ 'TALL' 'TEACH' 'TIRED' 'WANT']","['beans', 'plant', 'think']",[],[],[],[],[],[],[]
 proteinas_2.mp4,['Name' 'P-A-T-R-I-C-I-A'],"['AREA' 'BEHAVIOUR' 'BUILD' 'CHAIR' 'CLOTHES' 'DEAF' 'ENOUGH' 'ESCAPE'
  'EXCITED' 'FEEL' 'FULL' 'HEALTHY' 'KNOW' 'LIVE' 'LOOK' 'LOW' 'MIX'
- 'READY' 'SURPRISE' 'TALL' 'THINK' 'WANT']","['Name', 'P-A-T-R-I-C-I-A']",[],[],[],[],[],[]
+ 'READY' 'SURPRISE' 'TALL' 'THINK' 'WANT']","['Name', 'P-A-T-R-I-C-I-A']",[],[],[],[],[],[],[]
 proteinas_6.mp4,['continue' 'educate' 'guys' 'home' 'idea' 'learn' 'ministry' 'picture'],"['AREA' 'BEHAVIOUR' 'CHAIR' 'CHILD' 'CLOTHES' 'DECORATE' 'DECREASE'
- 'ENOUGH' 'ESCAPE' 'GO' 'GOOD' 'INCREASE' 'LOW' 'PAST' 'TALL']","['continue', 'educate', 'guys', 'home', 'idea', 'learn', 'ministry', 'picture']",[],[],[],[],[],[]
+ 'ENOUGH' 'ESCAPE' 'GO' 'GOOD' 'INCREASE' 'LOW' 'PAST' 'TALL']","['continue', 'educate', 'guys', 'home', 'idea', 'learn', 'ministry', 'picture']",[],[],[],[],[],[],[]
 proteinas_34.mp4,['community' 'eat' 'know' 'stuff' 'times'],"['ALWAYS' 'AREA' 'BACK' 'BECKON' 'BOY' 'BUILD' 'CHAIR' 'CHILD' 'CLOTHES'
  'DEAF' 'DESSERT' 'DISAPPOINT' 'ENOUGH' 'EVALUATE' 'FINISH' 'FLOCK' 'GOOD'
  'HEAVY' 'LAUGH' 'LOVELY' 'LOW' 'NICE' 'PAST' 'RELAX' 'SAY' 'SCALES'
  'SETTLE' 'SHOULDER' 'SINCE' 'SPREAD' 'TALL' 'TENT' 'TOILET' 'TOMORROW'
- 'TOUCH' 'WITHOUT']","['community', 'eat', 'stuff', 'times']",[],[],['know'],[],[],[]
+ 'TOUCH' 'WITHOUT']","['community', 'eat', 'stuff', 'times']",[],[],['know'],[],[],[],"['eat', 'know']"
 proteinas_20.mp4,['Ah' 'eat' 'growing' 'know' 'plant' 'sow' 'sprout' 'think'],"['ANGRY' 'AREA' 'ARRIVE' 'BALL' 'BEHAVIOUR' 'BODY' 'BREAK' 'BUILD' 'CHAIR'
  'CLOTHES' 'DANCE' 'DISCUSS' 'DOOR' 'ENGLAND' 'ESCAPE' 'FLOCK' 'FREE'
  'FULL' 'GIVE' 'GO' 'HURT' 'INVOLVE' 'LOW' 'MANAGE' 'MANY' 'MIX' 'MOVE'
  'NEVER' 'NEW' 'PAST' 'PAY' 'PRACTISE' 'RELAX' 'SHOW' 'SIT' 'SURROUNDINGS'
- 'TALL' 'TIRED' 'UPWARD' 'WANT' 'WOW']","['Ah', 'eat', 'plant', 'sow', 'sprout', 'think']",[],[],"['growing', 'know']",[],[],[]
+ 'TALL' 'TIRED' 'UPWARD' 'WANT' 'WOW']","['Ah', 'eat', 'plant', 'sow', 'sprout', 'think']",[],[],"['growing', 'know']",[],[],[],"['eat', 'know']"
 proteinas_141.mp4,['Prices' 'ask' 'many' 'one' 'percentage'],"['ALWAYS' 'ANGRY' 'ARRIVE' 'BACK' 'BECKON' 'BEHAVIOUR' 'BIRTHDAY' 'BODY'
  'BOY' 'BREATHE' 'BUILD' 'CARAVAN' 'CHAIR' 'CLOTHES' 'DEBATE' 'DECREASE'
  'DEPTH' 'DESSERT' 'DISAPPOINT' 'ENDURE' 'ENOUGH' 'ESCAPE' 'EXCITED'
@@ -601,7 +601,7 @@ proteinas_141.mp4,['Prices' 'ask' 'many' 'one' 'percentage'],"['ALWAYS' 'ANGRY' 
  'KNOW' 'LONDON' 'LOOK' 'LOVE' 'LOW' 'MAN' 'MANAGE' 'MORNING' 'MOVE'
  'NICE' 'PAST' 'PLENTY' 'PREGNANT' 'READY' 'RELAX' 'SAY' 'SHOULDER'
  'SINCE' 'SLEEP' 'SPREAD' 'SUN' 'SURPRISE' 'TALL' 'TEACH' 'TENT'
- 'TOMORROW' 'TOUCH' 'UNIT' 'UPWARD' 'WANT']","['Prices', 'ask', 'percentage']",[],['many'],[],[],['one'],[]
+ 'TOMORROW' 'TOUCH' 'UNIT' 'UPWARD' 'WANT']","['Prices', 'ask', 'percentage']",[],['many'],[],[],['one'],[],"['many', 'one']"
 proteinas_140.mp4,['Prices' 'everything' 'one' 'percentage'],"['ADULT' 'ANGRY' 'AREA' 'ARRIVE' 'ASK' 'BACK' 'BECKON' 'BEHAVIOUR' 'BODY'
  'BOX' 'BOY' 'BUILD' 'CHAIR' 'CHILD' 'CLOTHES' 'DANCE' 'DECREASE' 'DEPTH'
  'DISAPPOINT' 'DOOR' 'EMOTION' 'ESCAPE' 'EXCITED' 'EXCLUDE' 'EXPAND'
@@ -609,7 +609,7 @@ proteinas_140.mp4,['Prices' 'everything' 'one' 'percentage'],"['ADULT' 'ANGRY' '
  'INFORM' 'KNOW' 'LIKE' 'LONDON' 'LOOK' 'LOW' 'MAN' 'MANAGE' 'MISS'
  'MORNING' 'NICE' 'PAST' 'POOR' 'PREGNANT' 'READY' 'RELAX' 'SAY'
  'SHOULDER' 'SINCE' 'SLOW' 'SPEECH' 'SPREAD' 'SURPRISE' 'TALL' 'TENT'
- 'TIRED' 'TOILET' 'TOMORROW' 'TOUCH' 'UNIT' 'UPWARD' 'WANT' 'WOW' 'YES']","['Prices', 'everything', 'percentage']",[],[],[],[],['one'],[]
+ 'TIRED' 'TOILET' 'TOMORROW' 'TOUCH' 'UNIT' 'UPWARD' 'WANT' 'WOW' 'YES']","['Prices', 'everything', 'percentage']",[],[],[],[],['one'],[],['one']
 proteinas_21.mp4,"['.' '/' '?' 'Ah' 'Seed' 'Sprout' 'TV' 'beans' 'change' 'great' 'new'
  'plant' 'pollen' 'sprout' 'today' 'watch']","['ALWAYS' 'AMERICA' 'ANGRY' 'AREA' 'ARRANGE' 'ARRIVE' 'AUDIENCE' 'BABY'
  'BEACH' 'BEHAVIOUR' 'BIG' 'BOAT' 'BODY' 'BOY' 'BREATHE' 'CHAIR' 'CHILD'
@@ -619,39 +619,39 @@ proteinas_21.mp4,"['.' '/' '?' 'Ah' 'Seed' 'Sprout' 'TV' 'beans' 'change' 'great
  'INCREASE' 'INVOLVE' 'LAPTOP' 'LINK' 'LONDON' 'LOW' 'MANY' 'MEAL'
  'MORNING' 'MOTHER' 'NEW' 'NICE' 'PAST' 'POOR' 'READY' 'REGULAR' 'RELAX'
  'SAFE' 'SAY' 'SEPARATE' 'SHOULDER' 'SINCE' 'SPREAD' 'STADIUM' 'STILL'
- 'SURPRISE' 'SURROUNDINGS' 'TALL' 'TENT' 'TOP' 'TOUCH' 'WANT']","['/', 'Ah', 'Seed', 'Sprout', 'TV', 'beans', 'change', 'plant', 'pollen', 'sprout', 'today', 'watch']",[],"['great', 'new']",[],[],[],['new']
+ 'SURPRISE' 'SURROUNDINGS' 'TALL' 'TENT' 'TOP' 'TOUCH' 'WANT']","['/', 'Ah', 'Seed', 'Sprout', 'TV', 'beans', 'change', 'plant', 'pollen', 'sprout', 'today', 'watch']",[],"['great', 'new']",[],[],[],['new'],['new']
 proteinas_35.mp4,['easy' 'tell' 'try'],"['ALWAYS' 'BABY' 'BOY' 'CHAIR' 'DEAF' 'EASY' 'ESCAPE' 'HAPPY' 'LONDON'
- 'LOVELY' 'MISS' 'MOTHER' 'SAY' 'TOILET' 'TOMORROW']","['tell', 'try']",[],['easy'],[],[],[],[]
+ 'LOVELY' 'MISS' 'MOTHER' 'SAY' 'TOILET' 'TOMORROW']","['tell', 'try']",[],['easy'],[],[],[],[],[]
 proteinas_7.mp4,['Ah' 'Ready' 'get' 'learn' 'start' 'together'],"['ANGRY' 'BEHAVIOUR' 'BODY' 'BUILD' 'CHAIR' 'CLOTHES' 'DEPTH' 'ESCAPE'
  'EXCITED' 'FREE' 'FULL' 'GO' 'LOW' 'MANAGE' 'MISS' 'MIX' 'MORNING' 'POOR'
  'READY' 'RELAX' 'SHOULDER' 'SURPRISE' 'TALL' 'TENT' 'TIRED' 'TOILET'
- 'WOW']","['Ah', 'learn', 'start']",['together'],['Ready'],['get'],[],[],[]
+ 'WOW']","['Ah', 'learn', 'start']",['together'],['Ready'],['get'],[],[],[],[]
 proteinas_5.mp4,['.' '/' 'Invite' 'Pass' 'home' 'learn'],"['AREA' 'BEHAVIOUR' 'CHAIR' 'CHILD' 'CLOTHES' 'DECORATE' 'DECREASE'
- 'ENOUGH' 'ESCAPE' 'GO' 'GOOD' 'INCREASE' 'LOW' 'PAST' 'TALL']","['/', 'Invite', 'Pass', 'home', 'learn']",[],[],[],[],[],[]
+ 'ENOUGH' 'ESCAPE' 'GO' 'GOOD' 'INCREASE' 'LOW' 'PAST' 'TALL']","['/', 'Invite', 'Pass', 'home', 'learn']",[],[],[],[],[],[],[]
 proteinas_23.mp4,['eat' 'family' 'floor' 'help' 'home' 'plant'],"['ACT' 'ALWAYS' 'ARRANGE' 'BEACH' 'BECKON' 'BEHAVIOUR' 'BELFAST' 'BLACK'
  'BODY' 'BOY' 'CHAIR' 'CHILD' 'CLOTHES' 'DEAF' 'DESSERT' 'ENOUGH' 'EQUAL'
  'ESCAPE' 'FLOCK' 'FREE' 'FULL' 'GO' 'LOVELY' 'LOW' 'MANAGE' 'MEAL'
  'MOTHER' 'NICE' 'PANIC' 'PAST' 'POOR' 'READY' 'RELAX' 'SAY' 'TALK' 'TALL'
- 'TEACH' 'TENT' 'TIRED']","['eat', 'family', 'floor', 'help', 'home', 'plant']",[],[],[],[],[],[]
+ 'TEACH' 'TENT' 'TIRED']","['eat', 'family', 'floor', 'help', 'home', 'plant']",[],[],[],[],[],[],['eat']
 proteinas_37.mp4,['Health' 'eat' 'good' 'meal' 'tell' 'times' 'watch'],"['ALWAYS' 'ARRANGE' 'ARRIVE' 'BACK' 'BASE' 'BIG' 'BODY' 'BOY' 'CLOTHES'
  'DESSERT' 'FINISH' 'FLOCK' 'FREE' 'GOOD' 'INATTENTION' 'KNOW' 'LONDON'
  'LOW' 'MAN' 'MORNING' 'NEXT' 'NICE' 'PAST' 'PREFER' 'PUB' 'RAIN' 'RELAX'
- 'REMEMBER' 'SAY' 'SHOUT' 'START' 'TALL' 'TIRED' 'TOMORROW' 'TOUCH' 'WOW']","['Health', 'eat', 'meal', 'tell', 'times', 'watch']",[],['good'],[],[],[],['good']
+ 'REMEMBER' 'SAY' 'SHOUT' 'START' 'TALL' 'TIRED' 'TOMORROW' 'TOUCH' 'WOW']","['Health', 'eat', 'meal', 'tell', 'times', 'watch']",[],['good'],[],[],[],['good'],"['eat', 'good']"
 proteinas_142.mp4,['one' 'percentage'],"['ARRIVE' 'DECREASE' 'FLOCK' 'GOOD' 'HOME' 'LOW' 'MORNING' 'NOTHING'
- 'REMEMBER' 'RIGHT' 'SLEEP' 'SPEECH' 'TALL' 'TOUCH']",['percentage'],[],[],[],[],['one'],[]
+ 'REMEMBER' 'RIGHT' 'SLEEP' 'SPEECH' 'TALL' 'TOUCH']",['percentage'],[],[],[],[],['one'],[],['one']
 proteinas_143.mp4,['Right' 'one' 'percentage'],"['BANDAGE' 'BASE' 'BOY' 'DRINK' 'ENOUGH' 'EXCLUDE' 'GO' 'HISTORY' 'HOME'
  'LAUGH' 'LOW' 'MAN' 'NEVER' 'NEW' 'NICE' 'PLENTY' 'PREFER' 'SAY' 'SLEEP'
- 'START' 'TALL' 'TOUCH' 'WANT']",['percentage'],['Right'],[],[],[],['one'],[]
+ 'START' 'TALL' 'TOUCH' 'WANT']",['percentage'],['Right'],[],[],[],['one'],[],['one']
 proteinas_36.mp4,['draw' 'several' 'show'],"['ARRIVE' 'BECKON' 'CHAIR' 'CLOTHES' 'ESCAPE' 'FLOCK' 'FULL' 'GO' 'GOOD'
- 'LONDON' 'LOW' 'MIX' 'MORNING' 'PAST' 'SHOULDER' 'SINCE' 'TOUCH']","['draw', 'show']",[],['several'],[],[],[],[]
+ 'LONDON' 'LOW' 'MIX' 'MORNING' 'PAST' 'SHOULDER' 'SINCE' 'TOUCH']","['draw', 'show']",[],['several'],[],[],[],[],[]
 proteinas_22.mp4,['eat' 'good' 'inside' 'sense' 'strong'],"['ALWAYS' 'AMERICA' 'BECKON' 'BEHAVIOUR' 'BODY' 'BOY' 'BREATHE' 'CHAIR'
  'CLOTHES' 'EMOTION' 'ENDURE' 'GO' 'GOOD' 'HURT' 'LOVE' 'LOW' 'PAST'
- 'PREGNANT' 'RELAX' 'SAY' 'SURPRISE' 'TALL' 'TOUCH' 'WANT']","['eat', 'sense']",[],"['good', 'strong']",[],[],['inside'],['good']
+ 'PREGNANT' 'RELAX' 'SAY' 'SURPRISE' 'TALL' 'TOUCH' 'WANT']","['eat', 'sense']",[],"['good', 'strong']",[],[],['inside'],['good'],"['eat', 'good']"
 proteinas_4.mp4,['good' 'happy' 'sense'],"['AREA' 'BEHAVIOUR' 'BODY' 'BREATHE' 'CHILD' 'CLOTHES' 'EMOTION' 'FLOCK'
  'LOW' 'PAST' 'PREGNANT' 'READY' 'RELAX' 'SINCE' 'SURPRISE' 'TALL' 'TIRED'
- 'TOILET' 'WANT' 'WOW']",['sense'],[],"['good', 'happy']",[],[],[],['good']
-proteinas_45.mp4,[],['BECKON' 'CHILD' 'GO' 'LONDON' 'LOW' 'PAST'],[],[],[],[],[],[],[]
-proteinas_51.mp4,['Yes'],['BACK' 'BOY' 'LONDON' 'MORNING' 'PAST' 'SHOULDER' 'TOUCH'],[],[],[],[],[],['Yes'],[]
+ 'TOILET' 'WANT' 'WOW']",['sense'],[],"['good', 'happy']",[],[],[],['good'],['good']
+proteinas_45.mp4,[],['BECKON' 'CHILD' 'GO' 'LONDON' 'LOW' 'PAST'],[],[],[],[],[],[],[],[]
+proteinas_51.mp4,['Yes'],['BACK' 'BOY' 'LONDON' 'MORNING' 'PAST' 'SHOULDER' 'TOUCH'],[],[],[],[],[],['Yes'],[],[]
 proteinas_79.mp4,"['/' '?' 'B' 'C' 'E' 'H' 'Include' 'Inside' 'L' 'N' 'P' 'R' 'Water' 'eat'
  'fat' 'meal' 'protein' 'tell' 'vitamins' 'within']","['ACT' 'ALRIGHT' 'ALWAYS' 'ANGRY' 'BECKON' 'BEHAVIOUR' 'BOY'
  'CALLISTHENICS' 'CHAIR' 'CHILD' 'CLOTHES' 'CRASH' 'DEAF' 'DEBATE'
@@ -661,79 +661,79 @@ proteinas_79.mp4,"['/' '?' 'B' 'C' 'E' 'H' 'Include' 'Inside' 'L' 'N' 'P' 'R' 'W
  'NOTHING' 'PARTY' 'PAST' 'PERFECT' 'PLENTY' 'PREFER' 'PUB' 'RAIN'
  'REGULAR' 'RELAX' 'RICH' 'RUN' 'SAY' 'SEARCH' 'SEPARATE' 'SHOULDER'
  'SINCE' 'SURPRISE' 'TALL' 'TIRED' 'TOMORROW' 'TOUCH' 'UPWARD' 'WANT'
- 'WITHOUT' 'WOW']","['/', 'B', 'E', 'H', 'Include', 'L', 'N', 'P', 'R', 'Water', 'eat', 'fat', 'meal', 'protein', 'tell', 'vitamins']",[],[],[],[],"['Inside', 'within']",['fat']
+ 'WITHOUT' 'WOW']","['/', 'B', 'E', 'H', 'Include', 'L', 'N', 'P', 'R', 'Water', 'eat', 'fat', 'meal', 'protein', 'tell', 'vitamins']",[],[],[],[],"['Inside', 'within']",['fat'],['eat']
 proteinas_86.mp4,['everything' 'information' 'interesting' 'need'],"['ADULT' 'BEHAVIOUR' 'BODY' 'BREATHE' 'BUILD' 'CHAIR' 'CLOTHES' 'DECREASE'
  'EMOTION' 'ENOUGH' 'FREE' 'FULL' 'GO' 'INCREASE' 'LOW' 'MIX' 'PREGNANT'
- 'READY' 'RELAX' 'SURPRISE' 'TALL' 'TENT' 'TIRED' 'WANT' 'WAR']","['everything', 'information', 'need']",[],[],['interesting'],[],[],[]
+ 'READY' 'RELAX' 'SURPRISE' 'TALL' 'TENT' 'TIRED' 'WANT' 'WAR']","['everything', 'information', 'need']",[],[],['interesting'],[],[],[],[]
 proteinas_124.mp4,['quiet'],"['ADULT' 'AREA' 'ARRIVE' 'BECKON' 'BEHAVIOUR' 'BORING' 'BOY' 'BREATHE'
  'BUILD' 'CHAIR' 'CHILD' 'CLOTHES' 'DEAF' 'DECREASE' 'DISAPPOINT' 'EASY'
  'EMOTION' 'ENDURE' 'ENOUGH' 'FREE' 'GOOD' 'INCREASE' 'LAUGH' 'LIKE'
  'LONDON' 'LOVE' 'LOW' 'PARK' 'PLENTY' 'PREGNANT' 'READY' 'RED' 'RELAX'
  'SAY' 'SCHOOL' 'SHOULDER' 'SURPRISE' 'TALL' 'TEACH' 'TENT' 'THINK'
- 'TOMORROW' 'TOUCH' 'WANT']",[],[],['quiet'],[],[],[],[]
+ 'TOMORROW' 'TOUCH' 'WANT']",[],[],['quiet'],[],[],[],[],[]
 proteinas_92.mp4,['Protein' 'Yes' 'animals' 'cow' 'eat'],"['ACT' 'ADD' 'BECKON' 'BODY' 'BOY' 'CHAIR' 'CLOTHES' 'DESSERT' 'ENOUGH'
  'EXCITED' 'FLOCK' 'FREE' 'GO' 'HURT' 'INCREASE' 'LOW' 'MAN' 'MEAL'
  'MORNING' 'NICE' 'NOTHING' 'PAST' 'PERFECT' 'PLENTY' 'PREFER' 'RELAX'
- 'SAY' 'TALL' 'TIRED' 'TOUCH' 'WITHOUT']","['Protein', 'animals', 'cow', 'eat']",[],[],[],[],['Yes'],[]
+ 'SAY' 'TALL' 'TIRED' 'TOUCH' 'WITHOUT']","['Protein', 'animals', 'cow', 'eat']",[],[],[],[],['Yes'],[],['eat']
 proteinas_130.mp4,['court' 'return' 'solution'],"['ADULT' 'AREA' 'ATMOSPHERE' 'AUDIENCE' 'BEACH' 'BODY' 'BOY' 'BUILD'
  'CHAIR' 'CHILD' 'CLOTHES' 'DEAF' 'DECREASE' 'DISAPPOINT' 'ESCAPE'
  'EXCITED' 'FLOCK' 'FREE' 'FULL' 'GO' 'GOOD' 'INCREASE' 'LONDON' 'LOOK'
  'LOW' 'MEAL' 'MISS' 'MIX' 'MORNING' 'PAST' 'RELAX' 'SAY' 'SHOULDER'
- 'SLEEP' 'TALL' 'TEACH' 'TENT' 'THINK' 'TIRED' 'TOMORROW' 'TOUCH']","['court', 'return', 'solution']",[],[],[],[],[],[]
+ 'SLEEP' 'TALL' 'TEACH' 'TENT' 'THINK' 'TIRED' 'TOMORROW' 'TOUCH']","['court', 'return', 'solution']",[],[],[],[],[],[],[]
 proteinas_118.mp4,['Prices' 'one' 'percentage' 'summer'],"['ANGRY' 'AREA' 'ARRIVE' 'BEACH' 'BODY' 'CHAIR' 'CHILD' 'CLOTHES'
  'DISAPPOINT' 'ESCAPE' 'EXCITED' 'FEEL' 'FLOCK' 'FOREIGN' 'FREE'
  'FRIGHTENED' 'GO' 'HOME' 'HURT' 'LOOK' 'LOW' 'MORNING' 'MOVE' 'POOR'
  'READY' 'RELAX' 'SAY' 'SHOULDER' 'SPEECH' 'SPREAD' 'TIRED' 'TOILET'
- 'TOUCH' 'UNIT' 'WOW']","['Prices', 'percentage', 'summer']",[],[],[],[],['one'],[]
+ 'TOUCH' 'UNIT' 'WOW']","['Prices', 'percentage', 'summer']",[],[],[],[],['one'],[],['one']
 proteinas_119.mp4,['daily' 'eat' 'many' 'remind'],"['ALWAYS' 'ANGRY' 'AREA' 'ATMOSPHERE' 'BEACH' 'BEHAVIOUR' 'BODY' 'BOY'
  'BUILD' 'CHAIR' 'CHILD' 'CLOTHES' 'DECREASE' 'DESSERT' 'DISAPPOINT'
  'ENOUGH' 'ESCAPE' 'EXCITED' 'FULL' 'GIVE' 'HURT' 'INCREASE' 'LONDON'
  'LOW' 'MAN' 'MEAL' 'MERGE' 'MORNING' 'NICE' 'PLENTY' 'PUB' 'RELAX' 'TALL'
- 'TOMORROW' 'TOUCH' 'UPWARD' 'WANT' 'WOW']","['eat', 'remind']",[],"['daily', 'many']",[],[],[],[]
+ 'TOMORROW' 'TOUCH' 'UPWARD' 'WANT' 'WOW']","['eat', 'remind']",[],"['daily', 'many']",[],[],[],[],"['eat', 'many']"
 proteinas_131.mp4,"['?' 'Grid' 'colors' 'return' 'rule' 'share' 'tell' 'think' 'weather'
  'write']","['ADULT' 'ALWAYS' 'AREA' 'BODY' 'BOY' 'BUILD' 'CHAIR' 'CHILD' 'CLOTHES'
  'DANCE' 'DECREASE' 'DIRTY' 'DISCUSS' 'ENGLAND' 'ENOUGH' 'ESCAPE' 'ETHNIC'
  'EXCLUDE' 'FALL' 'FOOTBALL' 'FULL' 'FUTURE' 'GO' 'HAPPY' 'HURT'
  'INCREASE' 'LAPTOP' 'LOW' 'MISS' 'MIX' 'MORNING' 'MOTHER' 'PAST' 'PAY'
- 'PLENTY' 'PLUS' 'POOR' 'SAY' 'SINCE' 'SLOW' 'TALL' 'TIDY' 'TOUCH' 'WANT']","['Grid', 'colors', 'return', 'rule', 'share', 'tell', 'think', 'weather', 'write']",[],[],[],[],[],[]
-proteinas_93.mp4,['Yes' 'reason'],['ADULT' 'DECORATE' 'DECREASE' 'INCREASE' 'LOW' 'TALL'],['reason'],[],[],[],[],['Yes'],[]
+ 'PLENTY' 'PLUS' 'POOR' 'SAY' 'SINCE' 'SLOW' 'TALL' 'TIDY' 'TOUCH' 'WANT']","['Grid', 'colors', 'return', 'rule', 'share', 'tell', 'think', 'weather', 'write']",[],[],[],[],[],[],[]
+proteinas_93.mp4,['Yes' 'reason'],['ADULT' 'DECORATE' 'DECREASE' 'INCREASE' 'LOW' 'TALL'],['reason'],[],[],[],[],['Yes'],[],[]
 proteinas_125.mp4,['chicken' 'many' 'weigh'],"['ALWAYS' 'BABY' 'BODY' 'BORN' 'BOY' 'CHAIR' 'CLOTHES' 'DESSERT' 'ENOUGH'
  'HAPPY' 'HEAVY' 'KNOW' 'LAPTOP' 'LOW' 'MORNING' 'MOTHER' 'NICE' 'POOR'
  'PREGNANT' 'RELAX' 'SAY' 'STILL' 'SURPRISE' 'TIDY' 'TOILET' 'TOMORROW'
- 'WANT']","['chicken', 'weigh']",[],['many'],[],[],[],[]
+ 'WANT']","['chicken', 'weigh']",[],['many'],[],[],[],[],['many']
 proteinas_87.mp4,['C' 'P' 'R' 'call' 'think'],"['AREA' 'BOY' 'CHAIR' 'CHILD' 'DEAF' 'DECREASE' 'ENGLAND' 'ESCAPE'
  'EXPECT' 'FUTURE' 'GO' 'HOME' 'INCREASE' 'KNOW' 'LONDON' 'LOOK' 'LOW'
  'MAN' 'MEAL' 'NICE' 'PAST' 'PLUS' 'PREFER' 'RELAX' 'SAY' 'TALL' 'THINK'
- 'TOP' 'UNIT']","['P', 'R', 'call', 'think']",[],[],[],[],[],[]
+ 'TOP' 'UNIT']","['P', 'R', 'call', 'think']",[],[],[],[],[],[],[]
 proteinas_78.mp4,['good' 'guys' 'happy' 'share' 'today' 'together'],"['AMERICA' 'ARRANGE' 'BANDAGE' 'BASE' 'BEHAVIOUR' 'BODY' 'BREATHE' 'BUILD'
  'BUY' 'CHAIR' 'CLOTHES' 'EMOTION' 'ENDURE' 'ESCAPE' 'EXCHANGE' 'EXCLUDE'
  'FLOCK' 'FULL' 'INVOLVE' 'MISS' 'MORNING' 'NEVER' 'PANIC' 'PRAISE'
- 'PREGNANT' 'RELAX' 'RUN' 'SURPRISE' 'TIRED' 'WANT']","['guys', 'share', 'today']",['together'],"['good', 'happy']",[],[],[],['good']
+ 'PREGNANT' 'RELAX' 'RUN' 'SURPRISE' 'TIRED' 'WANT']","['guys', 'share', 'today']",['together'],"['good', 'happy']",[],[],[],['good'],['good']
 proteinas_50.mp4,['Yes' 'attention' 'eat'],"['AREA' 'BOY' 'CHILD' 'DEAF' 'DISAPPOINT' 'FAMILY' 'KNOW' 'LONDON' 'LOW'
- 'MORNING' 'PAST' 'SHOULDER' 'SINCE' 'TOUCH']","['attention', 'eat']",[],[],[],[],['Yes'],[]
-proteinas_44.mp4,[],['BACK' 'PAST' 'TOUCH'],[],[],[],[],[],[],[]
-proteinas_52.mp4,['eat' 'strong'],['BOY' 'LONDON' 'LOW' 'PAST' 'SINCE' 'TOUCH'],['eat'],[],['strong'],[],[],[],[]
-proteinas_46.mp4,['Yes'],[],[],[],[],[],[],['Yes'],[]
+ 'MORNING' 'PAST' 'SHOULDER' 'SINCE' 'TOUCH']","['attention', 'eat']",[],[],[],[],['Yes'],[],['eat']
+proteinas_44.mp4,[],['BACK' 'PAST' 'TOUCH'],[],[],[],[],[],[],[],[]
+proteinas_52.mp4,['eat' 'strong'],['BOY' 'LONDON' 'LOW' 'PAST' 'SINCE' 'TOUCH'],['eat'],[],['strong'],[],[],[],[],['eat']
+proteinas_46.mp4,['Yes'],[],[],[],[],[],[],['Yes'],[],[]
 proteinas_91.mp4,['Protein' 'eat' 'think' 'within'],"['ACT' 'ADULT' 'ALWAYS' 'ANGRY' 'BACK' 'BODY' 'BOY' 'CHAIR' 'CLOTHES'
  'DANCE' 'DECREASE' 'DEPTH' 'DISAPPOINT' 'ENOUGH' 'ESCAPE' 'EXCITED'
  'FINISH' 'FLOCK' 'FREE' 'HOME' 'HURT' 'ILL' 'LONDON' 'LOW' 'MEAL'
  'MORNING' 'NICE' 'PARTY' 'PAST' 'PLENTY' 'RELAX' 'SAY' 'SHOULDER' 'TALL'
- 'TEACH' 'TOMORROW' 'TOUCH' 'WOW']","['Protein', 'eat', 'think']",[],[],[],[],['within'],[]
+ 'TEACH' 'TOMORROW' 'TOUCH' 'WOW']","['Protein', 'eat', 'think']",[],[],[],[],['within'],[],['eat']
 proteinas_133.mp4,['come' 'expect'],"['ANGRY' 'AREA' 'BODY' 'CLOTHES' 'DECREASE' 'ENOUGH' 'GO' 'LOW' 'MORNING'
- 'RELAX' 'SHOULDER' 'WOW']",[],[],[],"['come', 'expect']",[],[],[]
+ 'RELAX' 'SHOULDER' 'WOW']",[],[],[],"['come', 'expect']",[],[],[],['come']
 proteinas_85.mp4,['awake' 'body' 'boost' 'eat' 'pain' 'plus' 'sense' 'think' 'within'],"['ADULT' 'AMERICA' 'ARRANGE' 'ARRIVE' 'BEACH' 'BECKON' 'BEHAVIOUR' 'BODY'
  'BORN' 'BOY' 'BREATHE' 'CHAIR' 'CHILD' 'CLOTHES' 'DEAF' 'DISAPPOINT'
  'EMOTION' 'ENDURE' 'ENGLAND' 'ENOUGH' 'ESCAPE' 'EXPAND' 'FLOCK'
  'FRIGHTENED' 'GOOD' 'HEALTHY' 'LIKE' 'LONDON' 'LOVE' 'LOVELY' 'LOW'
  'MORNING' 'NICE' 'POOR' 'PREGNANT' 'READY' 'RELAX' 'SHOULDER' 'SIGN'
  'SIT' 'SNOOKER' 'SURPRISE' 'TALL' 'TIRED' 'TOILET' 'UNIT' 'UPSET'
- 'UPWARD' 'WANT']","['awake', 'body', 'boost', 'eat', 'pain', 'sense', 'think']",[],[],[],[],"['plus', 'within']",[]
+ 'UPWARD' 'WANT']","['awake', 'body', 'boost', 'eat', 'pain', 'sense', 'think']",[],[],[],[],"['plus', 'within']",[],['eat']
 proteinas_127.mp4,['chicken' 'eat' 'many' 'percentage'],"['ALWAYS' 'ANGRY' 'BACK' 'BODY' 'BOY' 'BRING' 'CHILD' 'CLOTHES' 'DEAF'
  'ENOUGH' 'FEEL' 'FIND' 'FLOCK' 'FREE' 'GO' 'HOME' 'KNOW' 'LONDON' 'LOW'
  'MAN' 'MORNING' 'NICE' 'PAST' 'PREFER' 'PREGNANT' 'PUB' 'READY' 'RELAX'
- 'SAY' 'SINCE' 'SURPRISE' 'TIRED' 'TOMORROW' 'TOUCH' 'WANT' 'WOW']","['chicken', 'eat', 'percentage']",[],['many'],[],[],[],[]
+ 'SAY' 'SINCE' 'SURPRISE' 'TIRED' 'TOMORROW' 'TOUCH' 'WANT' 'WOW']","['chicken', 'eat', 'percentage']",[],['many'],[],[],[],[],"['eat', 'many']"
 proteinas_126.mp4,['G-R' 'Prices' 'weigh'],"['BACK' 'BODY' 'BOY' 'CLOTHES' 'DEAF' 'FIND' 'GO' 'GOOD' 'KNOW' 'LOOK'
- 'LOW' 'NICE' 'PAST' 'REMEMBER' 'TALL' 'TIRED' 'TOUCH' 'WANT' 'WOW']","['G-R', 'Prices', 'weigh']",[],[],[],[],[],[]
+ 'LOW' 'NICE' 'PAST' 'REMEMBER' 'TALL' 'TIRED' 'TOUCH' 'WANT' 'WOW']","['G-R', 'Prices', 'weigh']",[],[],[],[],[],[],[]
 proteinas_84.mp4,"['Protein' 'good' 'growing' 'help' 'move' 'muscle' 'ok' 'strength'
  'strengthen' 'strong' 'within']","['ACT' 'ANGRY' 'ANYTHING' 'AREA' 'ARRIVE' 'BACK' 'BEACH' 'BECKON'
  'BEHAVIOUR' 'BIG' 'BODY' 'BORN' 'BRING' 'BUILD' 'CALLISTHENICS' 'CHAIR'
@@ -742,7 +742,7 @@ proteinas_84.mp4,"['Protein' 'good' 'growing' 'help' 'move' 'muscle' 'ok' 'stren
  'INVOLVE' 'LONDON' 'LOW' 'MANAGE' 'MISS' 'MIX' 'MOVE' 'NOTHING' 'PARTY'
  'PAST' 'PAY' 'PERFECT' 'PLAY' 'PREGNANT' 'READY' 'RELAX' 'SHOULDER'
  'SINCE' 'SPREAD' 'SWIM' 'TALL' 'TENT' 'TIDY' 'TIRED' 'TOUCH' 'TRAIN'
- 'WANT' 'WITHOUT' 'WOW']","['Protein', 'help', 'move', 'muscle', 'ok', 'strength', 'strengthen']",[],"['good', 'strong']",['growing'],[],['within'],['good']
+ 'WANT' 'WITHOUT' 'WOW']","['Protein', 'help', 'move', 'muscle', 'ok', 'strength', 'strengthen']",[],"['good', 'strong']",['growing'],[],['within'],['good'],['good']
 proteinas_132.mp4,"['/' 'Go' 'Grid' 'Reply' 'adult' 'annotate' 'ask' 'back' 'colors' 'come'
  'help' 'notebook' 'pencil' 'rule' 'teacher' 'write']","['ADD' 'ALWAYS' 'ANGRY' 'AREA' 'ARRIVE' 'BACK' 'BEHAVIOUR' 'BODY' 'BOY'
  'BUILD' 'BUY' 'CHAIR' 'CHILD' 'CLOTHES' 'DANCE' 'DIRTY' 'DISCUSS' 'DOOR'
@@ -750,57 +750,57 @@ proteinas_132.mp4,"['/' 'Go' 'Grid' 'Reply' 'adult' 'annotate' 'ask' 'back' 'col
  'FLOCK' 'FOREIGN' 'FREE' 'FULL' 'FUTURE' 'GO' 'HALF' 'HURT' 'INFLUENCE'
  'LAPTOP' 'LAUGH' 'LOVELY' 'LOW' 'MIX' 'NEVER' 'NEW' 'NICE' 'PARK' 'PAST'
  'PAY' 'PLENTY' 'POOR' 'PRACTISE' 'RELAX' 'SIGN' 'SINCE' 'SPREAD' 'STILL'
- 'SURROUNDINGS' 'TALL' 'TIDY' 'TIRED' 'TOMORROW' 'TOUCH' 'WOW']","['/', 'Grid', 'Reply', 'adult', 'annotate', 'ask', 'colors', 'help', 'notebook', 'pencil', 'rule', 'teacher', 'write']",['back'],[],"['Go', 'come']",[],[],[]
+ 'SURROUNDINGS' 'TALL' 'TIDY' 'TIRED' 'TOMORROW' 'TOUCH' 'WOW']","['/', 'Grid', 'Reply', 'adult', 'annotate', 'ask', 'colors', 'help', 'notebook', 'pencil', 'rule', 'teacher', 'write']",['back'],[],"['Go', 'come']",[],[],[],['come']
 proteinas_90.mp4,['Yes' 'important' 'participate'],"['BASE' 'BOY' 'CHAIR' 'CHILD' 'CHRISTMAS' 'CRASH' 'DESSERT' 'DIG' 'ENOUGH'
  'ESCAPE' 'EXCLUDE' 'INFLUENCE' 'KNOW' 'LONDON' 'LOW' 'MAN' 'MERGE' 'MIX'
- 'NEW' 'NICE' 'PRACTISE' 'PREFER' 'SAY' 'SPREAD' 'UNIVERSAL' 'WANT']",[],[],['important'],['participate'],[],['Yes'],[]
-proteinas_47.mp4,['eat' 'good'],['ALWAYS' 'BOY' 'LONDON' 'LOW' 'NICE' 'PAST' 'TOMORROW' 'TOUCH'],['eat'],[],['good'],[],[],[],['good']
-proteinas_53.mp4,[],[],[],[],[],[],[],[],[]
+ 'NEW' 'NICE' 'PRACTISE' 'PREFER' 'SAY' 'SPREAD' 'UNIVERSAL' 'WANT']",[],[],['important'],['participate'],[],['Yes'],[],[]
+proteinas_47.mp4,['eat' 'good'],['ALWAYS' 'BOY' 'LONDON' 'LOW' 'NICE' 'PAST' 'TOMORROW' 'TOUCH'],['eat'],[],['good'],[],[],[],['good'],"['eat', 'good']"
+proteinas_53.mp4,[],[],[],[],[],[],[],[],[],[]
 proteinas_57.mp4,['chips' 'eat' 'potato' 'soda' 'times'],"['AREA' 'BIRTHDAY' 'BUILD' 'CHAIR' 'CHILD' 'COMMUNIST' 'ENOUGH' 'ESCAPE'
  'FINISH' 'FOREIGN' 'FULL' 'GO' 'GOOD' 'INCREASE' 'INFLUENCE' 'KNOW' 'LOW'
- 'MIX' 'PUB' 'SAY' 'SCOTLAND' 'SURROUNDINGS' 'TALL' 'TOP' 'TOUCH']","['chips', 'eat', 'potato', 'soda', 'times']",[],[],[],[],[],[]
+ 'MIX' 'PUB' 'SAY' 'SCOTLAND' 'SURROUNDINGS' 'TALL' 'TOP' 'TOUCH']","['chips', 'eat', 'potato', 'soda', 'times']",[],[],[],[],[],[],['eat']
 proteinas_43.mp4,['eat' 'good' 'times'],"['ALWAYS' 'AREA' 'BLACK' 'BOY' 'CHILD' 'DESSERT' 'ENOUGH' 'EXCLUDE' 'GO'
- 'LOW' 'MAN' 'NICE' 'NUMBER' 'PAST' 'PLENTY' 'TALL' 'TOUCH']","['eat', 'times']",[],['good'],[],[],[],['good']
+ 'LOW' 'MAN' 'NICE' 'NUMBER' 'PAST' 'PLENTY' 'TALL' 'TOUCH']","['eat', 'times']",[],['good'],[],[],[],['good'],"['eat', 'good']"
 proteinas_136.mp4,['hard'],"['AREA' 'BOY' 'CHILD' 'ENOUGH' 'GO' 'KNOW' 'LOW' 'MORNING' 'NICE' 'PLENTY'
- 'REMEMBER' 'SHOULDER' 'TALL' 'THINK' 'TOILET' 'TOUCH']",[],[],['hard'],[],[],[],[]
+ 'REMEMBER' 'SHOULDER' 'TALL' 'THINK' 'TOILET' 'TOUCH']",[],[],['hard'],[],[],[],[],[]
 proteinas_94.mp4,['alone' 'cow' 'one' 'protein' 'within'],"['ADULT' 'BOY' 'ESCAPE' 'EXCLUDE' 'FIND' 'FUTURE' 'GO' 'INCREASE' 'LONDON'
- 'LOW' 'MISS' 'MORNING' 'PAST' 'SLOW' 'TALL' 'TEACHER' 'TOMORROW' 'TOUCH']","['cow', 'protein']",['alone'],[],[],[],"['one', 'within']",[]
+ 'LOW' 'MISS' 'MORNING' 'PAST' 'SLOW' 'TALL' 'TEACHER' 'TOMORROW' 'TOUCH']","['cow', 'protein']",['alone'],[],[],[],"['one', 'within']",[],['one']
 proteinas_122.mp4,['eat' 'many' 'weigh'],"['AMERICA' 'AREA' 'BEHAVIOUR' 'BODY' 'BORN' 'BOY' 'CHAIR' 'CHILD'
  'CHRISTMAS' 'CLOTHES' 'DEPTH' 'DESSERT' 'EMOTION' 'ENOUGH' 'EXCITED'
  'FREE' 'HAPPY' 'LOVELY' 'LOW' 'MAN' 'MANAGE' 'NICE' 'PLENTY' 'POOR'
- 'PREGNANT' 'READY' 'RELAX' 'SAY' 'TENT' 'TIRED' 'TOILET' 'UPWARD' 'WANT']","['eat', 'weigh']",[],['many'],[],[],[],[]
+ 'PREGNANT' 'READY' 'RELAX' 'SAY' 'TENT' 'TIRED' 'TOILET' 'UPWARD' 'WANT']","['eat', 'weigh']",[],['many'],[],[],[],[],"['eat', 'many']"
 proteinas_80.mp4,['E' 'N' 'P' 'R' 'talk' 'theme' 'today'],"['ADULT' 'ALWAYS' 'ANGRY' 'AREA' 'ARRIVE' 'BODY' 'BOY' 'CHAIR' 'CHILD'
  'CLOTHES' 'DEAF' 'DESSERT' 'DISAPPOINT' 'ENOUGH' 'EXCITED' 'FEEL' 'GO'
  'HEAVY' 'HOME' 'HURT' 'LIVE' 'LONDON' 'LOOK' 'LOW' 'MAN' 'MEAL' 'MORNING'
  'NICE' 'NUMBER' 'PAST' 'PREFER' 'PREGNANT' 'RAIN' 'RELAX' 'SAY' 'TALL'
- 'THINK' 'TIRED' 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WOW']","['E', 'N', 'P', 'R', 'talk', 'theme', 'today']",[],[],[],[],[],[]
+ 'THINK' 'TIRED' 'TOILET' 'TOMORROW' 'TOUCH' 'WANT' 'WOW']","['E', 'N', 'P', 'R', 'talk', 'theme', 'today']",[],[],[],[],[],[],[]
 proteinas_81.mp4,['E' 'N' 'P' 'R' 'important' 'ingest' 'sense' 'strengthen'],"['AREA' 'ARRANGE' 'BEHAVIOUR' 'BODY' 'BOY' 'BREATHE' 'BUILD' 'CHAIR'
  'CHILD' 'CLOTHES' 'DEAF' 'DECORATE' 'DECREASE' 'DISAPPOINT' 'EMOTION'
  'ENDURE' 'ESCAPE' 'EXCITED' 'EXPECT' 'FLOCK' 'FREE' 'FULL' 'GO' 'GOOD'
  'HISTORY' 'LOOK' 'LOW' 'MEAL' 'MIX' 'MORNING' 'PANIC' 'PRIEST' 'READY'
- 'RELAX' 'SATURDAY' 'SAY' 'SELF' 'SPREAD' 'TALL' 'TIRED' 'UPWARD']","['E', 'N', 'P', 'R', 'ingest', 'sense', 'strengthen']",[],['important'],[],[],[],[]
+ 'RELAX' 'SATURDAY' 'SAY' 'SELF' 'SPREAD' 'TALL' 'TIRED' 'UPWARD']","['E', 'N', 'P', 'R', 'ingest', 'sense', 'strengthen']",[],['important'],[],[],[],[],[]
 proteinas_123.mp4,['hard' 'uman'],"['BECKON' 'BEHAVIOUR' 'BOY' 'DEAF' 'DISAPPOINT' 'GO' 'GOOD' 'KNOW' 'LOW'
  'MORNING' 'PAST' 'READY' 'SAY' 'SHOULDER' 'SINCE' 'TALL' 'THINK' 'TOUCH'
- 'WANT']",['uman'],[],['hard'],[],[],[],[]
+ 'WANT']",['uman'],[],['hard'],[],[],[],[],[]
 proteinas_95.mp4,['different'],"['AREA' 'BACK' 'BECKON' 'BOY' 'GO' 'MISS' 'MORNING' 'NEXT' 'PAST' 'PEOPLE'
- 'SAY' 'SELF' 'TOMORROW' 'TOUCH' 'TRAIN']",[],[],['different'],[],[],[],[]
+ 'SAY' 'SELF' 'TOMORROW' 'TOUCH' 'TRAIN']",[],[],['different'],[],[],[],[],[]
 proteinas_137.mp4,['?' 'together'],"['AGREE' 'ANGRY' 'BORROW' 'BROTHER' 'CHAIR' 'CLOTHES' 'CRASH' 'DECORATE'
  'ESCAPE' 'FLOCK' 'FREE' 'FULL' 'GO' 'HELP' 'LOSE' 'LOW' 'MIX' 'OPEN'
  'PARTNER' 'PRAISE' 'REGULAR' 'RICH' 'SEPARATE' 'SPREAD' 'STADIUM' 'TALL'
- 'TENT' 'WEEKEND']",[],['together'],[],[],[],[],[]
+ 'TENT' 'WEEKEND']",[],['together'],[],[],[],[],[],[]
 proteinas_42.mp4,['Yes'],"['BOY' 'DISAPPOINT' 'GO' 'HOME' 'LONDON' 'LOW' 'MORNING' 'PAST' 'SHOULDER'
- 'TOUCH']",[],[],[],[],[],['Yes'],[]
+ 'TOUCH']",[],[],[],[],[],['Yes'],[],[]
 proteinas_56.mp4,['.' 'N' 'NN' 'Quinoa' 'eat' 'everything' 'good' 'meat' 'tell' 'vitamins'],"['ALWAYS' 'ANGRY' 'ARRANGE' 'BEACH' 'BEHAVIOUR' 'BELFAST' 'BODY' 'BOY'
  'BREATHE' 'BUILD' 'CHAIR' 'CHILD' 'CLOTHES' 'CRASH' 'DEAF' 'DEPTH'
  'DESSERT' 'DOOR' 'ENOUGH' 'ESCAPE' 'EXCITED' 'FIND' 'FLOCK' 'FREE' 'FULL'
  'GOOD' 'GROUP' 'HEALTHY' 'LAUGH' 'LONDON' 'LOW' 'MANAGE' 'MIX' 'MORNING'
  'NICE' 'PANIC' 'READY' 'RELAX' 'SAY' 'SHOULDER' 'SURPRISE' 'TENT' 'TIRED'
- 'TOILET' 'TOMORROW' 'UNIT' 'WANT' 'WATER' 'WITHOUT']","['N', 'NN', 'Quinoa', 'eat', 'everything', 'meat', 'tell', 'vitamins']",[],['good'],[],[],[],"['good', 'meat']"
+ 'TOILET' 'TOMORROW' 'UNIT' 'WANT' 'WATER' 'WITHOUT']","['N', 'NN', 'Quinoa', 'eat', 'everything', 'meat', 'tell', 'vitamins']",[],['good'],[],[],[],"['good', 'meat']","['eat', 'good']"
 proteinas_68.mp4,['think'],"['ANGRY' 'BOY' 'CLOTHES' 'DEAF' 'GOOD' 'LONDON' 'LOW' 'MORNING' 'NEXT'
- 'NICE' 'PAST' 'RICH' 'RIGHT' 'SAY' 'SINCE' 'TALL' 'TOUCH']",['think'],[],[],[],[],[],[]
-proteinas_40.mp4,['watch'],[],['watch'],[],[],[],[],[],[]
+ 'NICE' 'PAST' 'RICH' 'RIGHT' 'SAY' 'SINCE' 'TALL' 'TOUCH']",['think'],[],[],[],[],[],[],[]
+proteinas_40.mp4,['watch'],[],['watch'],[],[],[],[],[],[],[]
 proteinas_54.mp4,['eat' 'strong'],"['ARRIVE' 'BOY' 'ENOUGH' 'FLOCK' 'LONDON' 'LOW' 'MORNING' 'NICE' 'PAST'
- 'PLENTY' 'SHOULDER' 'TALL' 'TOUCH' 'WOMAN']",['eat'],[],['strong'],[],[],[],[]
+ 'PLENTY' 'SHOULDER' 'TALL' 'TOUCH' 'WOMAN']",['eat'],[],['strong'],[],[],[],[],['eat']
 proteinas_109.mp4,['contain' 'equal' 'everything' 'protein'],"['ACT' 'ALWAYS' 'ANGRY' 'AREA' 'ARRANGE' 'ARRIVE' 'BACK' 'BALL'
  'BEHAVIOUR' 'BODY' 'BOY' 'BUILD' 'BUY' 'CHAIR' 'CHRISTMAS' 'CLOTHES'
  'DANCE' 'DEAF' 'DECREASE' 'DESSERT' 'DIG' 'ENOUGH' 'EQUAL' 'ESCAPE'
@@ -809,18 +809,18 @@ proteinas_109.mp4,['contain' 'equal' 'everything' 'protein'],"['ACT' 'ALWAYS' 'A
  'MIX' 'MORNING' 'MOTHER' 'NICE' 'NUMBER' 'PANIC' 'PARTY' 'PAST' 'POUND'
  'READY' 'RED' 'REGULAR' 'RELAX' 'SATURDAY' 'SAY' 'SHOULDER' 'SINCE'
  'SPREAD' 'SURPRISE' 'TALL' 'TEACH' 'TENT' 'TIRED' 'TOILET' 'TOMORROW'
- 'TOUCH' 'UPWARD' 'WANT' 'WITHOUT' 'WOW']","['contain', 'everything', 'protein']",[],['equal'],[],[],[],[]
+ 'TOUCH' 'UPWARD' 'WANT' 'WITHOUT' 'WOW']","['contain', 'everything', 'protein']",[],['equal'],[],[],[],[],[]
 proteinas_121.mp4,[],"['ADD' 'ALRIGHT' 'ALWAYS' 'AREA' 'ARRIVE' 'BECKON' 'BEHAVIOUR' 'BODY'
  'BORN' 'BOY' 'BRING' 'CHAIR' 'CHILD' 'CLOSED' 'CLOTHES' 'COVER' 'DEAF'
  'DIRTY' 'EMPTY' 'ENOUGH' 'ESCAPE' 'FALL' 'FINISH' 'FLOCK' 'FOREIGN'
  'FREE' 'FUTURE' 'GO' 'GOOD' 'HOME' 'KNOW' 'LAUGH' 'LONDON' 'LOOK' 'LOW'
  'MAN' 'MERGE' 'MIX' 'MORNING' 'MOVE' 'NICE' 'PAST' 'PAY' 'READY' 'RELAX'
  'SAY' 'SHOULDER' 'SINCE' 'SLOW' 'TALL' 'TEA' 'TIRED' 'TOILET' 'TOMORROW'
- 'TOUCH' 'WANT']",[],[],[],[],[],[],[]
+ 'TOUCH' 'WANT']",[],[],[],[],[],[],[],[]
 proteinas_83.mp4,['Yes' 'different' 'sense' 'strong' 'three' 'within'],"['AMERICA' 'AREA' 'BOY' 'CLOTHES' 'CRY' 'DISAPPOINT' 'EXCITED' 'FREE' 'GO'
  'GOOD' 'INFORMATION' 'LONDON' 'LOW' 'MEAL' 'MEANING' 'MORNING' 'PAST'
  'PRIEST' 'RELAX' 'SATURDAY' 'SHOULDER' 'SHOW' 'SINCE' 'SURPRISE' 'TENT'
- 'TOUCH' 'UNIT' 'WOMAN']",['sense'],[],"['different', 'strong']",[],[],"['Yes', 'three', 'within']",[]
+ 'TOUCH' 'UNIT' 'WOMAN']",['sense'],[],"['different', 'strong']",[],[],"['Yes', 'three', 'within']",[],[]
 proteinas_135.mp4,['G-R' 'excuse' 'many' 'protein' 'sort' 'think' 'weigh'],"['ACT' 'ADULT' 'ALWAYS' 'ANGRY' 'BEACH' 'BEHAVIOUR' 'BODY' 'BORN' 'BOY'
  'BREATHE' 'BUILD' 'CHAIR' 'CHILD' 'CLOTHES' 'COVER' 'DEAF' 'DECREASE'
  'DIRTY' 'DISAPPOINT' 'DOOR' 'EMOTION' 'ENOUGH' 'ESCAPE' 'EXCITED'
@@ -829,36 +829,36 @@ proteinas_135.mp4,['G-R' 'excuse' 'many' 'protein' 'sort' 'think' 'weigh'],"['AC
  'MAN' 'MEAL' 'MORNING' 'MOTHER' 'MOVE' 'NICE' 'PARTY' 'PAST' 'PAY' 'PLAY'
  'POOR' 'PREGNANT' 'READY' 'RELAX' 'RETIRE' 'RUN' 'SAY' 'SHOULDER' 'SINCE'
  'START' 'SURPRISE' 'TALL' 'TEACH' 'TENT' 'TIDY' 'TIRED' 'TOILET'
- 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']","['G-R', 'excuse', 'protein', 'sort', 'think', 'weigh']",[],['many'],[],[],[],[]
+ 'TOMORROW' 'TOUCH' 'WANT' 'WITHOUT' 'WOW']","['G-R', 'excuse', 'protein', 'sort', 'think', 'weigh']",[],['many'],[],[],[],[],['many']
 proteinas_97.mp4,['animal' 'second' 'vegetables'],"['ACT' 'ANGRY' 'CLOTHES' 'CRY' 'DEPTH' 'EXCITED' 'FINISH' 'FLOCK'
  'INFORMATION' 'MEAL' 'NEAR' 'NOTHING' 'PLAY' 'PRIEST' 'REDUCE' 'RELAX'
- 'SHOULDER' 'TENT' 'WITHOUT']","['animal', 'vegetables']",[],['second'],[],[],[],['animal']
-proteinas_96.mp4,['PriiMero'],['ALWAYS' 'BOY' 'LOVELY' 'MAN' 'NICE' 'SAY' 'TOMORROW'],['PriiMero'],[],[],[],[],[],[]
+ 'SHOULDER' 'TENT' 'WITHOUT']","['animal', 'vegetables']",[],['second'],[],[],[],['animal'],[]
+proteinas_96.mp4,['PriiMero'],['ALWAYS' 'BOY' 'LOVELY' 'MAN' 'NICE' 'SAY' 'TOMORROW'],['PriiMero'],[],[],[],[],[],[],[]
 proteinas_134.mp4,['Ready' 'bring' 'kid'],"['ATMOSPHERE' 'BEHAVIOUR' 'BODY' 'BUILD' 'CHAIR' 'CHILD' 'CLOTHES' 'DIRTY'
  'EMPTY' 'ESCAPE' 'FLOCK' 'FREE' 'FULL' 'GO' 'LOW' 'MANAGE' 'MERGE' 'MIX'
- 'MORNING' 'MOVE' 'RELAX' 'TALL' 'TIDY' 'TOILET' 'WOW']","['bring', 'kid']",[],['Ready'],[],[],[],[]
+ 'MORNING' 'MOVE' 'RELAX' 'TALL' 'TIDY' 'TOILET' 'WOW']","['bring', 'kid']",[],['Ready'],[],[],[],[],[]
 proteinas_82.mp4,['1' 'B' 'C' 'Group' 'H' 'R' 'count' 'eat' 'fat' 'good' 'little' 'protein'],"['ACT' 'AMERICA' 'AREA' 'ARRANGE' 'AUDIENCE' 'BANDAGE' 'BEACH' 'BEHAVIOUR'
  'BODY' 'BOY' 'BUILD' 'CHAIR' 'CLOTHES' 'DEAF' 'DESSERT' 'DOOR' 'ENGLAND'
  'ENOUGH' 'ESCAPE' 'EXPAND' 'EXPLAIN' 'FLOCK' 'FOOTBALL' 'FRIGHTENED' 'GO'
  'GROUP' 'KNOW' 'LAPTOP' 'LONDON' 'LOW' 'MANAGE' 'MISS' 'MIX' 'MORNING'
  'MOVE' 'NEVER' 'NOTHING' 'PARK' 'PARTY' 'PAST' 'PEOPLE' 'PERFECT' 'POOR'
  'PREGNANT' 'READY' 'RELAX' 'SAY' 'SPREAD' 'SURPRISE' 'SURROUNDINGS'
- 'TALL' 'TEACH' 'THINK' 'TOP' 'TOUCH' 'UNIT' 'WANT' 'WAR' 'WITHOUT']","['B', 'Group', 'H', 'R', 'count', 'eat', 'fat', 'protein']",[],"['good', 'little']",[],[],['1'],"['count', 'fat', 'good']"
+ 'TALL' 'TEACH' 'THINK' 'TOP' 'TOUCH' 'UNIT' 'WANT' 'WAR' 'WITHOUT']","['B', 'Group', 'H', 'R', 'count', 'eat', 'fat', 'protein']",[],"['good', 'little']",[],[],['1'],"['count', 'fat', 'good']","['eat', 'good']"
 proteinas_120.mp4,['G-R' 'fifth' 'five' 'kid' 'protein' 'sixth' 'zero'],"['ADD' 'ALWAYS' 'AREA' 'ARRANGE' 'BEHAVIOUR' 'BODY' 'BOY' 'BUILD' 'CHAIR'
  'CHILD' 'CLOTHES' 'DEAF' 'DIRTY' 'ENDURE' 'ENOUGH' 'ESCAPE' 'FINISH'
  'FLOCK' 'FREE' 'FULL' 'GO' 'GOOD' 'HOME' 'HURT' 'KNOW' 'LOOK' 'LOW' 'MAN'
  'MERGE' 'MOVE' 'NICE' 'NUMBER' 'PANIC' 'PAST' 'PLENTY' 'PREGNANT' 'RELAX'
- 'SAY' 'SURPRISE' 'TIRED' 'TOUCH' 'WANT' 'WOW']","['G-R', 'fifth', 'kid', 'protein', 'sixth', 'zero']",[],[],[],[],['five'],[]
+ 'SAY' 'SURPRISE' 'TIRED' 'TOUCH' 'WANT' 'WOW']","['G-R', 'fifth', 'kid', 'protein', 'sixth', 'zero']",[],[],[],[],['five'],[],[]
 proteinas_108.mp4,['G-R' 'eat' 'five' 'zero'],"['ALWAYS' 'AREA' 'ARRIVE' 'BABY' 'BEHAVIOUR' 'BOY' 'CHAIR' 'CHILD'
  'COMMUNIST' 'DEAF' 'DESSERT' 'ENOUGH' 'ESCAPE' 'FOREIGN' 'FRIGHTENED'
  'FULL' 'FUTURE' 'GO' 'HAPPY' 'HEAVY' 'LAPTOP' 'LAUGH' 'LONDON' 'LOVELY'
  'LOW' 'MAN' 'MEANING' 'MOTHER' 'NICE' 'PARK' 'PAST' 'PLENTY' 'POOR'
- 'PREGNANT' 'SAY' 'STILL' 'SURPRISE' 'TALL' 'TOILET' 'TOMORROW' 'TOUCH']","['G-R', 'eat', 'zero']",[],[],[],[],['five'],[]
+ 'PREGNANT' 'SAY' 'STILL' 'SURPRISE' 'TALL' 'TOILET' 'TOMORROW' 'TOUCH']","['G-R', 'eat', 'zero']",[],[],[],[],['five'],[],['eat']
 proteinas_55.mp4,['Yes' 'easy' 'try'],"['BABY' 'BEACH' 'BODY' 'CLOTHES' 'DEPTH' 'DISCUSS' 'ESCAPE' 'EXCITED'
  'FREE' 'GIVE' 'HAPPY' 'HURT' 'LAPTOP' 'LOW' 'MANAGE' 'MIX' 'MOTHER'
- 'POOR' 'RELAX' 'TIRED' 'WOW']",['try'],[],['easy'],[],[],['Yes'],[]
-proteinas_41.mp4,[],['GOOD' 'LOOK'],[],[],[],[],[],[],[]
+ 'POOR' 'RELAX' 'TIRED' 'WOW']",['try'],[],['easy'],[],[],['Yes'],[],[]
+proteinas_41.mp4,[],['GOOD' 'LOOK'],[],[],[],[],[],[],[],[]
 proteinas_69.mp4,['/' '?' 'different' 'eat' 'know' 'learn' 'many' 'think' 'value'],"['ADULT' 'ANGRY' 'AREA' 'ARRIVE' 'BODY' 'CHAIR' 'CLOTHES' 'DECREASE'
  'DISAPPOINT' 'DISCUSS' 'EXPAND' 'FLOCK' 'FOREIGN' 'FREE' 'GO' 'HOME'
  'INCREASE' 'LONDON' 'LOW' 'MORNING' 'PREGNANT' 'RELAX' 'SEPARATE'
- 'SHOULDER' 'TALL' 'TENT' 'TIRED' 'TOILET' 'TOUCH' 'UNIT']","['/', 'eat', 'learn', 'think', 'value']",[],"['different', 'many']",['know'],[],[],[]
+ 'SHOULDER' 'TALL' 'TENT' 'TIRED' 'TOILET' 'TOUCH' 'UNIT']","['/', 'eat', 'learn', 'think', 'value']",[],"['different', 'many']",['know'],[],[],[],"['eat', 'know', 'many']"
