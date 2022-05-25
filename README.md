@@ -1,44 +1,43 @@
 # Similarity checking of sign languages
 
 This repository checks for similarity between 
-1) British sign language and Peruvian sign language 
-2) British sign language and American sign language
+1) BSL & ASL 
+2) BSL & Auslan
+3) BSL & ISL
 
-with the "Temporal segmentation of sign language videos" [model](https://github.com/tonnidas/sign-segmentation) that is pre-trained in British sign language (BSL).
+with a segmentation [model](https://github.com/tonnidas/sign-segmentation) from "Temporal segmentation of sign language videos" that is pre-trained in British sign language (BSL).
+
+Although we have represented these three compararishn (as we found existing comaparative values for these three only) in 0ur paper "A Machine Learning-based Segmentation Approach for Measuring Similarity Between Sign Languages", we worked with total of 5 datasets for experimentation and kept them in our repository.
+
 
 ## Contents
-![picture](contents.png)
+<!-- ![picture](contents.png) -->
+The `datasets` folder has total of $5$ datasets, namely Auslan, ASL, AUTSL and ISL. for preprocessing purposes, there are multiple folders for each datasets. 
+- For Auslan dataset, we have a total of $5$ folders namely AUSLAN, AUSLAN2, AUSLAN3, AUSLAN4, AUSLAN5. 
+- For ASL dataset, we have a total of 2 folders namely, how2sign and how2sign2. 
+- For ISL we have only one folder named as ISL.
+- For Autsl we have only one folder named AUTSL. 
+All these folders have a common structure. They have core 3 subfolders named as output, processed, raw along with some .py files made to preprocess the dataset. 
+-  `Here:-`
+    1. `processed_dataset name`: Inside the processed subfolder, there are three more subsubfolders namely, srt, video, vtt. , input videos, output segmented signs accordingly. Srt folder contains the ground truth files in srt for each sentence. vtt folder contains the predicted files of each of those sentences. Video folder holds the video files for each of those sentences. 
+    2. `raw_dataset name`: It has `srt`, `videos` folders holding the signs with temporal boundaries, input videos accordingly.
+    3. `process_dataset name.py:` This is the model we implemented to process the raw  dataset. Processed folder is the one where we put our final pre-processed dataset. 
+- Other than dataset folder, we have two more important folders namely, `processed_input_output`, `processed_matrices`. There are also .py files named as *processed_input_output.py*, *processed_matrices.py* and a final output generator .py file namely *processed_output*. As our project grew, we partitioned different steps of our code work to keep track of step by step results. 
+- We have used some pickles in similar fashioned names to store result and information along with storing them in csv for later use purpose. 
+
 
 ## Setups
 All set up instructions for "Temporal segmentation of sign language videos" can be found [here](https://github.com/tonnidas/sign-segmentation). The other pre-processing models are python files. 
 
-## Data & Models/algorithms
-The main datasets, processed datasets and all their pre-processing models are in the folder named `dataset`. Inside the dataset folder, for Peruvian sign language there are two datasets: `datasets/ira_alegira` & `datasets/proteinas_porcentajes` and for American sign language, there is one dataset: `datasets/how2sign`.
-
-
-### Data
-- `ira_alegria:` 
-    1. `processed ira_alegria`: It has `srt`, `videos`, `vtt` folders holding the input segmented signs, input videos, output segmented signs accordingly. 
-    2. `raw ira_alegria`: It has `srt`, `videos` folders holding the signs with temporal boundaries, input videos accordingly.
-    3. `process_ira.py:` This is the model we implemented to process the raw  dataset.
-
-- `proteinas_porcentajes:` 
-    1. `processed proteinas_porcentajes`: It has `srt`, `videos`, `vtt` folders holding the input segmented signs, input videos, output segmented signs accordingly. 
-    2. `raw proteinas_porcentajes`: It has `srt`, `videos` folders holding the signs with temporal boundaries, input videos accordingly.
-    3. `process_proteinas.py:` This is the model we implemented to process the raw  dataset.
-- `how2sign:` 
-    1. `processed how2sign`: It has `srt`, `videos`, `vtt` folders holding the input segmented signs, input videos, output segmented signs accordingly. 
-    2. `raw how2sign`: It has `srt`, `videos` folders holding the signs with temporal boundaries, input videos accordingly.
-    3. `process_how2sign.py:` This is the model we implemented to process the raw  dataset.
 
 ### Models
-The models for pre-processing the datasets are attached in the `datasets folder`. 
+The models for pre-processing the datasets are attached in the `datasets folder`. And the segmentation model that we modified for our experiment is in [here](https://github.com/tonnidas/sign-segmentation).
 
 ## Results
-- **British sign language and Peruvian sign language**: We processed two datasets namely ira_alegria and proteinas_porcentajes. We identified in how many files/lines, there is at-least one match. The input files are the srt files we processed from ira_alegria and proteinas_porcentajes datasets and the output files are the vtt files that we collected by running corresponding video files of these srt files in the "Temporal segmentation of sign language videos" [model](https://github.com/tonnidas/sign-segmentation). These input srt files and output vtt files has a number of words for signs in that line/sentence/video file. Than we identified for how many input files, there is at-least one word match in the output file. For ira_alegria and proteinas_porcentajes, we found approximately **30%** and **16%**.
+- A summary of or results are shown in *summary.xlsx* and an elaborated version of the main result is shown in *matrices_final*
 
-![ira_alegria result](ira.png) ![proteinas result](prro.png)
+<!-- ![ira_alegria result](ira.png) ![proteinas result](prro.png) -->
 
-- **British sign language and American sign language**: We processed one dataset namely [how2sign](https://how2sign.github.io/#download). We identified in how many files/lines, there is at-least one matched word. The input files are the srt files we processed from the csv translation file in the dataset and the output files are the vtt files that we collected by running corresponding video files of these srt files in the "Temporal segmentation of sign language videos" [model](https://github.com/tonnidas/sign-segmentation). These input srt files and output vtt files has a number of words for signs in that line/sentence/video file. Than we identified for how many input files, there is at-least one word match in the output file. For how2sign, we found approximately **46%**.
 
-![how2sign result](how2sign.png)
+
+<!-- ![how2sign result](how2sign.png) -->
